@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Börsen-News-Bot</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div>
+        <h1 class="wordmark">Börsen-News-Bot</h1>
+        <p class="tagline">Alle Quellen im Überblick</p>
+      </div>
+      <div class="update-status">
+        <span class="update-label">Zuletzt aktualisiert</span>
+        <span id="updated-at" class="update-time">–</span>
+      </div>
+    </div>
+  </header>
+
+  <nav class="tab-bar" aria-label="Bereiche">
+    <button class="tab active" type="button">News</button>
+    <button class="tab" type="button" disabled title="Folgt in einem späteren Schritt">Strategien <span class="soon">bald</span></button>
+    <button class="tab" type="button" disabled title="Folgt in einem späteren Schritt">Kurse <span class="soon">bald</span></button>
+    <button class="tab" type="button" disabled title="Folgt in einem späteren Schritt">Trades <span class="soon">bald</span></button>
+  </nav>
+
+  <main id="news-panel" class="news-grid">
+    <p class="loading">Lade Meldungen …</p>
+  </main>
+
+  <footer class="site-footer">
+    <p>Aktualisiert automatisch alle 15 Minuten im Hintergrund, diese Seite lädt alle 10 Minuten neu.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

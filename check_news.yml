@@ -1,0 +1,43 @@
+name: Boersen-News-Check
+
+on:
+  schedule:
+    # Alle 15 Minuten. Fuer 30 Minuten: "*/30 * * * *"
+    # Hinweis: GitHub fuehrt geplante Jobs "bestmoeglich" aus, es kann
+    # ein paar Minuten Verzoegerung geben - fuer Nachrichten unproblematisch.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}  # erlaubt manuelles Starten über den "Run workflow"-Button
+
+permissions:
+  contents: write  # noetig, damit der Job seen_links.json zurueckschreiben darf
+
+jobs:
+  check-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhaengigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Skript ausfuehren
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python news_monitor.py
+
+      - name: Status-Datei und News-Feed zurueckspeichern (falls geaendert)
+        run: |
+          git config user.name "boersen-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add seen_links.json docs/news.json
+          git diff --cached --quiet || git commit -m "Status und News aktualisieren"
+          git push
