@@ -179,6 +179,98 @@ a {
   max-width: 700px;
 }
 
+/* Strategie-Tab */
+
+.strategie-panel {
+  display: none;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 4rem;
+}
+
+.disclaimer-banner {
+  margin: 0 0 1.5rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--color-accent);
+  border-radius: 6px;
+  background: rgba(201, 162, 39, 0.08);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.strategie-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 1.25rem;
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-divider);
+}
+
+.control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  flex: 1 1 200px;
+}
+
+.control-group label {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+}
+
+.control-group select,
+.control-group input {
+  background: #0c1116;
+  border: 1px solid var(--color-divider);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  padding: 0.55rem 0.7rem;
+  border-radius: 4px;
+}
+
+.control-group select:focus-visible,
+.control-group input:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 1px;
+}
+
+.run-button {
+  background: var(--color-accent);
+  color: #10151c;
+  border: none;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 0.65rem 1.4rem;
+  border-radius: 4px;
+  cursor: pointer;
+  flex: 0 0 auto;
+}
+
+.run-button:hover {
+  opacity: 0.9;
+}
+
+.run-button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.run-button:focus-visible {
+  outline: 2px solid var(--color-text);
+  outline-offset: 2px;
+}
+
+.strategy-text {
+  white-space: pre-wrap;
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
 .source-column {
   border-top: 2px solid var(--color-accent);
   padding-top: 0.9rem;
