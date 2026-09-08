@@ -280,6 +280,43 @@ a {
   line-height: 1.65;
 }
 
+.loading-bar-track {
+  position: relative;
+  width: 100%;
+  max-width: 320px;
+  height: 6px;
+  margin-top: 0.9rem;
+  background: var(--color-divider);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.loading-bar-fill {
+  position: absolute;
+  top: 0;
+  left: -30%;
+  width: 30%;
+  height: 100%;
+  background: var(--color-accent);
+  border-radius: 999px;
+  animation: loading-bar-slide 1.3s ease-in-out infinite;
+}
+
+@keyframes loading-bar-slide {
+  0% {
+    left: -30%;
+  }
+  100% {
+    left: 100%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .loading-bar-fill {
+    animation-duration: 3s;
+  }
+}
+
 /* Trades-Tab */
 
 .trades-panel {
