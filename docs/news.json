@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T22:59:06.858402+00:00",
+  "updated_at": "2026-09-08T00:53:36.706694+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -188,15 +188,51 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Yen Advances for Second Day, Tech Stocks Rise: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-07/stock-market-today-dow-s-p-live-updates",
+        "published": "Mon, 07 Sep 2026 22:08:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Sept. 8",
         "link": "https://www.bloomberg.com/news/articles/2026-09-07/latest-oil-market-news-and-analysis-for-sept-8",
         "published": "Mon, 07 Sep 2026 22:09:49 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks in Asia Poised to Edge Down, Yen in Focus: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-07/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 07 Sep 2026 22:08:43 GMT"
+        "title": "Yen’s Rally Through Key Level Puts Currency’s 2026 High in Reach",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-08/yen-s-rally-through-key-level-puts-currency-s-2026-high-in-reach",
+        "published": "Tue, 08 Sep 2026 00:20:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Samsung Buyback Highlights Korea’s 45% Preferred Stock Discount",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-08/samsung-buyback-highlights-korea-s-45-preferred-stock-discount",
+        "published": "Tue, 08 Sep 2026 00:19:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil Extends Gain, Iran Says Deal With Oman Is Close",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-07/oil-extends-gain-iran-says-deal-with-oman-is-close-video",
+        "published": "Mon, 07 Sep 2026 23:41:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Yen Gains Past 154 as Rally Extends",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-07/yen-gains-past-154-as-rally-extends-video",
+        "published": "Mon, 07 Sep 2026 23:37:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Steadies as Traders Weigh Mideast Tensions and Dollar Moves",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-07/gold-steadies-as-traders-weigh-mideast-tensions-and-dollar-moves",
+        "published": "Mon, 07 Sep 2026 23:19:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "CapitaLand Targets $500 Million for Third Asian Credit Fund",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-07/capitaland-targets-500-million-for-third-asian-credit-fund",
+        "published": "Mon, 07 Sep 2026 23:00:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -212,14 +248,14 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bathla Group Collapse: What Happens to Homebuyers and Their Deposits?",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-07/bathla-group-collapse-what-happens-to-homebuyers-and-their-deposits",
+        "title": "Why Are Japan’s Bond Yields Rising? What’s Driving the Surge",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-07/why-are-japan-s-bond-yields-rising-what-s-driving-the-surge",
         "published": "Mon, 07 Sep 2026 20:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Why Are Japan’s Bond Yields Rising? What’s Driving the Surge",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-07/why-are-japan-s-bond-yields-rising-what-s-driving-the-surge",
+        "title": "Australia Housing Firm Bathla Collapse: What Happens to Buyers, Their Deposits?",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-07/bathla-group-collapse-what-happens-to-homebuyers-and-their-deposits",
         "published": "Mon, 07 Sep 2026 20:00:00 GMT"
       },
       {
@@ -260,51 +296,15 @@
       },
       {
         "source": "Bloomberg – Markets",
+        "title": "Reliance Plans $1.3 Billion Bond Sale, India’s Biggest This Year",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-07/reliance-plans-1-3-billion-bond-sale-india-s-biggest-this-year",
+        "published": "Mon, 07 Sep 2026 15:59:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "European Stocks Muted as Oil Prices Climb and Novartis Falls",
         "link": "https://www.bloomberg.com/news/articles/2026-09-07/european-stocks-muted-as-oil-creeps-higher-novartis-falls",
         "published": "Mon, 07 Sep 2026 07:24:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Edges Lower as Traders Focus on Oil Price Swings and Dollar",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-06/gold-holds-decline-as-traders-weigh-prospects-for-fed-rate-hike",
-        "published": "Sun, 06 Sep 2026 23:28:46 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Cerba Bank Debt for Sale as $5.8 Billion Restructuring Progresses",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-07/cerba-bank-debt-for-sale-as-5-billion-restructuring-progresses",
-        "published": "Mon, 07 Sep 2026 15:41:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Deutsche Bank’s Allen Says Traders Are Wrong on Rates or Prices",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-07/deutsche-bank-s-allen-says-traders-are-wrong-on-rates-or-prices",
-        "published": "Mon, 07 Sep 2026 14:01:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Mercuria and Gunvor Profits More Than Double on War Volatility",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-07/mercuria-and-gunvor-see-profits-more-than-double-on-war-bonanza",
-        "published": "Mon, 07 Sep 2026 13:21:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "South Africa Seeks Advisers for Eskom Transmission Unit Spin-Off",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-07/south-africa-seeks-advisers-for-eskom-transmission-unit-spin-off",
-        "published": "Mon, 07 Sep 2026 13:09:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Spider-Man, Odyssey Help Power Box Office Comeback",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-07/spider-man-odyssey-help-power-box-office-comeback-video",
-        "published": "Mon, 07 Sep 2026 13:05:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Jio Platforms Said to Start Marketing Record India IPO Next Week",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-07/jio-platforms-said-to-start-marketing-record-india-ipo-next-week",
-        "published": "Mon, 07 Sep 2026 12:50:51 GMT"
       }
     ],
     "onvista – News": [
@@ -664,27 +664,27 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Primerica’s (PRI) Investment Boom Masks A Shrinking Sales Force",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/primerica-pri-investment-boom-masks-142135413.html",
-        "published": "2026-09-06T14:21:35Z"
+        "title": "Wynn Resorts (WYNN) Doubles Its Profit But Cracks Are Showing",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wynn-resorts-wynn-doubles-profit-132704112.html",
+        "published": "2026-09-06T13:27:04Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "The Next Year Will Define Vaxcyte’s (PCVX) Vaccine Gamble",
-        "link": "https://finance.yahoo.com/healthcare/articles/next-define-vaxcyte-pcvx-vaccine-140957301.html",
-        "published": "2026-09-06T14:09:57Z"
+        "title": "Are banks open on Labor Day? 12 federal holidays when your bank is closed.",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/are-banks-open-today-221315751.html",
+        "published": "2024-01-29T22:13:15Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "1 Momentum Signal Suggests the Software Apocalypse Is Over. Don’t Rush to Buy Just Yet.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/1-momentum-signal-suggests-software-143003681.html",
-        "published": "2026-09-06T14:30:03Z"
+        "title": "Apple Stock: September Surprise Could Be Bigger Than a New iPhone",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-september-surprise-could-130002154.html",
+        "published": "2026-09-06T13:00:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Google Unveils Gemini 3.8 Flash and Fairwind Program: How to Play GOOGL Stock Here",
-        "link": "https://finance.yahoo.com/technology/ai/articles/google-unveils-gemini-3-8-140002406.html",
-        "published": "2026-09-06T14:00:02Z"
+        "title": "Dear Adobe Stock Fans, Mark Your Calendars for September 10",
+        "link": "https://finance.yahoo.com/technology/ai/articles/dear-adobe-stock-fans-mark-130002907.html",
+        "published": "2026-09-06T13:00:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -694,50 +694,8 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Alexandria’s (ARE) Profit Rebound Comes With A Cash Flow Catch",
-        "link": "https://finance.yahoo.com/real-estate/articles/alexandria-profit-rebound-comes-cash-135541164.html",
-        "published": "2026-09-06T13:55:41Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Here's the stark reality of a $1.5 million retirement in America — 2026 edition",
-        "link": "https://finance.yahoo.com/markets/articles/heres-stark-reality-1-5-144500049.html",
-        "published": "2026-09-06T14:45:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Bruker (BRKR) Wagers On Fusion Energy While Wall Street Waits",
-        "link": "https://finance.yahoo.com/energy/articles/bruker-brkr-wagers-fusion-energy-144830622.html",
-        "published": "2026-09-06T14:48:30Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Murphy USA (MUSA) Delivers Robust Second-Quarter Earnings on Surging Fuel Margins",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/murphy-usa-musa-delivers-robust-133715978.html",
-        "published": "2026-09-06T13:37:15Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Loss of Costco deal helps push beverage brand into Chapter 11",
-        "link": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html",
-        "published": "2026-09-07T15:07:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "The VIX Is Playing Tricks: Why Stocks Are Volatile, But the Fear Gauge Is Sleeping",
-        "link": "https://finance.yahoo.com/markets/options/articles/vix-playing-tricks-why-stocks-133002657.html",
-        "published": "2026-09-06T13:30:02Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Wynn Resorts (WYNN) Doubles Its Profit But Cracks Are Showing",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wynn-resorts-wynn-doubles-profit-132704112.html",
-        "published": "2026-09-06T13:27:04Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Apple Stock: September Surprise Could Be Bigger Than a New iPhone",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-september-surprise-could-130002154.html",
+        "title": "Micron Stock More Than Tripled in 2026. Now Taiwan Strike Threat Could Shake the AI Boom.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-more-tripled-2026-130002463.html",
         "published": "2026-09-06T13:00:02Z"
       },
       {
@@ -748,27 +706,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "PepsiCo Hasn't Been This Cheap Relative to Free Cash Flow in 10 Years. Here's Why That's the Signal to Buy.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-hasnt-cheap-relative-free-142000560.html",
-        "published": "2026-09-06T14:20:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dear Adobe Stock Fans, Mark Your Calendars for September 10",
-        "link": "https://finance.yahoo.com/technology/ai/articles/dear-adobe-stock-fans-mark-130002907.html",
-        "published": "2026-09-06T13:00:02Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Micron Stock More Than Tripled in 2026. Now Taiwan Strike Threat Could Shake the AI Boom.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-more-tripled-2026-130002463.html",
-        "published": "2026-09-06T13:00:02Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Are banks open on Labor Day? 12 federal holidays when your bank is closed.",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/are-banks-open-today-221315751.html",
-        "published": "2024-01-29T22:13:15Z"
+        "title": "The VIX Is Playing Tricks: Why Stocks Are Volatile, But the Fear Gauge Is Sleeping",
+        "link": "https://finance.yahoo.com/markets/options/articles/vix-playing-tricks-why-stocks-133002657.html",
+        "published": "2026-09-06T13:30:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -778,9 +718,75 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Evercore expects softer third-quarter investment banking and trading guidance",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-expects-softer-third-quarter-142327599.html",
-        "published": "2026-09-06T14:23:27Z"
+        "title": "BofA’s Hartnett maintains commodities and gold position as policy measures affect yields",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/bofa-hartnett-maintains-commodities-gold-132000923.html",
+        "published": "2026-09-06T13:20:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Voya Financial’s (VOYA) Earnings Fell While Its Retirement Business Boomed",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/voya-financial-voya-earnings-fell-124948124.html",
+        "published": "2026-09-06T12:49:48Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Murphy USA (MUSA) Delivers Robust Second-Quarter Earnings on Surging Fuel Margins",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/murphy-usa-musa-delivers-robust-133715978.html",
+        "published": "2026-09-06T13:37:15Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Alexandria’s (ARE) Profit Rebound Comes With A Cash Flow Catch",
+        "link": "https://finance.yahoo.com/real-estate/articles/alexandria-profit-rebound-comes-cash-135541164.html",
+        "published": "2026-09-06T13:55:41Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Google Unveils Gemini 3.8 Flash and Fairwind Program: How to Play GOOGL Stock Here",
+        "link": "https://finance.yahoo.com/technology/ai/articles/google-unveils-gemini-3-8-140002406.html",
+        "published": "2026-09-06T14:00:02Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "I’m 62 and worth millions: how can I give more to my kids without getting slammed on taxes?",
+        "link": "https://finance.yahoo.com/economy/policy/articles/m-62-worth-millions-more-125201209.html",
+        "published": "2026-09-06T13:15:42Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "The Next Year Will Define Vaxcyte’s (PCVX) Vaccine Gamble",
+        "link": "https://finance.yahoo.com/healthcare/articles/next-define-vaxcyte-pcvx-vaccine-140957301.html",
+        "published": "2026-09-06T14:09:57Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Primerica’s (PRI) Investment Boom Masks A Shrinking Sales Force",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/primerica-pri-investment-boom-masks-142135413.html",
+        "published": "2026-09-06T14:21:35Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "1 Momentum Signal Suggests the Software Apocalypse Is Over. Don’t Rush to Buy Just Yet.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/1-momentum-signal-suggests-software-143003681.html",
+        "published": "2026-09-06T14:30:03Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Here's the stark reality of a $1.5 million retirement in America — 2026 edition",
+        "link": "https://finance.yahoo.com/markets/articles/heres-stark-reality-1-5-144500049.html",
+        "published": "2026-09-06T14:45:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
+        "published": "2026-09-06T13:25:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Bruker (BRKR) Wagers On Fusion Energy While Wall Street Waits",
+        "link": "https://finance.yahoo.com/energy/articles/bruker-brkr-wagers-fusion-energy-144830622.html",
+        "published": "2026-09-06T14:48:30Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -793,12 +799,6 @@
         "title": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher",
         "link": "https://finance.yahoo.com/markets/currencies/articles/mohamed-el-erian-says-influx-153000281.html",
         "published": "2026-09-06T15:30:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Voya Financial’s (VOYA) Earnings Fell While Its Retirement Business Boomed",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/voya-financial-voya-earnings-fell-124948124.html",
-        "published": "2026-09-06T12:49:48Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
