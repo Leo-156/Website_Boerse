@@ -24,16 +24,41 @@
   </header>
 
   <nav class="tab-bar" aria-label="Bereiche">
-    <button class="tab active" type="button">News</button>
-    <button class="tab" type="button" disabled title="Folgt in einem späteren Schritt">Strategien <span class="soon">bald</span></button>
+    <button class="tab active" type="button" data-tab="news">News</button>
+    <button class="tab" type="button" data-tab="strategie">Strategien</button>
     <button class="tab" type="button" disabled title="Folgt in einem späteren Schritt">Kurse <span class="soon">bald</span></button>
     <button class="tab" type="button" disabled title="Folgt in einem späteren Schritt">Trades <span class="soon">bald</span></button>
   </nav>
 
   <div id="source-tabs" class="source-tab-bar" aria-label="Quellen"></div>
 
-  <main id="news-panel" class="news-grid">
-    <p class="loading">Lade Meldungen …</p>
+  <main>
+    <section id="panel-news" class="tab-panel news-grid">
+      <p class="loading">Lade Meldungen …</p>
+    </section>
+
+    <section id="panel-strategie" class="tab-panel strategie-panel">
+      <p class="disclaimer-banner">
+        ⚠️ Automatisiert erstellte, rein informative Einordnung. Keine Anlageberatung,
+        keine Kauf- oder Verkaufsempfehlung. Triff Entscheidungen nicht allein auf dieser Basis.
+      </p>
+
+      <div class="strategie-controls">
+        <div class="control-group">
+          <label for="strategy-select">Strategie</label>
+          <select id="strategy-select"></select>
+        </div>
+        <div class="control-group">
+          <label for="focus-input">Markt-/Sektor-Fokus</label>
+          <input id="focus-input" type="text" placeholder="z. B. DAX, US-Tech, breiter Markt" value="breiter Markt">
+        </div>
+        <button id="run-strategy-btn" type="button" class="run-button">Analyse starten</button>
+      </div>
+
+      <div id="strategy-result" class="strategy-result">
+        <p class="loading">Strategie wählen und Analyse starten.</p>
+      </div>
+    </section>
   </main>
 
   <footer class="site-footer">
