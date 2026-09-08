@@ -216,7 +216,7 @@ async function runStrategy() {
 
   button.disabled = true;
   button.textContent = "Analyse läuft …";
-  resultBox.innerHTML = '<p class="loading">Claude recherchiert und analysiert – das kann 30–60 Sekunden dauern …</p>';
+  const timerId = startLoadingUI(resultBox);
 
   try {
     const res = await fetch(WORKER_URL, {
@@ -241,9 +241,32 @@ async function runStrategy() {
   } catch (err) {
     resultBox.innerHTML = `<p class="error">Analyse fehlgeschlagen: ${err.message}</p>`;
   } finally {
+    clearInterval(timerId);
     button.disabled = false;
     button.textContent = "Analyse starten";
   }
+}
+
+function startLoadingUI(resultBox) {
+  resultBox.innerHTML = "";
+
+  const text = document.createElement("p");
+  text.className = "loading";
+  text.textContent = "Claude recherchiert und analysiert (0s) …";
+  resultBox.appendChild(text);
+
+  const track = document.createElement("div");
+  track.className = "loading-bar-track";
+  const fill = document.createElement("div");
+  fill.className = "loading-bar-fill";
+  track.appendChild(fill);
+  resultBox.appendChild(track);
+
+  let seconds = 0;
+  return setInterval(() => {
+    seconds += 1;
+    text.textContent = `Claude recherchiert und analysiert (${seconds}s) …`;
+  }, 1000);
 }
 
 function extractText(data) {
