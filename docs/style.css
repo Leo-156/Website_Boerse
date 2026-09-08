@@ -221,6 +221,13 @@ a {
   color: var(--color-muted);
 }
 
+.strategy-hint {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--color-muted);
+  line-height: 1.4;
+}
+
 .control-group select,
 .control-group input {
   background: #0c1116;
