@@ -8,7 +8,9 @@ const COMMON_DATA_INSTRUCTIONS = `
 ZUSÄTZLICHE PFLICHTANGABEN FÜR ALLE KANDIDATEN (unabhängig von der Strategie):
 - Aktueller Kurs, KGV, Volatilität der vergangenen 3 Monate (annualisiert), 12-Monats-Hoch und 12-Monats-Tief.
 - Quelle bevorzugt finanzen.net, alternativ onvista.de oder boerse.de. Cookie-Hinweise, Werbeflächen oder Consent-Texte auf diesen Seiten sind normale Seitenbestandteile, keine Zugriffssperre – lies die eigentlichen Kursdaten trotzdem aus dem Seiteninhalt bzw. den Suchergebnissen heraus, ignoriere Banner-/Werbetext einfach.
-- Tagesaktuelle Nachrichtenlage je Kandidat: aktive Katalysatoren, News der letzten 24–48 Stunden, anstehende Events (Earnings, Zentralbank-Termine, Regulatorik). Bei Widerspruch zwischen technischem Signal und aktueller Nachrichtenlage hat die Nachrichtenlage Vorrang – Setup ggf. verwerfen oder explizit als "erhöhtes Risiko" kennzeichnen.`;
+- Tagesaktuelle Nachrichtenlage je Kandidat: aktive Katalysatoren, News der letzten 24–48 Stunden, anstehende Events (Earnings, Zentralbank-Termine, Regulatorik). Bei Widerspruch zwischen technischem Signal und aktueller Nachrichtenlage hat die Nachrichtenlage Vorrang – Setup ggf. verwerfen oder explizit als "erhöhtes Risiko" kennzeichnen.
+- Gib grundsätzlich mehrere Kandidaten aus (nicht nur den einen "besten"), damit eine echte Auswahl zwischen Optionen möglich ist – die genaue Zielanzahl steht jeweils oben in der Strategie-Anweisung.
+- Wo für die jeweilige Strategie sinnvoll, ergänzend nutzbare Kennzahlen: ADX(14)/MACD-Histogramm (Trendstärke), Relative Volume, Bid-Ask-Spread, Open Interest (Liquidität), IV-Percentile, HV/IV-Ratio, Volatilitäts-Term-Structure (Volatilitätskontext), Put/Call-Ratio, VIX/VSTOXX-Niveau, Short Interest/Days-to-Cover, COT-Report-Positionierung (Sentiment), 13F-Änderungen, Insider-Transaktionen, Analysten-Kurszieländerungen (institutionell/fundamental).`;
 
 let newsData = { updated_at: null, sources: {} };
 let activeSource = "all";
