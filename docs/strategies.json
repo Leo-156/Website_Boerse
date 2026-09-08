@@ -5,6 +5,60 @@
       "name": "Man Group – Trendfolge & Fundamental",
       "description": "Kurzfristige AHL-Trendfolge (3 Kandidaten) plus langfristige GLG/Numeric-Fundamentalanalyse (3 Kandidaten), mit Filterkriterien, Kennzahlen und Risikomanagement-Kontext.",
       "prompt": "Führe eine Aktienanalyse nach Man-Group-Strategielogik durch (Trendfolge im AHL-Stil und fundamentale Analyse im GLG/Numeric-Stil).\n\nWICHTIG: Nutze das tagesaktuelle Datum und suche nach den tagesaktuellsten verfügbaren Kursdaten für jeden genannten Titel. Gib bei jedem Kurs Quelle und Zeitstempel an.\n\nVorfilter (Pflicht, bevor ein Titel als Kandidat gilt):\n- Kurzfristig (Trend): Marktkapitalisierung > 2 Mrd. USD/EUR, Ø Tagesvolumen > 5 Mio. USD Handelswert, Kurs > 10 USD/EUR, kein Earnings-Termin in den nächsten 5 Handelstagen. Short-Kandidaten zusätzlich: Short-Quote < 25% des Free Float.\n- Langfristig (Fundamental): Marktkapitalisierung > 1 Mrd. USD/EUR, Ø Tagesvolumen > 1 Mio. USD Handelswert, kein Mindestkurs, aber Qualitätsfilter.\n\nSchritte:\n1. Kurzfristig (AHL-Trendfolge-Logik): Identifiziere 3 Aktien mit klarem, bestätigtem Momentum – mindestens 1 Long-Kandidat und 1 Short-Kandidat. Gib je Kandidat an: Kurs (Quelle/Zeitstempel), Abstand zur 50-/200-Tage-Linie, RSI(14), relative Stärke vs. Index (3 Monate), Gewinnrevisionen (60 Tage), ATR(14)-basierter Stop-Loss-Vorschlag (2x ATR), Kursziel, Chance-Risiko-Verhältnis (mind. 1:2).\n2. Langfristig (GLG/Numeric-Logik): Identifiziere 3 Aktien mit soliden Fundamentaldaten für einen Halte-Horizont von 1+ Jahren. Gib je Kandidat an: Kurs (Quelle/Zeitstempel), KGV (aktuell vs. 5J-Durchschnitt), PEG-Ratio, ROIC/ROE, Net Debt/EBITDA, freier Cashflow-Trend (3 Jahre), Insider-Aktivität (90 Tage).\n3. Prüfe alle 6 Kandidaten auf Sektor-/Subsektor-Überschneidung (Korrelationscheck) und weise ggf. darauf hin.\n4. Markt/Sektor-Fokus: {{FOCUS}}\n5. Fasse am Ende in einer Tabelle zusammen: Ticker | Richtung | Kurs | Stop-Loss | Kursziel | CRV | Kernkennzahl\n6. Risikomanagement-Kontext (zur Einordnung, keine individuelle Empfehlung): üblich sind max. 1–2% Kapitalrisiko pro Kurzfrist-Trade, max. 5–8 gleichzeitige Kurzfrist-Positionen, bei Langfrist-Positionen max. 5–10% Depotanteil pro Titel und mindestens 3 unterschiedliche Sektoren.\n\nSchließe mit dem Hinweis ab, dass dies keine Anlageberatung ist und Kurse vor jeder Order im eigenen Brokerage-Terminal verifiziert werden sollten."
+    },
+    {
+      "id": "breakout",
+      "name": "Breakout-Trading",
+      "description": "Ausbrüche aus Konsolidierungszonen mit Volumen-Bestätigung, für Futures/CFDs, Zeithorizont Tage bis Wochen.",
+      "prompt": "Führe eine Breakout-Trading-Analyse durch. Setup-Kriterien: Kurs bewegt sich seit mindestens 10 Handelstagen in einer Bandbreite unter 8% (High-Low-Spanne), mit einem klar definierbaren Widerstand (mindestens 2x in den letzten 3 Monaten getestet). Ausbruchstag mit mindestens 150% des 20-Tage-Durchschnittsvolumens, Schlusskurs muss über dem Widerstand liegen. Ausschluss: kein Ausbruch unmittelbar vor/nach Earnings, ATR(14) darf nicht bereits über 6% des Kurses liegen.\n\nSuche 3 aktuelle Breakout-Kandidaten im Fokus-Markt {{FOCUS}}. Gib je Kandidat an: Dauer und Spannbreite der Konsolidierung, Ausbruchsvolumen vs. 20-Tage-Ø, Stop-Loss (1,5-2x ATR unter vorherigem Konsolidierungstief), Kursziel nach Measured-Move-Prinzip, Chance-Risiko-Verhältnis (mind. 1:2).\n\nFasse am Ende in einer Tabelle zusammen: Ticker | Widerstand | Stop-Loss | Kursziel | CRV."
+    },
+    {
+      "id": "relative-strength-rotation",
+      "name": "Relative-Strength-Rotation",
+      "description": "Long die stärksten, Short die schwächsten Titel eines Index/Sektors nach 3-Monats-Ranking, wöchentliches/monatliches Rebalancing.",
+      "prompt": "Führe eine Relative-Strength-Rotation-Analyse durch. Universum: {{FOCUS}} (z. B. ein Index oder Sektor-ETF-Konstituenten). Ranking nach 3-Monats-relativer-Stärke (Kursperformance Titel ÷ Index-Performance). Long-Kandidaten aus dem Top-Dezil (stärkste 10%), Short-Kandidaten aus dem Bottom-Dezil (schwächste 10%) mit zusätzlicher Trendbestätigung (Kurs unter 50-Tage-Linie). Ausschluss: kein Titel mit Earnings in den nächsten 5 Handelstagen.\n\nIdentifiziere je 2 Long- und 2 Short-Kandidaten. Gib an: relative Stärke (3 Monate) vs. Index, Position im Ranking, Stop-Loss (2x ATR(14)), Exit-Regel (Verlassen des Dezils beim nächsten Rebalancing).\n\nFasse am Ende in einer Tabelle zusammen: Ticker | Richtung | Rel. Stärke | Stop-Loss."
+    },
+    {
+      "id": "mean-reversion",
+      "name": "Mean-Reversion (RSI/Bollinger)",
+      "description": "Kurzfristige Reversal-Trades an RSI- und Bollinger-Band-Extremwerten, geeignet für Optionen mit definiertem Risiko.",
+      "prompt": "Führe eine Mean-Reversion-Analyse (RSI-Extremwerte / Bollinger-Reversal) durch, Fokus: {{FOCUS}}. Long-Signal: RSI(14) unter 30 UND Kurs berührt/unterschreitet unteres Bollinger-Band (20,2). Short-Signal: RSI(14) über 70 UND Kurs berührt/überschreitet oberes Bollinger-Band (20,2). Der übergeordnete Trend (200-Tage-Linie) sollte nicht scharf gegen das Signal laufen. Ausschluss: kein Einstieg bei Extremwerten unmittelbar vor Earnings/Makro-Events, meiden bei aktivem negativen News-Katalysator.\n\nIdentifiziere 3 aktuelle Kandidaten (Long und/oder Short). Gib an: RSI(14), Position relativ zum Bollinger-Band, Abstand zur 200-Tage-Linie, engen Stop-Loss (unter/über jüngstem Extremum), Kursziel (20-Tage-Durchschnitt). Weise darauf hin, dass sich das Setup besonders für Optionen mit definiertem Risiko eignet (statt Aktie/Future).\n\nFasse am Ende in einer Tabelle zusammen: Ticker | Richtung | RSI(14) | Stop-Loss | Kursziel."
+    },
+    {
+      "id": "pairs-trading",
+      "name": "Pairs Trading / Statistical Arbitrage",
+      "description": "Marktneutrales Long/Short-Paar aus stark korrelierten Titeln desselben Subsektors bei ungewöhnlicher Spread-Abweichung.",
+      "prompt": "Führe eine Pairs-Trading/Statistical-Arbitrage-Analyse durch, Fokus: {{FOCUS}}. Suche ein Aktienpaar desselben engen Subsektors mit historischer Kurskorrelation über 0,8 (mind. 2 Jahre Datenbasis), bei dem der aktuelle Kurs-Spread (bzw. die Ratio) um mehr als 2 Standardabweichungen vom historischen Mittel abweicht. Ausschluss: keine Divergenz verwenden, die durch einen fundamentalen Sondereffekt nur bei einem der beiden Titel ausgelöst wurde (z. B. Übernahmegerücht).\n\nIdentifiziere ein passendes Paar. Gib an: Korrelation (Zeitraum), aktuelle Standardabweichung des Spreads, Long-Kandidat (relativ schwächer), Short-Kandidat (relativ stärker), Zielwert (Rückkehr zum historischen Mittel), Stop (Ausweitung auf 3 Standardabweichungen). Weise auf die Dollar-neutrale Positionsgrößen-Logik hin (gleicher Kapitaleinsatz Long/Short).\n\nFasse am Ende zusammen: Long-Ticker | Short-Ticker | Aktuelle Abweichung | Zielwert | Stop."
+    },
+    {
+      "id": "long-straddle",
+      "name": "Long Straddle/Strangle (Optionen)",
+      "description": "Wette auf große Kursbewegung vor Earnings/Makro-Events, Richtung offen, Risiko begrenzt auf gezahlte Prämie.",
+      "prompt": "Führe eine Analyse für Long-Straddle/Strangle-Optionsstrategien durch (Wette auf große Kursbewegung, Richtung offen), Fokus: {{FOCUS}}. Geeignet unmittelbar vor Earnings oder bekannten Makro-Events. Wichtig: die implizite Volatilität (IV Rank) sollte NICHT bereits extrem hoch sein, sonst ist die Bewegung schon eingepreist.\n\nIdentifiziere 2-3 Kandidaten mit anstehendem Event (Earnings/Makro-Termin) und moderatem IV Rank. Gib an: Event und Termin, aktueller IV Rank (grobe Einschätzung falls exakte Daten nicht verfügbar), sinnvolle Strike-Wahl (nahe am Geld), maximaler Verlust (= gezahlte Prämie), Gewinnschwelle (Strike ± Gesamtprämie), Exit-Empfehlung (spätestens 1 Handelstag nach dem Event wegen Volatility Crush).\n\nFasse am Ende zusammen: Ticker | Event/Termin | IV Rank | Gewinnschwelle."
+    },
+    {
+      "id": "short-volatility",
+      "name": "Short Volatility (Iron Condor)",
+      "description": "Prämienverkauf bei hohem IV Rank ohne unmittelbaren Katalysator, definiertes Maximalrisiko.",
+      "prompt": "Führe eine Analyse für Short-Volatility-Optionsstrategien durch (Iron Condor / Credit Spreads), Fokus: {{FOCUS}}. Geeignet, wenn der IV Rank hoch ist (über 50-60 Perzentil der letzten 12 Monate) und kein unmittelbarer Katalysator ansteht.\n\nIdentifiziere 2-3 Kandidaten mit hohem IV Rank und ruhigem News-Umfeld (keine Earnings/Events in Kürze). Gib an: aktueller IV Rank, empfohlene Strike-Distanz (Delta 0,15-0,20 je Seite als Orientierung), maximales definiertes Risiko (Strike-Differenz abzüglich erhaltener Prämie), Gewinnmitnahme-Regel (50% der maximal möglichen Prämie), Stop (2x erhaltene Prämie).\n\nFasse am Ende zusammen: Ticker | IV Rank | Max. Risiko | Gewinnziel."
+    },
+    {
+      "id": "earnings-drift",
+      "name": "Earnings-Drift",
+      "description": "Post-Earnings-Announcement-Drift: Einstieg in Richtung einer starken ersten Kursreaktion auf Quartalszahlen.",
+      "prompt": "Führe eine Post-Earnings-Announcement-Drift-Analyse durch, Fokus: {{FOCUS}}. Setup: Kursreaktion am Tag nach den Zahlen über ±5% bei gleichzeitig positiver bzw. negativer Gewinn-/Umsatzüberraschung. Signal: in Richtung der ersten Reaktion einsteigen.\n\nSuche 2-3 Aktien mit kürzlich erfolgten Earnings (letzte 1-5 Handelstage), die dieses Muster zeigen. Gib an: Datum der Zahlen, Größe der Überraschung (Gewinn/Umsatz vs. Erwartung), Kursreaktion am Folgetag, Richtung des Trades, Stop-Loss (knapp unter/über dem Tagestief/-hoch der Reaktionskerze), geplante Haltedauer (5-10 Handelstage, danach unabhängig vom Ergebnis schließen).\n\nFasse am Ende zusammen: Ticker | Überraschung | Reaktion | Richtung | Stop-Loss."
+    },
+    {
+      "id": "merger-arbitrage",
+      "name": "Merger-Arbitrage",
+      "description": "Spread-Vereinnahmung bei angekündigten Übernahmen, Zielaktie notiert unter dem Übernahmepreis.",
+      "prompt": "Führe eine kurzfristige Merger-Arbitrage-Analyse durch, Fokus: {{FOCUS}}. Suche kürzlich angekündigte Übernahmen, bei denen die Zielaktie noch unter dem Übernahmepreis notiert (Spread als Ertragsquelle).\n\nIdentifiziere 2-3 aktuelle Übernahmefälle. Gib an: Übernahmepreis, aktueller Kurs der Zielaktie, verbleibender Spread (in % und absolut), erwarteter Abschlusstermin (Closing), Einschätzung der Abschlusswahrscheinlichkeit (Kartellrisiko, Finanzierungsstatus, bekannte Widerstände). Weise auf das begrenzte Positionsgrößen-Risiko hin (max. 1-2% Portfoliorisiko pro Deal wegen überproportionalem Verlustrisiko bei Scheitern).\n\nFasse am Ende zusammen: Zielaktie | Übernahmepreis | Aktueller Kurs | Spread | Erwartetes Closing."
+    },
+    {
+      "id": "carry-trade",
+      "name": "Carry-Trade (FX/Zins)",
+      "description": "Long hochverzinsliche, Short niedrigverzinsliche Währung bei stabiler Zinsdifferenz. Eher für erfahrene FX-Trader.",
+      "prompt": "Führe eine Carry-Trade-Analyse durch (FX-/Zins-Derivate), Fokus: {{FOCUS}}. Long: Währung/Instrument mit hohem Zinsniveau, Short: Währung/Instrument mit niedrigem Zinsniveau. Die Zinsdifferenz (Carry) sollte über mehrere Monate stabil sein, ohne bevorstehende Zentralbank-Entscheidung mit hohem Kurswende-Risiko.\n\nIdentifiziere 1-2 aktuelle Carry-Trade-Kandidaten (Währungspaare). Gib an: aktuelle Zinsdifferenz, Stabilität der Differenz (letzte Monate), anstehende Zentralbank-Termine beider Währungsräume, historische Volatilität des Paars als Basis für die Positionsgrößen-/Stop-Loss-Kalibrierung. Weise darauf hin, dass dies eher für erfahrene Trader mit Fokus auf Makro-/FX-Futures oder -Optionen geeignet ist und Carry-Trade-Unwind-Risiko (abrupte Volatilitätsspitzen) besteht.\n\nFasse am Ende zusammen: Währungspaar | Zinsdifferenz | Nächster Zentralbank-Termin | Risikohinweis."
     }
   ]
 }
