@@ -1,6 +1,15 @@
 const REFRESH_INTERVAL_MS = 10 * 60 * 1000; // 10 Minuten
 const WORKER_URL = "https://boersen-proxy.leonard-hankel.workers.dev";
 
+// Wird an JEDE Strategie-Anfrage automatisch angehaengt (Kennzahlen +
+// Umgang mit Cookie-/Werbe-Text auf den Kursquellen + Nachrichtenlage).
+const COMMON_DATA_INSTRUCTIONS = `
+
+ZUSÄTZLICHE PFLICHTANGABEN FÜR ALLE KANDIDATEN (unabhängig von der Strategie):
+- Aktueller Kurs, KGV, Volatilität der vergangenen 3 Monate (annualisiert), 12-Monats-Hoch und 12-Monats-Tief.
+- Quelle bevorzugt finanzen.net, alternativ onvista.de oder boerse.de. Cookie-Hinweise, Werbeflächen oder Consent-Texte auf diesen Seiten sind normale Seitenbestandteile, keine Zugriffssperre – lies die eigentlichen Kursdaten trotzdem aus dem Seiteninhalt bzw. den Suchergebnissen heraus, ignoriere Banner-/Werbetext einfach.
+- Tagesaktuelle Nachrichtenlage je Kandidat: aktive Katalysatoren, News der letzten 24–48 Stunden, anstehende Events (Earnings, Zentralbank-Termine, Regulatorik). Bei Widerspruch zwischen technischem Signal und aktueller Nachrichtenlage hat die Nachrichtenlage Vorrang – Setup ggf. verwerfen oder explizit als "erhöhtes Risiko" kennzeichnen.`;
+
 let newsData = { updated_at: null, sources: {} };
 let activeSource = "all";
 let strategies = [];
@@ -172,9 +181,18 @@ async function loadStrategies() {
       opt.textContent = s.name;
       select.appendChild(opt);
     }
+    select.addEventListener("change", updateStrategyHint);
+    updateStrategyHint();
   } catch (err) {
     select.innerHTML = '<option value="">Strategien konnten nicht geladen werden</option>';
   }
+}
+
+function updateStrategyHint() {
+  const select = document.getElementById("strategy-select");
+  const hint = document.getElementById("strategy-hint");
+  const strategy = strategies.find((s) => s.id === select.value);
+  hint.textContent = strategy ? strategy.description || "" : "";
 }
 
 async function runStrategy() {
@@ -190,7 +208,7 @@ async function runStrategy() {
   }
 
   const focus = focusInput.value.trim() || "breiter Markt";
-  const prompt = strategy.prompt.replaceAll("{{FOCUS}}", focus);
+  const prompt = strategy.prompt.replaceAll("{{FOCUS}}", focus) + COMMON_DATA_INSTRUCTIONS;
 
   button.disabled = true;
   button.textContent = "Analyse läuft …";
