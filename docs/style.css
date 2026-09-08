@@ -3,6 +3,8 @@
   --color-text: #e8e4d9;
   --color-muted: #8b93a0;
   --color-accent: #c9a227;
+  --color-gain: #4c9a6a;
+  --color-loss: #b5533c;
   --color-divider: #262e3a;
   --font-display: "Source Serif 4", Georgia, serif;
   --font-body: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
@@ -276,6 +278,134 @@ a {
   white-space: pre-wrap;
   font-size: 0.95rem;
   line-height: 1.65;
+}
+
+/* Trades-Tab */
+
+.trades-panel {
+  display: none;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 4rem;
+}
+
+.trade-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 1.25rem;
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-divider);
+}
+
+.trades-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.trade-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--color-divider);
+  border-radius: 6px;
+}
+
+.trade-row.closed {
+  opacity: 0.92;
+}
+
+.trade-title {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.trade-meta {
+  color: var(--color-muted);
+  font-size: 0.8rem;
+  margin-top: 0.2rem;
+}
+
+.trade-amounts {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.9rem;
+  font-size: 0.88rem;
+}
+
+.trade-amount {
+  color: var(--color-text);
+}
+
+.trade-pl {
+  font-weight: 600;
+}
+
+.trade-pl.gain {
+  color: var(--color-gain);
+}
+
+.trade-pl.loss {
+  color: var(--color-loss);
+}
+
+.sell-button {
+  background: none;
+  border: 1px solid var(--color-accent);
+  color: var(--color-accent);
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.sell-button:hover {
+  background: rgba(201, 162, 39, 0.12);
+}
+
+.delete-button {
+  background: none;
+  border: 1px solid var(--color-divider);
+  color: var(--color-muted);
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  color: var(--color-text);
+  border-color: var(--color-muted);
+}
+
+.sell-form {
+  display: flex;
+  gap: 0.6rem;
+  width: 100%;
+  margin-top: 0.7rem;
+  padding-top: 0.7rem;
+  border-top: 1px dashed var(--color-divider);
+}
+
+.sell-form input {
+  flex: 1;
+  background: #0c1116;
+  border: 1px solid var(--color-divider);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  padding: 0.5rem 0.7rem;
+  border-radius: 4px;
 }
 
 .source-column {
