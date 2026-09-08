@@ -50,8 +50,14 @@
           <p id="strategy-hint" class="strategy-hint"></p>
         </div>
         <div class="control-group">
-          <label for="focus-input">Markt-/Sektor-Fokus</label>
-          <input id="focus-input" type="text" placeholder="z. B. DAX, US-Tech, breiter Markt" value="breiter Markt">
+          <label for="focus-select">Markt-/Sektor-Fokus</label>
+          <select id="focus-select">
+            <option value="Europa">Europa</option>
+            <option value="Amerika">Amerika</option>
+            <option value="Europa und Amerika">Beides (Europa und Amerika)</option>
+            <option value="custom">Individuell</option>
+          </select>
+          <input id="focus-custom" type="text" placeholder="z. B. DAX, US-Tech, Emerging Markets" style="display: none;">
         </div>
         <button id="run-strategy-btn" type="button" class="run-button">Analyse starten</button>
       </div>
