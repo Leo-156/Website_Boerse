@@ -201,7 +201,8 @@ function updateStrategyHint() {
 
 async function runStrategy() {
   const select = document.getElementById("strategy-select");
-  const focusInput = document.getElementById("focus-input");
+  const focusSelect = document.getElementById("focus-select");
+  const focusCustom = document.getElementById("focus-custom");
   const resultBox = document.getElementById("strategy-result");
   const button = document.getElementById("run-strategy-btn");
 
@@ -211,7 +212,10 @@ async function runStrategy() {
     return;
   }
 
-  const focus = focusInput.value.trim() || "breiter Markt";
+  const focus =
+    focusSelect.value === "custom"
+      ? focusCustom.value.trim() || "breiter Markt"
+      : focusSelect.value;
   const prompt = strategy.prompt.replaceAll("{{FOCUS}}", focus) + COMMON_DATA_INSTRUCTIONS;
 
   button.disabled = true;
@@ -490,6 +494,12 @@ function formatNumber(value) {
   return new Intl.NumberFormat("de-DE", { maximumFractionDigits: 2 }).format(value);
 }
 
+function toggleFocusCustomInput() {
+  const focusSelect = document.getElementById("focus-select");
+  const focusCustom = document.getElementById("focus-custom");
+  focusCustom.style.display = focusSelect.value === "custom" ? "block" : "none";
+}
+
 // ---------------------------------------------------------------------
 // Init
 // ---------------------------------------------------------------------
@@ -499,5 +509,6 @@ loadNews();
 loadStrategies();
 loadTrades();
 document.getElementById("run-strategy-btn").addEventListener("click", runStrategy);
+document.getElementById("focus-select").addEventListener("change", toggleFocusCustomInput);
 document.getElementById("add-trade-btn").addEventListener("click", addTrade);
 setInterval(loadNews, REFRESH_INTERVAL_MS);
