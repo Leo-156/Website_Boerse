@@ -225,7 +225,19 @@ async function runStrategy() {
       body: JSON.stringify({ prompt, useWebSearch: true }),
     });
 
-    const data = await res.json();
+    const rawText = await res.text();
+    let data;
+    try {
+      data = JSON.parse(rawText);
+    } catch (parseErr) {
+      if (res.status === 524 || /error code:\s*524/i.test(rawText)) {
+        throw new Error(
+          "Zeitüberschreitung (über 90 Sekunden). Versuch es nochmal, oder wähle im " +
+            "Fokus-Feld einen engeren Markt/Sektor, damit weniger recherchiert werden muss."
+        );
+      }
+      throw new Error(`Unerwartete Antwort (Status ${res.status}).`);
+    }
 
     if (!res.ok) {
       const message = (data && (data.error?.message || data.error)) || `HTTP ${res.status}`;
