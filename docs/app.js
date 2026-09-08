@@ -33,12 +33,14 @@ function setupTabs() {
 function showPanel(tabId) {
   const newsPanel = document.getElementById("panel-news");
   const strategiePanel = document.getElementById("panel-strategie");
+  const tradesPanel = document.getElementById("panel-trades");
   const sourceTabs = document.getElementById("source-tabs");
 
   const isNews = tabId === "news";
   newsPanel.style.display = isNews ? "grid" : "none";
   sourceTabs.style.display = isNews ? "flex" : "none";
   strategiePanel.style.display = tabId === "strategie" ? "block" : "none";
+  tradesPanel.style.display = tabId === "trades" ? "block" : "none";
 }
 
 // ---------------------------------------------------------------------
@@ -251,11 +253,214 @@ function extractText(data) {
 }
 
 // ---------------------------------------------------------------------
+// Trades-Tab (nur lokal in diesem Browser gespeichert)
+// ---------------------------------------------------------------------
+
+const TRADES_STORAGE_KEY = "boersen_trades_v1";
+let trades = [];
+
+function loadTrades() {
+  try {
+    const raw = localStorage.getItem(TRADES_STORAGE_KEY);
+    trades = raw ? JSON.parse(raw) : [];
+  } catch (err) {
+    trades = [];
+  }
+  renderTrades();
+}
+
+function saveTrades() {
+  localStorage.setItem(TRADES_STORAGE_KEY, JSON.stringify(trades));
+}
+
+function addTrade() {
+  const aktie = document.getElementById("trade-aktie").value.trim();
+  const richtung = document.getElementById("trade-richtung").value;
+  const knockout = parseFloat(document.getElementById("trade-knockout").value);
+  const hebel = parseFloat(document.getElementById("trade-hebel").value);
+  const betrag = parseFloat(document.getElementById("trade-betrag").value);
+  const datumInput = document.getElementById("trade-datum").value;
+  const datum = datumInput || new Date().toISOString().slice(0, 10);
+
+  if (!aktie || isNaN(betrag) || betrag <= 0) {
+    alert("Bitte mindestens Aktie/Basiswert und einen gültigen Betrag eingeben.");
+    return;
+  }
+
+  trades.unshift({
+    id: `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+    aktie,
+    richtung,
+    knockout: isNaN(knockout) ? null : knockout,
+    hebel: isNaN(hebel) ? null : hebel,
+    betrag,
+    kaufdatum: datum,
+    status: "offen",
+    verkaufsbetrag: null,
+    gewinnVerlust: null,
+    verkaufsdatum: null,
+  });
+
+  saveTrades();
+  renderTrades();
+  resetTradeForm();
+}
+
+function resetTradeForm() {
+  document.getElementById("trade-aktie").value = "";
+  document.getElementById("trade-knockout").value = "";
+  document.getElementById("trade-hebel").value = "";
+  document.getElementById("trade-betrag").value = "";
+}
+
+function renderTrades() {
+  const list = document.getElementById("trades-list");
+  if (trades.length === 0) {
+    list.innerHTML = '<p class="loading">Noch keine Trades erfasst.</p>';
+    return;
+  }
+  list.innerHTML = "";
+  for (const trade of trades) {
+    list.appendChild(buildTradeRow(trade));
+  }
+}
+
+function buildTradeRow(trade) {
+  const row = document.createElement("div");
+  row.className = "trade-row" + (trade.status === "verkauft" ? " closed" : "");
+
+  const info = document.createElement("div");
+  info.className = "trade-info";
+
+  const title = document.createElement("div");
+  title.className = "trade-title";
+  title.textContent = `${trade.aktie} (${trade.richtung})`;
+  info.appendChild(title);
+
+  const metaParts = [];
+  if (trade.knockout !== null) metaParts.push(`KO ${formatNumber(trade.knockout)}`);
+  if (trade.hebel !== null) metaParts.push(`Hebel ${formatNumber(trade.hebel)}x`);
+  metaParts.push(`Kauf ${trade.kaufdatum}`);
+  const meta = document.createElement("div");
+  meta.className = "trade-meta";
+  meta.textContent = metaParts.join(" · ");
+  info.appendChild(meta);
+
+  row.appendChild(info);
+
+  const amounts = document.createElement("div");
+  amounts.className = "trade-amounts";
+
+  const buyAmount = document.createElement("span");
+  buyAmount.className = "trade-amount";
+  buyAmount.textContent = `Einkauf: ${formatCurrency(trade.betrag)}`;
+  amounts.appendChild(buyAmount);
+
+  if (trade.status === "verkauft") {
+    const sellAmount = document.createElement("span");
+    sellAmount.className = "trade-amount";
+    sellAmount.textContent = `Verkauf: ${formatCurrency(trade.verkaufsbetrag)}`;
+    amounts.appendChild(sellAmount);
+
+    const pl = trade.gewinnVerlust;
+    const plPercent = (pl / trade.betrag) * 100;
+    const plClass = pl >= 0 ? "gain" : "loss";
+    const sign = pl >= 0 ? "+" : "";
+
+    const plEuro = document.createElement("span");
+    plEuro.className = `trade-pl ${plClass}`;
+    plEuro.textContent = `${sign}${formatCurrency(pl)}`;
+    amounts.appendChild(plEuro);
+
+    const plPct = document.createElement("span");
+    plPct.className = `trade-pl ${plClass}`;
+    plPct.textContent = `${sign}${plPercent.toFixed(1)}%`;
+    amounts.appendChild(plPct);
+  } else {
+    const sellBtn = document.createElement("button");
+    sellBtn.type = "button";
+    sellBtn.className = "sell-button";
+    sellBtn.textContent = "Verkaufen";
+    sellBtn.addEventListener("click", () => showSellForm(trade.id, row));
+    amounts.appendChild(sellBtn);
+
+    const deleteBtn = document.createElement("button");
+    deleteBtn.type = "button";
+    deleteBtn.className = "delete-button";
+    deleteBtn.textContent = "Löschen";
+    deleteBtn.addEventListener("click", () => deleteTrade(trade.id));
+    amounts.appendChild(deleteBtn);
+  }
+
+  row.appendChild(amounts);
+  return row;
+}
+
+function showSellForm(id, row) {
+  if (row.querySelector(".sell-form")) return;
+
+  const form = document.createElement("div");
+  form.className = "sell-form";
+
+  const input = document.createElement("input");
+  input.type = "number";
+  input.step = "0.01";
+  input.placeholder = "Gewinn (+) oder Verlust (-) in €";
+  form.appendChild(input);
+
+  const confirmBtn = document.createElement("button");
+  confirmBtn.type = "button";
+  confirmBtn.className = "run-button";
+  confirmBtn.textContent = "Bestätigen";
+  confirmBtn.addEventListener("click", () => {
+    const value = parseFloat(input.value);
+    if (isNaN(value)) {
+      input.focus();
+      return;
+    }
+    confirmSell(id, value);
+  });
+  form.appendChild(confirmBtn);
+
+  row.appendChild(form);
+  input.focus();
+}
+
+function confirmSell(id, gewinnVerlust) {
+  const trade = trades.find((t) => t.id === id);
+  if (!trade) return;
+
+  trade.status = "verkauft";
+  trade.gewinnVerlust = gewinnVerlust;
+  trade.verkaufsbetrag = trade.betrag + gewinnVerlust;
+  trade.verkaufsdatum = new Date().toISOString().slice(0, 10);
+
+  saveTrades();
+  renderTrades();
+}
+
+function deleteTrade(id) {
+  trades = trades.filter((t) => t.id !== id);
+  saveTrades();
+  renderTrades();
+}
+
+function formatCurrency(value) {
+  return new Intl.NumberFormat("de-DE", { style: "currency", currency: "EUR" }).format(value);
+}
+
+function formatNumber(value) {
+  return new Intl.NumberFormat("de-DE", { maximumFractionDigits: 2 }).format(value);
+}
+
+// ---------------------------------------------------------------------
 // Init
 // ---------------------------------------------------------------------
 
 setupTabs();
 loadNews();
 loadStrategies();
+loadTrades();
 document.getElementById("run-strategy-btn").addEventListener("click", runStrategy);
+document.getElementById("add-trade-btn").addEventListener("click", addTrade);
 setInterval(loadNews, REFRESH_INTERVAL_MS);
