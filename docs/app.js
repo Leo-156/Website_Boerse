@@ -220,56 +220,12 @@ async function runStrategy() {
 
   button.disabled = true;
   button.textContent = "Analyse läuft …";
-  const timerId = startLoadingUI(resultBox);
 
-  try {
-    const res = await fetch(WORKER_URL, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ prompt, useWebSearch: true }),
-    });
-
-    const rawText = await res.text();
-    let data;
-    try {
-      data = JSON.parse(rawText);
-    } catch (parseErr) {
-      if (res.status === 524 || /error code:\s*524/i.test(rawText)) {
-        throw new Error(
-          "Zeitüberschreitung (über 90 Sekunden). Versuch es nochmal, oder wähle im " +
-            "Fokus-Feld einen engeren Markt/Sektor, damit weniger recherchiert werden muss."
-        );
-      }
-      throw new Error(`Unerwartete Antwort (Status ${res.status}).`);
-    }
-
-    if (!res.ok) {
-      const message = (data && (data.error?.message || data.error)) || `HTTP ${res.status}`;
-      throw new Error(message);
-    }
-
-    const text = extractText(data);
-    resultBox.innerHTML = "";
-    const pre = document.createElement("div");
-    pre.className = "strategy-text";
-    pre.textContent = text || "(Keine Antwort erhalten.)";
-    resultBox.appendChild(pre);
-  } catch (err) {
-    resultBox.innerHTML = `<p class="error">Analyse fehlgeschlagen: ${err.message}</p>`;
-  } finally {
-    clearInterval(timerId);
-    button.disabled = false;
-    button.textContent = "Analyse starten";
-  }
-}
-
-function startLoadingUI(resultBox) {
   resultBox.innerHTML = "";
-
-  const text = document.createElement("p");
-  text.className = "loading";
-  text.textContent = "Claude recherchiert und analysiert (0s) …";
-  resultBox.appendChild(text);
+  const statusEl = document.createElement("p");
+  statusEl.className = "loading";
+  statusEl.textContent = "Verbindung wird aufgebaut …";
+  resultBox.appendChild(statusEl);
 
   const track = document.createElement("div");
   track.className = "loading-bar-track";
@@ -278,11 +234,92 @@ function startLoadingUI(resultBox) {
   track.appendChild(fill);
   resultBox.appendChild(track);
 
-  let seconds = 0;
-  return setInterval(() => {
-    seconds += 1;
-    text.textContent = `Claude recherchiert und analysiert (${seconds}s) …`;
-  }, 1000);
+  let textEl = null;
+  let accumulatedText = "";
+  let searchCount = 0;
+  const textBlockIndices = new Set();
+
+  try {
+    const res = await fetch(WORKER_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ prompt, useWebSearch: true }),
+    });
+
+    if (!res.ok || !res.body) {
+      const errText = await res.text();
+      let message = `HTTP ${res.status}`;
+      try {
+        const errJson = JSON.parse(errText);
+        message = errJson.error?.message || errJson.error || message;
+      } catch (parseErr) {
+        if (/error code:\s*524/i.test(errText)) {
+          message = "Zeitüberschreitung. Bitte nochmal versuchen.";
+        }
+      }
+      throw new Error(message);
+    }
+
+    const reader = res.body.getReader();
+    const decoder = new TextDecoder();
+    let buffer = "";
+
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      buffer += decoder.decode(value, { stream: true });
+
+      const lines = buffer.split("\n");
+      buffer = lines.pop();
+
+      for (const line of lines) {
+        if (!line.startsWith("data:")) continue;
+        const jsonStr = line.slice(5).trim();
+        if (!jsonStr) continue;
+
+        let event;
+        try {
+          event = JSON.parse(jsonStr);
+        } catch (parseErr) {
+          continue;
+        }
+
+        if (event.type === "error") {
+          throw new Error(event.error?.message || "Stream-Fehler");
+        }
+
+        if (event.type === "content_block_start") {
+          if (event.content_block?.type === "text") {
+            textBlockIndices.add(event.index);
+          } else if (event.content_block?.type === "server_tool_use") {
+            searchCount += 1;
+            statusEl.textContent = `Claude durchsucht das Web (${searchCount}. Suche) …`;
+          }
+        } else if (event.type === "content_block_delta") {
+          if (textBlockIndices.has(event.index) && event.delta?.type === "text_delta") {
+            if (!textEl) {
+              statusEl.remove();
+              track.remove();
+              textEl = document.createElement("div");
+              textEl.className = "strategy-text";
+              resultBox.appendChild(textEl);
+            }
+            accumulatedText += event.delta.text;
+            textEl.textContent = accumulatedText;
+          }
+        }
+      }
+    }
+
+    if (!accumulatedText) {
+      resultBox.innerHTML = '<p class="error">Keine Antwort erhalten. Bitte nochmal versuchen.</p>';
+    }
+  } catch (err) {
+    resultBox.innerHTML = `<p class="error">Analyse fehlgeschlagen: ${err.message}</p>`;
+  } finally {
+    button.disabled = false;
+    button.textContent = "Analyse starten";
+  }
 }
 
 function extractText(data) {
