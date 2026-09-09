@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-09T17:21:48.614429+00:00",
+  "updated_at": "2026-09-09T19:52:25.483032+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Staatsfinanzen: USA verdreifachen ihre Anleiherückkäufe – Marktreaktion fällt anders aus als erwartet",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/staatsfinanzen-usa-verdreifachen-ihre-anleiherueckkaeufe/100253259.html",
+        "published": "Wed, 09 Sep 2026 17:21:32 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Dax aktuell: Dax schließt auf Tiefstand seit Juli – Ölpreis über 100 Dollar",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-auf-tiefstand-seit-juli-oelpreis-ueber-100-dollar/100253133.html",
         "published": "Wed, 09 Sep 2026 16:44:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Investoren: US-Finanzminister Bessent droht Spekulanten: „Ich bin die Bank“",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/investoren-us-finanzminister-droht-spekulanten-ich-bin-die-bank/100253259.html",
-        "published": "Wed, 09 Sep 2026 16:26:25 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -126,66 +126,168 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "SpaceX-Aktie vor Starship-Test: Testflug 14 könnte schon bald an den Start gehen",
-        "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-vor-starship-test-testflug-14-koennte-schon-bald-an-den-start-gehen-00-15922828",
-        "published": "Wed, 09 Sep 2026 19:15:00 +0200"
+        "title": "Trump zu Ukraine-Krieg: Putin will eine Vereinbarung",
+        "link": "https://www.finanzen.net/nachricht/aktien/trump-zu-ukraine-krieg-putin-will-eine-vereinbarung-15926493",
+        "published": "Wed, 09 Sep 2026 21:40:39 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Hot Stocks heute: KI-Investitionen explodieren: Der nächste Infrastruktur-Boom! | Friedrich Vorwerk im Check",
-        "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-ki-investitionen-explodieren-der-naechste-infrastruktur-boom-friedrich-vorwerk-im-check-15925606",
-        "published": "Wed, 09 Sep 2026 19:14:00 +0200"
+        "title": "SpaceX-Aktie vor Starship-Test: Testflug 14 könnte schon bald an den Start gehen",
+        "link": "https://www.finanzen.net/nachricht/aktien/raumfahrt-spacex-aktie-vor-starship-test-testflug-14-koennte-schon-bald-an-den-start-gehen-00-15922828",
+        "published": "Wed, 09 Sep 2026 21:33:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
         "title": "\"Wem gehört der DAX?\" - Wer die meisten Anteile am deutschen Leitindex hält",
         "link": "https://www.finanzen.net/nachricht/aktien/aktionaere-34-wem-gehoert-der-dax-34-wer-die-meisten-anteile-am-deutschen-leitindex-haelt-8987726",
-        "published": "Wed, 09 Sep 2026 19:12:00 +0200"
+        "published": "Wed, 09 Sep 2026 21:33:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Pressestimme: 'Die Glocke' zu Ausweis-App 'd-you'",
-        "link": "https://www.finanzen.net/nachricht/aktien/pressestimme-die-glocke-zu-ausweis-app-d-you-15926329",
-        "published": "Wed, 09 Sep 2026 19:08:38 +0200"
+        "title": "GameStop nach Q2-Zahlen: Direktoren-Kauf und starkes Sammlerstücke-Geschäft stützen die Aktie",
+        "link": "https://www.finanzen.net/nachricht/aktien/insiderkauf-nach-topzahlen-gamestop-nach-q2-zahlen-direktoren-kauf-und-starkes-sammlerstuecke-geschaeft-stuetzen-die-aktie-00-15925187",
+        "published": "Wed, 09 Sep 2026 21:30:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "ÜBERBLICK am Abend/Konjunktur, Zentralbanken, Politik",
-        "link": "https://www.finanzen.net/nachricht/aktien/ueberblick-am-abend-konjunktur-zentralbanken-politik-15926324",
-        "published": "Wed, 09 Sep 2026 19:06:40 +0200"
+        "title": "Hot Stocks heute: KI-Investitionen explodieren: Der nächste Infrastruktur-Boom! | Friedrich Vorwerk im Check",
+        "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-ki-investitionen-explodieren-der-naechste-infrastruktur-boom-friedrich-vorwerk-im-check-15925606",
+        "published": "Wed, 09 Sep 2026 21:24:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Besser als MSCI World und S&P500: Dieser Index hängt alle ab",
-        "link": "https://www.finanzen.net/nachricht/aktien/besser-als-msci-world-und-s-p500-dieser-index-haengt-alle-ab-15926323",
-        "published": "Wed, 09 Sep 2026 19:01:31 +0200"
+        "title": "Kurs-Rally bei Almonty Industries-Aktie: Wie der Wolfram-Spezialist die Börse überzeugt",
+        "link": "https://www.finanzen.net/nachricht/aktien/rohstoffgigant-kurs-rally-bei-almonty-industries-aktie-wie-der-wolfram-spezialist-die-boerse-ueberzeugt-00-15925472",
+        "published": "Wed, 09 Sep 2026 21:24:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "DAX schließt mit kräftigen Verlusten - Irankonflikt eskaliert und lässt Ölpreise weiter steigen",
-        "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-dax-schliesst-mit-kraeftigen-verlusten-irankonflikt-eskaliert-und-laesst-oelpreise-weiter-steigen-15920974",
-        "published": "Wed, 09 Sep 2026 19:01:00 +0200"
+        "title": "Sulzer-Aktie: CEO sieht mittelfristigen Rückenwind durch Nahost-Lage",
+        "link": "https://www.finanzen.net/nachricht/aktien/sulzer-aktie-ceo-sieht-mittelfristigen-rueckenwind-durch-nahost-lage-15926488",
+        "published": "Wed, 09 Sep 2026 21:20:37 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Große Auswahl, minimale Kosten: Derivate-Trading bei finanzen.net ZERO",
-        "link": "https://www.finanzen.net/nachricht/trading/in-eigener-sache-grosse-auswahl-minimale-kosten-derivate-trading-bei-finanzen-net-zero-15714959",
-        "published": "Wed, 09 Sep 2026 19:00:00 +0200"
+        "title": "Die größten Aktien-Flops der letzten zehn Jahre – Buffett-Favorit Kraft Heinz an der Spitze",
+        "link": "https://www.finanzen.net/nachricht/aktien/verlustranking-die-groessten-aktien-flops-der-letzten-zehn-jahre-buffett-favorit-kraft-heinz-an-der-spitze-00-15925595",
+        "published": "Wed, 09 Sep 2026 21:20:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Fehler in Infoprospekt? DSW klagt gegen Ottobock",
-        "link": "https://www.finanzen.net/nachricht/aktien/fehler-in-infoprospekt-dsw-klagt-gegen-ottobock-15926287",
-        "published": "Wed, 09 Sep 2026 18:51:39 +0200"
+        "title": "Deshalb notiert der Euro zum US-Dollar wenig verändert",
+        "link": "https://www.finanzen.net/nachricht/devisen/warten-auf-ezb-deshalb-notiert-der-euro-zum-us-dollar-wenig-veraendert-15924866",
+        "published": "Wed, 09 Sep 2026 21:15:39 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
-        "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-        "published": "Wed, 09 Sep 2026 18:50:00 +0200"
+        "title": "Energie-Infrastruktur: RWE schlägt Alarm beim Netzschutz in Deutschland",
+        "link": "https://www.finanzen.net/nachricht/aktien/energie-infrastruktur-rwe-schlaegt-alarm-beim-netzschutz-in-deutschland-15926484",
+        "published": "Wed, 09 Sep 2026 21:13:37 +0200"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SpaceX IPO Paved The Way For Anthropic: Kennedy",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-09/spacex-ipo-paved-the-way-for-anthropic-kennedy-video",
+        "published": "Wed, 09 Sep 2026 19:42:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasury Yields Climb After New Buyback Targets Disappoint",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-09/treasuries-weaken-as-soaring-oil-prices-revive-rate-hike-worries",
+        "published": "Wed, 09 Sep 2026 10:45:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Crude Tops $101 as US-Iran War Escalates With Tankers Targeted",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-08/latest-oil-market-news-and-analysis-for-sept-9",
+        "published": "Tue, 08 Sep 2026 22:03:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Canada’s Enbridge Said to Near Deal for Major US Oil Pipeline",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-09/canada-s-enbridge-said-to-near-deal-for-major-us-oil-pipeline",
+        "published": "Wed, 09 Sep 2026 19:20:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Xerox Shareholder Pushes for Activist Changes at Company",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-09/xerox-shareholder-pushes-for-activist-changes-at-company-video",
+        "published": "Wed, 09 Sep 2026 19:18:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "GE to Buy Consolidated Precision Products for $11.75B",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-09/ge-to-buy-consolidated-precision-products-for-11-75b-video",
+        "published": "Wed, 09 Sep 2026 19:15:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Fall as Oil Jump, Treasury Plan Lift Yields: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-08/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 08 Sep 2026 22:11:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Texas Aims to Boost School Choice Program by $150 Million a Year",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-09/texas-aims-to-boost-school-choice-program-by-150-million-a-year",
+        "published": "Wed, 09 Sep 2026 18:58:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Google, Blackstone Venture Faces Delays at Data-Center Sites",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-08/google-blackstone-venture-faces-delays-at-data-center-sites",
+        "published": "Tue, 08 Sep 2026 20:25:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump’s Latest Trade Threat Weighs on Canadian Firms With US Contracts",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-09/trump-s-latest-trade-threat-weighs-on-canadian-firms-with-us-contracts",
+        "published": "Wed, 09 Sep 2026 16:04:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Copper Hits Fresh All-Time Highs in New York and London",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-09/metals-fall-from-record-high-in-london-as-mideast-tensions-flare",
+        "published": "Wed, 09 Sep 2026 02:44:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Comcast Slides After CFO Says Broadband User Losses to Persist",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-09/comcast-shares-slide-as-cfo-sees-internet-prices-irrational",
+        "published": "Wed, 09 Sep 2026 17:26:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bessent Triples Debt Buyback But Market Shows Disappointment",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-09/us-more-than-doubles-long-dated-debt-buyback-size-to-6-billion",
+        "published": "Wed, 09 Sep 2026 15:02:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Sees Diesel Stocks Falling to 2003 Low Ahead of Peak Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-09/us-sees-diesel-stocks-falling-to-2003-low-ahead-of-peak-demand",
+        "published": "Wed, 09 Sep 2026 17:45:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil Tops $100 on Supply Fears,  Apple Faces a Big Test",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-09/open-interest-9-9-2026-video",
+        "published": "Wed, 09 Sep 2026 17:32:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "NFL Streaming Costs Near Breaking Point",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-09/nfl-streaming-costs-near-breaking-point-video",
+        "published": "Wed, 09 Sep 2026 17:21:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Porsche Raises €1 Billion With Completion of Bugatti Stake Sale",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-09/porsche-raises-1-billion-with-completion-of-bugatti-stake-sale",
+        "published": "Wed, 09 Sep 2026 17:17:02 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Stocks Waver at Start of Week Filled With Key Inflation Data",
@@ -200,111 +302,9 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Fall as Oil Jump, Treasury Plan Lift Yields: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-08/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 08 Sep 2026 22:11:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Crude Hits $100 as US-Iran War Escalates With Tankers Targeted",
         "link": "https://www.bloomberg.com/news/videos/2026-09-09/crude-hits-100-as-us-iran-war-escalates-video",
         "published": "Wed, 09 Sep 2026 16:51:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Firms Unleash Record Wave of Bond Sales in Europe",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-09/us-firms-unleash-record-wave-of-bond-sales-in-european-markets",
-        "published": "Wed, 09 Sep 2026 12:08:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bessent Triples Debt Buyback But Market Shows Disappointment",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-09/us-more-than-doubles-long-dated-debt-buyback-size-to-6-billion",
-        "published": "Wed, 09 Sep 2026 15:02:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Mexico Breached NAFTA in Vulcan Materials Dispute, ICSID Finds",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-09/mexico-breached-nafta-in-vulcan-materials-dispute-icsid-finds",
-        "published": "Wed, 09 Sep 2026 16:29:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "EU and Canada Plan Closer Ties",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-09/eu-and-canada-plan-closer-ties-video",
-        "published": "Wed, 09 Sep 2026 16:22:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Extend Drop After New Buyback Targets Disappoint",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-09/treasuries-weaken-as-soaring-oil-prices-revive-rate-hike-worries",
-        "published": "Wed, 09 Sep 2026 10:45:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump’s Latest Trade Threat Weighs on Canadian Firms With US Contracts",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-09/trump-s-latest-trade-threat-weighs-on-canadian-firms-with-us-contracts",
-        "published": "Wed, 09 Sep 2026 16:04:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Dollar Eyes Seven-Month Low as Bessent Remarks Spur Yen Rise",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-09/dollar-eyes-seven-month-low-with-us-buybacks-inflation-in-focus",
-        "published": "Wed, 09 Sep 2026 07:34:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wheat Drops to Two-Week Low Ahead of US Supply, Demand Report",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-09/corn-slumps-for-fifth-day-as-record-fund-position-tests-market",
-        "published": "Wed, 09 Sep 2026 04:16:44 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "France’s Champagne Quality Seen Exceptional Despite Output Slump",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-09/france-s-champagne-quality-seen-exceptional-despite-output-slump",
-        "published": "Wed, 09 Sep 2026 15:49:14 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Vale CFO Sees No Downturn in Iron Ore Prices",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-09/vale-cfo-sees-no-downturn-in-iron-ore-prices-video",
-        "published": "Wed, 09 Sep 2026 15:41:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Trims Gains as Yields Push Higher After Treasury Buyback",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-08/gold-holds-decline-as-mideast-tensions-bolster-rate-hike-case",
-        "published": "Tue, 08 Sep 2026 23:25:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Apple’s Rally Pressures New CEO to Deliver on Foldable iPhone",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-rally-pressures-new-ceo-to-deliver-on-foldable-iphone",
-        "published": "Wed, 09 Sep 2026 08:43:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Treasury to Buy Up to $6 Billion in Long-Dated Debt",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-09/us-treasury-to-buy-up-to-6-billion-in-long-dated-debt-video",
-        "published": "Wed, 09 Sep 2026 15:24:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Crude Tops $101 as US-Iran War Escalates With Tankers Targeted",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-08/latest-oil-market-news-and-analysis-for-sept-9",
-        "published": "Tue, 08 Sep 2026 22:03:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "EU Carbon Reform Lead Lawmaker Weighs Smoother Emission Cuts",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-09/eu-carbon-reform-lead-lawmaker-weighs-smoother-emission-cuts",
-        "published": "Wed, 09 Sep 2026 14:58:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Europe Gas Prices Rise Above €80 for First Time Since 2023",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-09/european-gas-at-fresh-three-year-high-as-us-iran-fight-escalates",
-        "published": "Wed, 09 Sep 2026 06:45:02 GMT"
       }
     ],
     "onvista – News": [
@@ -658,153 +658,153 @@
     "Yahoo Finance – Top Stories (EN)": [
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-stocks-fall-rate-hike-165835922.html",
-        "published": "2026-09-09T16:58:35Z"
+        "title": "Gaming Realms CEO: Content growth accelerating as company expands into new markets",
+        "link": "https://finance.yahoo.com/video/gaming-realms-ceo-content-growth-105251817.html",
+        "published": "2026-09-08T10:52:51Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Mortgage rate predictions through the next five years: Will we reach 7%?",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-the-next-five-years-will-we-reach-7-195826935.html",
-        "published": "2025-08-18T19:58:26Z"
+        "title": "Is American Electric Power Stock Underperforming the S&P 500?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/american-electric-power-stock-underperforming-105248662.html",
+        "published": "2026-09-08T10:52:48Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "J.Jill, Inc. Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/j-jill-inc-q2-2026-164728426.html",
-        "published": "2026-09-09T16:47:28Z"
+        "title": "Get Paid to Wait: Buy OXY at a Discount or Earn Options Income",
+        "link": "https://finance.yahoo.com/markets/options/articles/paid-wait-buy-oxy-discount-110002876.html",
+        "published": "2026-09-08T11:00:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Will the housing market crash in 2026? Probably not",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-probably-not-170038540.html",
-        "published": "2024-07-05T17:00:38Z"
+        "title": "Novartis twin drug setbacks pile pressure on pipeline and CEO",
+        "link": "https://finance.yahoo.com/healthcare/articles/novartis-announces-trial-setback-del-060512323.html",
+        "published": "2026-09-08T11:26:06Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Stock market today: Dow, S&P 500, Nasdaq sink as oil prices surpass $100, Treasury yields jump",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-9-dow-sp-500-nasdaq-futures-080411279.html",
-        "published": "2026-09-09T08:04:11Z"
+        "title": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack",
+        "link": "https://finance.yahoo.com/healthcare/articles/boston-scientific-says-cyberattack-likely-104232391.html",
+        "published": "2026-09-08T11:30:41Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "What is an adjustable-rate mortgage (ARM), and what are the risks?",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/adjustable-rate-mortgage-155738644.html",
-        "published": "2024-01-26T22:54:47Z"
+        "title": "Sigma Lithium Shares Fall After Brazilian Court Orders Halt at Grota do Cirilo",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sigma-lithium-shares-fall-brazilian-104947783.html",
+        "published": "2026-09-08T10:49:47Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Beloved burger chain goes full MAGA, and sales are soaring. Can you make money on the Trump Train? 3 stocks to bet on",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/beloved-burger-chain-goes-full-163000568.html",
-        "published": "2026-09-09T16:30:00Z"
+        "title": "Morning Bid: Yen at work",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/morning-bid-yen-103625104.html",
+        "published": "2026-09-08T10:39:29Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "When will gas prices go down? Prices hit records as Iran war fuels uncertainty.",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-prices-hit-records-as-iran-war-fuels-uncertainty-154506731.html",
-        "published": "2026-04-14T15:45:06Z"
+        "title": "4 Stocks Whup The S&P 500 — And Yield More Than 30-Year Treasurys",
+        "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-whup-the-market-and-yield-more-than-30-year-treasurys/?src=A00220&yptr=yahoo",
+        "published": "2026-09-08T11:36:38Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Chime Wins Price-Target Hikes On Stride Deal And Raised Guidance, But Shares Slash Early Gains",
-        "link": "https://www.investors.com/news/chime-financial-acquire-stride-q3-outlook-chym-stock-price-target-breakout/?src=A00220&yptr=yahoo",
-        "published": "2026-09-09T16:02:20Z"
+        "title": "The stock market's hot streak hints at more good times ahead",
+        "link": "https://finance.yahoo.com/markets/article/the-stock-markets-hot-streak-hints-at-more-good-times-ahead-114050175.html",
+        "published": "2026-09-08T11:40:50Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Verizon and Corning Just Signed an 80 Million Mile Fiber Deal to Wire the AI Boom",
-        "link": "https://finance.yahoo.com/technology/ai/articles/verizon-corning-just-signed-80-165034968.html",
-        "published": "2026-09-09T16:50:34Z"
+        "title": "What Were Markets Doing Early This Last Manic Tuesday?",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/were-markets-doing-early-last-103526416.html",
+        "published": "2026-09-08T10:35:26Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Her retirement account hit $300,000 when she was 31 — she says she'll never add another dime. Is this a smart plan?",
-        "link": "https://finance.yahoo.com/markets/options/articles/her-retirement-account-hit-300-160033322.html",
-        "published": "2026-09-09T16:00:33Z"
+        "title": "Biohaven Shares Fall After RBC Downgrades Stock and Cuts Price Target",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/biohaven-shares-fall-rbc-downgrades-105323020.html",
+        "published": "2026-09-08T10:53:23Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Why Cable One (CABO) Became a Repeated Short Target?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-cable-one-cabo-became-155915949.html",
-        "published": "2026-09-09T15:59:15Z"
+        "title": "Is GE Vernova Stock Outperforming the Dow?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-outperforming-dow-103304948.html",
+        "published": "2026-09-08T10:33:04Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor",
-        "link": "https://www.investors.com/research/ibd-stock-of-the-day/amd-stock-regains-investor-favor/?src=A00220&yptr=yahoo",
-        "published": "2026-09-09T15:51:53Z"
+        "title": "Is Norfolk Southern Stock Underperforming the Nasdaq?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/norfolk-southern-stock-underperforming-nasdaq-114658327.html",
+        "published": "2026-09-08T11:46:58Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Jewelry Stock Surges After Years Of Mostly Sideways Action",
-        "link": "https://www.investors.com/news/signet-jewelers-stock-earnings-guidance/?src=A00220&yptr=yahoo",
-        "published": "2026-09-09T15:49:38Z"
+        "title": "Stock Index Futures Mixed as Oil Nears $100, U.S. Inflation Data Awaited",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-mixed-oil-103035860.html",
+        "published": "2026-09-08T10:30:35Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Oracle’s Disruptive Nature is Very Compelling",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-disruptive-nature-very-compelling-164946016.html",
-        "published": "2026-09-09T16:49:46Z"
+        "title": "Is Copart Stock Underperforming the S&P 500?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/copart-stock-underperforming-p-500-115215710.html",
+        "published": "2026-09-08T11:52:15Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "What Makes Broadcom (AVGO) a Lucrative Bet?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/makes-broadcom-avgo-lucrative-bet-154758859.html",
-        "published": "2026-09-09T15:47:58Z"
+        "title": "Amgen Shares Fall as Investors Assess Novartis Lp(a) Trial Result and BMO Downgrade",
+        "link": "https://finance.yahoo.com/healthcare/articles/amgen-shares-fall-investors-assess-105208691.html",
+        "published": "2026-09-08T10:52:08Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "A Long-Term Bullish Trade Might Be The Ticket For This Stock",
-        "link": "https://www.investors.com/research/options/vertiv-stock-vrt-bull-put-spread-options/?src=A00220&yptr=yahoo",
-        "published": "2026-09-09T15:46:39Z"
+        "title": "Social Security benefits in 2027: See what's really changing",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/social-security-benefits-in-2027-see-whats-really-changing-144723278.html",
+        "published": "2026-09-03T14:47:23Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "VERAXA Biotech Designates Raju Willener as CFO",
-        "link": "https://finance.yahoo.com/healthcare/articles/veraxa-biotech-designates-raju-willener-154625631.html",
-        "published": "2026-09-09T15:46:25Z"
+        "title": "Weekly survey of mortgage lenders with the lowest rates: Little relief since July",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-september-8-170834159.html",
+        "published": "2025-11-03T17:08:34Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Bernie Sanders backs a 32-hour work week as a German employer pushes to expand to 40 hours — what the data says",
-        "link": "https://finance.yahoo.com/economy/policy/articles/bernie-sanders-backs-32-hour-154000886.html",
-        "published": "2026-09-09T15:40:00Z"
+        "title": "401(k) savers are setting records. How to catch up if you're behind.",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/401k-savers-are-setting-records-how-to-catch-up-if-youre-behind-162009045.html",
+        "published": "2026-09-08T16:20:09Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "If You Make Just 1 Investing Move Right Now, History Says It Should Be This",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/just-1-investing-move-now-164800833.html",
-        "published": "2026-09-09T16:48:00Z"
+        "title": "Capital One Venture welcome offer: 75,000 miles plus a $300 travel credit",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-welcome-offer-75000-miles-plus-a-300-travel-credit-171812043.html",
+        "published": "2026-09-08T17:18:12Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Guidance Upside Drives Advanced Micro Devices (AMD) Higher, Hurting Non Owners",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/guidance-upside-drives-advanced-micro-153647914.html",
-        "published": "2026-09-09T15:36:47Z"
+        "title": "Bloom Energy Shares Rise After S&P 500 Inclusion Confirmed",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-shares-rise-p-104838920.html",
+        "published": "2026-09-08T10:48:38Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Stock Market Today: Dow Slumps 400 Points As Oil Surges; Shell Jumps Past Entry (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/?src=A00220&yptr=yahoo",
-        "published": "2026-09-09T15:32:24Z"
+        "title": "What is a step-up CD, and how does it work?",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/step-up-cd-181655102.html",
+        "published": "2024-09-20T18:16:55Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "ExxonMobil, ANPG Notch 20th Discovery in Angola's Block 15",
-        "link": "https://finance.yahoo.com/energy/articles/exxonmobil-anpg-notch-20th-discovery-153000621.html",
-        "published": "2026-09-09T15:30:00Z"
+        "title": "Here's what to do if your bank account application was denied",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/denied-bank-account-204942472.html",
+        "published": "2024-09-19T20:49:42Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "How long should you wait between credit card applications?",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-long-should-you-wait-between-credit-card-applications-152057924.html",
-        "published": "2026-09-09T15:20:57Z"
+        "title": "Ink Business Premier Credit Card review: Generous welcome bonus and free employee cards",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/ink-business-premier-credit-card-review-223741901.html",
+        "published": "2024-10-22T22:37:41Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Scott Bessent's $6B bond buyback fails to halt Treasury yield rise",
-        "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessents-6b-bond-buyback-164744885.html",
-        "published": "2026-09-09T16:47:44Z"
+        "title": "Capital One launches new Venture Business card with limited-time 150,000-mile welcome bonus (expired)",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-business-card-193020902.html",
+        "published": "2026-04-15T19:30:20Z"
       }
     ]
   }
