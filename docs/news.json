@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T00:43:46.005109+00:00",
+  "updated_at": "2026-09-12T05:03:48.180054+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,66 +126,90 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Bargeld sicher verschenken: So funktioniert es",
-        "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/schenkung-bargeld-sicher-verschenken-so-funktioniert-es-00-15374250",
-        "published": "Sat, 12 Sep 2026 02:31:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Monatliche Dividende: Warum die Aktien Realty Income & Main Street Capital bei Anlegern beliebt sind",
-        "link": "https://www.finanzen.net/nachricht/aktien/monatszahler-monatliche-dividende-warum-die-aktien-realty-income-main-street-capital-bei-anlegern-beliebt-sind-00-15911511",
-        "published": "Sat, 12 Sep 2026 02:12:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "KW 37: Das waren die Gewinner und Verlierer im DAX",
-        "link": "https://www.finanzen.net/nachricht/aktien/kw-37-das-waren-die-gewinner-und-verlierer-im-dax-15930774",
-        "published": "Sat, 12 Sep 2026 01:32:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Bitcoin vor Rally? Was CZ jetzt grösser als Gold sieht",
-        "link": "https://www.finanzen.net/nachricht/aktien/bitcoin-vor-rally-was-cz-jetzt-groesser-als-gold-sieht-15930772",
-        "published": "Sat, 12 Sep 2026 01:22:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Finanzberater: Darum ist das 60/40-Portfolio endgültig überholt",
-        "link": "https://www.finanzen.net/nachricht/aktien/steigende-lebenserwartung-finanzberater-darum-ist-das-60-40-portfolio-endgueltig-ueberholt-14478075",
-        "published": "Sat, 12 Sep 2026 01:12:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Reha vor Rente: Voraussetzungen und Bedeutung der Erwerbsminderungsrente",
-        "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/sozialrecht-reha-vor-rente-voraussetzungen-und-bedeutung-der-erwerbsminderungsrente-00-15382426",
-        "published": "Sat, 12 Sep 2026 01:03:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Wann lohnen sich Inflation-Linked Bond ETFs? So funktioniert der Inflationsschutz im Portfolio",
-        "link": "https://www.finanzen.net/nachricht/etf/break-even-im-blick-wann-lohnen-sich-inflation-linked-bond-etfs-so-funktioniert-der-inflationsschutz-im-portfolio-00-15717050",
-        "published": "Fri, 11 Sep 2026 23:50:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "DAX in KW 37: Diese Aktien gehörten zu den Gewinnern und Verlierern",
-        "link": "https://www.finanzen.net/nachricht/aktien/dax-performance-dax-in-kw-37-diese-aktien-gehoerten-zu-den-gewinnern-und-verlierern-15921305",
-        "published": "Fri, 11 Sep 2026 23:39:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Verdreifachung bis 2031: Citi setzt auf Rechenzentren - Diese Ex-Crypto-Aktie könnte zum Favoriten werden",
-        "link": "https://www.finanzen.net/nachricht/aktien/ki-rechenzentren-verdreifachung-bis-2031-citi-setzt-auf-rechenzentren-diese-ex-crypto-aktie-koennte-zum-favoriten-werden-00-15927801",
-        "published": "Fri, 11 Sep 2026 23:26:00 +0200"
+        "title": "Gold mit Erholungspotenzial: 5.000 USD möglich?",
+        "link": "https://www.finanzen.net/nachricht/trading/gold-mit-erholungspotenzial-5000-usd-mglich-15931041",
+        "published": "Sat, 12 Sep 2026 07:00:30 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
         "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
         "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
-        "published": "Fri, 11 Sep 2026 22:50:00 +0200"
+        "published": "Sat, 12 Sep 2026 06:50:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Vermögenswirksame Leistungen (VL): Verschenke kein Geld vom Chef!",
+        "link": "https://www.finanzen.net/nachricht/aktien/vermoegenswirksame-leistungen-vl-verschenke-kein-geld-vom-chef-15931039",
+        "published": "Sat, 12 Sep 2026 06:44:02 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Horizon Industrial Parks informierte über die jüngsten Quartalsergebnisse",
+        "link": "https://www.finanzen.net/nachricht/aktien/horizon-industrial-parks-informierte-ueber-die-juengsten-quartalsergebnisse-15931037",
+        "published": "Sat, 12 Sep 2026 06:35:06 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Lalithaa Jewellery Mart: Was beim Unternehmen in den jüngsten Büchern steht",
+        "link": "https://www.finanzen.net/nachricht/aktien/lalithaa-jewellery-mart-was-beim-unternehmen-in-den-juengsten-buechern-steht-15931036",
+        "published": "Sat, 12 Sep 2026 06:35:06 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Clearmind Medicine: Was beim Unternehmen in den jüngsten Büchern steht",
+        "link": "https://www.finanzen.net/nachricht/aktien/clearmind-medicine-was-beim-unternehmen-in-den-juengsten-buechern-steht-15931035",
+        "published": "Sat, 12 Sep 2026 06:35:06 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "FNX: Bilanz zum abgelaufenen Quartal",
+        "link": "https://www.finanzen.net/nachricht/aktien/fnx-bilanz-zum-abgelaufenen-quartal-15931034",
+        "published": "Sat, 12 Sep 2026 06:35:06 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "FUNDINNO stellte das Zahlenwerk zum vergangenen Quartal vor",
+        "link": "https://www.finanzen.net/nachricht/aktien/fundinno-stellte-das-zahlenwerk-zum-vergangenen-quartal-vor-15931033",
+        "published": "Sat, 12 Sep 2026 06:35:06 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "BRANU legte die Bilanz zum abgelaufenen Quartal vor",
+        "link": "https://www.finanzen.net/nachricht/aktien/branu-legte-die-bilanz-zum-abgelaufenen-quartal-vor-15931032",
+        "published": "Sat, 12 Sep 2026 06:35:06 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "01 Communique Laboratory stellte Quartalsergebnis zum abgelaufenen Jahresviertel vor",
+        "link": "https://www.finanzen.net/nachricht/aktien/01-communique-laboratory-stellte-quartalsergebnis-zum-abgelaufenen-jahresviertel-vor-15931031",
+        "published": "Sat, 12 Sep 2026 06:35:06 +0200"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "VinFast’s Founder Hands CEO Role to Son Amid Expansion Push",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-12/vinfast-s-founder-hands-ceo-role-to-son-amid-expansion-push",
+        "published": "Sat, 12 Sep 2026 01:38:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Chief Future Officer: Mandy Fields, e.l.f. Beauty",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-10/chief-future-officer-mandy-fields-e-l-f-beauty",
+        "published": "Thu, 10 Sep 2026 01:30:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Jon Ledecky Reflects on Sept. 11 and NYC Sports Scene",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-11/jon-ledecky-reflects-on-sept-11-and-nyc-sports-scene-video",
+        "published": "Fri, 11 Sep 2026 21:18:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "JB Smoove Remembers Sept. 11, Rebuilding and More",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-12/jb-smoove-remembers-sept-11-rebuilding-and-more-video",
+        "published": "Sat, 12 Sep 2026 00:43:30 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Former NY Fed President on Remembering 9/11",
@@ -248,12 +272,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Jon Ledecky reflects on Sept. 11 and NYC sports scene",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-11/jon-ledecky-reflects-on-sept-11-and-nyc-sports-scene-video",
-        "published": "Fri, 11 Sep 2026 21:18:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Finding Stability in Investing: Masters in Business with Seth Bernstein",
         "link": "https://www.bloomberg.com/news/videos/2026-09-11/finding-stability-in-investing-masters-in-business-video",
         "published": "Fri, 11 Sep 2026 21:13:15 GMT"
@@ -287,24 +305,6 @@
         "title": "Dollar Wavers as CPI Adds to Fed Hike Bets While Oil Falls",
         "link": "https://www.bloomberg.com/news/articles/2026-09-11/dollar-wavers-as-inflation-aids-fed-hike-bets-while-oil-falls",
         "published": "Fri, 11 Sep 2026 13:21:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI-Obsessed Wall Street Pours Billions Into Inflation-Era Bets",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-11/ai-obsessed-wall-street-pours-billions-into-inflation-era-bets",
-        "published": "Fri, 11 Sep 2026 20:24:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "CFTC Clears Faster Payouts for Tipster Awards Under $5 Million",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-11/cftc-clears-faster-payouts-for-tipster-awards-under-5-million",
-        "published": "Fri, 11 Sep 2026 20:17:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Climb in Run-Up to Next Week’s Fed Decision: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-10/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 10 Sep 2026 22:15:53 GMT"
       }
     ],
     "onvista – News": [
@@ -664,57 +664,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Macy's, Inc. Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/macys-inc-q2-2026-earnings-170816602.html",
-        "published": "2026-09-10T17:08:16Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Qualcomm Stock Spikes as It Bags Massive Data Center Deal With Amazon",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-spikes-bags-massive-170834318.html",
-        "published": "2026-09-10T17:08:34Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Ahead of Adobe Earnings, Here's What Barchart Data Says Comes Next for ADBE Stock",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-adobe-earnings-heres-barchart-170515142.html",
-        "published": "2026-09-10T17:05:15Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "The Lovesac Company Q2 2027 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lovesac-company-q2-2027-earnings-170439984.html",
-        "published": "2026-09-10T17:04:39Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
         "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
         "link": "https://finance.yahoo.com/technology/ai/articles/hive-brings-enterprise-veteran-scale-233612805.html",
         "published": "2026-09-10T23:36:12Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Corn Getting a Bounce Ahead of USDA Report Day",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-getting-bounce-ahead-usda-171700522.html",
-        "published": "2026-09-10T17:17:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Soybeans Breaking to New Highs on Thursday",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-breaking-highs-thursday-171700583.html",
-        "published": "2026-09-10T17:17:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Lyft Stock Pullback Could Be Short-Lived Says Signal",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-stock-pullback-could-short-171316715.html",
-        "published": "2026-09-10T17:13:16Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Rich Dad Poor Dad’s Robert Kiyosaki Says He’s $1.2 Billion in Debt But Stays 1 Step Ahead Of Creditors — If It All Goes Bust, ‘You Can Talk To My Attorney’",
-        "link": "https://finance.yahoo.com/real-estate/articles/rich-dad-poor-dad-robert-171657991.html",
-        "published": "2026-09-10T17:16:57Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -724,27 +676,27 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html",
-        "published": "2026-09-10T17:21:35Z"
+        "title": "Higher Oil Prices Let Mexico Pull Back Billions in Pemex Support",
+        "link": "https://finance.yahoo.com/energy/articles/higher-oil-prices-let-mexico-220000091.html",
+        "published": "2026-09-10T22:00:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Celanese Corporation (CE) is Selling Another 19% of Nutrinova for $152 Million. Is Deleveraging Worth Reducing Its Stake to 11%?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/celanese-corporation-ce-selling-another-172639666.html",
-        "published": "2026-09-10T17:26:39Z"
+        "title": "Corn Squares Up Ahead of USDA Report Day",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-squares-ahead-usda-report-222044111.html",
+        "published": "2026-09-10T22:20:44Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "'Clean' Energy And Tech Spending Slides 17%. New Report Blames China, But Doesn't Tell The Whole Story.",
-        "link": "https://www.investors.com/news/clean-energy-stocks-clean-investment-slides-17-percent-blames-china/?src=A00220&yptr=yahoo",
-        "published": "2026-09-10T17:28:30Z"
+        "title": "Soybeans Break to New Highs on Thursday’s Rally",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-break-highs-thursday-rally-222044883.html",
+        "published": "2026-09-10T22:20:44Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Palo Alto (PANW) Reports 63% NGS ARR Growth but a $282M GAAP Net Loss. Can Platform Expansion Absorb Acquisition Costs?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-panw-reports-63-173118350.html",
-        "published": "2026-09-10T17:31:18Z"
+        "title": "Northern Trust (NTRS) Won a £3.6B Pension Mandate. Can it Move Fee Growth?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/northern-trust-ntrs-won-3-213701812.html",
+        "published": "2026-09-10T21:37:01Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -754,57 +706,105 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Unusual Options Activity Points to Big Institutional Bets on These 3 Industries",
-        "link": "https://finance.yahoo.com/markets/options/articles/unusual-options-activity-points-big-173003826.html",
-        "published": "2026-09-10T17:30:03Z"
+        "title": "Patterson-UTI (PTEN) Averaged 101 August Rigs. Can Activity Deliver Better Margins?",
+        "link": "https://finance.yahoo.com/energy/articles/patterson-uti-pten-averaged-101-213510010.html",
+        "published": "2026-09-10T21:35:10Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Vince Holding Corp. Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/vince-holding-corp-q2-2026-170215484.html",
-        "published": "2026-09-10T17:02:15Z"
+        "title": "Apple, IBD Stock Of The Day, Rebounds Bullishly After iPhone Duo Debut",
+        "link": "https://www.investors.com/research/ibd-stock-of-the-day/apple-stock-rises-after-iphone-duo-debut/?src=A00220&yptr=yahoo",
+        "published": "2026-09-10T21:32:28Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Stanley Black & Decker (SWK) Agreed to Sell Excel Industries. Will a Narrower Portfolio Improve Returns?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-black-decker-swk-agreed-173523381.html",
-        "published": "2026-09-10T17:35:23Z"
+        "title": "Private credit loses its edge in the battle for PE borrowers",
+        "link": "https://finance.yahoo.com/markets/options/articles/private-credit-loses-edge-battle-213250231.html",
+        "published": "2026-09-10T21:32:50Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Arcosa Shareholders Approve $8.5B CRH Deal. Does the Vote De-Risk a First-Quarter 2027 Closing?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/arcosa-shareholders-approve-8-5b-174008590.html",
-        "published": "2026-09-10T17:40:08Z"
+        "title": "What drives the price of gold?",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/what-drives-gold-price-171825145.html",
+        "published": "2026-07-08T17:18:25Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Five Below Faces Its Toughest Test Ahead After 5 Consecutive Quarters of Double-Digit Sales Growth",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/five-below-faces-toughest-test-170500791.html",
-        "published": "2026-09-10T17:05:00Z"
+        "title": "Caterpillar Sees Strong 2026 Start as Data Center Power Demand Fuels Expansion",
+        "link": "https://finance.yahoo.com/energy/articles/caterpillar-sees-strong-2026-start-220313330.html",
+        "published": "2026-09-10T22:03:13Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Comstock (CRK) Signs a $1.65B SOCAR Letter of Intent and a $450M Drilling Venture. Does Deleveraging Outweigh the Economics It Gives Up?",
-        "link": "https://finance.yahoo.com/energy/articles/comstock-crk-signs-1-65b-170000933.html",
-        "published": "2026-09-10T17:00:00Z"
+        "title": "Oracle Stock Jumps As Earnings Beat Estimates, Cloud Infrastructure Growth Accelerates",
+        "link": "https://www.investors.com/news/technology/oracle-stock-orcl-q1-earnings-aug-2026-ai/?src=A00220&yptr=yahoo",
+        "published": "2026-09-10T21:30:56Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "What is a mortgage interest rate buydown, and should you get one?",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/buy-down-interest-rate-172228613.html",
-        "published": "2024-04-05T17:22:28Z"
+        "title": "Nyxoah (NYXH) Begins BREATHE Study. Can Real-World Evidence Drive Genio Adoption?",
+        "link": "https://finance.yahoo.com/healthcare/articles/nyxoah-nyxh-begins-breathe-study-211832079.html",
+        "published": "2026-09-10T21:18:32Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Huntington sues 24 R&R companies over more than $12M in debt",
-        "link": "https://finance.yahoo.com/small-business/articles/huntington-sues-24-r-r-174159737.html",
-        "published": "2026-09-10T17:41:59Z"
+        "title": "When will mortgage rates go down? The bond market isn't helping.",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-the-bond-market-isnt-helping-190610094.html",
+        "published": "2025-04-22T19:06:10Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Brady Corp (BRC) Forecast $6.25 to $6.75 Adjusted EPS. Can Lower-Margin IPS Deliver Accretion?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/brady-corp-brc-forecast-6-174350138.html",
-        "published": "2026-09-10T17:43:50Z"
+        "title": "Why The United States’ Belated Critical Minerals Gambit Won’t Stop China",
+        "link": "https://finance.yahoo.com/energy/articles/why-united-states-belated-critical-230000986.html",
+        "published": "2026-09-10T23:00:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Frequency Electronics Q1 Earnings Call Highlights",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/frequency-electronics-q1-earnings-call-220312267.html",
+        "published": "2026-09-10T22:03:12Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Descartes reports another record-breaking quarter",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/descartes-reports-another-record-breaking-230516971.html",
+        "published": "2026-09-10T23:05:16Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Cognizant (CTSH): Can 17 AI Agents Turn Productivity Into Revenue?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/cognizant-ctsh-17-ai-agents-231307532.html",
+        "published": "2026-09-10T23:13:07Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Citigroup (C) Completed a Weekend Tokenized-Dollar Transfer. Can the Network Scale?",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/citigroup-c-completed-weekend-tokenized-231303058.html",
+        "published": "2026-09-10T23:11:19Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Mastercard (MA) Partners With Flowcart. Can In-Chat Payments Deliver Profitable Growth?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-partners-flowcart-chat-231841366.html",
+        "published": "2026-09-10T23:18:41Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Zumiez Q2 Earnings Call Highlights",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/zumiez-q2-earnings-call-highlights-220312564.html",
+        "published": "2026-09-10T22:03:12Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "This High-Yield Advertising REIT Just Raised Its Dividend by More Than 3%",
+        "link": "https://finance.yahoo.com/real-estate/articles/high-yield-advertising-reit-just-233002316.html",
+        "published": "2026-09-10T23:30:02Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Casey’s General Stores (CASY) Grew EBITDA 17.1%. Can Fuel Sustain Growth?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/casey-general-stores-casy-grew-233742572.html",
+        "published": "2026-09-10T23:37:42Z"
       }
     ]
   }
