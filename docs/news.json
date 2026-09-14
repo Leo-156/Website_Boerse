@@ -1,12 +1,72 @@
 {
-  "updated_at": "2026-09-14T10:34:21.772937+00:00",
+  "updated_at": "2026-09-14T16:32:00.618032+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Debatte um KI‑Entwicklung drückt Chip-Aktien ins Minus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-debatte-um-kientwicklung-drueckt-chip-aktien-ins-minus/100254261.html",
-        "published": "Mon, 14 Sep 2026 09:49:46 GMT"
+        "title": "Fusionspläne: „Starkes Mittelstandsgeschäft“ – Klingbeil nennt Unicredit-Chef Forderungen für Commerzbank-Übernahme",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/commerzbank-klingbeil-uebermittelt-unicredit-chef-forderungskatalog/100253185.html",
+        "published": "Mon, 14 Sep 2026 16:23:19 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Hoher Ölpreis verhagelt Wochenstart: Dax schließt im Minus – SAP-Aktie legt mehr als fünf Prozent zu",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-hoher-oelpreis-drueckt-dax-ins-minus-sap-aktie-groesster-gewinner/100254261.html",
+        "published": "Mon, 14 Sep 2026 16:03:36 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Die Fed könnte bei ihrem Zinsentscheid am Mittwoch Geschichte schreiben",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/zinsen-die-fed-koennte-bei-ihrem-zinsentscheid-geschichte-schreiben/100253905.html",
+        "published": "Mon, 14 Sep 2026 15:58:37 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Spritpreise: „Es wird abkassiert“ – Tankstellenverband hält Benzinpreise von drei Euro pro Liter für möglich",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/spritpreise-tankstellenverband-haelt-drei-euro-pro-liter-fuer-moeglich/100254333.html",
+        "published": "Mon, 14 Sep 2026 15:38:17 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Rohstoffe: Angriff auf Pipeline in Saudi-Arabien erhöht Wahrscheinlichkeit für starken Anstieg des Ölpreises",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oelpreis-angriff-auf-pipeline-erhoeht-wahrscheinlichkeit-fuer-starken-anstieg/100254291.html",
+        "published": "Mon, 14 Sep 2026 15:01:07 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax-Sentiment: Anlegerstimmung bricht ein – auch die Aktienkurse könnten weiter fallen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/dax-anlegerstimmung-bricht-ein-auch-die-aktienkurse-koennten-weiter-fallen/100252797.html",
+        "published": "Mon, 14 Sep 2026 13:44:16 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Aktien: Tech-Titel fallen nach den Warnungen vor einer KI-Katastrophe deutlich",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-kichefs-warnen-und-tech-titel-weltweit-fallen-deutlich/100254349.html",
+        "published": "Mon, 14 Sep 2026 13:41:05 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Kauf einer Mietwohnung – Das verdienen Vermieter tatsächlich",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/geldanlage-lohnt-es-sich-mit-immobilien-fuer-das-alter-vorzusorgen/100180922.html",
+        "published": "Mon, 14 Sep 2026 12:52:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Deep Read: „Too big to fail“? Nvidia wird zum stillen Risiko für das globale Finanzsystem",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/nvidia-wie-riskant-sind-die-geschaefte-des-chipkonzerns-fuer-die-maerkte/100252704.html",
+        "published": "Mon, 14 Sep 2026 12:51:47 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Für diese drei Dax-Konzerne steigen die Dividendenprognosen am stärksten",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-welche-dividendenprognosen-im-dax-am-staerksten-steigen/100252644.html",
+        "published": "Mon, 14 Sep 2026 10:37:35 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Steuervorteile: Griechenland wirbt Hedgefonds aus London ab",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/steuervorteile-griechenland-wirbt-hedgefonds-aus-london-ab/100254080.html",
+        "published": "Mon, 14 Sep 2026 10:36:58 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -19,12 +79,6 @@
         "title": "Finanzmarkt: Euronext-Chef schlägt Fusion mit der Deutschen Börse vor",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/finanzmarkt-euronext-chef-schlaegt-fusion-mit-der-deutschen-boerse-vor/100254326.html",
         "published": "Mon, 14 Sep 2026 09:13:51 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Spritpreise: „Es wird abkassiert“ – Tankstellenverband hält Benzinpreise von drei Euro pro Liter für möglich",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/spritpreise-tankstellenverband-haelt-drei-euro-pro-liter-fuer-moeglich/100254333.html",
-        "published": "Mon, 14 Sep 2026 08:52:48 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -67,202 +121,130 @@
         "title": "Märkte Insight: Der September bestätigt an der Börse sein Image als Angstmonat",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/dax-der-september-bestaetigt-an-der-boerse-sein-image-als-angstmonat/100253125.html",
         "published": "Sun, 13 Sep 2026 12:50:40 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Klimawandel: Welche Immobilien an Wert verlieren, welche gewinnen",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-der-klimawandel-in-deutschland-schon-preise-drueckt/100249482.html",
-        "published": "Mon, 14 Sep 2026 05:07:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Naher Osten: Nach Angriff auf Pipeline: Saudi-Arabien schließt wichtige Alternative zur Straße von Hormus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/naher-osten-saudi-arabien-schliesst-wichtige-alternative-zur-hormus-strasse/100254044.html",
-        "published": "Sat, 12 Sep 2026 12:35:12 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Genossenschaftsbank: Eigner der Raiffeisenbank Plankstetten streichen „genossenschaftlich“",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/genossenschaftsbank-eigner-der-raiffeisenbank-plankstetten-streichen-genossenschaftlich/100253684.html",
-        "published": "Sat, 12 Sep 2026 12:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "EU-Richtlinie: Bekommen Deutsche bald kein Schweizer Bankkonto mehr?",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/schweizer-bankkonto-ab-2027-das-aendert-die-neue-eu-richtlinie-crd-vi/100252937.html",
-        "published": "Sat, 12 Sep 2026 08:41:02 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: Sinkende Ölpreise stützen US‑Börsen – Wall Street schließt im Plus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-sinkende-oelpreise-stuetzen-usboersen-wall-street-schliesst-im-plus/100253945.html",
-        "published": "Fri, 11 Sep 2026 20:25:19 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax schließt im Plus – Ölpreis fällt wieder",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-plus-oelpreis-faellt-wieder/100253768.html",
-        "published": "Fri, 11 Sep 2026 16:11:18 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Teuerung: US-Inflation verharrt bei 3,4 Prozent – Zinserhöhung gilt als nahezu sicher",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-verharrt-bei-34-prozent-was-macht-die-fed-1/100252796.html",
-        "published": "Fri, 11 Sep 2026 14:11:13 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: „Kapital steht bereit – es fehlen verlässliche Rahmenbedingungen“",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-kapital-steht-bereit-es-fehlen-verlaessliche-rahmenbedingungen/100251423.html",
-        "published": "Fri, 11 Sep 2026 13:30:46 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Schweiz: UBS kauft Anleihen im Wert von fast acht Milliarden Dollar zurück",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/schweiz-ubs-kauft-anleihen-im-wert-von-fast-acht-milliarden-dollar-zurueck/100253913.html",
-        "published": "Fri, 11 Sep 2026 13:24:29 GMT"
       }
     ],
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Schwache Performance in Frankfurt: DAX legt mittags den Rückwärtsgang ein",
-        "link": "https://www.finanzen.net/nachricht/aktien/schwache-performance-in-frankfurt-dax-legt-mittags-den-rueckwaertsgang-ein-15932582",
-        "published": "Mon, 14 Sep 2026 12:25:42 +0200"
+        "title": "ROUNDUP/Aktien Europa Schluss: EuroStoxx leidet unter Konjunktur- und KI-Sorgen",
+        "link": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-europa-schluss-eurostoxx-leidet-unter-konjunktur-und-ki-sorgen-15933488",
+        "published": "Mon, 14 Sep 2026 18:25:39 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Handel in Zürich: SMI fester",
-        "link": "https://www.finanzen.net/nachricht/aktien/handel-in-zuerich-smi-fester-15932581",
-        "published": "Mon, 14 Sep 2026 12:25:42 +0200"
+        "title": "Rheinmetall-Aktie hält 1.000-Euro-Marke nicht: Neuer Millionenauftrag treibt Munitionsgeschäft",
+        "link": "https://www.finanzen.net/nachricht/aktien/artilleriegeschosse-rheinmetall-aktie-haelt-1-000-euro-marke-nicht-neuer-millionenauftrag-treibt-munitionsgeschaeft-15932202",
+        "published": "Mon, 14 Sep 2026 18:23:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "ATX-Handel aktuell: ATX gibt mittags nach",
-        "link": "https://www.finanzen.net/nachricht/aktien/atx-handel-aktuell-atx-gibt-mittags-nach-15932580",
-        "published": "Mon, 14 Sep 2026 12:25:42 +0200"
+        "title": "US-Zinsentscheid als wichtiger Entscheidungsfaktor: DAX startet Woche auf rotem Terrain",
+        "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-us-zinsentscheid-als-wichtiger-entscheidungsfaktor-dax-startet-woche-auf-rotem-terrain-15932001",
+        "published": "Mon, 14 Sep 2026 18:20:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Starker Wochentag in Frankfurt: So entwickelt sich der LUS-DAX mittags",
-        "link": "https://www.finanzen.net/nachricht/aktien/starker-wochentag-in-frankfurt-so-entwickelt-sich-der-lus-dax-mittags-15932579",
-        "published": "Mon, 14 Sep 2026 12:25:42 +0200"
+        "title": "EQS-Adhoc: CEWE Stiftung & Co. KGaA: CEWE beschließt Aktienrückkauf",
+        "link": "https://www.finanzen.net/nachricht/aktien/eqs-adhoc-cewe-stiftung-co-kgaa-cewe-beschlie-t-aktienr-ckkauf-15933481",
+        "published": "Mon, 14 Sep 2026 18:18:13 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Börse Zürich: Anleger lassen SLI mittags steigen",
-        "link": "https://www.finanzen.net/nachricht/aktien/boerse-zuerich-anleger-lassen-sli-mittags-steigen-15932578",
-        "published": "Mon, 14 Sep 2026 12:25:42 +0200"
+        "title": "ROUNDUP/Aktien Frankfurt Schluss: Ölpreis und KI-Sorgen beunruhigen Anleger",
+        "link": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-frankfurt-schluss-oelpreis-und-ki-sorgen-beunruhigen-anleger-15933478",
+        "published": "Mon, 14 Sep 2026 18:17:40 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Schwache Performance in Wien: ATX Prime gibt am Mittag nach",
-        "link": "https://www.finanzen.net/nachricht/aktien/schwache-performance-in-wien-atx-prime-gibt-am-mittag-nach-15932577",
-        "published": "Mon, 14 Sep 2026 12:25:42 +0200"
+        "title": "Auf dem Verkaufszettel: Diese Aktien empfehlen Experten zu verkaufen",
+        "link": "https://www.finanzen.net/nachricht/aktien/verkaufsempfehlungen-kw-37-auf-dem-verkaufszettel-diese-aktien-empfehlen-experten-zu-verkaufen-15927218",
+        "published": "Mon, 14 Sep 2026 18:17:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Schwacher Wochentag in Paris: Das macht der CAC 40 am Montagmittag",
-        "link": "https://www.finanzen.net/nachricht/aktien/schwacher-wochentag-in-paris-das-macht-der-cac-40-am-montagmittag-15932576",
-        "published": "Mon, 14 Sep 2026 12:25:42 +0200"
+        "title": "GNW-News: Meistern Sie Ihren Unterricht und bereiten Sie sich mit den Student Spaces in Acrobat auf die nächsten Schritte vor",
+        "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-meistern-sie-ihren-unterricht-und-bereiten-sie-sich-mit-den-student-spaces-in-acrobat-auf-die-naechsten-schritte-vor-15933473",
+        "published": "Mon, 14 Sep 2026 18:14:39 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Gute Stimmung in Zürich: So entwickelt sich der SPI mittags",
-        "link": "https://www.finanzen.net/nachricht/aktien/gute-stimmung-in-zuerich-so-entwickelt-sich-der-spi-mittags-15932575",
-        "published": "Mon, 14 Sep 2026 12:25:42 +0200"
+        "title": "S&P 500 vor Belastungsprobe: Trumps Kurs bringt die Fed in Bedrängnis – und bedroht die Börsenrally",
+        "link": "https://www.finanzen.net/nachricht/aktien/bewertungsalarm-s-p-500-vor-belastungsprobe-trumps-kurs-bringt-die-fed-in-bedraengnis-und-bedroht-die-boersenrally-00-15929877",
+        "published": "Mon, 14 Sep 2026 18:14:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Zuversicht in London: Das macht der FTSE 100 am Montagmittag",
-        "link": "https://www.finanzen.net/nachricht/aktien/zuversicht-in-london-das-macht-der-ftse-100-am-montagmittag-15932574",
-        "published": "Mon, 14 Sep 2026 12:25:42 +0200"
+        "title": "MÄRKTE EUROPA/Schwächer - KI-Sorgen belasten Technologie-Werte",
+        "link": "https://www.finanzen.net/nachricht/aktien/maerkte-europa-schwaecher-ki-sorgen-belasten-technologie-werte-15933470",
+        "published": "Mon, 14 Sep 2026 18:13:47 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Minuszeichen in Europa: Euro STOXX 50 präsentiert sich am Montagmittag schwächer",
-        "link": "https://www.finanzen.net/nachricht/aktien/minuszeichen-in-europa-euro-stoxx-50-praesentiert-sich-am-montagmittag-schwaecher-15932573",
-        "published": "Mon, 14 Sep 2026 12:25:42 +0200"
+        "title": "Riester-Vertrag kündigen? Warum das über 10.000 Euro kostet",
+        "link": "https://www.finanzen.net/nachricht/aktien/riester-vertrag-kuendigen-warum-das-ueber-10-000-euro-kostet-15933477",
+        "published": "Mon, 14 Sep 2026 18:11:23 +0200"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Indonesia’s New Finance Chief Is Seen as Market-Friendly Veteran",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/indonesia-s-new-finance-chief-is-seen-as-market-friendly-veteran",
-        "published": "Mon, 14 Sep 2026 10:22:27 GMT"
+        "title": "Emerging-Market Assets Fall as Oil Surge, AI Jitters Dent Mood",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/emerging-market-stocks-decline-on-mideast-tensions-rate-risks",
+        "published": "Mon, 14 Sep 2026 04:26:21 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Africa's Richest Man Set for $23 Billion Jump in Fortune on IPO",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-14/africa-s-richest-man-to-gain-23-billion-fortune-on-ipo-video",
-        "published": "Mon, 14 Sep 2026 10:21:10 GMT"
+        "title": "This Is A Different Kind of AI Selloff",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/this-is-a-different-kind-of-ai-selloff",
+        "published": "Mon, 14 Sep 2026 16:24:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China’s Credit Expansion Misses Forecast as Loan Demand Sags",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-credit-expansion-misses-forecast-as-loan-demand-sags",
-        "published": "Mon, 14 Sep 2026 09:13:58 GMT"
+        "title": "Tariffs Forced Nissan to Speed U.S. Production, Says Americas Chairman",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-14/tariffs-forced-nissan-to-speed-u-s-production-video",
+        "published": "Mon, 14 Sep 2026 16:23:34 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Risk of AI Slowdown Prompts Angst Among Tech Investors",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/risk-of-ai-slowdown-prompts-angst-among-tech-investors",
-        "published": "Mon, 14 Sep 2026 10:15:34 GMT"
+        "title": "Saudis Seek to Boost Hormuz Oil Exports as Key Pipeline Attacked",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/saudis-seek-to-boost-hormuz-oil-exports-as-key-pipeline-attacked",
+        "published": "Mon, 14 Sep 2026 16:16:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "A 5% Treasury Yield Raises New Risks for Markets, Economy",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-13/a-5-treasury-yield-is-raising-new-risks-for-markets-economy",
-        "published": "Sun, 13 Sep 2026 19:00:00 GMT"
+        "title": "BofA’s Subramanian Lifts S&P 500 View to 7,400, Stays Cautious",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/bofa-s-subramanian-lifts-s-p-500-view-to-7-400-stays-cautious",
+        "published": "Mon, 14 Sep 2026 16:13:28 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "AI Data Center Boom Is Changing CMBS Risks",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-data-center-boom-is-changing-cmbs-risks",
-        "published": "Mon, 14 Sep 2026 10:10:00 GMT"
+        "title": "US Takes $450 Million Stake in Tungsten Firm to Counter China",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/us-takes-450-million-stake-in-tungsten-firm-to-counter-china",
+        "published": "Mon, 14 Sep 2026 16:09:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "American Miner Signs Rwanda Tungsten Deal to Grow Western Supply",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/american-miner-signs-rwanda-tungsten-deal-to-grow-western-supply",
-        "published": "Mon, 14 Sep 2026 10:00:00 GMT"
+        "title": "Rig at Citadel’s Miami Construction Site Falls; Injures Four",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/crane-collapses-on-cars-in-miami-financial-center-four-injured",
+        "published": "Mon, 14 Sep 2026 14:35:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "AI Bosses Risk Pushback Over Calls to Slow Tech",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-14/ai-bosses-risk-pushback-over-calls-to-slow-tech-video",
-        "published": "Mon, 14 Sep 2026 09:59:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Slide as AI and Oil Deliver Double Blow: Markets Wrap",
+        "title": "Stocks Fall as AI Slowdown Worries Hit Chipmakers: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
         "published": "Sun, 13 Sep 2026 22:06:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Autonomous Muslim Region in Philippines Holds First Election to Cement Peace",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/autonomous-muslim-region-in-philippines-holds-first-election-to-cement-peace",
-        "published": "Mon, 14 Sep 2026 00:48:00 GMT"
+        "title": "NextEra, Dominion Offer Virginia More Aid to Ease Deal Fears",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/nextera-dominion-offer-virginia-aid-to-smooth-67-billion-deal",
+        "published": "Mon, 14 Sep 2026 13:36:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Amundi Buys Two-Year Treasuries To Insure Against Growth Slowdown",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/amundi-buys-two-year-treasuries-to-insure-against-growth-slowdown",
-        "published": "Mon, 14 Sep 2026 08:54:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pakistan's GasPort on LNG Outlook Amid Hormuz Closure",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-14/pakistan-s-gasport-on-lng-outlook-amid-hormuz-closure-video",
-        "published": "Mon, 14 Sep 2026 03:39:44 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Indonesia New Finance Minister a Sign of Prudence, Analysts Say",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/indonesia-new-finance-minister-a-sign-of-prudence-analysts-say",
-        "published": "Mon, 14 Sep 2026 09:37:29 GMT"
+        "title": "US 10-Year Breaches 5% as Inflation, Supply Worries Mount",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/us-10-year-yield-breaches-5-as-inflation-supply-worries-mount",
+        "published": "Mon, 14 Sep 2026 14:29:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -272,42 +254,84 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Falls as Traders Eye Impact of Higher Oil on Fed Rate Path",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/gold-edges-lower-as-hot-us-inflation-bolsters-fed-rate-hike-bets",
-        "published": "Mon, 14 Sep 2026 00:33:00 GMT"
+        "title": "Citadel Securities Sees Europe Bond Yields Capped by Weak Growth",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/citadel-securities-sees-europe-bond-yields-capped-by-weak-growth",
+        "published": "Mon, 14 Sep 2026 15:33:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Canada Developer Concord Buys Wind Farm, Plots New Data Centers",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/canada-developer-concord-buys-wind-farm-plots-new-data-centers",
-        "published": "Mon, 14 Sep 2026 09:00:00 GMT"
+        "title": "All Eyes on Warsh as Rate-Hike Fever Spreads Across G7",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-14/all-eyes-on-warsh-as-rate-hike-fever-spreads-across-g7-video",
+        "published": "Mon, 14 Sep 2026 15:33:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Emerging Markets Can Weather Fed Risk After Oil Jump and War",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-13/after-oil-surge-and-war-emerging-markets-unfazed-by-fed-risk",
-        "published": "Sun, 13 Sep 2026 12:52:31 GMT"
+        "title": "US Private Credit Default Rate Hits a Record of 6.3%, Fitch Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/us-private-credit-default-rate-hits-a-record-of-6-3-fitch-says",
+        "published": "Mon, 14 Sep 2026 15:30:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UAE’s Boom Faces a Wartime Test",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-14/uae-s-boom-faces-a-wartime-test-video",
-        "published": "Mon, 14 Sep 2026 08:44:39 GMT"
+        "title": "Latam Airlines Secures $505M Loan to Finance New Aircraft",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/latam-airlines-secures-505m-loan-to-finance-new-aircraft",
+        "published": "Mon, 14 Sep 2026 15:30:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wall Street Strategists See Stock Rally Surviving Fed Rate Hike",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/wall-street-strategists-see-stock-rally-surviving-fed-rate-hike",
-        "published": "Mon, 14 Sep 2026 08:40:46 GMT"
+        "title": "Trump’s Drug-Price Push to Cut Access Outside US, Study Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-13/trump-s-drug-pricing-push-to-cut-access-outside-us-study-finds",
+        "published": "Sun, 13 Sep 2026 22:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Abu Dhabi: Law Firm Sullivan & Cromwell Opens UAE Office to tap Gulf Deals",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/abu-dhabi-law-firm-sullivan-cromwell-opens-uae-office-to-tap-gulf-deals",
-        "published": "Mon, 14 Sep 2026 08:30:00 GMT"
+        "title": "US 10-Year Treasury Yield Hits Highest Since 2023",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-14/us-10-year-treasury-yield-hits-highest-since-2023-video",
+        "published": "Mon, 14 Sep 2026 15:00:26 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Strategist Who Foresaw 10-Year Treasuries at 5% Says Selloff Isn’t Done Yet",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/strategist-who-foresaw-10-year-treasuries-at-5-says-selloff-isn-t-done-yet",
+        "published": "Mon, 14 Sep 2026 14:55:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Etihad Says Mideast Rivalry Shields Passengers From Higher Fares",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/etihad-says-mideast-rivalry-shields-passengers-from-higher-fares",
+        "published": "Mon, 14 Sep 2026 14:52:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SpaceX Moves on Musk Comments; Oracle Drops on Ellison Plan | Stock Movers",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-14/spacex-moves-on-musk-remark-oracle-down-on-ellison-plan-video",
+        "published": "Mon, 14 Sep 2026 14:51:34 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax sinkt weiter ab - Gold rutscht unter 4.300 Dollar",
+        "link": "https://www.onvista.de/news/2026/09-14-dax-sinkt-weiter-ab-gold-rutscht-unter-4-300-dollar-41121301-19-26553292",
+        "published": "Mon, 14 Sep 2026 17:55:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Wie tief fallen Aktien, wenn Öl weiter steigt?",
+        "link": "https://www.onvista.de/news/2026/09-14-wie-tief-fallen-aktien-wenn-oel-weiter-steigt-41122522-19-26553230",
+        "published": "Mon, 14 Sep 2026 17:07:46 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "US-Renditen knacken Fünf-Prozent-Marke erstmals seit 2023",
+        "link": "https://www.onvista.de/news/2026/09-14-us-renditen-knacken-fuenf-prozent-marke-erstmals-seit-2023-41121301-19-26553271",
+        "published": "Mon, 14 Sep 2026 16:47:59 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Öl über 100 Dollar, Bayer vor Gericht, KI treibt Oracle",
+        "link": "https://www.onvista.de/news/2026/09-14-oel-ueber-100-dollar-bayer-vor-gericht-ki-treibt-oracle-40338625-19-26553131",
+        "published": "Mon, 14 Sep 2026 12:58:01 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Dax im Minus - Debatte um KI-Risiken belastet Tech-Werte",
@@ -433,30 +457,6 @@
         "title": "Vor EZB-Entscheid: Dax mit leichten Verlusten",
         "link": "https://www.onvista.de/news/2026/09-10-vor-ezb-entscheid-dax-mit-leichten-gewinnen-41121301-19-26551988",
         "published": "Thu, 10 Sep 2026 09:42:25 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Trotz schwacher Asien-Börsen: Dax stabil erwartet",
-        "link": "https://www.onvista.de/news/2026/09-10-trotz-schwacher-asien-boersen-dax-stabil-erwartet-41121301-19-26551943",
-        "published": "Thu, 10 Sep 2026 07:46:24 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 10.09.2026",
-        "link": "https://www.onvista.de/news/2026/09-10-finanzberichte-heute-10-09-2026-41121301-19-26551918",
-        "published": "Thu, 10 Sep 2026 06:10:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  10.09.2026",
-        "link": "https://www.onvista.de/news/2026/09-10-dividendenalarm-heute-10-09-2026-41121301-19-26551917",
-        "published": "Thu, 10 Sep 2026 06:00:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Teures Öl brockt Dax größten Tagesverlust seit Anfang Juli ein",
-        "link": "https://www.onvista.de/news/2026/09-09-teures-oel-brockt-dax-groessten-tagesverlust-seit-anfang-juli-ein-41121301-19-26551821",
-        "published": "Wed, 09 Sep 2026 17:55:00 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -524,15 +524,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Firmenpleiten in Deutschland auf höchstem Stand seit 2013",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-firmenpleiten-100.html",
-        "published": "Fri, 11 Sep 2026 14:21:33 +0200"
+        "title": "Bund und UniCredit verhandeln über Commerzbank-Übernahme",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-commerzbank-unicredit-100.html",
+        "published": "Mon, 14 Sep 2026 14:27:59 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Anleger fürchten straffere Geldpolitik",
+        "title": "Marktbericht: KI- und Zinssorgen bremsen DAX",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
-        "published": "Mon, 14 Sep 2026 10:50:05 +0200"
+        "published": "Mon, 14 Sep 2026 18:21:36 +0200"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Firmenpleiten in Deutschland auf höchstem Stand seit 2013",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-firmenpleiten-100.html",
+        "published": "Fri, 11 Sep 2026 14:21:33 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -647,15 +653,39 @@
         "title": "Deutsche Industrie wächst so stark wie zuletzt 2022",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-mittagsschwerpunkt-100.html",
         "published": "Fri, 21 Aug 2026 13:53:00 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Forschungserfolg treibt Aktien von Moderna & Co.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/moderna-merck-impfstoff-hautkrebs-100.html",
-        "published": "Thu, 20 Aug 2026 14:34:28 +0200"
       }
     ],
     "Yahoo Finance – Top Stories (EN)": [
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls on rising oil, AI tensions",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
+        "published": "2026-09-14T13:38:32Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as Anthropic's AI warning spooks tech traders, 10-year yield hits 5%",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
+        "published": "2026-09-14T08:05:59Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Tech stocks today: AI warnings send shock through chip stocks",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
+        "published": "2026-09-14T14:01:34Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Producer Of Strategic Metal Soars 43% On Pentagon Deals",
+        "link": "https://www.investors.com/news/pentagon-department-of-war-elmet-group-elmt-stock-tungsten/?src=A00220&yptr=yahoo",
+        "published": "2026-09-14T15:53:28Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
+        "link": "https://finance.yahoo.com/markets/article/stocks-could-have-a-tough-road-ahead-if-the-fed-hikes-rates-chart-of-the-day-155218683.html",
+        "published": "2026-09-14T15:52:18Z"
+      },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
         "title": "Another coffeehouse files for Chapter 11 as costs, prices rise",
@@ -664,147 +694,117 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Hewlett Packard Enterprise (HPE) Surges 19% in a Week — What to Watch For Next?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-surges-102301377.html",
-        "published": "2026-09-14T10:23:01Z"
+        "title": "Nvidia Triggers Key Signals As AI Warnings Mount; Is Nvidia A Sell Now?",
+        "link": "https://www.investors.com/research/nvidia-nvda-stock-ai-chips-tech-september-2026-buy-now-markets/?src=A00220&yptr=yahoo",
+        "published": "2026-09-14T15:51:06Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
-        "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
-        "published": "2026-09-14T09:36:37Z"
+        "title": "Stock Market Today: Dow Falls, Oil Jumps On Houthi Moves; Trump Hits Out At These AI Fears (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
+        "published": "2026-09-14T15:51:03Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
-        "link": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html",
-        "published": "2026-09-14T10:15:18Z"
+        "title": "YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project",
+        "link": "https://finance.yahoo.com/energy/articles/ypf-lines-buyers-24-billion-154703112.html",
+        "published": "2026-09-14T15:47:03Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "‘Black Swan’ investor backs Michael Burry’s AI warning: ‘Euphoric rally’ comes before historic crash. Protect your money",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/black-swan-investor-backs-michael-101500434.html",
-        "published": "2026-09-14T10:15:00Z"
+        "title": "When is the Fed's next meeting? See the full schedule for 2026.",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-full-schedule-150709698.html",
+        "published": "2024-06-06T15:07:09Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "How luxury brands are redesigning packaging for sustainability",
-        "link": "https://finance.yahoo.com/media-advertising/articles/luxury-brands-redesigning-packaging-sustainability-101346329.html",
-        "published": "2026-09-14T10:13:46Z"
+        "title": "Forget the Magnificent 7. This Duo Says Broadcom, Not Nvidia, Wins the Next Leg of AI.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/forget-magnificent-7-duo-says-161519682.html",
+        "published": "2026-09-14T16:15:19Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Analysis-Defense, space firms turn to SPACs as investor appetite soars",
-        "link": "https://finance.yahoo.com/news/analysis-defense-space-firms-turn-100910914.html",
-        "published": "2026-09-14T10:09:10Z"
+        "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain",
+        "link": "https://www.investors.com/news/ai-nvidia-broadcom-software-stocks-servicenow-workday-salesforce-micron/?src=A00220&yptr=yahoo",
+        "published": "2026-09-14T15:23:47Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
-        "published": "2026-09-14T08:05:59Z"
+        "title": "Europe’s AI Trade Hits Reverse",
+        "link": "https://finance.yahoo.com/technology/ai/articles/europe-ai-trade-hits-reverse-151219286.html",
+        "published": "2026-09-14T15:12:19Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Analysis-Bitcoin's late summer rally set to face off against the Fed, Congress",
-        "link": "https://finance.yahoo.com/news/analysis-bitcoins-summer-rally-set-100329922.html",
-        "published": "2026-09-14T10:05:05Z"
+        "title": "Walmart (WMT) Delivery Push Gains Momentum with Papa John’s Partnership",
+        "link": "https://finance.yahoo.com/media-advertising/articles/walmart-wmt-delivery-push-gains-150509817.html",
+        "published": "2026-09-14T15:05:09Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html",
-        "published": "2026-09-14T10:00:00Z"
+        "title": "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/vale-vale-deepens-china-ties-150347789.html",
+        "published": "2026-09-14T15:03:47Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "How to Earn $500 a Month From Chevron Stock",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/earn-500-month-chevron-stock-101000820.html",
-        "published": "2026-09-14T10:10:00Z"
+        "title": "‘That Makes Absolutely No Sense’: Orman Warns Family Moving Mom’s $87K Annuity to a Roth",
+        "link": "https://finance.yahoo.com/markets/options/articles/makes-absolutely-no-sense-orman-161304877.html",
+        "published": "2026-09-14T16:13:04Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "HELOC and home equity loan rates today, Monday, September 14, 2026: A 33-basis-point differential",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-differential-100000523.html",
-        "published": "2026-09-14T10:00:00Z"
+        "title": "Energy Transfer’s Texas Listing Could Boost Visibility, but Risks Remain",
+        "link": "https://finance.yahoo.com/energy/articles/energy-transfer-texas-listing-could-150231871.html",
+        "published": "2026-09-14T15:02:31Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
-        "published": "2026-09-14T10:00:00Z"
+        "title": "Half of Gen X expects to outlive their savings — 5 toxic habits that could quietly wreck your retirement",
+        "link": "https://finance.yahoo.com/markets/articles/half-gen-x-expects-outlive-150000293.html",
+        "published": "2026-09-14T15:00:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Walt Disney borrowed $60,000 against his life insurance to build Disneyland — how policy loans work",
-        "link": "https://finance.yahoo.com/small-business/articles/walt-disney-borrowed-60-000-100000051.html",
-        "published": "2026-09-14T10:00:00Z"
+        "title": "The Cooper Companies (COO) Faces Near-Term Pressure from Slowing Contact Lens Demand",
+        "link": "https://finance.yahoo.com/healthcare/articles/cooper-companies-coo-faces-near-145526217.html",
+        "published": "2026-09-14T14:55:26Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "The market says a Fed rate hike is a done deal. Here's why it might hold steady.",
-        "link": "https://finance.yahoo.com/economy/policy/article/the-market-says-a-fed-rate-hike-is-a-done-deal-heres-why-it-might-hold-steady-100000374.html",
-        "published": "2026-09-14T10:00:00Z"
+        "title": "Enbridge (ENB) Expands its U.S. Oil Footprint with Tallgrass Acquisition",
+        "link": "https://finance.yahoo.com/energy/articles/enbridge-enb-expands-u-oil-145324207.html",
+        "published": "2026-09-14T14:53:24Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "He Retired With No Paycheck and Planned His Roth Conversion Around an Empty Tax Bracket. In December, His Mutual Funds Filled It.",
-        "link": "https://finance.yahoo.com/markets/options/articles/retired-no-paycheck-planned-roth-100228385.html",
-        "published": "2026-09-14T10:02:28Z"
+        "title": "Intel Is Stuck in Neutral. There Is Exactly One Thing That Should Change Your Mind.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stuck-neutral-exactly-one-161218807.html",
+        "published": "2026-09-14T16:12:18Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Best high-yield savings interest rates today, Monday, September 14, 2026: Earn up to 4.10% APY",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-410-apy-100000167.html",
-        "published": "2026-09-14T10:00:00Z"
+        "title": "TotalEnergies (TTE) Sees Long-Term Potential in Angola’s Offshore Oil",
+        "link": "https://finance.yahoo.com/energy/articles/totalenergies-tte-sees-long-term-145201682.html",
+        "published": "2026-09-14T14:52:01Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Jim Cramer Tries To Predict NVIDIA Corporation (NASDAQ:NVDA) Share Price Movement Following Anthropic CEO’s Remarks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tries-predict-nvidia-095728531.html",
-        "published": "2026-09-14T09:57:28Z"
+        "title": "Marriott International (MAR)’s Middle East Headwind Eases, but War Risks Remain",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/marriott-international-mar-middle-east-145034601.html",
+        "published": "2026-09-14T14:50:34Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "A couple earning $310,000 a year faces a $100,000 debt divide that's putting their marriage plans on hold",
-        "link": "https://finance.yahoo.com/small-business/articles/couple-earning-310-000-faces-094500308.html",
-        "published": "2026-09-14T09:45:00Z"
+        "title": "Lyft (LYFT)’s Robotaxi Strategy Takes Shape with Waymo",
+        "link": "https://finance.yahoo.com/technology/articles/lyft-lyft-robotaxi-strategy-takes-144853683.html",
+        "published": "2026-09-14T14:48:53Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "China urges more FX hedging as strong yuan hits exporters, sources say",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/china-urges-more-fx-hedging-094330539.html",
-        "published": "2026-09-14T09:43:30Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race",
-        "link": "https://finance.yahoo.com/technology/ai/articles/alphabets-rapidly-growing-50-billion-100200224.html",
-        "published": "2026-09-14T10:02:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "50% of Americans wildly overestimate how much income $100,000 in retirement savings can produce, NIRS finds",
-        "link": "https://finance.yahoo.com/markets/articles/50-americans-wildly-overestimate-much-093000280.html",
-        "published": "2026-09-14T09:30:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles",
-        "link": "https://finance.yahoo.com/energy/articles/middle-east-oil-routes-under-091500205.html",
-        "published": "2026-09-14T09:15:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Here’s the minimum net worth you need to be considered ‘upper class’ in your 60s — and the magic step to get you there",
-        "link": "https://finance.yahoo.com/markets/articles/minimum-net-worth-considered-upper-120500252.html",
-        "published": "2026-09-14T09:05:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "7 ‘bad assets’ that could cause you to retire poor in America — how many do you own?",
-        "link": "https://finance.yahoo.com/markets/articles/7-bad-assets-could-cause-090000457.html",
-        "published": "2026-09-14T09:00:00Z"
+        "title": "Howmet Aerospace (HWM) Faces New Competitive Pressure after GE’s $11.75 Billion CPP Deal",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-hwm-faces-competitive-144705103.html",
+        "published": "2026-09-14T14:47:05Z"
       }
     ]
   }
