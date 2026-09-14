@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T22:36:58.435412+00:00",
+  "updated_at": "2026-09-14T00:23:45.132429+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -188,15 +188,33 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Stocks Retreat After AI Warnings, Oil Advances: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+        "published": "Sun, 13 Sep 2026 22:06:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China’s Tax Clampdown Raises Fears of Founder Share Disposals",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-tax-clampdown-raises-fears-of-founder-share-disposals",
+        "published": "Mon, 14 Sep 2026 00:03:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Sept. 14",
         "link": "https://www.bloomberg.com/news/articles/2026-09-13/latest-oil-market-news-and-analysis-for-sept-14",
         "published": "Sun, 13 Sep 2026 22:01:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Fall on AI Warning, Oil Gains: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-        "published": "Sun, 13 Sep 2026 22:06:01 GMT"
+        "title": "A $7 Billion Gas Bill Sees Developing Asian Nations Sour on LNG",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-13/a-7-billion-gas-bill-sees-developing-asian-nations-sour-on-lng",
+        "published": "Sun, 13 Sep 2026 23:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump’s Drug-Pricing Push to Cut Access Outside US, Study Finds",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-13/trump-s-drug-pricing-push-to-cut-access-outside-us-study-finds",
+        "published": "Sun, 13 Sep 2026 22:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -287,24 +305,6 @@
         "title": "Wall Street Says Stay With Stocks Despite Late ‘90s Dot-Com Vibe",
         "link": "https://www.bloomberg.com/news/articles/2026-09-13/wall-street-says-stay-with-stocks-despite-late-90s-dot-com-vibe",
         "published": "Sun, 13 Sep 2026 13:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "After Oil Surge and War, Emerging Markets Unfazed by Fed Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-13/after-oil-surge-and-war-emerging-markets-unfazed-by-fed-risk",
-        "published": "Sun, 13 Sep 2026 12:52:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Therapists Explore a Hybrid Future With AI",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-13/therapists-explore-a-hybrid-future-with-ai-video",
-        "published": "Sun, 13 Sep 2026 12:51:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pacific Island Bougainville Vows Action After Alleged Mine Arson",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-13/pacific-island-bougainville-vows-action-after-alleged-mine-arson",
-        "published": "Sun, 13 Sep 2026 12:22:59 GMT"
       }
     ],
     "onvista – News": [
@@ -658,33 +658,9 @@
     "Yahoo Finance – Top Stories (EN)": [
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
-        "published": "2026-09-12T21:37:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-        "published": "2026-09-13T22:19:06Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
-        "link": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html",
-        "published": "2026-09-13T21:00:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Is Chewy’s (CHWY) Margin Story Losing Steam, or Is a 48% Drop the Opportunity?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-margin-story-losing-195717174.html",
-        "published": "2026-09-13T19:57:17Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "DraftKings and Flutter Jump After Court Rules Prediction Markets Are Gambling, Not Federally Regulated Trading",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/draftkings-flutter-jump-court-rules-194622553.html",
-        "published": "2026-09-13T19:46:22Z"
+        "title": "Morgan Stanley delivers blunt message to America’s pet owners",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
+        "published": "2026-09-12T14:37:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -694,57 +670,33 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Boston Scientific (BSX) Didn’t Miss on Demand or Devices. A Cyberattack Just Broke Its Guidance.",
-        "link": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bsx-didn-t-193111827.html",
-        "published": "2026-09-13T19:31:11Z"
+        "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
+        "published": "2026-09-12T21:37:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
-        "published": "2026-09-13T19:13:28Z"
+        "title": "Alibaba (BABA)’s AI Bet Faces a $10.2 Billion Test",
+        "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-ai-bet-faces-133035025.html",
+        "published": "2026-09-12T13:30:35Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
-        "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
-        "published": "2026-09-13T19:10:52Z"
+        "title": "Frequency Electronics (FEIM) Soars After Record Revenue",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/frequency-electronics-feim-soars-record-133402974.html",
+        "published": "2026-09-12T13:34:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Starbucks’ $1 Billion Bet on Cozy Stores Faces a Margin Test",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-1-billion-bet-cozy-190035733.html",
-        "published": "2026-09-13T19:00:35Z"
+        "title": "Scott Bessent dismisses 'Bloomberg Terminal bros' as 10-year Treasury yield hits 4.94% despite $5.2B buyback",
+        "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-dismisses-bloomberg-terminal-133000792.html",
+        "published": "2026-09-12T13:30:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Morgan Stanley delivers blunt message to America’s pet owners",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
-        "published": "2026-09-12T14:37:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Navan (NAVN) Rides Enterprise Momentum Into Events and Meetings Through BoomPop Deal",
-        "link": "https://finance.yahoo.com/technology/ai/articles/navan-navn-rides-enterprise-momentum-171047781.html",
-        "published": "2026-09-13T17:10:47Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Korn Ferry (KFY) Expands Global Standing With AMS Acquisition",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-kfy-expands-global-170618310.html",
-        "published": "2026-09-13T17:06:18Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
-        "published": "2026-09-13T16:59:17Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-waiting-lower-165503524.html",
-        "published": "2026-09-13T16:55:03Z"
+        "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
+        "published": "2026-09-12T13:22:14Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -754,57 +706,105 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Being a millionaire isn’t enough to join America’s top 10% — here’s the net worth it actually takes to be in the top",
-        "link": "https://finance.yahoo.com/markets/articles/being-millionaire-isn-t-enough-164500172.html",
-        "published": "2026-09-13T16:45:00Z"
+        "title": "ABM Industries’ (ABM) Cash Flow Jump Masks A Split Business Story",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/abm-industries-abm-cash-flow-132127889.html",
+        "published": "2026-09-12T13:21:27Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Mortgage and refinance interest rates today, Sunday, September 13, 2026: Mortgage rates surged higher in the last week",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-rates-surged-higher-in-the-last-week-100000138.html",
-        "published": "2026-09-13T10:00:00Z"
+        "title": "Dan Loeb’s Third Point Increased Its Reported Hut 8 Stake and Disclosed Riot Debt Exposure",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dan-loeb-third-point-increased-132101919.html",
+        "published": "2026-09-12T13:21:01Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Best CD rates today, Sunday, September 13, 2026: Lock in up to 4.35% APY",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-13-2026-lock-in-up-to-435-apy-100000271.html",
-        "published": "2026-09-13T10:00:00Z"
+        "title": "Netskope’s (NTSK) AI Security Push Is Already Paying Off",
+        "link": "https://finance.yahoo.com/technology/ai/articles/netskope-ntsk-ai-security-push-131420161.html",
+        "published": "2026-09-12T13:14:20Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Best CD rates today, Saturday, September 12, 2026: Lock in up to 4.35% APY with an 18-month CD",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-12-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000342.html",
-        "published": "2026-09-12T10:00:00Z"
+        "title": "NVIDIA and Digital Realty’s Flexible AI Factory Faces a Test That More Funding Alone Can’t Solve",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-digital-realty-flexible-ai-131211843.html",
+        "published": "2026-09-12T13:12:11Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Ray Dalio Says Interest Costs Are Crowding Out Everything Else—Here’s His Three-Year Warning",
-        "link": "https://finance.yahoo.com/economy/policy/articles/ray-dalio-says-interest-costs-222107955.html",
-        "published": "2026-09-13T22:21:07Z"
+        "title": "Cerebras Systems vs. IonQ: Which Tech Stock Is a Better Buy in 2026?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-vs-ionq-tech-133101628.html",
+        "published": "2026-09-12T13:31:01Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Mortgage and refinance interest rates today, Saturday, September 12, 2026: Mortgage rates up for the second straight day",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-12-2026-mortgage-rates-up-for-the-second-straight-day-100000822.html",
-        "published": "2026-09-12T10:00:00Z"
+        "title": "Ray Dalio and Bloomberg analysts reveal where to put $10,000 as stocks hit highs and bonds sell off in 2026",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-bloomberg-analysts-reveal-130000521.html",
+        "published": "2026-09-12T13:00:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "I’m 61 Years Old With $200,000 Saved for Retirement. What’s My Game Plan?",
-        "link": "https://finance.yahoo.com/news/m-61-years-old-200-171222070.html",
-        "published": "2026-09-13T22:20:13Z"
+        "title": "Goldman Sachs Is Bullish. Here Are 3 Reasons AFRM Stock Could Climb 69%.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-bullish-3-reasons-130003545.html",
+        "published": "2026-09-12T13:00:03Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "DocuSign's 2026 Outlook: Artificial Intelligence Drives Future Revenue Growth",
-        "link": "https://finance.yahoo.com/technology/ai/articles/docusigns-2026-outlook-artificial-intelligence-215816259.html",
-        "published": "2026-09-13T21:58:16Z"
+        "title": "Intuit vs. Block: 1 Fintech Stock Is Built for the Next Decade",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-vs-block-1-fintech-130003367.html",
+        "published": "2026-09-12T13:00:03Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Data Center IPO Wave Reveals A Variety Of New Strategies In Booming Sector",
-        "link": "https://finance.yahoo.com/real-estate/articles/data-center-ipo-wave-reveals-215318276.html",
-        "published": "2026-09-13T21:53:18Z"
+        "title": "Destination XL’s (DXLG) Profit Surge Can’t Outrun Its Traffic Problem",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/destination-xl-dxlg-profit-surge-124327339.html",
+        "published": "2026-09-12T12:43:27Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "HIVE Digital Technologies builds AI revenue engine with new hire – ICYMI",
+        "link": "https://finance.yahoo.com/technology/ai/articles/hive-digital-technologies-builds-ai-133400526.html",
+        "published": "2026-09-12T13:34:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "5 easy ways US boomers fry their nest egg and retire poor (even with big savings) — are you making the same mistakes?",
+        "link": "https://finance.yahoo.com/small-business/articles/5-easy-ways-us-boomers-124500767.html",
+        "published": "2026-09-12T12:45:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Why Cathie Wood Is Selling Google and Buying More Meta Platforms Stock",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-cathie-wood-selling-google-124304062.html",
+        "published": "2026-09-12T12:43:04Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Why stocks haven't tanked despite higher bond yields: Chart of the Day",
+        "link": "https://finance.yahoo.com/news/why-stocks-havent-tanked-despite-higher-bond-yields-chart-of-the-day-123346395.html",
+        "published": "2026-09-12T12:33:46Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% Upside",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/descartes-dsgx-posts-record-q2-135154400.html",
+        "published": "2026-09-12T13:51:54Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "He Had Five 401(k)s From Five Jobs. One Afternoon of Paperwork Put Them in One Account and the IRS Never Saw a Dollar, Because Every Check Was Made Out to the Custodian, Not to Him",
+        "link": "https://finance.yahoo.com/markets/options/articles/had-five-401-k-five-133306117.html",
+        "published": "2026-09-12T13:33:06Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Why It’s Time to Buy the Dip in Affirm Stock",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-time-buy-dip-affirm-122742771.html",
+        "published": "2026-09-12T12:27:42Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Why AMD Stock Forecast Has Room to Run",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-forecast-room-140002995.html",
+        "published": "2026-09-12T14:00:02Z"
       }
     ]
   }
