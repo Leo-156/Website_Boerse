@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T23:26:24.354390+00:00",
+  "updated_at": "2026-09-15T01:37:08.497580+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,18 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
+        "title": "KI-Aktien wie NVIDIA & Co. in Gefahr? Warum Ray Dalio vor einem Crash wie in den 1920ern warnt",
+        "link": "https://www.finanzen.net/nachricht/aktien/kollaps-voraus-ki-aktien-wie-nvidia-co-in-gefahr-warum-ray-dalio-vor-einem-crash-wie-in-den-1920ern-warnt-00-15929503",
+        "published": "Tue, 15 Sep 2026 03:25:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "GNW-News: Space42 und Viasat unterzeichnen verbindliche Vereinbarung zur Gründung von Equatys: erste gemeinsame Plattform für Weltraum- und Bodeninfrastruktu...",
+        "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-space42-und-viasat-unterzeichnen-verbindliche-vereinbarung-zur-gruendung-von-equatys-erste-gemeinsame-plattform-fuer-weltraum-und-bodeninfrastruktu-15933859",
+        "published": "Tue, 15 Sep 2026 01:37:39 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
         "title": "KI-ETFs boomen: Chancen und Risiken für Anleger im Überblick",
         "link": "https://www.finanzen.net/nachricht/etf/ki-boom-ki-etfs-boomen-chancen-und-risiken-fuer-anleger-im-ueberblick-00-15922785",
         "published": "Mon, 14 Sep 2026 23:50:00 +0200"
@@ -171,32 +183,38 @@
         "title": "Börse New York in Rot: S&P 500 gibt schlussendlich nach",
         "link": "https://www.finanzen.net/nachricht/aktien/boerse-new-york-in-rot-s-p-500-gibt-schlussendlich-nach-15933732",
         "published": "Mon, 14 Sep 2026 22:32:52 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "NASDAQ-Handel NASDAQ Composite zum Ende des Montagshandels schwächer",
-        "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-handel-nasdaq-composite-zum-ende-des-montagshandels-schwaecher-15933731",
-        "published": "Mon, 14 Sep 2026 22:32:52 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Montagshandel in New York: Dow Jones letztendlich in Rot",
-        "link": "https://www.finanzen.net/nachricht/aktien/montagshandel-in-new-york-dow-jones-letztendlich-in-rot-15933730",
-        "published": "Mon, 14 Sep 2026 22:32:52 +0200"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks to Fall on AI, Key US Yield Tops 5%: Markets Wrap",
+        "title": "Latest Oil Market News and Analysis for Sept. 15",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/latest-oil-market-news-and-analysis-for-sept-15",
+        "published": "Mon, 14 Sep 2026 22:04:31 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Prabowo’s Economic Team Overhaul Leaves Investors Wanting More",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-15/prabowo-s-economic-team-overhaul-leaves-investors-wanting-more",
+        "published": "Tue, 15 Sep 2026 01:02:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bourses and Brokers May Win From India’s Proposed Auction Revamp",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-15/bourses-and-brokers-may-win-from-india-s-proposed-auction-revamp",
+        "published": "Tue, 15 Sep 2026 01:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil Extends Gain, Bonds Fall on Inflation Concerns: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap",
         "published": "Mon, 14 Sep 2026 22:19:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Yuan Popularity Boost Likely Focus of Hong Kong’s Five-Year Plan",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/yuan-popularity-boost-likely-focus-of-hong-kong-s-five-year-plan",
-        "published": "Mon, 14 Sep 2026 23:00:00 GMT"
+        "title": "Getty Museums Seek to Raise $270 Million, Leave Rate Swaps on Ice",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/getty-museums-seek-to-raise-270-million-leave-rate-swaps-on-ice",
+        "published": "Mon, 14 Sep 2026 15:48:26 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -206,9 +224,27 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Sept. 15",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/latest-oil-market-news-and-analysis-for-sept-15",
-        "published": "Mon, 14 Sep 2026 22:04:31 GMT"
+        "title": "US 10-Year Breaches 5% as Inflation, Supply Worries Mount",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/us-10-year-yield-breaches-5-as-inflation-supply-worries-mount",
+        "published": "Mon, 14 Sep 2026 14:29:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Holds Losses as Higher Oil Stokes September Rate-Hike Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/gold-holds-losses-as-higher-oil-stokes-september-rate-hike-bets",
+        "published": "Mon, 14 Sep 2026 23:49:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asian Junk Debt Is Beating Returns on Bonds Almost Everywhere",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/asian-junk-debt-is-beating-returns-on-bonds-almost-everywhere",
+        "published": "Mon, 14 Sep 2026 23:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Yuan Popularity Boost Likely Focus of Hong Kong’s Five-Year Plan",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/yuan-popularity-boost-likely-focus-of-hong-kong-s-five-year-plan",
+        "published": "Mon, 14 Sep 2026 23:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -269,42 +305,6 @@
         "title": "S&P 500 Seen Dropping 10% on Fed Hikes, MRA Strategist Says",
         "link": "https://www.bloomberg.com/news/articles/2026-09-14/s-p-500-seen-dropping-10-on-fed-hikes-mra-strategist-says",
         "published": "Mon, 14 Sep 2026 21:04:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Crafting America’s Countertops is Killing Workers",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-14/crafting-america-s-countertops-is-killing-workers",
-        "published": "Mon, 14 Sep 2026 21:00:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tema Rolls 'DICE' On SpaceX, Prediction Markets",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-14/tema-rolls-dice-on-spacex-prediction-markets-video",
-        "published": "Mon, 14 Sep 2026 20:46:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Emerging Markets Slide as Oil, AI Concerns Sap Risk Appetite",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/emerging-market-stocks-decline-on-mideast-tensions-rate-risks",
-        "published": "Mon, 14 Sep 2026 04:26:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Aon Raises $13.5 Billion From Bond Sale to Fund USI Takeover",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/aon-kicks-off-seven-part-us-dollar-bond-sale-for-usi-takeover",
-        "published": "Mon, 14 Sep 2026 12:23:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "BofA, Tallbacken Lift S&P 500 Views, Differ on Rate Risks",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/bofa-s-subramanian-lifts-s-p-500-view-to-7-400-stays-cautious",
-        "published": "Mon, 14 Sep 2026 16:13:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US 10-Year Breaches 5% as Inflation, Supply Worries Mount",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/us-10-year-yield-breaches-5-as-inflation-supply-worries-mount",
-        "published": "Mon, 14 Sep 2026 14:29:47 GMT"
       }
     ],
     "onvista – News": [
@@ -664,9 +664,57 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-posts-record-sales-134612583.html",
+        "published": "2026-09-13T13:46:12Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-grows-134921293.html",
+        "published": "2026-09-13T13:49:21Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
+        "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html",
+        "published": "2026-09-13T13:38:32Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html",
+        "published": "2026-09-13T13:36:58Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
         "title": "AI agents to start spending your money with Visa, Mastercard",
         "link": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html",
         "published": "2026-09-14T01:03:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-worth-buying-shorting-140002756.html",
+        "published": "2026-09-13T14:00:02Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-turns-lab-promises-133324594.html",
+        "published": "2026-09-13T13:33:24Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
+        "published": "2026-09-13T14:02:10Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
+        "published": "2026-09-13T14:08:37Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -676,15 +724,15 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nvidia Is Focused on Redefining AI Infrastructure as an Income-Generating Asset",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-focused-redefining-ai-infrastructure-153002085.html",
-        "published": "2026-09-13T15:30:02Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
         "title": "Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question.",
         "link": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
         "published": "2026-09-13T14:29:16Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Nvidia Is Focused on Redefining AI Infrastructure as an Income-Generating Asset",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-focused-redefining-ai-infrastructure-153002085.html",
+        "published": "2026-09-13T15:30:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -706,81 +754,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
-        "published": "2026-09-13T14:08:37Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
-        "published": "2026-09-13T14:02:10Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-worth-buying-shorting-140002756.html",
-        "published": "2026-09-13T14:00:02Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
         "title": "Zcash Price Prediction: Bearish RSI Divergence Sets Stage for Pullback to $850",
         "link": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-prediction-bearish-rsi-160848407.html",
         "published": "2026-09-13T16:08:48Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "49-year-old clothing chain closing stores as its shoppers shrink",
-        "link": "https://finance.yahoo.com/small-business/articles/49-old-clothing-chain-closing-153300913.html",
-        "published": "2026-09-13T15:33:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-grows-134921293.html",
-        "published": "2026-09-13T13:49:21Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-posts-record-sales-134612583.html",
-        "published": "2026-09-13T13:46:12Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
-        "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html",
-        "published": "2026-09-13T13:38:32Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html",
-        "published": "2026-09-13T13:36:58Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "HP Raises Outlook as Premium AI PCs and Tariff Refunds Boost Results",
-        "link": "https://finance.yahoo.com/technology/articles/hp-raises-outlook-premium-ai-150158423.html",
-        "published": "2026-09-13T15:01:58Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-turns-lab-promises-133324594.html",
-        "published": "2026-09-13T13:33:24Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
-        "link": "https://finance.yahoo.com/media-advertising/articles/clear-channel-outdoor-cco-grows-132626831.html",
-        "published": "2026-09-13T13:26:26Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Adobe’s (ADBE) AI Bet Is Finally Showing Up In Revenue",
-        "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ai-bet-finally-132237575.html",
-        "published": "2026-09-13T13:22:37Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -790,21 +766,45 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "5 Dividend Stocks Hiding in Boring Businesses Customers Cannot Live Without",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-hiding-boring-150131403.html",
-        "published": "2026-09-13T15:01:31Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "LightPath’s (LPTH) Defense Pivot Just Showed Up In The Numbers",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lightpath-lpth-defense-pivot-just-131404572.html",
-        "published": "2026-09-13T13:14:04Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
         "title": "Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)",
         "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-waiting-lower-165503524.html",
         "published": "2026-09-13T16:55:03Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
+        "published": "2026-09-13T16:59:17Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Costco Stock Price Forecast: Here's What a $10,000 Investment Today Could Be Worth by September 2027",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-price-forecast-heres-134500562.html",
+        "published": "2026-09-13T13:45:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Fed Decision, Retail Sales and Other Can't Miss Items This Week",
+        "link": "https://finance.yahoo.com/economy/policy/articles/fed-decision-retail-sales-other-170002358.html",
+        "published": "2026-09-13T17:00:02Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Korn Ferry (KFY) Expands Global Standing With AMS Acquisition",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-kfy-expands-global-170618310.html",
+        "published": "2026-09-13T17:06:18Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Dear SpaceX Stock Fans, Mark Your Calendars for September 21",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dear-spacex-stock-fans-mark-170826925.html",
+        "published": "2026-09-13T17:08:26Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Navan (NAVN) Rides Enterprise Momentum Into Events and Meetings Through BoomPop Deal",
+        "link": "https://finance.yahoo.com/technology/ai/articles/navan-navn-rides-enterprise-momentum-171047781.html",
+        "published": "2026-09-13T17:10:47Z"
       }
     ]
   }
