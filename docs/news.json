@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T22:29:21.553996+00:00",
+  "updated_at": "2026-09-16T00:37:21.542994+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -188,9 +188,51 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks to Edge Higher as Traders Await Fed: Markets Wrap",
+        "title": "New Zealand’s World-Beating Sovereign Wealth Fund Returns 14.2%",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-16/new-zealand-s-world-beating-sovereign-wealth-fund-returns-14-2",
+        "published": "Wed, 16 Sep 2026 00:24:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asian Stocks Steady as Traders Await Fed Decision: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap",
         "published": "Tue, 15 Sep 2026 22:11:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Shrinking Chinese Fuel Inventories Raise Chance of Export Curbs",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-16/shrinking-chinese-fuel-inventories-raise-chance-of-export-curbs",
+        "published": "Wed, 16 Sep 2026 00:10:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japan’s Export Growth Stays Solid as Shipments of Chips Jump",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-15/japan-s-export-growth-stays-robust-as-shipments-to-us-lead-gains",
+        "published": "Tue, 15 Sep 2026 23:58:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Steadies Below $4,300 as Markets Await Fed Rate Decision",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-16/gold-steadies-below-4-300-as-markets-await-fed-rate-decision",
+        "published": "Wed, 16 Sep 2026 00:00:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Apollo Gives $585 Million of Financing to The Executive Centre",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-16/apollo-gives-585-million-of-financing-to-the-executive-centre",
+        "published": "Wed, 16 Sep 2026 00:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Thai Finance Chief Sticks to 2.5% Growth Goal",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-15/thai-finance-chief-sticks-to-2-5-growth-goal-video",
+        "published": "Tue, 15 Sep 2026 23:05:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed Seen Hiking Rates in Defiance of Trump: Decision-Day Guide",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-15/fed-seen-hiking-rates-in-defiance-of-trump-decision-day-guide",
+        "published": "Tue, 15 Sep 2026 23:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -263,48 +305,6 @@
         "title": "Gold Isn't Driven by US Inflation Says Jan van Eck",
         "link": "https://www.bloomberg.com/news/videos/2026-09-15/gold-isn-t-driven-by-us-inflation-says-jan-van-eck-video",
         "published": "Tue, 15 Sep 2026 20:13:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Stocks Fall as 10-Year Yield Hits Highest Level Since 2007",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-15/us-stock-futures-drop-as-10-year-treasury-yield-passes-5",
-        "published": "Tue, 15 Sep 2026 12:00:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Fall in Run-Up to Fed as Yields Stay High: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap",
-        "published": "Mon, 14 Sep 2026 22:19:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Will Be 'Extremely Difficult' For The FOMC To Not Raise Rates Says Richards",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-15/will-be-difficult-for-fomc-to-not-raise-rates-richards-video",
-        "published": "Tue, 15 Sep 2026 19:28:46 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Big Pharma Needs New Drugs. China Has Them",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-15/big-pharma-needs-new-drugs-china-has-them-video",
-        "published": "Tue, 15 Sep 2026 19:28:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Sept. 15",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/latest-oil-market-news-and-analysis-for-sept-15",
-        "published": "Mon, 14 Sep 2026 22:04:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Iran War Could And Should Be Over Tomorrow Says Blinken",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-15/iran-war-could-and-should-be-over-tomorrow-says-blinken-video",
-        "published": "Tue, 15 Sep 2026 19:13:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Wavers Around $4,300 as Traders Await Fed Rate Decision",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/gold-holds-losses-as-higher-oil-stokes-september-rate-hike-bets",
-        "published": "Mon, 14 Sep 2026 23:49:50 GMT"
       }
     ],
     "onvista – News": [
@@ -670,27 +670,27 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Bitmine Purchases Another $68 Million Of Ethereum",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-another-68-million-140500872.html",
-        "published": "2026-09-14T14:05:00Z"
+        "title": "Soybeans Holding Steady on Monday Morning",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-holding-steady-monday-morning-123634476.html",
+        "published": "2026-09-14T12:36:34Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Kalshi To Offer U.S. Stock And Commodities Trading",
-        "link": "https://finance.yahoo.com/markets/options/articles/kalshi-offer-u-stock-commodities-140300562.html",
-        "published": "2026-09-14T14:03:00Z"
+        "title": "Corn Slipping Back Early on Monday",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-back-early-monday-123634575.html",
+        "published": "2026-09-14T12:36:34Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Is Mettler-Toledo Stock Underperforming the Nasdaq?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/mettler-toledo-stock-underperforming-nasdaq-140221943.html",
-        "published": "2026-09-14T14:02:21Z"
+        "title": "Wheat Showing Mixed Early Trade on Monday",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-showing-mixed-early-trade-123634313.html",
+        "published": "2026-09-14T12:36:34Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-ai-slowdown-fears-141007739.html",
-        "published": "2026-09-14T14:10:07Z"
+        "title": "Garmin Stock: Is GRMN Underperforming the Technology Sector?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-stock-grmn-underperforming-technology-124945758.html",
+        "published": "2026-09-14T12:49:45Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -700,27 +700,27 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Strategy Again Leaves Bitcoin Holdings Unchanged",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-again-leaves-bitcoin-holdings-140100959.html",
-        "published": "2026-09-14T14:01:00Z"
+        "title": "LX Pantos Sets Its Sights on Global Logistics Leadership",
+        "link": "https://finance.yahoo.com/small-business/articles/lx-pantos-sets-sights-global-130000075.html",
+        "published": "2026-09-14T13:00:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "How Is ON Semiconductor's Stock Performance Compared to Other Semiconductor Stocks?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductors-stock-performance-compared-other-140001530.html",
-        "published": "2026-09-14T14:00:01Z"
+        "title": "Amazon's Operating Cash Flow Could Push AMZN Over $314 - What's the Best AMZN Play?",
+        "link": "https://finance.yahoo.com/markets/options/articles/amazons-operating-cash-flow-could-130002375.html",
+        "published": "2026-09-14T13:00:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dell Stock Has Tripled in 2026. Here’s Why I Wouldn’t Lock in Profits Yet.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-tripled-2026-why-141139977.html",
-        "published": "2026-09-14T14:11:39Z"
+        "title": "Chase Home Lendings' mortgage rate sale returns for a 3-week run",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
+        "published": "2026-09-14T13:01:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "'Dario is Right': What Elon Musk and More Top Executives Are Saying About an AI Slowdown",
-        "link": "https://finance.yahoo.com/technology/ai/articles/dario-elon-musk-more-top-135024610.html",
-        "published": "2026-09-14T13:50:24Z"
+        "title": "ResMed Stock: Is RMD Underperforming the Healthcare Sector?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/resmed-stock-rmd-underperforming-healthcare-130726425.html",
+        "published": "2026-09-14T13:07:26Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -730,69 +730,33 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Elon Musk: I've been 'sounding the alarm' on AI for a while",
-        "link": "https://finance.yahoo.com/markets/stocks/article/elon-musk-ive-been-sounding-the-alarm-on-ai-for-a-while-141818917.html",
-        "published": "2026-09-14T14:18:18Z"
+        "title": "Tesla, Microsoft and Amazon Forecast: Tech Stocks Diverge",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-microsoft-amazon-forecast-tech-131133844.html",
+        "published": "2026-09-14T13:11:33Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
-        "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
-        "published": "2026-09-14T09:36:37Z"
+        "title": "How Is Dollar General's Stock Performance Compared to Other Consumer Defensive Stocks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-generals-stock-performance-compared-132555848.html",
+        "published": "2026-09-14T13:25:55Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
-        "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
-        "published": "2026-09-14T13:45:19Z"
+        "title": "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html",
+        "published": "2026-09-14T11:42:45Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Is CDW Corporation Stock Underperforming the S&P 500?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cdw-corporation-stock-underperforming-p-134157757.html",
-        "published": "2026-09-14T13:41:57Z"
+        "title": "XRP Price Prediction: $1.40 Breakout Could Open Path to $2.10",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-1-40-133202440.html",
+        "published": "2026-09-14T13:32:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Salesforce's AI Business Is Booming, Why Isn't CRM Stock?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/salesforces-ai-business-booming-why-140537097.html",
-        "published": "2026-09-14T14:05:37Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Kenco opens new innovation lab for warehouse automation testing",
-        "link": "https://finance.yahoo.com/technology/articles/kenco-opens-innovation-lab-warehouse-134139757.html",
-        "published": "2026-09-14T13:41:39Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Morgan Stanley Doubles Down on Apple Stock as New Offerings Become ‘More Exciting’",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-doubles-down-apple-142423562.html",
-        "published": "2026-09-14T14:24:23Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dominion, NextEra propose $1 billion-a-year Virginia supplier program",
-        "link": "https://finance.yahoo.com/news/dominion-nextera-propose-1-billion-133808617.html",
-        "published": "2026-09-14T13:38:08Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Xcel Energy Stock: Is XEL Outperforming the Utility Sector?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/xcel-energy-stock-xel-outperforming-133754654.html",
-        "published": "2026-09-14T13:37:54Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "U.S. Cattle Supplies Are at a 75-Year Low. At 63, Federal Disaster Aid for a Lost Herd Can Still Count Against Social Security.",
-        "link": "https://finance.yahoo.com/economy/policy/articles/u-cattle-supplies-75-low-140314688.html",
-        "published": "2026-09-14T14:03:14Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Hub Group warns of Nasdaq delisting notice; flags H1 operating loss",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/hub-group-warns-nasdaq-delisting-142643603.html",
-        "published": "2026-09-14T14:26:43Z"
+        "title": "If You're Still Holding NuScale, Here's 1 Catalyst That Might Make You Sell",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/youre-still-holding-nuscale-heres-123600659.html",
+        "published": "2026-09-14T12:36:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -802,9 +766,45 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "XRP Price Prediction: $1.40 Breakout Could Open Path to $2.10",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-1-40-133202440.html",
-        "published": "2026-09-14T13:32:02Z"
+        "title": "Xcel Energy Stock: Is XEL Outperforming the Utility Sector?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/xcel-energy-stock-xel-outperforming-133754654.html",
+        "published": "2026-09-14T13:37:54Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Dominion, NextEra propose $1 billion-a-year Virginia supplier program",
+        "link": "https://finance.yahoo.com/news/dominion-nextera-propose-1-billion-133808617.html",
+        "published": "2026-09-14T13:38:08Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Kenco opens new innovation lab for warehouse automation testing",
+        "link": "https://finance.yahoo.com/technology/articles/kenco-opens-innovation-lab-warehouse-134139757.html",
+        "published": "2026-09-14T13:41:39Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "TNR Gold wins ISS support in board battle",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tnr-gold-wins-iss-support-123800726.html",
+        "published": "2026-09-14T12:38:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Is CDW Corporation Stock Underperforming the S&P 500?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cdw-corporation-stock-underperforming-p-134157757.html",
+        "published": "2026-09-14T13:41:57Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+        "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+        "published": "2026-09-14T13:45:19Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Silver prices today, Monday, September 14, 2026: Silver slides as rate-hike expectations grow",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html",
+        "published": "2026-09-14T11:29:41Z"
       }
     ]
   }
