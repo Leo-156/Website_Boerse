@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T21:58:18.995176+00:00",
+  "updated_at": "2026-09-18T23:49:09.063636+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -188,6 +188,24 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Wall Street Week | India’s Growth Test, Bangalore’s Infrastructure Problem, Cricket Attracts Capital",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-18/wall-street-week-india-s-growth-test-video",
+        "published": "Fri, 18 Sep 2026 23:27:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "$370 'Home Alone Sundae' on The Plaza's Menu",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-18/-370-home-alone-sundae-on-the-plaza-s-menu-video",
+        "published": "Fri, 18 Sep 2026 21:59:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "JOOPITER Head of Sales on Michael Jordan Jersey Auction",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-18/joopiter-head-of-sales-on-michael-jordan-jersey-auction-video",
+        "published": "Fri, 18 Sep 2026 21:59:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "'Dressing The Man', 'Preppy Handbook': Must-Read Fashion Books",
         "link": "https://www.bloomberg.com/news/videos/2026-09-18/dressing-the-man-preppy-handbook-must-read-books-video",
         "published": "Fri, 18 Sep 2026 21:49:46 GMT"
@@ -287,24 +305,6 @@
         "title": "US and China Vie For AI Lead Before Trump- Xi Summit",
         "link": "https://www.bloomberg.com/news/videos/2026-09-18/us-and-china-vie-for-ai-lead-before-trump-xi-summit-video",
         "published": "Fri, 18 Sep 2026 18:52:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "KKR’s McVey Favors Private Markets as Traditional Hedges Crumble",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-18/kkr-s-mcvey-favors-private-markets-as-traditional-hedges-crumble",
-        "published": "Fri, 18 Sep 2026 18:26:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Investors Pull $1.8 Billion From Muni Market as Return Slump Extends",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-18/investors-pull-1-8-billion-from-muni-market-as-return-slump-extends",
-        "published": "Fri, 18 Sep 2026 17:55:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Copper Notches 11th Weekly Gain in Twelve on Chinese Buying",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-18/copper-set-for-weekly-gain-as-chinese-buyers-return-to-the-fore",
-        "published": "Fri, 18 Sep 2026 02:58:25 GMT"
       }
     ],
     "onvista – News": [
@@ -658,123 +658,141 @@
     "Yahoo Finance – Top Stories (EN)": [
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Solana Price Prediction: SEC’s Support Should Keep SOL Above $100",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/solana-price-prediction-sec-support-142622632.html",
-        "published": "2026-09-17T14:26:22Z"
+        "title": "OpenAI, Anthropic Slowdown Call Won't Derail AI Infrastructure Demand, Why One Fund Manager Sees No Spending Pause in Sight",
+        "link": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-slowdown-call-wont-163011305.html",
+        "published": "2026-09-17T16:30:11Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Amgen Stock Fell 10% in a Day on a Drug It Doesn’t Own. Is It Time to Buy AMGN?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amgen-stock-fell-10-day-142646449.html",
-        "published": "2026-09-17T14:26:46Z"
+        "title": "How To Protect Yourself From The Looming AI-Stock Crash",
+        "link": "https://www.investors.com/etfs-and-funds/etfs/ai-stock-crash-how-to-protect-yourself-from-the-looming/?src=A00220&yptr=yahoo",
+        "published": "2026-09-17T16:30:04Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Is Eversource Energy Stock Underperforming the Dow?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/eversource-energy-stock-underperforming-dow-142448471.html",
-        "published": "2026-09-17T14:24:48Z"
+        "title": "A Deadly Amazon (AMZN) Cargo Plane Crash in Miami Puts its Air Network Under Scrutiny",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/deadly-amazon-amzn-cargo-plane-163256704.html",
+        "published": "2026-09-17T16:32:56Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "OpenAI Fires Back at Apple (AAPL)",
-        "link": "https://finance.yahoo.com/technology/ai/articles/openai-fires-back-apple-aapl-142906076.html",
-        "published": "2026-09-17T14:29:06Z"
+        "title": "Assemblin Caverion prints €1.5B floating-rate note in bumper day for European high yield",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/assemblin-caverion-prints-1-5b-162749040.html",
+        "published": "2026-09-17T16:27:49Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Home contract signings drop 4.7% from last year amid higher mortgage rates",
-        "link": "https://finance.yahoo.com/real-estate/article/home-contract-signings-drop-47-from-last-year-amid-higher-mortgage-rates-141613199.html",
-        "published": "2026-09-17T14:16:13Z"
+        "title": "Meta (META) Overhauls Instagram and Facebook for Teens after its $17 Billion Settlement",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-overhauls-instagram-facebook-163514422.html",
+        "published": "2026-09-17T16:35:14Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Britain’s Economy Is Growing. So Is Inflation.",
-        "link": "https://finance.yahoo.com/economy/policy/articles/britain-economy-growing-inflation-141533913.html",
-        "published": "2026-09-17T14:15:33Z"
+        "title": "Moderna: Another Day, Another Big Stock Move. Is the Cancer Vaccine Rally Back On?",
+        "link": "https://www.barrons.com/articles/moderna-stock-cancer-drug-3e89fd74?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-09-17T16:32:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "AbbVie Stock Just Posted a 74% Response Rate in Myeloma. Here’s What It Means for the Stock in 2026",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/abbvie-stock-just-posted-74-142050427.html",
-        "published": "2026-09-17T14:20:50Z"
+        "title": "Rackspace’s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-nvidia-partnership-sparks-early-163851620.html",
+        "published": "2026-09-17T16:38:51Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Can you use a personal loan to buy a car?",
-        "link": "https://finance.yahoo.com/markets/options/articles/personal-loan-buy-car-024352858.html",
-        "published": "2026-09-17T14:13:52Z"
+        "title": "Corning Just Signed a Multibillion-Dollar Fiber Deal for AI and Broadband With Verizon. What That Means for GLW Stock.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/corning-just-signed-multibillion-dollar-162101149.html",
+        "published": "2026-09-17T16:21:01Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Berentzen Gets a Shot of Takeover Speculation",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/berentzen-gets-shot-takeover-speculation-141307195.html",
-        "published": "2026-09-17T14:13:07Z"
+        "title": "Lululemon (LULU) Cuts its Outlook Again Just as a New CEO Walks through the Door",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-cuts-outlook-again-164209283.html",
+        "published": "2026-09-17T16:42:09Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Ciena Stock Climbs On Three-Year, 30% Revenue Growth Outlook",
-        "link": "https://www.investors.com/news/technology/ciena-stock-investor-day-financial-targets-supply-constraints/?src=A00220&yptr=yahoo",
-        "published": "2026-09-17T14:06:51Z"
+        "title": "Apple (AAPL) Faces a $2.7 Billion UK Lawsuit over its App Tracking Rules",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-faces-2-7-164412973.html",
+        "published": "2026-09-17T16:44:12Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Renewed Industry Competition Sparks T-Mobile US’s (TMUS) Sell-Off",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/renewed-industry-competition-sparks-t-140751845.html",
-        "published": "2026-09-17T14:07:51Z"
+        "title": "SoFi Could Be Building Something Wall Street Hasn’t Fully Priced In",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-could-building-something-wall-163015781.html",
+        "published": "2026-09-17T16:30:15Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "RTX’s Backlog Just Hit a Record $289 Billion. Here’s Where the Stock Could Go",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-backlog-just-hit-record-142336372.html",
-        "published": "2026-09-17T14:23:36Z"
+        "title": "Jim Cramer on Tesla (TSLA): “My Only Solution to It Is That SpaceX Has to Buy It”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tesla-tsla-only-164733818.html",
+        "published": "2026-09-17T16:47:33Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Energy markets grapple with Iran war uncertainty: 'We simply don't know how to model the endgame'",
-        "link": "https://finance.yahoo.com/markets/article/energy-markets-grapple-with-iran-war-uncertainty-we-simply-dont-know-how-to-model-the-endgame-140723902.html",
-        "published": "2026-09-17T14:07:23Z"
+        "title": "Polestar (PSNY)’s US Exit Just Showed Up in its Guidance",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/polestar-psny-us-exit-just-165023810.html",
+        "published": "2026-09-17T16:50:23Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Stocks Rally as Crude Prices and Bond Yields Fall",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-crude-prices-bond-140517540.html",
-        "published": "2026-09-17T14:05:17Z"
+        "title": "Student loans are quietly gutting your retirement — especially in your 40s",
+        "link": "https://finance.yahoo.com/economy/article/student-loans-are-quietly-gutting-your-retirement--especially-in-your-40s-160955696.html",
+        "published": "2026-09-17T16:09:55Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Is Brown-Forman Stock Underperforming the Nasdaq?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-stock-underperforming-nasdaq-143102015.html",
-        "published": "2026-09-17T14:31:02Z"
+        "title": "SpaceX (SPCX)’s Space Data Center Dream Runs into Four Very Earthly Problems",
+        "link": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-space-data-center-160856877.html",
+        "published": "2026-09-17T16:08:56Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nasdaq, Dow and S&P 500 Forecast: Buyers Return After Fed",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-forecast-140116492.html",
-        "published": "2026-09-17T14:01:16Z"
+        "title": "Why BSX Stock Lost More Than Half Its Value While Sales Kept Rising",
+        "link": "https://finance.yahoo.com/healthcare/articles/why-bsx-stock-lost-more-163125666.html",
+        "published": "2026-09-17T16:31:25Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "ReTo Eco-Solutions Prices $15 Million Registered Direct Offering With Warrants and Additional Purchase Rights",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/reto-eco-solutions-prices-15-142453839.html",
-        "published": "2026-09-17T14:24:53Z"
+        "title": "BioCryst (BCRX) Turns its First Profit and Now Wants to Go Shopping for Rare Disease Drugs",
+        "link": "https://finance.yahoo.com/healthcare/articles/biocryst-bcrx-turns-first-profit-160606434.html",
+        "published": "2026-09-17T16:06:06Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Bank of America Just Declared a ‘Generational Entry Point’ in U.S. Bonds. Why Investors Should Be Backing Up the Truck on Treasuries Here.",
-        "link": "https://finance.yahoo.com/markets/articles/bank-america-just-declared-generational-140002404.html",
-        "published": "2026-09-17T14:00:02Z"
+        "title": "Aon’s $17 Billion USI Deal: What Hedge Fund Sentiment Says About AON and KKR",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/aon-17-billion-usi-deal-165811093.html",
+        "published": "2026-09-17T16:58:11Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Strong Operational Momentum Drives Quanta Services’ (PWR) Full-Year Outlook Upgrade",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/strong-operational-momentum-drives-quanta-135944646.html",
-        "published": "2026-09-17T13:59:44Z"
+        "title": "airBaltic Is Shrinking. Ryanair Is Moving In.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/airbaltic-shrinking-ryanair-moving-165823095.html",
+        "published": "2026-09-17T16:58:23Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Here’s Why Why Baron Capital Bought Alexandria (ARE)",
-        "link": "https://finance.yahoo.com/real-estate/articles/why-why-baron-capital-bought-143155988.html",
-        "published": "2026-09-17T14:31:55Z"
+        "title": "Ethos Technologies Highlights Why Key Sell Rules Also Apply To New IPOs",
+        "link": "https://www.investors.com/research/ethos-technologies-life-stock-ticker-new-ipos-sell-rules-life-insurance-growth/?src=A00220&yptr=yahoo",
+        "published": "2026-09-17T16:01:13Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "The Fed’s Rate Hike Could Backfire If Oil Prices Collapse",
+        "link": "https://finance.yahoo.com/economy/policy/articles/fed-rate-hike-could-backfire-163000297.html",
+        "published": "2026-09-17T16:30:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Struggling Coinbase Stock Sets Itself Up For This Bearish Trade",
+        "link": "https://www.investors.com/research/options/coinbase-coin-stock-bear-put-spread-options/?src=A00220&yptr=yahoo",
+        "published": "2026-09-17T16:01:06Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Medicare changes coming in 2027: What to know before open enrollment",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/medicare-changes-coming-in-2027-what-to-know-before-open-enrollment-175500182.html",
+        "published": "2026-09-17T17:55:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -784,27 +802,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "bioAffinity Technologies Secures Hong Kong Patent for CyPath Lung Cancer Diagnostic",
-        "link": "https://finance.yahoo.com/healthcare/articles/bioaffinity-technologies-secures-hong-kong-142120929.html",
-        "published": "2026-09-17T14:21:20Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dollar Weakens with Crude Oil Prices and T-Note Yields",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-crude-oil-prices-143255714.html",
-        "published": "2026-09-17T14:32:55Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nvidia, OpenAI, and Oracle's $745B Financing Circle Just Hit Its First Stress Test: A Fed Rate Hike",
-        "link": "https://finance.yahoo.com/economy/policy/articles/nvidia-openai-oracles-745b-financing-135702453.html",
-        "published": "2026-09-17T13:57:02Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Coherent (COHR): Unmet Hyperscaler Demand Fuels Aggressive Capacity Expansion",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/coherent-cohr-unmet-hyperscaler-demand-135425147.html",
-        "published": "2026-09-17T13:54:25Z"
+        "title": "Mortgage preapproval vs. prequalification: Which should you choose?",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-preapproval-vs-prequalification-182927362.html",
+        "published": "2026-09-17T18:29:27Z"
       }
     ]
   }
