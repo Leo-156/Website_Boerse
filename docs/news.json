@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T01:43:46.934072+00:00",
+  "updated_at": "2026-09-19T06:38:19.422545+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,66 +126,90 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "KW 38: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
-        "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-38-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15922347",
-        "published": "Sat, 19 Sep 2026 03:31:12 +0200"
+        "title": "S&P 500 über 8.000 Punkten? Hier sehen Strategen den Index zum Jahresende",
+        "link": "https://www.finanzen.net/nachricht/aktien/kurszielwelle-s-p-500-ueber-8-000-punkten-hier-sehen-strategen-den-index-zum-jahresende-00-15936778",
+        "published": "Sat, 19 Sep 2026 08:29:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "NVIDIA, Apple  Co.: Warum Large Caps zum Jahresende im Vorteil sein könnten",
-        "link": "https://www.finanzen.net/nachricht/aktien/nvidia-apple-amp-co-warum-large-caps-zum-jahresende-im-vorteil-sein-koennten-15942542",
-        "published": "Sat, 19 Sep 2026 03:19:45 +0200"
+        "title": "Sechs Dinge, auf die Sie bei einer von Kevin Warsh geführten Fed achten sollten",
+        "link": "https://www.finanzen.net/nachricht/aktien/werbung-sechs-dinge-auf-die-sie-bei-einer-von-kevin-warsh-gefuehrten-fed-achten-sollten-15601203",
+        "published": "Sat, 19 Sep 2026 08:23:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "KW 38 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
-        "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-38-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15922348",
-        "published": "Sat, 19 Sep 2026 03:02:19 +0200"
+        "title": "Prozess nach Maut-Debakel: Ex-Minister weist Vorwurf zurück",
+        "link": "https://www.finanzen.net/nachricht/aktien/prozess-nach-maut-debakel-ex-minister-weist-vorwurf-zurueck-15942703",
+        "published": "Sat, 19 Sep 2026 08:19:39 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Aktien von NVIDIA, AMD & Co.: Piper Sandler empfiehlt diese fünf Chipwerte zum Kauf - sollten Anleger einsteigen?",
-        "link": "https://www.finanzen.net/nachricht/aktien/chip-coverage-aktien-von-nvidia-amd-co-piper-sandler-empfiehlt-diese-fuenf-chipwerte-zum-kauf-sollten-anleger-einsteigen-00-15938949",
-        "published": "Fri, 18 Sep 2026 23:42:00 +0200"
+        "title": "SAP-Chef: Kanzlerwechsel löst das Problem nicht",
+        "link": "https://www.finanzen.net/nachricht/aktien/sap-chef-kanzlerwechsel-loest-das-problem-nicht-15942702",
+        "published": "Sat, 19 Sep 2026 08:19:39 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "DAX in KW 38: Diese Aktien gehörten zu den Gewinnern und Verlierern",
-        "link": "https://www.finanzen.net/nachricht/aktien/dax-performance-dax-in-kw-38-diese-aktien-gehoerten-zu-den-gewinnern-und-verlierern-15922346",
-        "published": "Fri, 18 Sep 2026 23:41:00 +0200"
+        "title": "Aktien von VW und Porsche knicken ein: Volkswagen senkt Gewinnprognose deutlich",
+        "link": "https://www.finanzen.net/nachricht/aktien/konzernumbau-co-aktien-von-vw-und-porsche-knicken-ein-volkswagen-senkt-gewinnprognose-deutlich-15942141",
+        "published": "Sat, 19 Sep 2026 08:18:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Hot Stocks heute: 1 Mio. $ pro Tag! Tanker-Aktie vor dem nächsten Schub? + Deutschlands Cyber-Security-Champion",
-        "link": "https://www.finanzen.net/nachricht/aktien/podcast-hot-stocks-heute-1-mio-pro-tag-tanker-aktie-vor-dem-naechsten-schub-deutschlands-cyber-security-champion-15941450",
-        "published": "Fri, 18 Sep 2026 23:32:00 +0200"
+        "title": "Altersvorsorgedepot: Nur wieder Abzocke, oder echte Alternative zur Riester-Rente?",
+        "link": "https://www.finanzen.net/nachricht/aktien/altersvorsorgedepot-nur-wieder-abzocke-oder-echte-alternative-zur-riester-rente-15942701",
+        "published": "Sat, 19 Sep 2026 08:15:43 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Microsoft-Aktie: Warum Azure und Copilot Anleger jetzt in Richtung 5 Billionen träumen lassen",
-        "link": "https://www.finanzen.net/nachricht/aktien/zahlen-boomen-kurs-stockt-microsoft-aktie-warum-azure-und-copilot-anleger-jetzt-in-richtung-5-billionen-traeumen-lassen-00-15936567",
-        "published": "Fri, 18 Sep 2026 23:20:00 +0200"
+        "title": "Tesla, IBM & Co: Warum Milliarden-IPOs wie OpenAI und Anthropic Blue-Chip-Aktien treffen könnten",
+        "link": "https://www.finanzen.net/nachricht/aktien/ipo-welle-tesla-ibm-co-warum-milliarden-ipos-wie-openai-und-anthropic-blue-chip-aktien-treffen-koennten-00-15927491",
+        "published": "Sat, 19 Sep 2026 08:14:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Favoriten der Finanzprofis: Diese Aktien empfehlen Experten zu kaufen",
-        "link": "https://www.finanzen.net/nachricht/aktien/kaufempfehlungen-kw-38-favoriten-der-finanzprofis-diese-aktien-empfehlen-experten-zu-kaufen-15927225",
-        "published": "Fri, 18 Sep 2026 23:18:00 +0200"
+        "title": "ROUNDUP 2: Trump verbietet US-Sender CNN Zugang zum Weißen Haus",
+        "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-trump-verbietet-us-sender-cnn-zugang-zum-weissen-haus-15942698",
+        "published": "Sat, 19 Sep 2026 08:04:40 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "XRP nach US-Wahl 2024 fast versiebenfacht: Kommt nach den Midterms die Ripple-Rally?",
-        "link": "https://www.finanzen.net/nachricht/devisen/prognose-fuer-kryptosaison-xrp-nach-us-wahl-2024-fast-versiebenfacht-kommt-nach-den-midterms-die-ripple-rally-00-15938955",
-        "published": "Fri, 18 Sep 2026 23:11:00 +0200"
+        "title": "ROUNDUP: Googles KI Gemini hackte ebenfalls andere Unternehmen",
+        "link": "https://www.finanzen.net/nachricht/aktien/roundup-googles-ki-gemini-hackte-ebenfalls-andere-unternehmen-15942697",
+        "published": "Sat, 19 Sep 2026 08:04:40 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "KI schlägt Menschen beim Investieren? Bridgewater gibt Aktien-Anlegern klare Hinweise",
-        "link": "https://www.finanzen.net/nachricht/aktien/ki-statt-menschen-ki-schlaegt-menschen-beim-investieren-bridgewater-gibt-aktien-anlegern-klare-hinweise-00-15937305",
-        "published": "Fri, 18 Sep 2026 23:00:00 +0200"
+        "title": "ROUNDUP: Kritik an Spritpreis-Entlastungspaket von Bund und Ländern",
+        "link": "https://www.finanzen.net/nachricht/aktien/roundup-kritik-an-spritpreis-entlastungspaket-von-bund-und-laendern-15942696",
+        "published": "Sat, 19 Sep 2026 08:04:39 +0200"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bolivia Eliminates Diesel Subsidy After IMF Loan Approval",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-19/bolivia-eliminates-diesel-subsidy-after-imf-loan-approval-mu7ydf34",
+        "published": "Sat, 19 Sep 2026 05:34:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Blackstone Sees India Nearing Tipping Point for Foreign Capital",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-19/blackstone-sees-india-nearing-tipping-point-for-foreign-capital",
+        "published": "Sat, 19 Sep 2026 04:01:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China’s Fiscal Pullback Extends to August as Spending Slumps",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-18/china-s-fiscal-pullback-stretches-into-august-as-spending-slumps",
+        "published": "Fri, 18 Sep 2026 10:43:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "South Korea’s Justice Minister Nominee Withdraws After Reshuffle",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-19/south-korea-s-justice-minister-nominee-withdraws-after-reshuffle",
+        "published": "Sat, 19 Sep 2026 02:31:18 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Mark Walter’s Lieutenants Give Prosecutors Firsthand Accounts",
@@ -281,30 +305,6 @@
         "title": "Yen Pares BOJ-Fueled Declines as Nikkei Reports a Rate Check",
         "link": "https://www.bloomberg.com/news/articles/2026-09-18/yen-pares-boj-fueled-declines-as-nikkei-reports-a-rate-check",
         "published": "Fri, 18 Sep 2026 16:07:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Screwworm Reappears in New Mexico Ahead of Port Reopening",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-18/screwworm-reappears-in-new-mexico-ahead-of-port-reopening",
-        "published": "Fri, 18 Sep 2026 13:26:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Sept. 18",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-17/latest-oil-market-news-and-analysis-for-sept-18",
-        "published": "Thu, 17 Sep 2026 22:05:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Compounding Is 8th Wonder of the World, Says KKR's McVey",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-18/compounding-8th-wonder-of-the-world-kkr-s-mcvey-video",
-        "published": "Fri, 18 Sep 2026 19:15:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Oil Remains Primary Risk Driving Higher Rates Says Haworth",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-18/oil-remains-primary-risk-driving-higher-rates-haworth-video",
-        "published": "Fri, 18 Sep 2026 18:55:18 GMT"
       }
     ],
     "onvista – News": [
@@ -524,15 +524,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Wenn das Girokonto mehr als 100 Euro kostet: Wie der Wechsel gelingt",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/girokonto-kontofuehrungsgebuehr-wechsel-100.html",
-        "published": "Thu, 17 Sep 2026 06:28:03 +0200"
+        "title": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html",
+        "published": "Sat, 19 Sep 2026 05:09:49 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
         "title": "Marktbericht: DAX gibt am großen Verfallstag nach",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
         "published": "Fri, 18 Sep 2026 18:25:06 +0200"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Wenn das Girokonto mehr als 100 Euro kostet: Wie der Wechsel gelingt",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/girokonto-kontofuehrungsgebuehr-wechsel-100.html",
+        "published": "Thu, 17 Sep 2026 06:28:03 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -647,164 +653,158 @@
         "title": "Einnahmen des Staates aus Erbschaftssteuer auf Rekordniveau",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/erbschaftssteuer-staatseinnahmen-100.html",
         "published": "Wed, 26 Aug 2026 13:14:19 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Sorge um Top-Rating: Deutsches Staatsdefizit fast verdoppelt",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-staatsdefizit-rentenmarkt-100.html",
-        "published": "Tue, 25 Aug 2026 14:12:42 +0200"
       }
     ],
     "Yahoo Finance – Top Stories (EN)": [
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Goldman’s top strategist just added hard numbers to his earnings-bubble warning",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-top-strategist-just-added-184502410.html",
-        "published": "2026-09-17T18:45:02Z"
+        "title": "Why Generac Stock Soared Today",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-generac-stock-soared-today-234107343.html",
+        "published": "2026-09-17T23:41:07Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Exodus Movement (EXOD) Grows Payment Volume with Fewer Active Cards. Is Usage Improving?",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/exodus-movement-exod-grows-payment-185213120.html",
-        "published": "2026-09-17T18:52:13Z"
+        "title": "Meta (META) Hands its New AI Agent the Keys to Your Inbox and Wallet",
+        "link": "https://finance.yahoo.com/technology/ai/articles/meta-meta-hands-ai-agent-234026981.html",
+        "published": "2026-09-17T23:40:26Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "A $2.4 Billion Reason Why Generac Stock Is Up Today",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/2-4-billion-reason-why-183407198.html",
-        "published": "2026-09-17T18:34:07Z"
+        "title": "Washington Tells Ford (F) its Chinese Partnerships are a National Security Problem",
+        "link": "https://finance.yahoo.com/economy/policy/articles/washington-tells-ford-f-chinese-233517320.html",
+        "published": "2026-09-17T23:35:17Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Digital Realty Trust (DLR) Forms Türkiye Venture. Does Secured Power Justify the Commitment?",
-        "link": "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-dlr-forms-185412949.html",
-        "published": "2026-09-17T18:54:12Z"
+        "title": "Novo Nordisk (NVO) Pulls the Plug on Two More Heart Drug Trials",
+        "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pulls-plug-233726977.html",
+        "published": "2026-09-17T23:37:26Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Stock Of The Day XP, The Charles Schwab Of Brazil, Nears Buy Point",
-        "link": "https://www.investors.com/research/ibd-stock-of-the-day/xp-charles-schwab-brazil-buy-point/?src=A00220&yptr=yahoo",
-        "published": "2026-09-17T19:04:21Z"
+        "title": "Ford Hasn’t Raised Its Dividend in Years. Don’t Count on a Hike in 2026.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ford-hasn-t-raised-dividend-233003869.html",
+        "published": "2026-09-17T23:30:03Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "10 Low-Key Money Habits of the Wealthy",
-        "link": "https://finance.yahoo.com/markets/articles/10-low-key-money-habits-184438107.html",
-        "published": "2026-09-17T18:44:38Z"
+        "title": "Why AMD Stock Jumped Today",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-jumped-today-233549219.html",
+        "published": "2026-09-17T23:35:49Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Bernstein Flags CoreWeave as Most Exposed to an AI Training Slowdown",
-        "link": "https://finance.yahoo.com/technology/ai/articles/bernstein-flags-coreweave-most-exposed-182940468.html",
-        "published": "2026-09-17T18:29:40Z"
+        "title": "Estes bets $56M on cross-border, offshore freight expansion",
+        "link": "https://finance.yahoo.com/economy/policy/articles/estes-bets-56m-cross-border-231647268.html",
+        "published": "2026-09-17T23:16:47Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Mortgage preapproval vs. prequalification: Which should you choose?",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-preapproval-vs-prequalification-182927362.html",
-        "published": "2026-09-17T18:29:27Z"
+        "title": "Teledyne Technologies (TDY) Price Target Hiked to $760 as Needham Bets on Defense and Short-Cycle Recovery",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-technologies-tdy-price-target-224411866.html",
+        "published": "2026-09-17T22:44:11Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nat-Gas Prices Climb on Smaller-Than-Expected Storage Build",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-climb-smaller-191253323.html",
-        "published": "2026-09-17T19:12:53Z"
+        "title": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch",
+        "link": "https://finance.yahoo.com/energy/articles/saudi-pipeline-outage-could-deepen-230000579.html",
+        "published": "2026-09-17T23:00:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Crude Prices Slip as Supply Fears Ease",
-        "link": "https://finance.yahoo.com/energy/articles/crude-prices-slip-supply-fears-191408143.html",
-        "published": "2026-09-17T19:14:08Z"
+        "title": "Inside L3Harris Technologies (LHX)’s C-HOBS Contract: What the $60M Air Force Award Means for Investors",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/inside-l3harris-technologies-lhx-c-230217535.html",
+        "published": "2026-09-17T23:02:17Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Gold, Silver Futures Settle Higher",
-        "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-as-markets-weigh-fed-path-eeb22df6?siteid=yhoof2&yptr=yahoo",
-        "published": "2026-09-17T18:46:00Z"
+        "title": "Why CoreWeave Stock Dived by More Than 5% Today",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-coreweave-stock-dived-more-233702230.html",
+        "published": "2026-09-17T23:37:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "The ultimate guide to federal student loans",
-        "link": "https://finance.yahoo.com/news/ultimate-guide-federal-student-loans-200030002.html",
-        "published": "2026-09-17T19:18:55Z"
+        "title": "A Failed Cholesterol Drug Raises the Stakes for Amgen (AMGN) and Eli Lilly (LLY) Too",
+        "link": "https://finance.yahoo.com/healthcare/articles/failed-cholesterol-drug-raises-stakes-235724249.html",
+        "published": "2026-09-17T23:57:24Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "SpaceX Said $100 Billion Is Within Reach, Its Cash Flow Tells Another Story",
-        "link": "https://finance.yahoo.com/technology/ai/articles/spacex-said-100-billion-within-182512037.html",
-        "published": "2026-09-17T18:25:12Z"
+        "title": "Novartis (NVS) Suffers its Third Drug Trial Setback in a Week, and its Worst Trading Day in Years",
+        "link": "https://finance.yahoo.com/healthcare/articles/novartis-nvs-suffers-third-drug-000733048.html",
+        "published": "2026-09-18T00:07:33Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Logistic Properties of the Americas (LPA) Wins $145 Million Sale Approval. Can Mexico Replace Peru Income?",
-        "link": "https://finance.yahoo.com/real-estate/articles/logistic-properties-americas-lpa-wins-182352178.html",
-        "published": "2026-09-17T18:23:52Z"
+        "title": "United Natural Foods (UNFI) Calls the Bottom and Guides for Growth Again",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/united-natural-foods-unfi-calls-000944953.html",
+        "published": "2026-09-18T00:09:44Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "LCID Stock Surges as Lucid Unveils New European Robotaxi Partnership",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lcid-stock-surges-lucid-unveils-192905699.html",
-        "published": "2026-09-17T19:29:05Z"
+        "title": "GameStop (GME)’s Collectibles Business is Quietly Rewriting its Profit Story",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-gme-collectibles-business-quietly-002234955.html",
+        "published": "2026-09-18T00:22:34Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Top analyst strongly resets General Motors target before earnings",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-strongly-resets-general-184700704.html",
-        "published": "2026-09-17T18:47:00Z"
+        "title": "AstraZeneca (AZN)’s Lung Drug Delivers the Good News its Pipeline Needed",
+        "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-azn-lung-drug-delivers-002003512.html",
+        "published": "2026-09-18T00:20:03Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on",
-        "link": "https://finance.yahoo.com/energy/articles/jp-morgan-says-no-clear-193058656.html",
-        "published": "2026-09-17T19:30:58Z"
+        "title": "Uber (UBER)’s $15 Billion Delivery Hero Buyout Clears a Key Hurdle",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-15-billion-delivery-002841130.html",
+        "published": "2026-09-18T00:28:41Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Roblox (RBLX) Plans Standalone Games. Can its Business Expand Beyond its App?",
-        "link": "https://finance.yahoo.com/technology/articles/roblox-rblx-plans-standalone-games-181908036.html",
-        "published": "2026-09-17T18:19:08Z"
+        "title": "JPMorgan Chase (JPM) Commits $750 Billion to Rebuilding America’s Housing Supply",
+        "link": "https://finance.yahoo.com/real-estate/articles/jpmorgan-chase-jpm-commits-750-003942638.html",
+        "published": "2026-09-18T00:39:42Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dollar Slightly Lower as T-Note Yields Fall",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-slightly-lower-t-note-193507490.html",
-        "published": "2026-09-17T19:35:07Z"
+        "title": "Inside Huntington Ingalls Industries (HII)’s Latest Pentagon Win: Long Lead Materials, Long Runway to 2039",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/inside-huntington-ingalls-industries-hii-010254405.html",
+        "published": "2026-09-18T01:02:54Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Iren’s CEO Says Demand Is Strong, The Financials Says It’s Complicated",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/iren-ceo-says-demand-strong-181658757.html",
-        "published": "2026-09-17T18:16:58Z"
+        "title": "Roth Conversions Between 62 and 65: The Three-Year Window Before Medicare Starts Counting Every Dollar",
+        "link": "https://finance.yahoo.com/markets/options/articles/roth-conversions-between-62-65-233535663.html",
+        "published": "2026-09-17T23:35:35Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "The Fed Hiked Interest Rates for the First Time in 3 Years to Slow Down Inflation and Deliver Price Stability. Here’s What That Means for Restaurant Stocks.",
-        "link": "https://finance.yahoo.com/economy/policy/articles/fed-hiked-interest-rates-first-184105814.html",
-        "published": "2026-09-17T18:41:05Z"
+        "title": "RTX Corporation (RTX)’s Pratt & Whitney Deepens Poland Bet with $25M Engine Parts Expansion",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-rtx-pratt-whitney-011434638.html",
+        "published": "2026-09-18T01:14:34Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "S&P Global Acquires OpenZeppelin In Tokenized Finance Push",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/p-global-acquires-openzeppelin-tokenized-181600599.html",
-        "published": "2026-09-17T18:16:00Z"
+        "title": "Jim Cramer Prefers Palo Alto (PANW) Over SentinelOne (S)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-palo-alto-220330487.html",
+        "published": "2026-09-17T22:03:30Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "The Elmet Group (ELMT) Announces $450 Million Commitment. Can Tungsten Expansion Deliver Profits?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/elmet-group-elmt-announces-450-181329050.html",
-        "published": "2026-09-17T18:13:29Z"
+        "title": "Corn Faces Pressure on Thursday",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-faces-pressure-thursday-220320870.html",
+        "published": "2026-09-17T22:03:20Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Former Hut 8 CEO To Lead Crypto Miner Fortitude",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/former-hut-8-ceo-lead-181400586.html",
-        "published": "2026-09-17T18:14:00Z"
+        "title": "Nike (NKE) Shareholders Side with the Board Over Norway’s Wealth Fund on Climate Disclosure",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-shareholders-side-board-220254034.html",
+        "published": "2026-09-17T22:02:54Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Barnes & Noble Education (BNED) Delivers Solid Q1 as First Day Complete Gains Steam",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/barnes-noble-education-bned-delivers-193920153.html",
-        "published": "2026-09-17T19:39:20Z"
+        "title": "CleanSpark reveals Meta as tenant behind $6.6B Sandersville lease",
+        "link": "https://finance.yahoo.com/technology/ai/articles/cleanspark-reveals-meta-tenant-behind-233508601.html",
+        "published": "2026-09-17T23:35:08Z"
       }
     ]
   }
