@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T21:31:01.569374+00:00",
+  "updated_at": "2026-09-19T23:29:57.733144+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,15 +126,27 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Tesla, IBM & Co: Warum Milliarden-IPOs wie OpenAI und Anthropic Blue-Chip-Aktien treffen könnten",
-        "link": "https://www.finanzen.net/nachricht/aktien/ipo-welle-tesla-ibm-co-warum-milliarden-ipos-wie-openai-und-anthropic-blue-chip-aktien-treffen-koennten-00-15927491",
-        "published": "Sat, 19 Sep 2026 23:25:00 +0200"
+        "title": "S&P 500 über 8.000 Punkten? Hier sehen Strategen den Index zum Jahresende",
+        "link": "https://www.finanzen.net/nachricht/aktien/kurszielwelle-s-p-500-ueber-8-000-punkten-hier-sehen-strategen-den-index-zum-jahresende-00-15936778",
+        "published": "Sat, 19 Sep 2026 23:50:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "S&P 500 über 8.000 Punkten? Hier sehen Strategen den Index zum Jahresende",
-        "link": "https://www.finanzen.net/nachricht/aktien/kurszielwelle-s-p-500-ueber-8-000-punkten-hier-sehen-strategen-den-index-zum-jahresende-00-15936778",
-        "published": "Sat, 19 Sep 2026 23:12:00 +0200"
+        "title": "NVIDIA-Aktie: Börsenstar stand einst vor dem Ruin - Warum diese Kapitalbeteiligung die Rettung bedeutete",
+        "link": "https://www.finanzen.net/nachricht/aktien/rettungsaktion-nvidia-aktie-boersenstar-stand-einst-vor-dem-ruin-warum-diese-kapitalbeteiligung-die-rettung-bedeutete-00-15937187",
+        "published": "Sat, 19 Sep 2026 23:46:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "S&P 500 vor Belastungsprobe: Trumps Kurs bringt die Fed in Bedrängnis – und bedroht die Börsenrally",
+        "link": "https://www.finanzen.net/nachricht/aktien/bewertungsalarm-s-p-500-vor-belastungsprobe-trumps-kurs-bringt-die-fed-in-bedraengnis-und-bedroht-die-boersenrally-00-15929877",
+        "published": "Sat, 19 Sep 2026 23:41:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Tesla, IBM & Co: Warum Milliarden-IPOs wie OpenAI und Anthropic Blue-Chip-Aktien treffen könnten",
+        "link": "https://www.finanzen.net/nachricht/aktien/ipo-welle-tesla-ibm-co-warum-milliarden-ipos-wie-openai-und-anthropic-blue-chip-aktien-treffen-koennten-00-15927491",
+        "published": "Sat, 19 Sep 2026 23:25:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
@@ -156,12 +168,6 @@
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "NVIDIA-Aktie: Börsenstar stand einst vor dem Ruin - Warum diese Kapitalbeteiligung die Rettung bedeutete",
-        "link": "https://www.finanzen.net/nachricht/aktien/rettungsaktion-nvidia-aktie-boersenstar-stand-einst-vor-dem-ruin-warum-diese-kapitalbeteiligung-die-rettung-bedeutete-00-15937187",
-        "published": "Sat, 19 Sep 2026 22:44:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
         "title": "Online Broker Vergleich - die besten Aktiendepots und Trading-Plattformen im Test",
         "link": "https://www.finanzen.net/nachricht/aktien/online-broker-vergleich-die-besten-aktiendepots-und-trading-plattformen-im-test-4714571",
         "published": "Sat, 19 Sep 2026 22:30:00 +0200"
@@ -177,26 +183,26 @@
         "title": "KW 38: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
         "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-38-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15922347",
         "published": "Sat, 19 Sep 2026 22:10:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Huawei-Aktie: Warum die Preiserhöhung bei KI-Chips Chinas Plan gegen NVIDIA gefährdet",
-        "link": "https://www.finanzen.net/nachricht/aktien/ki-chips-deutlich-teurer-huawei-aktie-warum-die-preiserhoehung-bei-ki-chips-chinas-plan-gegen-nvidia-gefaehrdet-00-15934865",
-        "published": "Sat, 19 Sep 2026 22:07:00 +0200"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Trump Reignites Kennedy Center Fight",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-19/trump-reignites-kennedy-center-fight-video",
-        "published": "Sat, 19 Sep 2026 18:09:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
         "link": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says",
         "published": "Sat, 19 Sep 2026 14:47:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Companies Avoid Selling the Bonds Investors Crave: Credit Weekly",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-19/companies-avoid-selling-the-bonds-investors-crave-credit-weekly",
+        "published": "Sat, 19 Sep 2026 14:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump Reignites Kennedy Center Fight",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-19/trump-reignites-kennedy-center-fight-video",
+        "published": "Sat, 19 Sep 2026 18:09:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -245,12 +251,6 @@
         "title": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
         "link": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance",
         "published": "Sat, 19 Sep 2026 14:17:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Companies Avoid Selling the Bonds Investors Crave: Credit Weekly",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-19/companies-avoid-selling-the-bonds-investors-crave-credit-weekly",
-        "published": "Sat, 19 Sep 2026 14:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -688,9 +688,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Fossil fuel emissions set to fall in after oil shock",
-        "link": "https://finance.yahoo.com/energy/articles/fossil-fuel-emissions-set-fall-210300941.html",
-        "published": "2026-09-19T21:03:00Z"
+        "title": "A 63-Year-Old Inherited $118,000 of Savings Bonds From Her Father and Owes Tax on 30 Years of Interest He Never Reported",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/63-old-inherited-118-000-231256572.html",
+        "published": "2026-09-19T23:12:56Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -718,9 +718,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "BNY Sees Cross-Selling and AI Investments Fueling Its Next Growth Phase",
-        "link": "https://finance.yahoo.com/technology/ai/articles/bny-sees-cross-selling-ai-210204657.html",
-        "published": "2026-09-19T21:02:04Z"
+        "title": "Solana ETFs Experience 12 Consecutive Weeks of Inflows, While Bitcoin Has Its Quietest Week on Record",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/solana-etfs-experience-12-consecutive-230449467.html",
+        "published": "2026-09-19T23:04:49Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -748,9 +748,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "How to Earn $600 a Month From the Pipeline Stocks Powering AI Data Centers",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/earn-600-month-pipeline-stocks-205000405.html",
-        "published": "2026-09-19T20:50:00Z"
+        "title": "Why a Doctor Who Owns Her Practice Can Get Under 30% While Her Salaried Colleague Pays 37% Plus Payroll Tax",
+        "link": "https://finance.yahoo.com/healthcare/articles/why-doctor-owns-her-practice-230420166.html",
+        "published": "2026-09-19T23:04:20Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -778,9 +778,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Should Investors Be Worried About an AI Bubble? Here's What History Says.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/investors-worried-ai-bubble-heres-203500865.html",
-        "published": "2026-09-19T20:35:00Z"
+        "title": "80-year-old discount fashion chain closing 120 stores",
+        "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
+        "published": "2026-09-19T23:02:22Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
