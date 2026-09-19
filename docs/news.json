@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T14:39:23.498333+00:00",
+  "updated_at": "2026-09-19T17:25:36.791656+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,69 +126,111 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Bitcoin-Kurs und Goldpreis so eng wie nie: Was die Korrelation wirklich bedeutet - Chance für Anleger?",
-        "link": "https://www.finanzen.net/nachricht/devisen/sicherer-hafen-bitcoin-kurs-und-goldpreis-so-eng-wie-nie-was-die-korrelation-wirklich-bedeutet-chance-fuer-anleger-00-15933110",
-        "published": "Sat, 19 Sep 2026 16:30:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
-        "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-38-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15932161",
-        "published": "Sat, 19 Sep 2026 16:24:00 +0200"
+        "title": "Neue Impulse für Vonovia-Aktie? CEO verteidigt Beitrag des Konzerns gegen Wohnungsnot",
+        "link": "https://www.finanzen.net/nachricht/aktien/mehr-neubau-in-berlin-neue-impulse-fuer-vonovia-aktie-ceo-verteidigt-beitrag-des-konzerns-gegen-wohnungsnot-15942683",
+        "published": "Sat, 19 Sep 2026 19:12:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
         "title": "Huawei-Aktie: Warum die Preiserhöhung bei KI-Chips Chinas Plan gegen NVIDIA gefährdet",
         "link": "https://www.finanzen.net/nachricht/aktien/ki-chips-deutlich-teurer-huawei-aktie-warum-die-preiserhoehung-bei-ki-chips-chinas-plan-gegen-nvidia-gefaehrdet-00-15934865",
-        "published": "Sat, 19 Sep 2026 16:21:00 +0200"
+        "published": "Sat, 19 Sep 2026 19:08:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Smarter entscheiden: Entdecke die Welt der Trading-Bots - und sichere dir bis zu 110 € in Bitcoin",
+        "link": "https://www.finanzen.net/nachricht/devisen/werbung-smarter-entscheiden-entdecke-die-welt-der-trading-bots-und-sichere-dir-bis-zu-110-in-bitcoin-15304854",
+        "published": "Sat, 19 Sep 2026 19:07:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "SAP-Aktie unter der Lupe: CEO äußert sich zur Merz-Krise und fordert mehr Reformen",
+        "link": "https://www.finanzen.net/nachricht/aktien/reformbedarf-sap-aktie-unter-der-lupe-ceo-aeussert-sich-zur-merz-krise-und-fordert-mehr-reformen-15942702",
+        "published": "Sat, 19 Sep 2026 19:06:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Bitcoin-Kurs und Goldpreis so eng wie nie: Was die Korrelation wirklich bedeutet - Chance für Anleger?",
+        "link": "https://www.finanzen.net/nachricht/devisen/sicherer-hafen-bitcoin-kurs-und-goldpreis-so-eng-wie-nie-was-die-korrelation-wirklich-bedeutet-chance-fuer-anleger-00-15933110",
+        "published": "Sat, 19 Sep 2026 19:04:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "KW 38 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
+        "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-38-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15922348",
+        "published": "Sat, 19 Sep 2026 19:04:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
         "title": "KW 38: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
         "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-38-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15922347",
-        "published": "Sat, 19 Sep 2026 16:03:00 +0200"
+        "published": "Sat, 19 Sep 2026 19:04:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "So managst du dein (Aktien-)Risiko",
-        "link": "https://www.finanzen.net/nachricht/private-finanzen/risikomanagement-so-managst-du-dein-aktien-risiko-15942649",
-        "published": "Sat, 19 Sep 2026 16:00:00 +0200"
+        "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
+        "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-38-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15932161",
+        "published": "Sat, 19 Sep 2026 19:03:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Multiorder beim Online-Broker: Mit einem Trade in mehrere Aktien gleichzeitig investieren",
-        "link": "https://www.finanzen.net/nachricht/aktien/multiorder-beim-online-broker-mit-einem-trade-in-mehrere-aktien-gleichzeitig-investieren-15942849",
-        "published": "Sat, 19 Sep 2026 15:40:23 +0200"
+        "title": "Besser als MSCI World und S&P500: Dieser Index hängt alle ab",
+        "link": "https://www.finanzen.net/nachricht/aktien/besser-als-msci-world-und-s-p500-dieser-index-haengt-alle-ab-15942896",
+        "published": "Sat, 19 Sep 2026 19:02:19 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Burggraben-Aktien im Check: So können sich Anleger absichern",
-        "link": "https://www.finanzen.net/nachricht/aktien/economic-moat-burggraben-aktien-im-check-so-koennen-sich-anleger-absichern-11705656",
-        "published": "Sat, 19 Sep 2026 15:31:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Einfach in Krypto investieren - mit dem Top 10 Crypto ETP von finanzen.net und CoinShares",
-        "link": "https://www.finanzen.net/nachricht/devisen/in-eigener-sache-einfach-in-krypto-investieren-mit-dem-top-10-crypto-etp-von-finanzen-net-und-coinshares-13849011",
-        "published": "Sat, 19 Sep 2026 15:30:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Handle bei finanzen.net ZERO auch am Wochenende - jeden Samstag ab 14 Uhr",
-        "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-handle-bei-finanzen-net-zero-auch-am-wochenende-jeden-samstag-ab-14-uhr-15339784",
-        "published": "Sat, 19 Sep 2026 15:30:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Anthropic-Aktie voraus: Warum sich das IPO offenbar auf November verschiebt - und was das für Anleger bedeutet",
-        "link": "https://www.finanzen.net/nachricht/aktien/boersengang-verschoben-anthropic-aktie-voraus-warum-sich-das-ipo-offenbar-auf-november-verschiebt-und-was-das-fuer-anleger-bedeutet-00-15942800",
-        "published": "Sat, 19 Sep 2026 15:27:00 +0200"
+        "title": "Große Auswahl, minimale Kosten: Derivate-Trading bei finanzen.net ZERO",
+        "link": "https://www.finanzen.net/nachricht/trading/in-eigener-sache-grosse-auswahl-minimale-kosten-derivate-trading-bei-finanzen-net-zero-15714959",
+        "published": "Sat, 19 Sep 2026 19:00:00 +0200"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Companies Avoid Selling The Bonds Investors Crave: Credit Weekly",
+        "title": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says",
+        "published": "Sat, 19 Sep 2026 14:47:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-19/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+        "published": "Sat, 19 Sep 2026 15:40:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-19/by-the-way-headlines-you-may-have-missed-video",
+        "published": "Sat, 19 Sep 2026 15:32:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "New York Builds Data Team to Target Consumer Ripoffs",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-19/new-york-builds-data-team-to-target-consumer-ripoffs-video",
+        "published": "Sat, 19 Sep 2026 15:18:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Governor Cox Says Americans Need Healthier Conflict",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-19/governor-cox-says-americans-need-healthier-conflict-video",
+        "published": "Sat, 19 Sep 2026 15:04:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Saudi Arabia Billionaires’ Family Office Dubai Bet Adds to London Exodus",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-18/saudi-arabia-billionaires-family-office-dubai-bet-adds-to-london-exodus",
+        "published": "Fri, 18 Sep 2026 10:19:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance",
+        "published": "Sat, 19 Sep 2026 14:17:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Companies Avoid Selling the Bonds Investors Crave: Credit Weekly",
         "link": "https://www.bloomberg.com/news/articles/2026-09-19/companies-avoid-selling-the-bonds-investors-crave-credit-weekly",
         "published": "Sat, 19 Sep 2026 14:00:00 GMT"
       },
@@ -263,48 +305,6 @@
         "title": "A Goldman M&A Banker Helped Bring the Olympics to Los Angeles",
         "link": "https://www.bloomberg.com/news/articles/2026-09-19/a-goldman-m-a-banker-helped-bring-the-olympics-to-los-angeles",
         "published": "Sat, 19 Sep 2026 08:00:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Odd Lots: Goldman’s Sykes on the 2028 Olympics Deal (Podcast)",
-        "link": "https://www.bloomberg.com/news/audio/2026-09-19/odd-lots-goldman-s-sykes-on-the-2028-olympics-deal-podcast",
-        "published": "Sat, 19 Sep 2026 08:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bolivia Eliminates Diesel Subsidy After IMF Loan Approval",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-19/bolivia-eliminates-diesel-subsidy-after-imf-loan-approval-mu7ydf34",
-        "published": "Sat, 19 Sep 2026 05:34:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Blackstone Sees India Nearing Tipping Point for Foreign Capital",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-19/blackstone-sees-india-nearing-tipping-point-for-foreign-capital",
-        "published": "Sat, 19 Sep 2026 04:01:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China’s Fiscal Pullback Extends to August as Spending Slumps",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-18/china-s-fiscal-pullback-stretches-into-august-as-spending-slumps",
-        "published": "Fri, 18 Sep 2026 10:43:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "South Korea’s Justice Minister Nominee Withdraws After Reshuffle",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-19/south-korea-s-justice-minister-nominee-withdraws-after-reshuffle",
-        "published": "Sat, 19 Sep 2026 02:31:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Mark Walter’s Lieutenants Give Prosecutors Firsthand Accounts",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-19/mark-walter-s-lieutenants-give-prosecutors-firsthand-accounts",
-        "published": "Sat, 19 Sep 2026 00:16:34 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Week | India’s Growth Test, Bangalore’s Infrastructure Problem, Cricket Attracts Capital",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-18/wall-street-week-india-s-growth-test-video",
-        "published": "Fri, 18 Sep 2026 23:27:06 GMT"
       }
     ],
     "onvista – News": [
@@ -658,21 +658,81 @@
     "Yahoo Finance – Top Stories (EN)": [
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Hims & Hers Chief Legal Officer Soleil Boughton Sells 6,236 Shares",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/hims-hers-chief-legal-officer-141501875.html",
-        "published": "2026-09-19T14:15:01Z"
+        "title": "Whiskey brand tied to Jack Daniel's faces a second Chapter 7",
+        "link": "https://finance.yahoo.com/small-business/articles/170-old-whiskey-brands-saga-171043884.html",
+        "published": "2026-09-19T02:59:56Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
+        "published": "2026-09-19T17:14:43Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
+        "link": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
+        "published": "2026-09-19T17:12:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
+        "link": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
+        "published": "2026-09-19T17:11:52Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-rises-bolt-partnership-165233221.html",
+        "published": "2026-09-19T16:52:33Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "3 Reasons Claiming Social Security at 62 Could Backfire",
+        "link": "https://finance.yahoo.com/markets/articles/3-reasons-claiming-social-security-171400587.html",
+        "published": "2026-09-19T17:14:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+        "published": "2026-09-19T16:34:51Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "‘Don't quit. Keep your job': Expert says Social Security will 'go away' — and the thing to protect isn't your 401(k)",
+        "link": "https://finance.yahoo.com/economy/policy/articles/dont-quit-keep-job-expert-161500293.html",
+        "published": "2026-09-19T16:15:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Marvell (MRVL) and GlobalFoundries (GFS) Rise on Expanded Deal: What Investors Should Know",
+        "link": "https://finance.yahoo.com/technology/articles/marvell-mrvl-globalfoundries-gfs-rise-155724895.html",
+        "published": "2026-09-19T15:57:24Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "PicS N.V. (PICS) Delivers Credit Portfolio Momentum and Q2 Outperformance Across the Board",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/pics-n-v-pics-delivers-155428079.html",
+        "published": "2026-09-19T15:54:28Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "The Month Before He Went Into Care, She Paid Off the Mortgage, Put a New Roof on the House, and Bought a Car. Medicaid Never Counted a Dollar of It, Because Not One Purchase Was a Gift",
+        "link": "https://finance.yahoo.com/healthcare/articles/month-went-care-she-paid-170728701.html",
+        "published": "2026-09-19T17:07:28Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-gets-bullish-110-155252131.html",
+        "published": "2026-09-19T15:52:52Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
         "title": "Lawyers say your $5,000 debt doesn't disappear when the company you owe goes out of business — here's why",
         "link": "https://finance.yahoo.com/small-business/articles/lawyers-5-000-debt-doesnt-133000085.html",
         "published": "2026-09-19T13:30:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-        "published": "2026-09-19T13:16:31Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -688,9 +748,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Trader With 89% Win Rate Loses $10.68 Million Shorting Zcash",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/trader-89-win-rate-loses-141115721.html",
-        "published": "2026-09-19T14:11:15Z"
+        "title": "Huang just doubled his chip forecast and blocked a regulator",
+        "link": "https://finance.yahoo.com/technology/ai/articles/huang-just-doubled-chip-forecast-170700611.html",
+        "published": "2026-09-19T17:07:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -718,9 +778,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Anthropic's IPO Is Coming. Here's What That Means for S&P 500 Investors.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/anthropics-ipo-coming-heres-means-140500319.html",
-        "published": "2026-09-19T14:05:00Z"
+        "title": "Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-backed-artificial-intelligence-170500839.html",
+        "published": "2026-09-19T17:05:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -742,69 +802,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Robinhood Soars, SpaceX Orbits Entry: Five Stocks Near Buy Points",
-        "link": "https://www.investors.com/news/robinhood-stock-spacex-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-        "published": "2026-09-19T12:00:39Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-raised-dividend-31-years-140251592.html",
-        "published": "2026-09-19T14:02:51Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "YardFlow lands over 200-site yard automation deal",
-        "link": "https://finance.yahoo.com/technology/articles/yardflow-lands-over-200-yard-120000605.html",
-        "published": "2026-09-19T12:00:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked",
-        "link": "https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html",
-        "published": "2026-09-19T12:00:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
-        "link": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
-        "published": "2026-09-19T11:59:55Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nestlé Loses the Keys to Its Russian Business",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nestl-loses-keys-russian-business-115500444.html",
-        "published": "2026-09-19T11:55:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Keysight Technologies Sees AI Data-Center Boom, Targets 6G and Defense Growth",
-        "link": "https://finance.yahoo.com/technology/ai/articles/keysight-technologies-sees-ai-data-140206897.html",
-        "published": "2026-09-19T14:02:06Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
-        "published": "2026-09-19T11:45:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
-        "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
-        "published": "2026-09-19T11:45:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Mom plans to give brother early inheritance for his 3 kids' college — childfree sibling says it's not fair",
-        "link": "https://finance.yahoo.com/small-business/articles/mom-plans-brother-early-inheritance-113000096.html",
-        "published": "2026-09-19T11:30:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "At 60 I have nothing for retirement and no plan except Social Security. Now that I've been laid off, how can I survive?",
-        "link": "https://finance.yahoo.com/small-business/articles/60-nothing-retirement-no-plan-112500522.html",
-        "published": "2026-09-19T11:25:00Z"
+        "title": "Why gold is a safe-haven investment during inflation and market volatility",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/why-is-gold-a-safe-haven-investment-190343193.html",
+        "published": "2026-07-13T19:03:43Z"
       }
     ]
   }
