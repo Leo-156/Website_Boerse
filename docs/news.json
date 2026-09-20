@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T23:29:57.733144+00:00",
+  "updated_at": "2026-09-20T01:23:48.661535+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,24 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
+        "title": "Dividendenaktien im Depot: Wie Anleger mit fünf Kriterien den langfristigen Cashflow sichern",
+        "link": "https://www.finanzen.net/nachricht/aktien/dividendenstrategie-dividendenaktien-im-depot-wie-anleger-mit-fuenf-kriterien-den-langfristigen-cashflow-sichern-00-15938633",
+        "published": "Sun, 20 Sep 2026 03:12:55 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Die Highlights und Lowlights im TecDAX: Gewinner und Verlierer der KW 38 im Überblick",
+        "link": "https://www.finanzen.net/nachricht/aktien/tech-branche-im-fokus-die-highlights-und-lowlights-im-tecdax-gewinner-und-verlierer-der-kw-38-im-ueberblick-15922351",
+        "published": "Sun, 20 Sep 2026 03:07:31 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Gold, Öl  Co. in KW 38: So bewegten sich die Rohstoffe in der vergangenen Woche",
+        "link": "https://www.finanzen.net/nachricht/aktien/gold-oel-amp-co-in-kw-38-so-bewegten-sich-die-rohstoffe-in-der-vergangenen-woche-15942947",
+        "published": "Sun, 20 Sep 2026 03:04:48 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
         "title": "S&P 500 über 8.000 Punkten? Hier sehen Strategen den Index zum Jahresende",
         "link": "https://www.finanzen.net/nachricht/aktien/kurszielwelle-s-p-500-ueber-8-000-punkten-hier-sehen-strategen-den-index-zum-jahresende-00-15936778",
         "published": "Sat, 19 Sep 2026 23:50:00 +0200"
@@ -165,24 +183,6 @@
         "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
         "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-38-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15932161",
         "published": "Sat, 19 Sep 2026 22:45:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Online Broker Vergleich - die besten Aktiendepots und Trading-Plattformen im Test",
-        "link": "https://www.finanzen.net/nachricht/aktien/online-broker-vergleich-die-besten-aktiendepots-und-trading-plattformen-im-test-4714571",
-        "published": "Sat, 19 Sep 2026 22:30:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "KW 38 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
-        "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-38-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15922348",
-        "published": "Sat, 19 Sep 2026 22:26:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "KW 38: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
-        "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-38-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15922347",
-        "published": "Sat, 19 Sep 2026 22:10:00 +0200"
       }
     ],
     "Bloomberg – Markets": [
@@ -664,147 +664,147 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
-        "link": "https://finance.yahoo.com/real-estate/articles/nashville-traffic-nightmare-now-9-202041295.html",
-        "published": "2026-09-19T20:20:41Z"
+        "title": "Tower Semiconductor Just Scored a New Bullish Rating. What to Know.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-just-scored-bullish-184106083.html",
+        "published": "2026-09-18T18:41:06Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics",
-        "link": "https://finance.yahoo.com/technology/ai/articles/idexx-idxx-bets-ai-scribe-201730587.html",
-        "published": "2026-09-19T20:17:30Z"
+        "title": "Costco expands ultra-fast delivery through DoorDash, Uber",
+        "link": "https://finance.yahoo.com/small-business/articles/costco-expands-ultra-fast-delivery-185042149.html",
+        "published": "2026-09-18T18:50:42Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
-        "published": "2026-09-19T20:13:50Z"
+        "title": "Why gold is a safe-haven investment during inflation and market volatility",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/why-is-gold-a-safe-haven-investment-190343193.html",
+        "published": "2026-07-13T19:03:43Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-turns-every-200932877.html",
-        "published": "2026-09-19T20:09:32Z"
+        "title": "FleetCor, CEO agree to pay $100 million over hidden fuel-card fees",
+        "link": "https://finance.yahoo.com/small-business/articles/fleetcor-ceo-agree-pay-100-185319968.html",
+        "published": "2026-09-18T18:53:19Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "A 63-Year-Old Inherited $118,000 of Savings Bonds From Her Father and Owes Tax on 30 Years of Interest He Never Reported",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/63-old-inherited-118-000-231256572.html",
-        "published": "2026-09-19T23:12:56Z"
+        "title": "Zipline’s Valuation Could Nearly Triple as Drone Delivery Rules Remain Unsettled",
+        "link": "https://finance.yahoo.com/technology/articles/zipline-valuation-could-nearly-triple-184133555.html",
+        "published": "2026-09-18T18:41:33Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate",
-        "link": "https://finance.yahoo.com/real-estate/articles/ferguson-ferg-keeps-beating-housing-195513837.html",
-        "published": "2026-09-19T19:55:13Z"
+        "title": "XENE Stock Plummets as Xenon Pharmaceuticals Pauses Drug Trial",
+        "link": "https://finance.yahoo.com/healthcare/articles/xene-stock-plummets-xenon-pharmaceuticals-190004522.html",
+        "published": "2026-09-18T19:00:04Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Agilent (A) Wants Pathology Labs To Go Digital, 540 Slides At A Time",
-        "link": "https://finance.yahoo.com/healthcare/articles/agilent-wants-pathology-labs-digital-195217186.html",
-        "published": "2026-09-19T19:52:17Z"
+        "title": "Ask these 4 questions — written by Realtors — when choosing a mortgage lender",
+        "link": "https://finance.yahoo.com/real-estate/articles/ask-4-questions-written-realtors-190000139.html",
+        "published": "2026-09-18T19:00:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "eGain (EGAN): B. Riley and Roth Capital Both Cut Targets as AI Growth Struggles to Offset Legacy Declines",
-        "link": "https://finance.yahoo.com/technology/ai/articles/egain-egan-b-riley-roth-194936520.html",
-        "published": "2026-09-19T19:49:36Z"
+        "title": "The U.S. Government Is Preparing to Offload Over 9 Million GlobalFoundries Shares. How You Should Play GFS Stock in Response.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/u-government-preparing-offload-over-183612647.html",
+        "published": "2026-09-18T18:36:12Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Infosys (INFY) Lands a Brake Maker as Growth Stays in Low Gear",
-        "link": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-lands-brake-maker-194747627.html",
-        "published": "2026-09-19T19:47:47Z"
+        "title": "JOBY Stock Alert: What to Know as Joby Aviation Completes Cross Country Flight",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/joby-stock-alert-know-joby-190935277.html",
+        "published": "2026-09-18T19:09:35Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Solana ETFs Experience 12 Consecutive Weeks of Inflows, While Bitcoin Has Its Quietest Week on Record",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/solana-etfs-experience-12-consecutive-230449467.html",
-        "published": "2026-09-19T23:04:49Z"
+        "title": "Robinhood CEO says ‘tokenization is coming to America’ after SEC ruling",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/robinhood-ceo-says-tokenization-coming-184533895.html",
+        "published": "2026-09-18T18:45:33Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Jim Cramer on Seanergy Maritime (SHIP): “I’d Be a Buyer”",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-seanergy-maritime-ship-194035405.html",
-        "published": "2026-09-19T19:40:35Z"
+        "title": "Crude Prices Retreat on Hopes Middle East Energy Exports to Recover",
+        "link": "https://finance.yahoo.com/energy/articles/crude-prices-retreat-hopes-middle-191455317.html",
+        "published": "2026-09-18T19:14:55Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
-        "published": "2026-09-19T19:35:09Z"
+        "title": "Nat-Gas Prices Rebound on Pre-Weekend Short Covering",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-rebound-pre-191320941.html",
+        "published": "2026-09-18T19:13:20Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Jim Cramer Says “Buy Reddit” (RDDT)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-reddit-193324887.html",
-        "published": "2026-09-19T19:33:24Z"
+        "title": "New Highs, Ahoy! These Shipping Stocks Are In Buy Zones",
+        "link": "https://www.investors.com/stock-lists/new-highs/new-highs-ahoy-these-shipping-stocks-are-in-buy-zones/?src=A00220&yptr=yahoo",
+        "published": "2026-09-18T19:17:57Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying",
-        "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html",
-        "published": "2026-09-19T19:32:52Z"
+        "title": "'Diesel Season' Is Starting. There's No Escaping Record Prices.",
+        "link": "https://www.investors.com/news/diesel-prices-hit-record-high-no-escaping-record-prices/?src=A00220&yptr=yahoo",
+        "published": "2026-09-18T19:18:34Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Why a Doctor Who Owns Her Practice Can Get Under 30% While Her Salaried Colleague Pays 37% Plus Payroll Tax",
-        "link": "https://finance.yahoo.com/healthcare/articles/why-doctor-owns-her-practice-230420166.html",
-        "published": "2026-09-19T23:04:20Z"
+        "title": "Iron Mountain EVP Sells 6,000 Shares",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/iron-mountain-evp-sells-6-184201803.html",
+        "published": "2026-09-18T18:42:01Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
-        "published": "2026-09-19T19:29:55Z"
+        "title": "SailPoint’s (SAIL) Falcon Next-Gen SIEM Arrangement Fits Its Broader Identity Security Push",
+        "link": "https://finance.yahoo.com/technology/ai/articles/sailpoint-sail-falcon-next-gen-183101460.html",
+        "published": "2026-09-18T18:31:01Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
-        "link": "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html",
-        "published": "2026-09-19T19:29:12Z"
+        "title": "Cybersecurity Stock Fortinet Forms Rare Pattern, Flirts With Buy Point",
+        "link": "https://www.investors.com/stock-lists/ibd-big-cap-20/fortinet-ftnt-stock-cybersecurity-openai/?src=A00220&yptr=yahoo",
+        "published": "2026-09-18T19:24:44Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Cerebras (CBRS) Plants A 165 MW Flag In Finland While Still Losing Money",
-        "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-plants-165-mw-192515264.html",
-        "published": "2026-09-19T19:25:15Z"
+        "title": "Is CenterPoint Energy Underperforming the Nasdaq?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-underperforming-nasdaq-182622146.html",
+        "published": "2026-09-18T18:26:22Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-fitb-comerica-merger-190743312.html",
-        "published": "2026-09-19T19:07:43Z"
+        "title": "Wells Fargo Just Downgraded Netflix Stock. Here's Why.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-just-downgraded-netflix-182315862.html",
+        "published": "2026-09-18T18:23:15Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "80-year-old discount fashion chain closing 120 stores",
-        "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
-        "published": "2026-09-19T23:02:22Z"
+        "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman After 56 Years. Here's What Investors Should Expect Moving Forward.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-steps-down-berkshire-185018258.html",
+        "published": "2026-09-18T18:50:18Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Atlassian (TEAM) Just Turned Jira Into an AI Coding Command Center",
-        "link": "https://finance.yahoo.com/technology/ai/articles/atlassian-team-just-turned-jira-190413386.html",
-        "published": "2026-09-19T19:04:13Z"
+        "title": "Fed keeps the door open for more rate hikes as Schmid warns there's 'work to do'",
+        "link": "https://finance.yahoo.com/economy/policy/article/fed-keeps-the-door-open-for-more-rate-hikes-as-schmid-warns-theres-work-to-do-182214817.html",
+        "published": "2026-09-18T18:22:14Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html",
-        "published": "2026-09-19T18:56:39Z"
+        "title": "Is First Solar Stock Underperforming the Nasdaq?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-underperforming-nasdaq-182115801.html",
+        "published": "2026-09-18T18:21:15Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
-        "published": "2026-09-19T18:51:16Z"
+        "title": "Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-intel-intc-181522000.html",
+        "published": "2026-09-18T18:15:22Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-autopilot-signals-where-184731033.html",
-        "published": "2026-09-19T18:47:31Z"
+        "title": "Coinbase Leads Crypto Stocks Higher as Bitcoin Crosses $80,000",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-leads-crypto-stocks-higher-193117793.html",
+        "published": "2026-09-18T19:31:17Z"
       }
     ]
   }
