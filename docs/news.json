@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:50:18.348673+00:00",
+  "updated_at": "2026-09-20T23:37:42.696531+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,12 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
+        "title": "SPD-Politikerin Giffey nicht mehr im Berliner Abgeordnetenhaus",
+        "link": "https://www.finanzen.net/nachricht/aktien/spd-politikerin-giffey-nicht-mehr-im-berliner-abgeordnetenhaus-15943435",
+        "published": "Sun, 20 Sep 2026 23:49:39 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
         "title": "Bitcoin-Ausblick: Bitwise-CIO Hougan prognostiziert 1,3 Millionen Dollar bis 2035",
         "link": "https://www.finanzen.net/nachricht/devisen/optimistische-prognose-bitcoin-ausblick-bitwise-cio-hougan-prognostiziert-1-3-millionen-dollar-bis-2035-00-15936899",
         "published": "Sun, 20 Sep 2026 23:48:00 +0200"
@@ -177,15 +183,57 @@
         "title": "Russland: Erste Ergebnisse sehen Kremlpartei als Wahlsieger",
         "link": "https://www.finanzen.net/nachricht/aktien/russland-erste-ergebnisse-sehen-kremlpartei-als-wahlsieger-15943418",
         "published": "Sun, 20 Sep 2026 23:09:38 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "So blickt das Ausland auf die Wahlen in MV und Berlin",
-        "link": "https://www.finanzen.net/nachricht/aktien/so-blickt-das-ausland-auf-die-wahlen-in-mv-und-berlin-15943416",
-        "published": "Sun, 20 Sep 2026 22:57:38 +0200"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Advance, Brent Crude Holds Losses: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
+        "published": "Sun, 20 Sep 2026 22:14:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Insurance Australia Says Greensill Settlement Isn’t Finalized",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-20/insurance-australia-says-greensill-settlement-isn-t-finalized",
+        "published": "Sun, 20 Sep 2026 23:11:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Black Sea Shipping Turmoil Hits Wheat Market, Amplifies Inflation Risks",
+        "link": "https://www.bloomberg.com/news/features/2026-09-20/black-sea-shipping-turmoil-hits-wheat-market-amplifies-inflation-risks",
+        "published": "Sun, 20 Sep 2026 23:01:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ex-Banker Eyeing Top WHO Job Says Agency Can Tap Outside Money",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-20/ex-banker-eyeing-top-who-job-says-agency-can-tap-outside-money",
+        "published": "Sun, 20 Sep 2026 23:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Australia’s Labor Government Extends Slide in Opinion Polls",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-labor-government-extends-slide-in-opinion-polls",
+        "published": "Sun, 20 Sep 2026 22:52:18 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Sept. 21",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-20/latest-oil-market-news-and-analysis-for-sept-21",
+        "published": "Sun, 20 Sep 2026 22:05:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Yen Vulnerable With Japan on Holiday After BOJ Disappoints",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-20/yen-is-vulnerable-with-japan-on-holiday-after-boj-disappoints",
+        "published": "Sun, 20 Sep 2026 08:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Swiss Dealmaking Bounces Back But Private Equity Is Squeezed",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-20/swiss-dealmaking-bounces-back-but-private-equity-is-squeezed",
+        "published": "Sun, 20 Sep 2026 22:01:00 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "AI Boom Is Making Diversifying Investments Tough for Wall Street",
@@ -257,54 +305,6 @@
         "title": "QIA, Apollo & Goldman CEOs on Global Capital",
         "link": "https://www.bloomberg.com/news/videos/2026-09-20/qia-apollo-goldman-ceos-on-global-capital-video",
         "published": "Sun, 20 Sep 2026 16:34:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Week | India’s Growth Test, Bangalore’s Infrastructure Problem, Cricket Attracts Capital",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-18/wall-street-week-india-s-growth-test-video",
-        "published": "Fri, 18 Sep 2026 23:27:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How India Turned Cricket Into A Billion Dollar Business",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-20/how-india-turned-cricket-into-a-billion-dollar-business-video",
-        "published": "Sun, 20 Sep 2026 16:16:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "General Atlantic CEO Sees Long-Term AI Opportunity",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-20/general-atlantic-ceo-sees-long-term-ai-opportunity-video",
-        "published": "Sun, 20 Sep 2026 16:14:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Why India’s Big Tech Companies Are Betting on Hyderabad",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-20/why-india-s-big-tech-companies-are-betting-on-hyderabad-video",
-        "published": "Sun, 20 Sep 2026 16:14:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Qatar Says LNG Damage May Take Years to Repair",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-20/qatar-says-lng-damage-may-take-years-to-repair-video",
-        "published": "Sun, 20 Sep 2026 16:03:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "State Street Sees Resilience Driving Portfolios",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-20/state-street-sees-resilience-driving-portfolios-video",
-        "published": "Sun, 20 Sep 2026 15:53:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rubio Takes on Expansive Foreign Policy Role",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-20/rubio-takes-on-expansive-foreign-policy-role-video",
-        "published": "Sun, 20 Sep 2026 15:39:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Can India Turn Its Promise Into Prosperity?",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-19/can-india-turn-its-promise-into-prosperity",
-        "published": "Sat, 19 Sep 2026 12:03:55 GMT"
       }
     ],
     "onvista – News": [
@@ -664,6 +664,132 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Signet Jewelers (SIG) Swings to a Profit and Signs a Credit Deal Worth $1 Billion",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/signet-jewelers-sig-swings-profit-232831573.html",
+        "published": "2026-09-20T23:28:31Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Jersey Mike’s (JMKE) Posts its First Public Earnings, and the Numbers Back Up the Growth Story",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-jmke-posts-first-232340583.html",
+        "published": "2026-09-20T23:23:40Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "The Semaglutide Cliff vs. a 10x Multiple: Is Novo Nordisk (NVO) a Value Trap or a Bargain?",
+        "link": "https://finance.yahoo.com/healthcare/articles/semaglutide-cliff-vs-10x-multiple-232313561.html",
+        "published": "2026-09-20T23:23:13Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Chewy (CHWY) Beats on Profit Even as Pet Spending Stays Soft",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-beats-profit-even-231901389.html",
+        "published": "2026-09-20T23:19:01Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Chevron CEO sends a strong message on oil price and the economy",
+        "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
+        "published": "2026-09-20T16:47:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+        "published": "2026-09-20T23:18:55Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Independence Realty Trust (IRT) and Centerspace Combine into an $8.1 Billion Apartment Giant",
+        "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-irt-centerspace-231510521.html",
+        "published": "2026-09-20T23:15:10Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Alphabet (GOOGL)’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout",
+        "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-google-bets-finland-230634716.html",
+        "published": "2026-09-20T23:06:34Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Paramount (PSKY) Turns California’s Own Words Against it in Warner Bros. (WBD) Bond Fight",
+        "link": "https://finance.yahoo.com/media-advertising/articles/paramount-psky-turns-california-own-230245287.html",
+        "published": "2026-09-20T23:02:45Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Dollar General CEO raises major red flag about consumers",
+        "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
+        "published": "2026-09-20T15:17:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Stellantis (STLA) Recalls 200,000 More Jeeps, its Latest Entry in a Record Recall Year",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-recalls-200-000-225734007.html",
+        "published": "2026-09-20T22:57:34Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Starbucks (SBUX)’s New Chai Recipe has its Most Loyal Customers Revolting",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-chai-recipe-most-225540524.html",
+        "published": "2026-09-20T22:55:40Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Warner Music (WMG) Bets its AI Truce with Suno Can Turn into a New Revenue Line",
+        "link": "https://finance.yahoo.com/technology/ai/articles/warner-music-wmg-bets-ai-215750591.html",
+        "published": "2026-09-20T21:57:50Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Jim Cramer on Iron Mountain (IRM): “It’s Been an Incredible Stock”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-iron-mountain-irm-215701602.html",
+        "published": "2026-09-20T21:57:01Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
+        "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
+        "published": "2026-09-20T14:07:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Two Years In, Starbucks (SBUX)’s CEO Niccol has Won Back Customers. Now Wall Street Wants Margins",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/two-years-starbucks-sbux-ceo-215502629.html",
+        "published": "2026-09-20T21:55:02Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Lululemon (LULU): Wall Street Keeps Cutting Targets, But Nobody’s Calling It Cheap Enough to Buy",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-wall-street-keeps-215239806.html",
+        "published": "2026-09-20T21:52:39Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Amazon (AMZN)’s Debut Sterling Bond Sale Prices Bigger, But Demand Cools from Alphabet’s",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-debut-sterling-bond-215111018.html",
+        "published": "2026-09-20T21:51:11Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Nokia (NOK) Gets a Buy Rating, But Q2 Operating Loss Raises Questions",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nokia-nok-gets-buy-rating-214509281.html",
+        "published": "2026-09-20T21:45:09Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Cramer sends unmistakable verdict on BlackBerry before earnings",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cramer-sends-unmistakable-verdict-blackberry-231700047.html",
+        "published": "2026-09-20T23:17:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
+        "link": "https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html",
+        "published": "2026-09-20T21:41:29Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
         "title": "KeyBanc Raises AppFolio (APPF) Price Target: What Investors Need to Know",
         "link": "https://finance.yahoo.com/markets/stocks/articles/keybanc-raises-appfolio-appf-price-213318180.html",
         "published": "2026-09-20T21:33:18Z"
@@ -679,132 +805,6 @@
         "title": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout",
         "link": "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-taps-uk-bond-212711015.html",
         "published": "2026-09-20T21:27:11Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Amazon (AMZN) Sued Again, This Time over How it Treats Pregnant Warehouse Workers",
-        "link": "https://finance.yahoo.com/healthcare/articles/amazon-amzn-sued-again-time-212413687.html",
-        "published": "2026-09-20T21:24:13Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Chevron CEO sends a strong message on oil price and the economy",
-        "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
-        "published": "2026-09-20T16:47:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo Alto Rally While Chips Fall",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ai-slowdown-trade-winners-crowdstrike-212311977.html",
-        "published": "2026-09-20T21:23:11Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Boeing (BA) Completes 13-Satellite O3b mPOWER Constellation — Here’s What It Means for Defense Growth",
-        "link": "https://finance.yahoo.com/technology/articles/boeing-ba-completes-13-satellite-211953360.html",
-        "published": "2026-09-20T21:19:53Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Jersey Mike’s (JMKE) Owns the Sub Business. Winning Over Younger Diners is the Next Fight",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-jmke-owns-sub-211057214.html",
-        "published": "2026-09-20T21:10:57Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Bally’s (BALY)’s Casino Building Spree Triggers a ‘Going Concern’ Warning",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bally-baly-casino-building-spree-210836644.html",
-        "published": "2026-09-20T21:08:36Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dollar General CEO raises major red flag about consumers",
-        "link": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
-        "published": "2026-09-20T15:17:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "MDA Space (MDA) Bets on Homegrown Innovation with New LaunchPad Ventures Program",
-        "link": "https://finance.yahoo.com/small-business/articles/mda-space-mda-bets-homegrown-210735201.html",
-        "published": "2026-09-20T21:07:35Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Bitdeer (BTDR) Fully Contracts A102. Can Signed Demand Become Profitable AI Revenue?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/bitdeer-btdr-fully-contracts-a102-210458313.html",
-        "published": "2026-09-20T21:04:58Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "What Lies Ahead for Marcus & Millichap (MMI) Following These Multifamily Asset Sales",
-        "link": "https://finance.yahoo.com/real-estate/articles/lies-ahead-marcus-millichap-mmi-210222145.html",
-        "published": "2026-09-20T21:02:22Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Medical Properties Trust (MPT) Receives $371M. Will Debt Reduction Outweigh Lost Rent?",
-        "link": "https://finance.yahoo.com/real-estate/articles/medical-properties-trust-mpt-receives-205838338.html",
-        "published": "2026-09-20T20:58:38Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
-        "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
-        "published": "2026-09-20T14:07:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Willis Lease Finance (WLFC) Bets on Malaysia for Next Phase of Global Expansion",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-bets-205718056.html",
-        "published": "2026-09-20T20:57:18Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Semtech’s (SMTC) LoRa Plus Expansion Is Bigger Than Two New Chips",
-        "link": "https://finance.yahoo.com/technology/articles/semtech-smtc-lora-plus-expansion-205447567.html",
-        "published": "2026-09-20T20:54:47Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Chord Energy (CHRD) Signs $550 Million Marcellus Sale. Is Greater Focus Worth it?",
-        "link": "https://finance.yahoo.com/energy/articles/chord-energy-chrd-signs-550-205447338.html",
-        "published": "2026-09-20T20:54:47Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "LuxExperience (LUXE) Reports NET-A-PORTER and MR PORTER Growth. Are Customers Returning?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/luxexperience-luxe-reports-net-porter-205013606.html",
-        "published": "2026-09-20T20:50:13Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Why CrowdStrike, Palo Alto Networks, SentinelOne, and Other Cybersecurity Stocks Surged This Week",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-palo-alto-networks-212011941.html",
-        "published": "2026-09-20T21:20:11Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Lennar (LEN) Cuts Delivery Forecast. Can Construction Savings Offset Heavy Incentives?",
-        "link": "https://finance.yahoo.com/real-estate/articles/lennar-len-cuts-delivery-forecast-204510657.html",
-        "published": "2026-09-20T20:45:10Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "RB Global (RBA) Doubles its Buyback Authorization. Can Cash Generation Support it?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rb-global-rba-doubles-buyback-204211476.html",
-        "published": "2026-09-20T20:42:11Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Halliburton (HAL) Wins Integrated Cyprus Contract. Can Broader Services Improve Returns?",
-        "link": "https://finance.yahoo.com/energy/articles/halliburton-hal-wins-integrated-cyprus-203555402.html",
-        "published": "2026-09-20T20:35:55Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "HCA Healthcare (HCA) Acquires a Healthcare College. Can Training Capacity Improve Staffing?",
-        "link": "https://finance.yahoo.com/healthcare/articles/hca-healthcare-hca-acquires-healthcare-203355980.html",
-        "published": "2026-09-20T20:33:55Z"
       }
     ]
   }
