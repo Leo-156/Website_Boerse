@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T22:38:57.794326+00:00",
+  "updated_at": "2026-09-22T01:07:39.878346+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -188,21 +188,27 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Paramount settles lawsuits, allowing for Warner Bros. deal",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-21/paramount-settles-suits-allowing-for-warner-bros-deal-video",
-        "published": "Mon, 21 Sep 2026 22:29:35 GMT"
+        "title": "Low Expectations for US-China AI Talks",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-22/low-expectations-for-us-china-ai-talks-video",
+        "published": "Tue, 22 Sep 2026 00:39:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks to Gain on Tech Optimism, Oil Falls: Markets Wrap",
+        "title": "NSE’s $2.4 Billion IPO Gets Subdued Demand From Retail Crowd",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-21/nse-s-2-4-billion-india-ipo-subscribed-5-7-times-as-books-close",
+        "published": "Mon, 21 Sep 2026 11:46:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Edges Higher as Lower Oil Prices Damp Chance of Rate Hikes",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-22/gold-edges-higher-as-lower-oil-prices-damp-chance-of-rate-hikes",
+        "published": "Tue, 22 Sep 2026 00:26:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asian Stocks Climb After Tech Powers Wall Street: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates",
         "published": "Mon, 21 Sep 2026 22:18:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Plans $5 Billion Middle East Reconstruction Fund for Iran War",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-21/us-plans-5-billion-middle-east-reconstruction-fund-for-iran-war",
-        "published": "Mon, 21 Sep 2026 22:13:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -212,9 +218,33 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ecuador Asks US Daily for Help Curbing $30 Billion Cocaine Trade",
+        "title": "Macron and Trump Discuss Kyiv and Moscow Halting Energy Strikes",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-21/macron-and-trump-discuss-kyiv-and-moscow-halting-energy-strikes",
+        "published": "Mon, 21 Sep 2026 23:47:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Vietnam’s Leader Declares US Trade Deal Close",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-21/vietnam-s-leader-declares-us-trade-deal-close-video",
+        "published": "Mon, 21 Sep 2026 23:00:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ecuador Asks US Daily to Help Curb $30 Billion Cocaine Trade",
         "link": "https://www.bloomberg.com/news/articles/2026-09-21/ecuador-asks-us-daily-for-help-curbing-30-billion-cocaine-trade",
         "published": "Mon, 21 Sep 2026 22:00:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Paramount settles lawsuits, allowing for Warner Bros. deal",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-21/paramount-settles-suits-allowing-for-warner-bros-deal-video",
+        "published": "Mon, 21 Sep 2026 22:29:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Plans $5 Billion Middle East Reconstruction Fund for Iran War",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-21/us-plans-5-billion-middle-east-reconstruction-fund-for-iran-war",
+        "published": "Mon, 21 Sep 2026 22:13:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -275,36 +305,6 @@
         "title": "This Is a Healthy Environment for Deals, Rizzieri Says",
         "link": "https://www.bloomberg.com/news/videos/2026-09-21/this-is-a-healthy-environment-for-deals-rizzieri-says-video",
         "published": "Mon, 21 Sep 2026 21:05:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "KKR Bets on Korea AI Supply Chain After Record $3 Billion Deals",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-21/kkr-bets-on-korea-ai-supply-chain-after-record-3-billion-deals",
-        "published": "Mon, 21 Sep 2026 21:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Strategy Makes First Purchase of Bitcoin Since August",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-21/saylor-s-strategy-makes-first-purchase-of-bitcoin-since-august",
-        "published": "Mon, 21 Sep 2026 12:56:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The World's First Autocallable ETF",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-21/the-world-s-first-autocallable-etf-video",
-        "published": "Mon, 21 Sep 2026 20:59:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Jane Street Offering Swaps for ETFs",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-21/jane-street-offering-swaps-for-etfs-video",
-        "published": "Mon, 21 Sep 2026 20:48:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Emerging Assets Jump on Lower Oil Costs, US-China Trade Optimism",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-21/emerging-market-stocks-currencies-gain-after-us-china-talks",
-        "published": "Mon, 21 Sep 2026 05:00:24 GMT"
       }
     ],
     "onvista – News": [
@@ -664,69 +664,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Like father, like son: David Ellison considers Nashville alongside Austin as future home for Paramount",
-        "link": "https://finance.yahoo.com/media-advertising/articles/father-son-david-ellison-considers-140000496.html",
-        "published": "2026-09-20T14:00:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dear Tesla Stock Fans, Mark Your Calendars for September 30",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/dear-tesla-stock-fans-mark-140003840.html",
-        "published": "2026-09-20T14:00:03Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "The 11 S&P 500 Sectors Are Fading Quickly. Protect Yourself Against a Stock Market Crash Now.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/11-p-500-sectors-fading-140003554.html",
-        "published": "2026-09-20T14:00:03Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "AVAX Eyes 90% Price Rally As Wall Street Tests Avalanche for 24/7 Tokenized Trading",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/avax-eyes-90-price-rally-140455182.html",
-        "published": "2026-09-20T14:04:55Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Burger chain cancels breakfast at hundreds of restaurants",
-        "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
-        "published": "2026-09-21T04:15:19Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Don’t even think about retiring if this is you in 2026 — 5 red flags to watch (especially with Trump in the White House)",
-        "link": "https://finance.yahoo.com/markets/articles/don-t-even-think-retiring-141500099.html",
-        "published": "2026-09-20T14:15:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nebius’s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neocloud Stock",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-price-hike-suggests-michael-142209026.html",
-        "published": "2026-09-20T14:22:09Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Domino's Pizza Stock Is Dirt Cheap, With 30% Potential Upside - What's the Best Play?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-stock-dirt-cheap-143002535.html",
-        "published": "2026-09-20T14:30:02Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
         "title": "How the 3M Stock Turnaround Is Happening Faster Than Expected",
         "link": "https://finance.yahoo.com/markets/stocks/articles/3m-stock-turnaround-happening-faster-131505697.html",
         "published": "2026-09-20T13:15:05Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Bank of America says buy tumbling shares of aviation giant",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
-        "published": "2026-09-21T14:37:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Inside Ciena’s 2029 Roadmap: Ambitious Targets Meet Bullish Analyst Ratings",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/inside-ciena-2029-roadmap-ambitious-144204974.html",
-        "published": "2026-09-20T14:42:04Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -742,33 +682,63 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Meta’s New AI Agent Could Be the Missing Piece for META Stock",
-        "link": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-could-missing-130002359.html",
-        "published": "2026-09-20T13:00:02Z"
+        "title": "Like father, like son: David Ellison considers Nashville alongside Austin as future home for Paramount",
+        "link": "https://finance.yahoo.com/media-advertising/articles/father-son-david-ellison-considers-140000496.html",
+        "published": "2026-09-20T14:00:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "IDEXX Highlights Diagnostics Growth Drivers, Cancer Testing at Morgan Stanley Conference",
-        "link": "https://finance.yahoo.com/healthcare/articles/idexx-highlights-diagnostics-growth-drivers-140202271.html",
-        "published": "2026-09-20T14:02:02Z"
+        "title": "Burger chain cancels breakfast at hundreds of restaurants",
+        "link": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
+        "published": "2026-09-21T04:15:19Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Scott Bessent helped George Soros net $1 billion breaking the Bank of England — now he's fighting a U.S. bond selloff",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/scott-bessent-helped-george-soros-130000046.html",
-        "published": "2026-09-20T13:00:00Z"
+        "title": "The 11 S&P 500 Sectors Are Fading Quickly. Protect Yourself Against a Stock Market Crash Now.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/11-p-500-sectors-fading-140003554.html",
+        "published": "2026-09-20T14:00:03Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dick Portillo sold his restaurant empire for nearly $1B, but says he was happier before the deal",
-        "link": "https://finance.yahoo.com/small-business/articles/dick-portillo-sold-restaurant-empire-130000099.html",
-        "published": "2026-09-20T13:00:00Z"
+        "title": "Dear Tesla Stock Fans, Mark Your Calendars for September 30",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dear-tesla-stock-fans-mark-140003840.html",
+        "published": "2026-09-20T14:00:03Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Is 63 the ideal age of retirement Americans think it is? Probably not — here’s why",
-        "link": "https://finance.yahoo.com/small-business/articles/63-ideal-age-retirement-americans-124500294.html",
-        "published": "2026-09-20T12:45:00Z"
+        "title": "AVAX Eyes 90% Price Rally As Wall Street Tests Avalanche for 24/7 Tokenized Trading",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/avax-eyes-90-price-rally-140455182.html",
+        "published": "2026-09-20T14:04:55Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Don’t even think about retiring if this is you in 2026 — 5 red flags to watch (especially with Trump in the White House)",
+        "link": "https://finance.yahoo.com/markets/articles/don-t-even-think-retiring-141500099.html",
+        "published": "2026-09-20T14:15:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Bank of America says buy tumbling shares of aviation giant",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+        "published": "2026-09-21T14:37:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Nebius’s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neocloud Stock",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-price-hike-suggests-michael-142209026.html",
+        "published": "2026-09-20T14:22:09Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Domino's Pizza Stock Is Dirt Cheap, With 30% Potential Upside - What's the Best Play?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-stock-dirt-cheap-143002535.html",
+        "published": "2026-09-20T14:30:02Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Inside Ciena’s 2029 Roadmap: Ambitious Targets Meet Bullish Analyst Ratings",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/inside-ciena-2029-roadmap-ambitious-144204974.html",
+        "published": "2026-09-20T14:42:04Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -778,9 +748,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Piper Sandler Flags Weakening Market Breadth as S&P 500 Declines 0.48%",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-flags-weakening-market-140200270.html",
-        "published": "2026-09-20T14:02:00Z"
+        "title": "These 3 Stocks Under $20 Have Wall Street Looking Past the Share Price",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-20-wall-131500727.html",
+        "published": "2026-09-20T13:15:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -790,21 +760,51 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "'This could be something more substantial': Wall Street braces for more Fed rate hikes",
-        "link": "https://finance.yahoo.com/economy/policy/article/this-could-be-something-more-substantial-wall-street-braces-for-more-fed-rate-hikes-123400710.html",
-        "published": "2026-09-20T12:34:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
         "title": "UBS Sees Phillips 66 (PSX) Blazing Past its Record High",
         "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-sees-phillips-66-psx-151252128.html",
         "published": "2026-09-20T15:12:52Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Michael Burry says he only invests in ‘three-legged dogs’ — though five legs would be even better",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-only-invests-123000511.html",
-        "published": "2026-09-20T12:30:00Z"
+        "title": "Chevron (CVX) Supercharges its Venezuela Bet with More Oil Rigs",
+        "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-supercharges-venezuela-bet-151837921.html",
+        "published": "2026-09-20T15:18:37Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Morgan Stanley Sees Shell (SHEL) Hitting New Highs",
+        "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-shell-shel-152036523.html",
+        "published": "2026-09-20T15:20:36Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Berkshire Hathaway's Favorite Artificial Intelligence (AI) Stock Looks Like a Genius Buy Now",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-favorite-artificial-intelligence-131100376.html",
+        "published": "2026-09-20T13:11:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "NextEra’s Nuclear Bet Just Got a $1.9 Billion Boost",
+        "link": "https://finance.yahoo.com/energy/articles/nextera-nuclear-bet-just-got-152438612.html",
+        "published": "2026-09-20T15:24:38Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "BMO Capital Bets on a Rebound for Enbridge (ENB)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-bets-rebound-enbridge-152940861.html",
+        "published": "2026-09-20T15:29:40Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "‘Even Though It’s Bad for Berkshire’ Billionaire Charlie Munger Said to Skip Insurance Because ‘You’re Paying for the Other Fellow’s Frauds’",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/even-though-bad-berkshire-billionaire-153002379.html",
+        "published": "2026-09-20T15:30:02Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia",
+        "link": "https://finance.yahoo.com/energy/articles/nextera-nee-dominion-d-unveil-153356972.html",
+        "published": "2026-09-20T15:33:56Z"
       }
     ]
   }
