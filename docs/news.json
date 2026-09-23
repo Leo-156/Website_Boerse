@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-23T18:27:57.052841+00:00",
+  "updated_at": "2026-09-23T21:37:56.104449+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street im Minus – Anleiherenditen unter Druck",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-im-minus-anleiherenditen-unter-druck/100256895.html",
-        "published": "Wed, 23 Sep 2026 16:16:03 GMT"
+        "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen schließen schwächer – Zehnjährige US‑Bonds auf über 5,1 Prozent",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-schwaecher-zehnjaehrige-usbonds-auf-ueber-51-prozent/100256895.html",
+        "published": "Wed, 23 Sep 2026 18:34:41 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -126,71 +126,155 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "secunet-Aktie springt um 17 Prozent hoch – Bundesregierung plant offenbar Großauftrag",
-        "link": "https://www.finanzen.net/nachricht/aktien/im-hoehenflug-secunet-aktie-springt-um-17-prozent-hoch-bundesregierung-plant-offenbar-grossauftrag-15948484",
-        "published": "Wed, 23 Sep 2026 20:14:00 +0200"
+        "title": "Ausblick: H&M stellt Zahlen zum jüngsten Quartal vor",
+        "link": "https://www.finanzen.net/nachricht/aktien/erwartungen-im-ueberblick-ausblick-h-m-stellt-zahlen-zum-juengsten-quartal-vor-15947870",
+        "published": "Wed, 23 Sep 2026 23:18:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Bayer-Aktie im Fokus: Pharmariese sammelt frisches Geld über Hybridanleihen ein",
-        "link": "https://www.finanzen.net/nachricht/aktien/kapitalmassnahme-bayer-aktie-im-fokus-pharmariese-sammelt-frisches-geld-ueber-hybridanleihen-ein-15949326",
-        "published": "Wed, 23 Sep 2026 20:10:00 +0200"
+        "title": "Kaufsignal oder Modellrechnung? Warum ein Analyst eine Kursverdopplung der Intel-Aktie für möglich hält",
+        "link": "https://www.finanzen.net/nachricht/aktien/foundry-geschaeft-im-fokus-kaufsignal-oder-modellrechnung-warum-ein-analyst-eine-kursverdopplung-der-intel-aktie-fuer-moeglich-haelt-00-15945904",
+        "published": "Wed, 23 Sep 2026 23:00:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Lawrow im Sicherheitsrat: Keine Feuerpause für die Ukraine",
-        "link": "https://www.finanzen.net/nachricht/aktien/lawrow-im-sicherheitsrat-keine-feuerpause-fuer-die-ukraine-15949464",
-        "published": "Wed, 23 Sep 2026 20:09:39 +0200"
+        "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+        "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+        "published": "Wed, 23 Sep 2026 22:50:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Abschied von den ADRs? Was ein NYSE-Direktlisting für die Novo Nordisk-Aktie bedeuten würde",
-        "link": "https://www.finanzen.net/nachricht/aktien/fuer-und-wider-abschied-von-den-adrs-was-ein-nyse-direktlisting-fuer-die-novo-nordisk-aktie-bedeuten-wuerde-00-15948332",
-        "published": "Wed, 23 Sep 2026 20:08:00 +0200"
+        "title": "ROUNDUP: Drohnen-Alarm am BER - Flugbetrieb kurzzeitig eingestellt",
+        "link": "https://www.finanzen.net/nachricht/aktien/roundup-drohnen-alarm-am-ber-flugbetrieb-kurzzeitig-eingestellt-15949588",
+        "published": "Wed, 23 Sep 2026 22:44:39 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "GNW-News: Preisgekrönter Xcanbot Mate X feiert Branchenpremiere auf der REHACARE International 2026",
-        "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-preisgekroenter-xcanbot-mate-x-feiert-branchenpremiere-auf-der-rehacare-international-2026-15949463",
-        "published": "Wed, 23 Sep 2026 20:07:38 +0200"
+        "title": "Streit um Geburtsrecht: US-Regierung will Visa-Verschärfung",
+        "link": "https://www.finanzen.net/nachricht/aktien/streit-um-geburtsrecht-us-regierung-will-visa-verschaerfung-15949587",
+        "published": "Wed, 23 Sep 2026 22:44:39 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Apple-Aktie kurz vor 5-Billionen-Marke: Welche Chancen Analysten noch sehen",
-        "link": "https://www.finanzen.net/nachricht/aktien/meilenstein-voraus-apple-aktie-kurz-vor-5-billionen-marke-welche-chancen-analysten-noch-sehen-00-15948144",
-        "published": "Wed, 23 Sep 2026 20:07:00 +0200"
+        "title": "Vermittlungsausschuss einig bei Gesetz über Schuldnerberatung",
+        "link": "https://www.finanzen.net/nachricht/aktien/vermittlungsausschuss-einig-bei-gesetz-ueber-schuldnerberatung-15949584",
+        "published": "Wed, 23 Sep 2026 22:41:38 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Mensch statt KI am Telefon: Metas 'Muse'-Experiment sorgt für Wirbel - was Aktienanleger wissen müssen",
-        "link": "https://www.finanzen.net/nachricht/aktien/mitarbeiter-aeussern-bedenken-mensch-statt-ki-am-telefon-metas-muse-experiment-sorgt-fuer-wirbel-was-aktienanleger-wissen-muessen-00-15948619",
-        "published": "Wed, 23 Sep 2026 20:06:00 +0200"
+        "title": "ROUNDUP/Aktien New York Schluss: Schwächer - Steigende Ölpreise verunsichern",
+        "link": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-schluss-schwaecher-steigende-oelpreise-verunsichern-15949583",
+        "published": "Wed, 23 Sep 2026 22:40:39 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Aktien New York: Ölpreisanstieg hält Anleger in der Defensive",
-        "link": "https://www.finanzen.net/nachricht/aktien/aktien-new-york-oelpreisanstieg-haelt-anleger-in-der-defensive-15949461",
-        "published": "Wed, 23 Sep 2026 20:05:39 +0200"
+        "title": "Mittwochshandel in New York: NASDAQ 100 zum Handelsende schwächer",
+        "link": "https://www.finanzen.net/nachricht/aktien/mittwochshandel-in-new-york-nasdaq-100-zum-handelsende-schwaecher-15949575",
+        "published": "Wed, 23 Sep 2026 22:32:43 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Anleger schicken die IonQ-Aktie nach Durchbruch bei Quantenfehlerkorrektur nach oben",
-        "link": "https://www.finanzen.net/nachricht/aktien/b-riley-bekraeftigt-kauf-anleger-schicken-die-ionq-aktie-nach-durchbruch-bei-quantenfehlerkorrektur-nach-oben-00-15948642",
-        "published": "Wed, 23 Sep 2026 20:05:00 +0200"
+        "title": "Schwacher Handel in New York: S&P 500 schwächelt schlussendlich",
+        "link": "https://www.finanzen.net/nachricht/aktien/schwacher-handel-in-new-york-s-p-500-schwaechelt-schlussendlich-15949574",
+        "published": "Wed, 23 Sep 2026 22:32:43 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
-        "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
-        "published": "Wed, 23 Sep 2026 20:05:00 +0200"
+        "title": "NASDAQ-Handel NASDAQ Composite fällt zum Handelsende",
+        "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-handel-nasdaq-composite-faellt-zum-handelsende-15949573",
+        "published": "Wed, 23 Sep 2026 22:32:43 +0200"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "IAEA's Grossi Says Iran Nuclear Inspections Can Resume Fast",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-23/iaea-s-grossi-iran-nuclear-inspections-can-resume-fast-video",
+        "published": "Wed, 23 Sep 2026 21:22:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How David Booth Built Dimensional From A Brooklyn Brownstone",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-23/how-booth-built-dimensional-from-a-brooklyn-brownstone-video",
+        "published": "Wed, 23 Sep 2026 21:21:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "David Booth: Control What You Can Control",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-23/david-booth-control-what-you-can-control-video",
+        "published": "Wed, 23 Sep 2026 21:19:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Citigroup Sets Up Paramount Loan Calls as Banks Prepare to Sell Debt",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/citigroup-sets-up-paramount-loan-calls-as-m-a-debt-sale-eyed",
+        "published": "Wed, 23 Sep 2026 21:07:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Sheinbaum Boosts Lula Before Vote as Leftist Allies Grow Scarce",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/sheinbaum-boosts-lula-before-vote-as-leftist-allies-grow-scarce",
+        "published": "Wed, 23 Sep 2026 20:40:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Venezuela Spot Oil Sales Snarled by Surging Freight Costs",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/venezuela-spot-oil-sales-snarled-by-surging-freight-costs",
+        "published": "Wed, 23 Sep 2026 20:39:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Stocks Fall as Inflation Jitters Boost Bond Yields: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
         "published": "Tue, 22 Sep 2026 22:15:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "USD rallies after US data aided case for Federal Reserve increases",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/dollar-usd-notches-seasonal-end-of-september-gains-on-hawkish-fed",
+        "published": "Wed, 23 Sep 2026 12:07:39 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Biggest Long-Bond ETF Hits Record Low as Traders Dump Treasuries",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/biggest-long-bond-etf-hits-record-low-as-traders-dump-treasuries",
+        "published": "Wed, 23 Sep 2026 20:13:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "'It's All About Culture' in the 'War for Talent'",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-23/-it-s-all-about-culture-aiello-video",
+        "published": "Wed, 23 Sep 2026 19:38:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "No Slowdown Expected Ahead of Midterms: Top Dealmakers",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-23/no-slowdown-expected-ahead-of-midterms-top-dealmakers-video",
+        "published": "Wed, 23 Sep 2026 19:42:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Bond-Market Slide Deepens, Pushing Yields to Two-Decade Highs",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/us-treasury-five-year-yields-breach-5-for-first-time-since-2007",
+        "published": "Wed, 23 Sep 2026 17:08:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Peloton Holds Talks for Potential $800 Million Debut Bond Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/peloton-holds-talks-for-potential-800-million-debut-bond-deal",
+        "published": "Wed, 23 Sep 2026 19:54:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Falls as Inflation Fears Revive Fed Interest-Rate Hike Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-22/gold-steadies-as-iran-talks-temper-concerns-over-fed-rate-path",
+        "published": "Tue, 22 Sep 2026 23:56:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nvidia Among Top Traded US Credit Swaps as Hedging Demand Soars",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/nvidia-among-top-traded-us-credit-swaps-as-hedging-demand-soars",
+        "published": "Wed, 23 Sep 2026 19:46:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -200,111 +284,27 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bentley Unveils First Electric Car, a Merino-Lined Luxury SUV",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/bentley-unveils-first-electric-car-a-merino-lined-luxury-suv",
-        "published": "Wed, 23 Sep 2026 18:15:00 GMT"
+        "title": "Copper Snaps Six-Day Rally as Inflation Concerns Cool Metals",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/copper-retreats-from-near-record-as-traders-weigh-fed-outlook",
+        "published": "Wed, 23 Sep 2026 03:45:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Oil Companies Taking Advantage of American Public, Says Rep. Burchett",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-23/big-oil-taking-advantage-of-american-public-burchett-video",
-        "published": "Wed, 23 Sep 2026 18:13:47 GMT"
+        "title": "European Union Needs to Reduce Dependency on China, Says Spain's Prime Minister",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-23/eu-needs-to-reduce-dependency-on-china-says-sanchez-video",
+        "published": "Wed, 23 Sep 2026 19:18:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Trump and Rodríguez Talked Venezuela Debt, Path to Elections",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/trump-and-rodriguez-talked-venezuelan-debt-return-to-democracy",
-        "published": "Wed, 23 Sep 2026 17:25:09 GMT"
+        "title": "Arizona Senator Mark Kelly to Introduce New AI Workforce Bill",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-23/senator-mark-kelly-to-introduce-new-ai-workforce-bill-video",
+        "published": "Wed, 23 Sep 2026 18:55:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "The US Dollar’s Two Competing Forces",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-09-23/the-us-dollar-s-two-competing-forces",
-        "published": "Wed, 23 Sep 2026 18:10:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump Aid Cuts Risk Africa HIV Gains, Ex-Pepfar Head Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/trump-s-aid-overhaul-risks-africa-hiv-gains-ex-pepfar-head-says",
-        "published": "Wed, 23 Sep 2026 08:36:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Arnault Clan to Change LVMH Holding Structure to Ensure Control",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/arnault-clan-to-change-lvmh-holding-structure-to-ensure-control",
-        "published": "Wed, 23 Sep 2026 17:44:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Five-Year Yields Exceed 5% for First Time Since 2007",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/us-treasury-five-year-yields-breach-5-for-first-time-since-2007",
-        "published": "Wed, 23 Sep 2026 17:08:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Weighs 90-Day Diesel Export Ban to Tackle Record Fuel Prices: Report",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/us-prepares-plan-for-90-day-diesel-export-ban-politico-reports",
-        "published": "Wed, 23 Sep 2026 17:06:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Dan Ives Joins Closed-End Fund Wave With AI-Focused Vehicle",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/dan-ives-joins-closed-end-fund-wave-with-ai-focused-vehicle",
-        "published": "Wed, 23 Sep 2026 17:01:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Emerging Currencies Extend Decline on US Data, Strong Dollar",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-23/em-currencies-extend-decline-on-us-data-strong-dollar-video",
-        "published": "Wed, 23 Sep 2026 16:31:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Northern Ethiopia Erupts in Conflict After Rebels Form Coalition",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/ethiopian-airlines-cancels-tigray-flights-as-rebels-take-airport",
-        "published": "Wed, 23 Sep 2026 08:07:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks, Bonds Slip as Oil Jump Fuels Fed-Hike Bets",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-23/stocks-bonds-slip-as-oil-jump-fuels-fed-hike-bets-video",
-        "published": "Wed, 23 Sep 2026 16:30:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Soybeans and Corn Are Slumping With Xi’s Arrival in US Awaited",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/soybeans-and-corn-are-slumping-with-xi-s-arrival-in-us-awaited",
-        "published": "Wed, 23 Sep 2026 16:29:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "London’s Struggling IPOMarket Shows Signs ofLife with Airtel Listing",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-23/london-s-struggling-ipo-market-shows-signs-of-life-video",
-        "published": "Wed, 23 Sep 2026 16:14:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Global Tensions Not Slowing Capital: Blackstone's Nides",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-23/global-tensions-not-slowing-capital-blackstone-s-nides-video",
-        "published": "Wed, 23 Sep 2026 16:13:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Apollo’s Rowan Blasts Regulators for Handling of Walter Insurers",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/-what-are-you-doing-rowan-blasts-regulators-on-walter-saga",
-        "published": "Wed, 23 Sep 2026 16:03:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ben & Jerry’s CEO Says Its Ice Cream Is an Affordable Treat",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-23/ben-jerry-s-ceo-activism-as-a-business-model-video",
-        "published": "Wed, 23 Sep 2026 15:11:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Vitol Trader Confirmed Radiant World Deal That Vitol Now Denies",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/vitol-trader-confirmed-radiant-world-deal-that-vitol-now-denies",
-        "published": "Wed, 23 Sep 2026 15:46:21 GMT"
+        "title": "Royal Caribbean Teams with Sandals, Morgan Stanley Addresses Deals Leak",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-23/bloomberg-deals-9-23-2026-video",
+        "published": "Wed, 23 Sep 2026 18:37:10 GMT"
       }
     ],
     "onvista – News": [
@@ -664,57 +664,9 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Expedia Group Stock: Is EXPE Outperforming the Consumer Cyclical Sector?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-stock-expe-outperforming-092050152.html",
-        "published": "2026-09-22T09:20:50Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nvidia CEO Jensen Huang says ‘nothing would give me more joy’ than to pay more taxes: ‘I'm just afraid of being poor’",
-        "link": "https://finance.yahoo.com/economy/policy/articles/nvidia-ceo-jensen-huang-says-091500918.html",
-        "published": "2026-09-22T09:15:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "India’s Oil Import Bill Jumps 48% as Crude Prices Soar",
-        "link": "https://finance.yahoo.com/energy/articles/india-oil-import-bill-jumps-091500228.html",
-        "published": "2026-09-22T09:15:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nearly 8 in 10 Americans Don't Want the Social Security Full Retirement Age Raised",
-        "link": "https://finance.yahoo.com/economy/policy/articles/almost-8-10-people-oppose-151957306.html",
-        "published": "2026-09-22T09:00:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
         "title": "Bessent just picked the one wage measure still rising",
         "link": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html",
         "published": "2026-09-22T19:47:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "How Is AES Corporation's Stock Performance Compared to Other Utility Stocks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/aes-corporations-stock-performance-compared-094200159.html",
-        "published": "2026-09-22T09:42:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "How Is News Corporation's Stock Performance Compared to Other Communication Services Stocks?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/news-corporations-stock-performance-compared-094348036.html",
-        "published": "2026-09-22T09:43:48Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027",
-        "link": "https://finance.yahoo.com/energy/articles/soaring-oil-gas-prices-push-080000656.html",
-        "published": "2026-09-22T08:00:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Mark Cuban says healthcare companies are sued daily, usually lose and are 'too big to care.' He has a better solution",
-        "link": "https://finance.yahoo.com/healthcare/articles/mark-cuban-says-healthcare-companies-100000881.html",
-        "published": "2026-09-22T10:00:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -724,45 +676,111 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Dogecoin Targets 30% Surge Following $12.66M Short Squeeze",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-targets-30-surge-following-100106959.html",
-        "published": "2026-09-22T10:01:06Z"
+        "title": "Goldman Sachs says 'lower happiness' — not the economy — explains why consumer confidence hit its second-lowest level",
+        "link": "https://finance.yahoo.com/economy/articles/goldman-sachs-says-lower-happiness-133000625.html",
+        "published": "2026-09-22T13:30:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Warren Buffett Just Stepped Down. These 2 AI Stocks Still Define Berkshire’s Portfolio",
-        "link": "https://finance.yahoo.com/technology/ai/articles/warren-buffett-just-stepped-down-073051631.html",
-        "published": "2026-09-22T07:30:51Z"
+        "title": "Binance Investigated By U.S. For Potential Sanctions Violations",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/binance-investigated-u-potential-sanctions-132500534.html",
+        "published": "2026-09-22T13:25:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Stellantis (STLA) Reportedly Eyes $1.16 Billion France Van Investment",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-reportedly-eyes-1-100646836.html",
-        "published": "2026-09-22T10:06:46Z"
+        "title": "16 trucking companies hit bankruptcy court in less than a month",
+        "link": "https://finance.yahoo.com/small-business/articles/16-trucking-companies-hit-bankruptcy-131909533.html",
+        "published": "2026-09-22T13:19:09Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "As Trump and Xi meet, investors play both sides of AI divide",
-        "link": "https://finance.yahoo.com/technology/ai/articles/trump-xi-meet-investors-play-085656582.html",
-        "published": "2026-09-22T10:08:40Z"
+        "title": "Citizens Financial Stock: Is CFG Outperforming the Financial Sector?",
+        "link": "https://finance.yahoo.com/news/citizens-financial-stock-cfg-outperforming-131514658.html",
+        "published": "2026-09-22T13:15:14Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "US Stock Futures Steady Ahead of Trump’s UN Address as Alibaba Unveils New AI Chip: Dow Jones, S&P, Nasdaq, Wall Street",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-steady-ahead-093639727.html",
-        "published": "2026-09-22T09:36:39Z"
+        "title": "Kali Metals, JX Advanced Metals sign MoU for Southern Lachlan",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/kali-metals-jx-advanced-metals-132542670.html",
+        "published": "2026-09-22T13:25:42Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
-        "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
-        "published": "2026-09-22T10:08:50Z"
+        "title": "Carnival Corp Stock Looks Cheap to Value Investors Ahead of Earnings Next Week",
+        "link": "https://finance.yahoo.com/news/carnival-corp-stock-looks-cheap-131502788.html",
+        "published": "2026-09-22T13:15:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Clean Harbors (CLH): $600 Million in New Debt Raises the Stakes on Acquisition Execution",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/clean-harbors-clh-600-million-071611487.html",
-        "published": "2026-09-22T07:16:11Z"
+        "title": "Kalshi Seeks To Offer Margin Trading On Its Platform",
+        "link": "https://finance.yahoo.com/markets/options/articles/kalshi-seeks-offer-margin-trading-131500335.html",
+        "published": "2026-09-22T13:15:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models",
+        "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-unveils-ai-133647470.html",
+        "published": "2026-09-22T13:36:47Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Self-Storage Could Be Entering a New Growth Cycle — Baron Capital Re-Initiated Public Storage (PSA)",
+        "link": "https://finance.yahoo.com/real-estate/articles/self-storage-could-entering-growth-131101680.html",
+        "published": "2026-09-22T13:11:01Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "FormFactor CEO Mike Slessor Sells 17,510 Shares",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/formfactor-ceo-mike-slessor-sells-132601567.html",
+        "published": "2026-09-22T13:26:01Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "What Makes Prologis (PLD) a Strong Investment?",
+        "link": "https://finance.yahoo.com/real-estate/articles/makes-prologis-pld-strong-investment-130353173.html",
+        "published": "2026-09-22T13:03:53Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Ramit Sethi warns couple earning $112K with no mortgage they'll go broke if they keep spending 108% of their income",
+        "link": "https://finance.yahoo.com/markets/articles/ramit-sethi-warns-couple-earning-130000343.html",
+        "published": "2026-09-22T13:00:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Why Cathie Wood Says SpaceX Stock Could Be a Deep-Value Buy",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-cathie-wood-says-spacex-130002913.html",
+        "published": "2026-09-22T13:00:02Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Dear ON Semiconductor Stock Fans, Here’s What You Need to Know About ON’s Financial Analyst Day",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dear-semiconductor-stock-fans-know-130002440.html",
+        "published": "2026-09-22T13:00:02Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-goes-bargain-hunting-132600500.html",
+        "published": "2026-09-22T13:26:00Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Equinix (EQIX) Positions to Benefit from Exponential Data Growth and Early-Stage Enterprise AI",
+        "link": "https://finance.yahoo.com/technology/ai/articles/equinix-eqix-positions-benefit-exponential-125701911.html",
+        "published": "2026-09-22T12:57:01Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
+        "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
+        "published": "2026-09-22T13:41:37Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Is Skyworks Solutions Stock Outperforming the Dow?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/skyworks-solutions-stock-outperforming-dow-125127017.html",
+        "published": "2026-09-22T12:51:27Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -772,39 +790,21 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "US Apartment Landlords Face a $1.8 Trillion Debt Wall — Nearly $300 Billion Comes Due This Year as Refinancing Costs Soar",
+        "link": "https://finance.yahoo.com/real-estate/articles/us-apartment-landlords-face-1-132654449.html",
+        "published": "2026-09-22T13:26:54Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
         "title": "Trump Accounts could help lower-income families most. Few have signed up.",
         "link": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html",
         "published": "2026-09-22T14:38:43Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-stock-market-crash-coming-093600343.html",
-        "published": "2026-09-22T09:36:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
         "title": "What credit score do you need for a balance transfer credit card?",
         "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-score-needed-for-balance-transfer-card-165714139.html",
         "published": "2026-09-22T16:57:14Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "What is a good savings account interest rate in 2026?",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-good-savings-account-interest-rate-173915779.html",
-        "published": "2024-03-21T17:39:15Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Should you apply for multiple credit cards at once?",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/should-you-apply-for-multiple-credit-cards-at-once-180015761.html",
-        "published": "2026-09-22T18:00:15Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "What is the prime rate, and how does it affect you?",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/what-is-prime-rate-155310130.html",
-        "published": "2025-01-28T15:53:10Z"
       }
     ]
   }
