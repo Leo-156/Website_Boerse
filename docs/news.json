@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T22:03:08.277027+00:00",
+  "updated_at": "2026-09-23T00:26:17.185084+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,12 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
+        "title": "GNW-News: Opterion Health gibt positive Ergebnisse der Phase-1-Studie für OPT101 bekannt, die den Übergang zur Phase 2a ermöglichen",
+        "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-opterion-health-gibt-positive-ergebnisse-der-phase-1-studie-fuer-opt101-bekannt-die-den-uebergang-zur-phase-2a-ermoeglichen-15947656",
+        "published": "Wed, 23 Sep 2026 01:59:39 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
         "title": "KI-Aktien wie NVIDIA, AMD und Co. vor Rally? BofA sieht neuen Chip-Boom - Chancen für Anleger im Blick",
         "link": "https://www.finanzen.net/nachricht/aktien/chipmarkt-prognose-erhoeht-ki-aktien-wie-nvidia-amd-und-co-vor-rally-bofa-sieht-neuen-chip-boom-chancen-fuer-anleger-im-blick-00-15943787",
         "published": "Tue, 22 Sep 2026 23:50:00 +0200"
@@ -177,15 +183,75 @@
         "title": "ROUNDUP/Aktien New York Schluss: Dow schwächelt - Nasdaq mit Rekord",
         "link": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-schluss-dow-schwaechelt-nasdaq-mit-rekord-15947516",
         "published": "Tue, 22 Sep 2026 22:43:39 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Dienstagshandel in New York: NASDAQ 100 zum Ende des Dienstagshandels mit Gewinnen",
-        "link": "https://www.finanzen.net/nachricht/aktien/dienstagshandel-in-new-york-nasdaq-100-zum-ende-des-dienstagshandels-mit-gewinnen-15947503",
-        "published": "Tue, 22 Sep 2026 22:33:00 +0200"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Apollo Caps Private Credit Fund Again as 14.7% Look to Exit",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-22/apollo-caps-private-credit-fund-again-after-14-7-look-to-exit",
+        "published": "Tue, 22 Sep 2026 21:00:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Sept. 23",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-22/latest-oil-market-news-and-analysis-for-sept-23",
+        "published": "Tue, 22 Sep 2026 22:02:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asian Stocks Rise After US Tech Rally, Oil Drops: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 22 Sep 2026 22:15:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China’s AI Trade Favors Global Winners Over Local Champions",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions",
+        "published": "Tue, 22 Sep 2026 23:59:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Steadies as Iran Talks Temper Concerns Over Fed Rate Path",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-22/gold-steadies-as-iran-talks-temper-concerns-over-fed-rate-path",
+        "published": "Tue, 22 Sep 2026 23:56:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India's Dixon Tech Eyes Growth Beyond Smartphones",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-22/india-s-dixon-tech-eyes-growth-beyond-smartphonesq",
+        "published": "Tue, 22 Sep 2026 23:00:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Reform Should Cut Back Britain’s State Pension, Think Tank Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-22/reform-should-cut-back-britain-s-state-pension-think-tank-says",
+        "published": "Tue, 22 Sep 2026 23:01:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Murat Kurum Outlines COP31 Action Plan",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-22/murat-kurum-outlines-cop31-action-plan-video",
+        "published": "Tue, 22 Sep 2026 22:08:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fort Trump Will Come to Poland, Says President Nawrocki",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-22/fort-trump-will-come-to-poland-says-nawrocki-video",
+        "published": "Tue, 22 Sep 2026 22:06:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "CFTC Warns Prediction Markets to Reel in Risky ‘Mention’ Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-22/cftc-warns-prediction-markets-to-reel-in-risky-mention-bets",
+        "published": "Tue, 22 Sep 2026 22:03:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Anthony Scaramucci's \"All the Wrong Moves\"",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-22/anthony-scaramucci-s-all-the-wrong-moves-video",
+        "published": "Tue, 22 Sep 2026 21:52:39 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Turkey Arrests Tera Chairman at Heart of Funds Scandal",
@@ -218,12 +284,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Apollo Caps Private Credit Fund Again After 14.7% Look to Exit",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-22/apollo-caps-private-credit-fund-again-after-14-7-look-to-exit",
-        "published": "Tue, 22 Sep 2026 21:00:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "South Korea Keeps Fuel Cheap for Holidays as Fiscal Cost Mounts",
         "link": "https://www.bloomberg.com/news/articles/2026-09-22/south-korea-keeps-fuel-cheap-for-holidays-as-fiscal-cost-mounts",
         "published": "Tue, 22 Sep 2026 21:00:00 GMT"
@@ -245,66 +305,6 @@
         "title": "Meta’s Muse Drags Down Stocks That Depend on ‘Consumer Inertia’",
         "link": "https://www.bloomberg.com/news/articles/2026-09-22/meta-s-muse-drags-down-stocks-that-depend-on-consumer-inertia",
         "published": "Tue, 22 Sep 2026 18:14:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Climbs to Its First Record Since June: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 21 Sep 2026 22:18:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Enthusiasm Drives Nasdaq 100 to First Record Since June",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-22/us-stock-futures-drift-after-ai-driven-rally-oil-prices-slip",
-        "published": "Tue, 22 Sep 2026 12:29:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Quantum Marketing Season 2 Trailer",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-22/quantum-marketing-season-2-trailer-video",
-        "published": "Tue, 22 Sep 2026 20:02:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Risk Landscape is 'Fairly Perilous' Says AXIS CEO Vince Tizzio",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-22/risk-landscape-is-fairly-perilous-says-axis-ceo-tizzio-video",
-        "published": "Tue, 22 Sep 2026 20:02:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump 'Came Off Looking Desperate' in UN Speech, Says Brett Bruen",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-22/trump-came-off-looking-desperate-in-un-speech-bruen-video",
-        "published": "Tue, 22 Sep 2026 19:27:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Sept. 22",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-21/latest-oil-market-news-and-analysis-for-sept-22",
-        "published": "Mon, 21 Sep 2026 22:04:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Canada’s Transport Overhaul Aims to Boost Trade With Europe, Asia",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-22/canada-s-transport-overhaul-aims-to-boost-trade-with-europe-asia",
-        "published": "Tue, 22 Sep 2026 19:00:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Derailed IPO Plans Rattle US Market Ahead of Anthropic Debut",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-22/derailed-ipo-plans-rattle-us-market-ahead-of-anthropic-debut",
-        "published": "Tue, 22 Sep 2026 18:53:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ireland's McEntee Talks Tariffs, US Relations and China",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-22/ireland-s-mcentee-talks-tariffs-us-relations-and-china-video",
-        "published": "Tue, 22 Sep 2026 18:47:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "A Tantalizing Answer to Why Rates Are So High",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-09-22/a-tantalizing-answer-to-why-rates-are-so-high",
-        "published": "Tue, 22 Sep 2026 18:46:34 GMT"
       }
     ],
     "onvista – News": [
@@ -670,27 +670,27 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
-        "link": "https://finance.yahoo.com/markets/article/michael-saylors-strategy-jumps-as-the-company-says-it-bought-more-bitcoin-133538866.html",
-        "published": "2026-09-21T13:35:38Z"
+        "title": "Here’s Why This Strategy Decided to Exit Charles River Laboratories (CRL)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-decided-exit-charles-123056495.html",
+        "published": "2026-09-21T12:30:56Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Oura targets $15.62 billion valuation in US IPO, setting stage for fall listings",
-        "link": "https://finance.yahoo.com/technology/articles/oura-targets-15-62-billion-133100430.html",
-        "published": "2026-09-21T13:31:00Z"
+        "title": "How Montgomery v. Caribe Supercharges Knight-Swift’s (KNX) Scale Advantage",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/montgomery-v-caribe-supercharges-knight-123210361.html",
+        "published": "2026-09-21T12:32:10Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
-        "link": "https://finance.yahoo.com/markets/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt-132800172.html",
-        "published": "2026-09-21T13:28:00Z"
+        "title": "This Strategy Sees Value in Methanex (MEOH) Despite a Near-Term Cash Flow Pullback",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-sees-value-methanex-meoh-123337498.html",
+        "published": "2026-09-21T12:33:37Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Aggressive Store Additions Challenge Black Rock Coffee Bar’s (BRCB) Long-Term Expansion Thesis",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/aggressive-store-additions-challenge-black-132106435.html",
-        "published": "2026-09-21T13:21:06Z"
+        "title": "Trafigura Launches Volare Shipping to Cash In on Record Tanker Rates",
+        "link": "https://finance.yahoo.com/energy/articles/trafigura-launches-volare-shipping-cash-123000703.html",
+        "published": "2026-09-21T12:30:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -700,69 +700,93 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Bitcoin Price Forecast: BTC Projected to Hit $98K Following Flag Breakout",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-forecast-btc-projected-132137624.html",
-        "published": "2026-09-21T13:21:37Z"
+        "title": "11 Texas condo owners pay $800 per month in HOA fees 5 years after a fire destroyed units they've yet to return to",
+        "link": "https://finance.yahoo.com/real-estate/articles/11-texas-condo-owners-pay-123000155.html",
+        "published": "2026-09-21T12:30:00Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Short Seller Reports Drag Ensign Group (ENSG) Down",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/short-seller-reports-drag-ensign-131917317.html",
-        "published": "2026-09-21T13:19:17Z"
+        "title": "Wheat Starting off Monday with Gains",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-starting-off-monday-gains-123520805.html",
+        "published": "2026-09-21T12:35:20Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Should You Be Bullish on Fastly (FSLY)?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bullish-fastly-fsly-131746101.html",
-        "published": "2026-09-21T13:17:46Z"
+        "title": "Soybean Bulls Bouncing Higher on Monday Morning",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/soybean-bulls-bouncing-higher-monday-123520424.html",
+        "published": "2026-09-21T12:35:20Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Below-Expected Earnings Pressured Shake Shack (SHAK) in Q2",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/below-expected-earnings-pressured-shake-131531191.html",
-        "published": "2026-09-21T13:15:31Z"
+        "title": "Corn Bouncing Back in Monday AM Trade",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-bouncing-back-monday-am-123520125.html",
+        "published": "2026-09-21T12:35:20Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "At 75 He Still Has a Paycheck and Still Hasn’t Taken a Single RMD From His 401(k). The Exception Is Written Into the Law, and the IRA Down the Street Doesn’t Get It",
-        "link": "https://finance.yahoo.com/markets/options/articles/75-still-paycheck-still-hasn-133351325.html",
-        "published": "2026-09-21T13:33:51Z"
+        "title": "Tariffs, fuel costs, and rising rates squeeze U.S. manufacturers",
+        "link": "https://finance.yahoo.com/economy/policy/articles/tariffs-fuel-costs-rising-rates-123314726.html",
+        "published": "2026-09-21T12:33:14Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Marvell Technology Stock Price Targets Are Rising - What's the Best MRVL Play?",
-        "link": "https://finance.yahoo.com/markets/options/articles/marvell-technology-stock-price-targets-131502751.html",
-        "published": "2026-09-21T13:15:02Z"
+        "title": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tokenized-equities-ai-disruption-threaten-122633931.html",
+        "published": "2026-09-21T12:26:33Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "How Is Lumentum's Stock Performance Compared to Other Technology Stocks?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lumentums-stock-performance-compared-other-134103164.html",
-        "published": "2026-09-21T13:41:03Z"
+        "title": "Veeco Instruments (VECO): Results Far Exceed Expectations Amid Memory Capacity Boom",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/veeco-instruments-veco-results-far-123608566.html",
+        "published": "2026-09-21T12:36:08Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Strategy Buys $75 Million of Bitcoin As Price Rallies",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-buys-75-million-bitcoin-134300104.html",
-        "published": "2026-09-21T13:43:00Z"
+        "title": "Jack Henry & Associates (JKHY): Why Disruption Risks Appear Overstated",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jack-henry-associates-jkhy-why-122322388.html",
+        "published": "2026-09-21T12:23:22Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Sibanye Stillwater Ltd. (SBSW) Fell 29.3% in Q2: Why the Stock Could Be Worth Watching",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sibanye-stillwater-ltd-sbsw-fell-134516978.html",
-        "published": "2026-09-21T13:45:16Z"
+        "title": "Motorola Solutions (MSI) Powering Essential Communications for First Responders",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/motorola-solutions-msi-powering-essential-122202340.html",
+        "published": "2026-09-21T12:22:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "CFTC investigates Polymarket over $10 million fraud attack",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/cftc-investigates-polymarket-over-10-133000568.html",
-        "published": "2026-09-21T13:30:00Z"
+        "title": "My AMD Price Prediction Comes Down to One Crucial Growth Opportunity",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amd-price-prediction-comes-down-123036942.html",
+        "published": "2026-09-21T12:30:36Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nutrien (NTR) Dropped 15.4% in Q2: Why the Fertilizer Stock Could Be a Bargain",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nutrien-ntr-dropped-15-4-134545047.html",
-        "published": "2026-09-21T13:45:45Z"
+        "title": "SanDisk Corp’s (SNDK) Impact on Small/Mid Cap Returns",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corp-sndk-impact-small-123955859.html",
+        "published": "2026-09-21T12:39:55Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Is Interactive Brokers Stock Outperforming the S&P 500?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-stock-outperforming-p-124733322.html",
+        "published": "2026-09-21T12:47:33Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Solana Price Prediction: Bull Market Begins for SOL With Next Target Set at $149",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/solana-price-prediction-bull-market-125519968.html",
+        "published": "2026-09-21T12:55:19Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Crude Oil Three Rallies Before the Fall",
+        "link": "https://finance.yahoo.com/energy/articles/crude-oil-three-rallies-fall-130002248.html",
+        "published": "2026-09-21T13:00:02Z"
+      },
+      {
+        "source": "Yahoo Finance – Top Stories (EN)",
+        "title": "Critical Metals Surges 25% as Greenland Security Pact Puts Tanbreez Rare Earth Permit in Focus; USA Rare Earth Climbs 6%, MP Materials Rises 4%",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-surges-25-greenland-123115471.html",
+        "published": "2026-09-21T12:31:15Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
@@ -772,39 +796,15 @@
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "NovaGold Resources (NG) Plunged 36.9%: Is the Gold Stock Now Undervalued?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/novagold-resources-ng-plunged-36-134533396.html",
-        "published": "2026-09-21T13:45:33Z"
+        "title": "Marvell Technology Stock Price Targets Are Rising - What's the Best MRVL Play?",
+        "link": "https://finance.yahoo.com/markets/options/articles/marvell-technology-stock-price-targets-131502751.html",
+        "published": "2026-09-21T13:15:02Z"
       },
       {
         "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Centene Corp. (CNC) Soared 98.8% in Q2: What Drove the Massive Gain?",
-        "link": "https://finance.yahoo.com/healthcare/articles/centene-corp-cnc-soared-98-134615578.html",
-        "published": "2026-09-21T13:46:15Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Two Money Experts, One Message: Don’t Borrow Against Your House Right Now",
-        "link": "https://finance.yahoo.com/real-estate/articles/two-money-experts-one-message-133544245.html",
-        "published": "2026-09-21T13:35:44Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Apple And Google Hire Crypto Developers",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/apple-google-hire-crypto-developers-134600642.html",
-        "published": "2026-09-21T13:46:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Range Resources (RRC) Slid 17.2% in Q2: Why the Natural Gas Stock Still Looks Attractive",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/range-resources-rrc-slid-17-134559578.html",
-        "published": "2026-09-21T13:45:59Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Crude Oil Three Rallies Before the Fall",
-        "link": "https://finance.yahoo.com/energy/articles/crude-oil-three-rallies-fall-130002248.html",
-        "published": "2026-09-21T13:00:02Z"
+        "title": "Below-Expected Earnings Pressured Shake Shack (SHAK) in Q2",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/below-expected-earnings-pressured-shake-131531191.html",
+        "published": "2026-09-21T13:15:31Z"
       }
     ]
   }
