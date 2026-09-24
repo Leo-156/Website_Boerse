@@ -1,80 +1,298 @@
 {
-  "updated_at": "2026-09-24T20:46:03.520986+00:00",
+  "updated_at": "2026-09-24T23:35:22.107999+00:00",
   "sources": {
+    "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wall Street: US-Börsen schließen kaum verändert – Zinssorgen belasten Anleger",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-kaum-veraendert-zinssorgen-belasten-anleger/100257196.html",
+        "published": "Thu, 24 Sep 2026 19:26:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Genossenschaftsbanken: Volksbank Brawo wickelt Gesellschaften der Sparte Green Energy ab – fast 60 Mitarbeiter sind betroffen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/volksbank-brawo-wickelt-toechter-ab-mitarbeitern-wird-gekuendigt/100257198.html",
+        "published": "Thu, 24 Sep 2026 17:07:11 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Anleihemarkt: Druck auf Bessent steigt: Ausverkauf bei US-Anleihen erfasst den gesamten Bondmarkt",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihemarkt-ausverkauf-bei-us-anleihen-erfasst-den-gesamten-bondmarkt/100256963.html",
+        "published": "Thu, 24 Sep 2026 16:27:19 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt im Minus – Chip-Aktie setzt Negativtrend fort",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-infineon-setzt-negativtrend-fort/100257045.html",
+        "published": "Thu, 24 Sep 2026 15:53:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Gute Nachricht für Anleger: Die Nvidia-Aktie ist so billig wie seit mehr als zehn Jahren nicht mehr",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-nvidia-ist-so-billig-wie-seit-mehr-als-zehn-jahren-nicht-mehr/100256080.html",
+        "published": "Thu, 24 Sep 2026 15:21:49 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Musterdepot – Dynamik: Stabile Unternehmensgewinne sprechen für weitere Zukäufe",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/aktien-stabile-unternehmensgewinne-sprechen-fuer-weitere-zukaeufe/100256272.html",
+        "published": "Thu, 24 Sep 2026 15:11:45 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "IPO in Mumbai: Stresstest für Indiens Aktienmarkt: Weltgrößte Derivatebörse NSE geht selbst an die Börse",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ipo-weltgroesste-derivateboerse-geht-selbst-an-die-boerse/100256487.html",
+        "published": "Thu, 24 Sep 2026 14:48:46 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldpolitik: Wechsel zum IWF perfekt: Schnabels Abschied und die Folgen für die EZB",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-isabel-schnabel-wechselt-vorzeitig-zum-iwf/100257204.html",
+        "published": "Thu, 24 Sep 2026 14:17:29 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: Starker Wirtschaftseinbruch würde „mehrere Dutzend“ Banken in Deutschland bedrohen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-starker-wirtschaftseinbruch-bedroht-mehrere-dutzend-institute/100256112.html",
+        "published": "Thu, 24 Sep 2026 14:05:35 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Private Equity: Schweizer Finanzinvestor Ufenau gelingt wichtiger Deal",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/private-equity-ufenau-verkauft-altano-anteil-an-bridgepoint/100256657.html",
+        "published": "Thu, 24 Sep 2026 12:12:15 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: Orlopp: Commerzbank könnte Unicredit-Tochter HVB übernehmen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken-commerzbank-koennte-unicredit-tochter-hvb-uebernehmen/100256931.html",
+        "published": "Thu, 24 Sep 2026 12:00:45 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Softbank: Tech-Investor Son wettet mit Rekord-Anleihe auf die Künstliche Superintelligenz",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/softbank-nimmt-bonds-in-hoehe-von-11-milliarden-dollar-fuer-openai-wette-auf/100257094.html",
+        "published": "Thu, 24 Sep 2026 11:12:50 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Das Ende der Mail an den Facility-Manager? Wie KI das Management von Gebäuden revolutioniert",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-ki-das-management-von-gebaeuden-revolutioniert/100256631.html",
+        "published": "Thu, 24 Sep 2026 11:02:20 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Fondsaffäre: Fondsaffäre: Türkei nimmt Gründer von Tera fest",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/fondsaffaere-tuerkei-nimmt-gruender-von-tera-fest/100257152.html",
+        "published": "Thu, 24 Sep 2026 10:51:24 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Energie: Experten warnen vor „verheerenden Folgen“ eines Exportverbots für Diesel in den USA",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/diesel-warnung-vor-verheerenden-folgen-eines-exportverbots-in-den-usa/100257076.html",
+        "published": "Thu, 24 Sep 2026 10:48:31 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Interview: Berenberg-Interimschef zum Bilanzskandal: „Die Geschäftsleitung hat nicht mehr funktioniert“",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/berenberg-die-geschaeftsleitung-hat-nicht-mehr-funktioniert/100256537.html",
+        "published": "Thu, 24 Sep 2026 10:00:07 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geld. Leben. Looman: „Hilfe, meine Tochter verdient immer noch kein Geld!“ Geben Sie ihr trotzdem nichts",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-ihre-tochter-verdient-kein-geld-geben-sie-ihr-trotzdem-nichts/100256435.html",
+        "published": "Thu, 24 Sep 2026 09:19:07 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Baubranche: Immobilienpreise in Deutschland steigen immer langsamer",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/baubranche-immobilienpreise-in-deutschland-steigen-immer-langsamer/100257091.html",
+        "published": "Thu, 24 Sep 2026 07:49:55 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Topix, CSI 300: Inflation treibt japanische Staatsanleihen – China-Börsen verlieren",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-inflation-treibt-japanische-staatsanleihen-china-boersen-verlieren/100257012.html",
+        "published": "Thu, 24 Sep 2026 07:16:02 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Kann eine 150 Jahre alte Grafik die Börsenkurse vorhersagen?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-wie-aussagekraeftig-ist-eine-150-jahre-alte-boersengrafik-heute-noch/100189715.html",
+        "published": "Thu, 24 Sep 2026 07:00:00 GMT"
+      }
+    ],
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "ROUNDUP/Aktien New York Schluss: Dow im Minus - Ölpreisschwankungen",
-        "link": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-schluss-dow-im-minus-oelpreisschwankungen-15951901",
-        "published": "Thu, 24 Sep 2026 22:35:38 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "NASDAQ-Handel: NASDAQ 100 zum Ende des Donnerstagshandels mit positivem Vorzeichen",
-        "link": "https://www.finanzen.net/nachricht/aktien/nasdaq-handel-nasdaq-100-zum-ende-des-donnerstagshandels-mit-positivem-vorzeichen-15951897",
-        "published": "Thu, 24 Sep 2026 22:32:57 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Handel in New York: S&P 500 beendet die Sitzung mit Verlusten",
-        "link": "https://www.finanzen.net/nachricht/aktien/handel-in-new-york-s-p-500-beendet-die-sitzung-mit-verlusten-15951896",
-        "published": "Thu, 24 Sep 2026 22:32:57 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Pluszeichen in New York: NASDAQ Composite letztendlich in der Gewinnzone",
-        "link": "https://www.finanzen.net/nachricht/aktien/pluszeichen-in-new-york-nasdaq-composite-letztendlich-in-der-gewinnzone-15951895",
-        "published": "Thu, 24 Sep 2026 22:32:57 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Minuszeichen in New York: Dow Jones präsentiert sich schlussendlich schwächer",
-        "link": "https://www.finanzen.net/nachricht/aktien/minuszeichen-in-new-york-dow-jones-praesentiert-sich-schlussendlich-schwaecher-15951894",
-        "published": "Thu, 24 Sep 2026 22:32:57 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "CFD-Broker Vergleich: Die besten CFD-Broker im Test",
-        "link": "https://www.finanzen.net/nachricht/aktien/ratgeber-cfd-broker-vergleich-die-besten-cfd-broker-im-test-5011420",
-        "published": "Thu, 24 Sep 2026 22:30:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "KORREKTUR/ROUNDUP: Milliardär Thiel kritisiert Teile der Medien als 'einseitig'",
-        "link": "https://www.finanzen.net/nachricht/aktien/korrektur-roundup-milliardaer-thiel-kritisiert-teile-der-medien-als-einseitig-15951891",
-        "published": "Thu, 24 Sep 2026 22:25:38 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Aktien New York Schluss: Dow im Minus - Ölpreisschwankungen",
-        "link": "https://www.finanzen.net/nachricht/aktien/aktien-new-york-schluss-dow-im-minus-oelpreisschwankungen-15951890",
-        "published": "Thu, 24 Sep 2026 22:23:39 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Studie deckt Messfehler bei Onchain-Daten auf: Was das für die Bewertung von Bitcoin bedeutet",
-        "link": "https://www.finanzen.net/nachricht/devisen/starke-abweichungen-studie-deckt-messfehler-bei-onchain-daten-auf-was-das-fuer-die-bewertung-von-bitcoin-bedeutet-00-15948054",
-        "published": "Thu, 24 Sep 2026 22:18:00 +0200"
+        "title": "GNW-News: Quantexa erhält von Chartis Research höchste Auszeichnungen in den Bereichen AML-Transaktionsüberwachung und im Rahmen der RiskTech100",
+        "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-quantexa-erhaelt-von-chartis-research-hoechste-auszeichnungen-in-den-bereichen-aml-transaktionsueberwachung-und-im-rahmen-der-risktech100-15951977",
+        "published": "Fri, 25 Sep 2026 00:48:38 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
         "title": "Goldpreis-Hausse noch lange nicht vorbei? Wo Experten die nächste Rally-Etappe sehen",
         "link": "https://www.finanzen.net/nachricht/rohstoffe/notenbanken-kaufen-weiter-goldpreis-hausse-noch-lange-nicht-vorbei-wo-experten-die-naechste-rally-etappe-sehen-00-15950635",
-        "published": "Thu, 24 Sep 2026 22:18:00 +0200"
+        "published": "Thu, 24 Sep 2026 23:54:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Tesla-Aktie nach enttäuschendem Cybercab-Debüt: Warum Anleger die Robotaxi-Story hinterfragen sollten",
+        "link": "https://www.finanzen.net/nachricht/aktien/behoerde-ermittelt-tesla-aktie-nach-enttaeuschendem-cybercab-debuet-warum-anleger-die-robotaxi-story-hinterfragen-sollten-00-15948072",
+        "published": "Thu, 24 Sep 2026 23:50:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "BioNTech-Aktie im Fokus: Ist die Krebs-Pipeline stärker als der Markt denkt?",
+        "link": "https://www.finanzen.net/nachricht/aktien/pipeline-trotz-rueckschlag-biontech-aktie-im-fokus-ist-die-krebs-pipeline-staerker-als-der-markt-denkt-00-15950363",
+        "published": "Thu, 24 Sep 2026 23:43:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Studie deckt Messfehler bei Onchain-Daten auf: Was das für die Bewertung von Bitcoin bedeutet",
+        "link": "https://www.finanzen.net/nachricht/devisen/starke-abweichungen-studie-deckt-messfehler-bei-onchain-daten-auf-was-das-fuer-die-bewertung-von-bitcoin-bedeutet-00-15948054",
+        "published": "Thu, 24 Sep 2026 23:20:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "KI-Aktien wie NVIDIA vor dem Crash? Warum Anleihekönig Jeffrey Gundlach die Reißleine zieht",
+        "link": "https://www.finanzen.net/nachricht/aktien/anleihekoenig-steigt-aus-ki-aktien-wie-nvidia-vor-dem-crash-warum-anleihekoenig-jeffrey-gundlach-die-reissleine-zieht-00-15948249",
+        "published": "Thu, 24 Sep 2026 23:18:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Cathie Wood baut unscheinbares Kryptoinvestment aus - Ändert Staking die Investmentstory?",
+        "link": "https://www.finanzen.net/nachricht/devisen/erneuter-nachkauf-cathie-wood-baut-unscheinbares-kryptoinvestment-aus-aendert-staking-die-investmentstory-00-15950085",
+        "published": "Thu, 24 Sep 2026 23:03:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+        "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+        "published": "Thu, 24 Sep 2026 22:50:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "ROUNDUP 2/Konfrontiert mit Protest: Netanjahu verteidigt Kriege bei UN",
+        "link": "https://www.finanzen.net/nachricht/aktien/roundup-2-konfrontiert-mit-protest-netanjahu-verteidigt-kriege-bei-un-15951907",
+        "published": "Thu, 24 Sep 2026 22:47:38 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "WDH/ROUNDUP/Konfrontiert mit Protest: Netanjahu verteidigt Kriege bei UN",
+        "link": "https://www.finanzen.net/nachricht/aktien/wdh-roundup-konfrontiert-mit-protest-netanjahu-verteidigt-kriege-bei-un-15951906",
+        "published": "Thu, 24 Sep 2026 22:45:39 +0200"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "New Tech Issuance Repricing Existing Debt: Rosner",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-24/new-tech-issuance-repricing-existing-debt-rosner-video",
-        "published": "Thu, 24 Sep 2026 20:38:40 GMT"
+        "title": "Asian Bond Losses to Extend as Oil Fans Inflation: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-24/stock-market-today-dow-s-p-live-updates",
+        "published": "Thu, 24 Sep 2026 22:13:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Xi Urges AI Cooperation WIth US",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-24/xi-urges-ai-cooperation-with-us-video",
+        "published": "Thu, 24 Sep 2026 23:23:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for DATE",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-24/latest-oil-market-news-and-analysis-for-date",
+        "published": "Thu, 24 Sep 2026 22:05:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "De olho nas eleições no Brasil",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-24/de-olho-nas-eleicoes-no-brasil-video",
+        "published": "Thu, 24 Sep 2026 22:15:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Global Citizen CEO on Mission To End Extreme Poverty",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-24/global-citizen-ceo-on-mission-to-end-extreme-poverty-video",
+        "published": "Thu, 24 Sep 2026 22:01:26 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Does Iced Coffee Pass the Vibe Check?",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-24/opinion-does-iced-coffee-pass-the-vibe-check-video",
+        "published": "Thu, 24 Sep 2026 22:00:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Savor CEO on Producing Fats & Oils From Carbon Sources",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-24/savor-ceo-on-producing-fats-oils-from-carbon-sources-video",
+        "published": "Thu, 24 Sep 2026 21:56:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "CFOs Face a Tougher Call on When to Borrow",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-24/cfos-face-a-tougher-call-on-when-to-borrow-video",
+        "published": "Thu, 24 Sep 2026 21:44:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Chicago Schools Shed 11,500 Students as Risk of Budget Cuts Grow",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-24/chicago-schools-shed-11-500-students-as-risk-of-budget-cuts-grow",
+        "published": "Thu, 24 Sep 2026 21:37:58 GMT"
       },
       {
         "source": "Bloomberg – Markets",
         "title": "Meta’s Best Month Since 2013 Has It on Cusp of $2 Trillion Level",
         "link": "https://www.bloomberg.com/news/articles/2026-09-24/meta-s-best-month-since-2013-has-it-on-cusp-of-2-trillion-level",
         "published": "Thu, 24 Sep 2026 20:31:34 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "NATO's Rutte: Putin 'Not Playing Ball' in Ukraine Peace Talks",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-24/nato-s-rutte-putin-not-playing-ball-in-ukraine-peace-talks",
+        "published": "Thu, 24 Sep 2026 21:15:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bond Selloff Deepens After 30-Year Yield Hits Highest Since 2004",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-24/us-30-year-yield-hits-highest-since-2004-as-bond-selloff-deepens",
+        "published": "Thu, 24 Sep 2026 08:37:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bond Yields Soar, Spiking Fed Rate Hike Bets",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-24/real-yield-9-24-2026-video",
+        "published": "Thu, 24 Sep 2026 21:06:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Big Take: This Isn't Your Grandparents' UN",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-24/big-take-this-isn-t-your-grandparents-un-video",
+        "published": "Thu, 24 Sep 2026 21:05:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hedge Fund With 235% Return Says Gold Price Decline Is Temporary",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-24/hedge-fund-with-235-return-says-gold-price-decline-is-temporary",
+        "published": "Thu, 24 Sep 2026 21:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Uncertainty Creating 'Unfortunate Perfect Recipe' For Yield Upside: Patel",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-24/uncertainty-puts-yield-upside-in-perfect-recipe-patel-video",
+        "published": "Thu, 24 Sep 2026 20:54:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Milei Rules Out Deporting Falkland Residents If UK Cedes Control of Islands",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-24/milei-rules-out-deporting-falkland-residents-if-uk-cedes-control-of-islands",
+        "published": "Thu, 24 Sep 2026 20:55:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "New Tech Issuance Repricing Existing Debt: Rosner",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-24/new-tech-issuance-repricing-existing-debt-rosner-video",
+        "published": "Thu, 24 Sep 2026 20:38:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -87,102 +305,6 @@
         "title": "Akamai Surges on $12 Billion Anthropic AI Computing Deal | Closing Bell",
         "link": "https://www.bloomberg.com/news/videos/2026-09-24/akamai-surges-on-anthropic-ai-deal-closing-bell-video",
         "published": "Thu, 24 Sep 2026 20:22:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bond Selloff Deepens After 30-Year Yield Hits Highest Since 2004",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-24/us-30-year-yield-hits-highest-since-2004-as-bond-selloff-deepens",
-        "published": "Thu, 24 Sep 2026 08:37:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Half Of US Public Schools Report Operating Deficits: S&P Global",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-24/half-of-us-public-schools-have-deficits-s-p-global-video",
-        "published": "Thu, 24 Sep 2026 20:20:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Waver as Oil Rally Triggers Bond Volatility: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 23 Sep 2026 22:17:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Stocks Selloff Stalls on Report of US-Iran Talks Over Hormuz",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-24/us-stock-futures-drop-as-yields-climb-further-oil-rises",
-        "published": "Thu, 24 Sep 2026 11:45:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Muni 30-Year Yield Exceeds 5%, Highest Since at Least 2011",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-24/muni-30-year-bond-yield-exceeds-5-for-first-time-since-at-least-2011",
-        "published": "Thu, 24 Sep 2026 17:10:34 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Falls as Traders Monitor Oil Rebound and Fed Rate Path",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-24/gold-holds-drop-as-higher-oil-and-hot-us-data-fan-rate-hike-bets",
-        "published": "Thu, 24 Sep 2026 00:12:14 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "There's Room For Bond Selloff To Go Further: Dunn",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-24/there-s-room-for-bond-selloff-to-go-further-dunn-video",
-        "published": "Thu, 24 Sep 2026 19:42:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Sept. 24",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/latest-oil-market-news-and-analysis-for-sept-24",
-        "published": "Wed, 23 Sep 2026 22:09:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US, China Relationship 'Too Big to Fail,' Says Sen. Steve Daines",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-24/us-china-relationship-too-big-to-fail-says-daines-video",
-        "published": "Thu, 24 Sep 2026 19:25:10 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Citigroup Sets Up Paramount Loan Calls as Banks Prepare to Sell Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-23/citigroup-sets-up-paramount-loan-calls-as-m-a-debt-sale-eyed",
-        "published": "Wed, 23 Sep 2026 21:07:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fed Unveils More Stablecoin Plans as Regulators Embrace Crypto",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-24/fed-unveils-more-stablecoin-plans-as-regulators-embrace-crypto",
-        "published": "Thu, 24 Sep 2026 19:01:46 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "FC Barcelona Readies €300 Million Private Placement to Finish Stadium Revamp",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-24/fc-barcelona-readies-300-million-private-placement-to-finish-stadium-revamp",
-        "published": "Thu, 24 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasury Rout Threatens EM Carry Trade as Citi Pulls Back",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-24/treasury-rout-threatens-em-carry-trade-as-citi-pulls-back",
-        "published": "Thu, 24 Sep 2026 18:23:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump Stance on AI an 'Extremely Naive Position,' Says Sen. Michael Bennet",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-24/trump-stance-on-ai-an-extremely-naive-position-bennet-video",
-        "published": "Thu, 24 Sep 2026 18:20:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How Is BlackRock’s AI Trade Evolving Beyond Pioneers of the Tech?",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-09-24/how-is-blackrock-s-ai-trade-evolving-beyond-pioneers-of-the-tech",
-        "published": "Thu, 24 Sep 2026 17:54:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Petrobras CEO Rules Out Larger Braskem Stake Amid Debt Talks",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-24/petrobras-executive-says-braskem-to-reach-deal-with-creditors",
-        "published": "Thu, 24 Sep 2026 16:34:51 GMT"
       }
     ],
     "onvista – News": [
