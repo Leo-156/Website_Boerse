@@ -1,18 +1,42 @@
 {
-  "updated_at": "2026-09-25T12:15:10.734237+00:00",
+  "updated_at": "2026-09-25T17:11:28.889481+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wall Street: US-Börsen bauen Gewinne im Handelsverlauf aus – Anleiherenditen bleiben auf hohem Niveau",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-bauen-tagesgewinne-im-handelsverlauf-aus/100257444.html",
+        "published": "Fri, 25 Sep 2026 17:09:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Federal Reserve: US-Notenbank plant offenbar Lockerung der Aufsichtsregeln für Banken",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/federal-reserve-us-notenbank-plant-offenbar-lockerung-der-aufsichtsregeln-fuer-banken/100257509.html",
+        "published": "Fri, 25 Sep 2026 16:23:42 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt im Plus – fallende Ölpreise geben der Börse Aufwind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-plus-fallende-oelpreise-geben-der-boerse-aufwind/100257343.html",
+        "published": "Fri, 25 Sep 2026 15:47:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Bitcoin-Anstieg: Spekulanten wetten gegen Krypto-Aktien – bei einer könnte ein Short-Squeeze bevorstehen",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/bitcoin-bei-dieser-krypto-aktie-koennte-ein-short-squeeze-bevorstehen/100257361.html",
+        "published": "Fri, 25 Sep 2026 14:37:11 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Energiekise: Wie teuer wird Diesel in Deutschland?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/tankstelle-wie-teuer-wird-diesel-noch-die-wichtigsten-fragen-und-antworten/100257356.html",
+        "published": "Fri, 25 Sep 2026 14:32:58 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Felix Pakleppa: „Neubauförderung ist keine Ausgabe, sondern eine Investition“",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/felix-pakleppa-neubaufoerderung-ist-keine-ausgabe-sondern-eine-investition/100253789.html",
         "published": "Fri, 25 Sep 2026 11:43:49 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax notiert im Plus – Ölpreise sinken wieder",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-oelpreise-sinken-weiter/100257343.html",
-        "published": "Fri, 25 Sep 2026 11:24:41 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -97,160 +121,106 @@
         "title": "Genossenschaftsbanken: Volksbank Brawo wickelt Gesellschaften der Sparte Green Energy ab – fast 60 Mitarbeiter sind betroffen",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/volksbank-brawo-wickelt-toechter-ab-mitarbeitern-wird-gekuendigt/100257198.html",
         "published": "Thu, 24 Sep 2026 17:07:11 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax schließt im Minus – Chip-Aktie setzt Negativtrend fort",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-infineon-setzt-negativtrend-fort/100257045.html",
-        "published": "Thu, 24 Sep 2026 15:53:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Die Nvidia-Aktie ist so billig wie seit mehr als zehn Jahren nicht mehr",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-nvidia-ist-so-billig-wie-seit-mehr-als-zehn-jahren-nicht-mehr/100256080.html",
-        "published": "Thu, 24 Sep 2026 15:21:49 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Musterdepot – Dynamik: Stabile Unternehmensgewinne sprechen für weitere Zukäufe",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/aktien-stabile-unternehmensgewinne-sprechen-fuer-weitere-zukaeufe/100256272.html",
-        "published": "Thu, 24 Sep 2026 15:11:45 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "IPO in Mumbai: Stresstest für Indiens Aktienmarkt: Weltgrößte Derivatebörse NSE geht selbst an die Börse",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ipo-weltgroesste-derivateboerse-geht-selbst-an-die-boerse/100256487.html",
-        "published": "Thu, 24 Sep 2026 14:48:46 GMT"
       }
     ],
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "NVIDIA-Aktie fester: Elon Musk kündigt Verdopplung der KI-Chips für xAI bis Jahresende an",
-        "link": "https://www.finanzen.net/nachricht/aktien/chip-nachfrage-zieht-an-nvidia-aktie-fester-elon-musk-kuendigt-verdopplung-der-ki-chips-fuer-xai-bis-jahresende-an-00-15952438",
-        "published": "Fri, 25 Sep 2026 14:11:00 +0200"
+        "title": "Börsencrash überstehen: So kommen Anleger gut durch breite Kurseinbrüche am Markt",
+        "link": "https://www.finanzen.net/nachricht/aktien/massnahmen-bei-markteinbruch-boersencrash-ueberstehen-so-kommen-anleger-gut-durch-breite-kurseinbrueche-am-markt-13028305",
+        "published": "Fri, 25 Sep 2026 19:03:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "BASF: Keinen Kommentar zu Bericht über geplante Übernahme von Evonik",
-        "link": "https://www.finanzen.net/nachricht/aktien/basf-keinen-kommentar-zu-bericht-ueber-geplante-uebernahme-von-evonik-15952928",
-        "published": "Fri, 25 Sep 2026 14:10:43 +0200"
+        "title": "Besser als MSCI World und S&P500: Dieser Index hängt alle ab",
+        "link": "https://www.finanzen.net/nachricht/aktien/besser-als-msci-world-und-s-p500-dieser-index-haengt-alle-ab-15953734",
+        "published": "Fri, 25 Sep 2026 19:02:23 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "CLARITY Act gescheitert: Warum die Rally bei Bitcoin & Co. laut Bitwise-Experte Hougan weiterlaufen könnte",
-        "link": "https://www.finanzen.net/nachricht/devisen/kryptoregulierung-clarity-act-gescheitert-warum-die-rally-bei-bitcoin-co-laut-bitwise-experte-hougan-weiterlaufen-koennte-00-15946618",
-        "published": "Fri, 25 Sep 2026 14:10:00 +0200"
+        "title": "Große Auswahl, minimale Kosten: Derivate-Trading bei finanzen.net ZERO",
+        "link": "https://www.finanzen.net/nachricht/trading/in-eigener-sache-grosse-auswahl-minimale-kosten-derivate-trading-bei-finanzen-net-zero-15714959",
+        "published": "Fri, 25 Sep 2026 19:00:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Analyse: Kaufen-Bewertung für adidas-Aktie von DZ BANK",
-        "link": "https://www.finanzen.net/nachricht/aktien/analyse-kaufen-bewertung-fuer-adidas-aktie-von-dz-bank-15952923",
-        "published": "Fri, 25 Sep 2026 14:07:42 +0200"
+        "title": "ÜBERBLICK am Abend/Konjunktur, Zentralbanken, Politik",
+        "link": "https://www.finanzen.net/nachricht/aktien/ueberblick-am-abend-konjunktur-zentralbanken-politik-15953714",
+        "published": "Fri, 25 Sep 2026 18:59:42 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "GNW-News: Ein gemeinsamer Weg zu den Klassikern der Zukunft: Der internationale iCAUR-Anwendergipfel 2026 findet im Oktober statt",
-        "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-ein-gemeinsamer-weg-zu-den-klassikern-der-zukunft-der-internationale-icaur-anwendergipfel-2026-findet-im-oktober-statt-15952924",
-        "published": "Fri, 25 Sep 2026 14:06:38 +0200"
+        "title": "Gates: KI könnte Tod einer Milliarde Menschen verursachen - Regulierung nötig",
+        "link": "https://www.finanzen.net/nachricht/aktien/gates-ki-koennte-tod-einer-milliarde-menschen-verursachen-regulierung-noetig-15953713",
+        "published": "Fri, 25 Sep 2026 18:58:39 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Aktien von Oracle und Arm stabilisieren sich nach Rücksetzer am Vortag: Sorgen um Jupiter-Projekt",
-        "link": "https://www.finanzen.net/nachricht/aktien/ki-rechenzentrum-aktien-von-oracle-und-arm-stabilisieren-sich-nach-ruecksetzer-am-vortag-sorgen-um-jupiter-projekt-00-15952682",
-        "published": "Fri, 25 Sep 2026 14:06:00 +0200"
+        "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
+        "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-39-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15947944",
+        "published": "Fri, 25 Sep 2026 18:50:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Iran droht Nachbarn nach US-Sanktionen gegen Flugsektor",
-        "link": "https://www.finanzen.net/nachricht/aktien/iran-droht-nachbarn-nach-us-sanktionen-gegen-flugsektor-15952922",
-        "published": "Fri, 25 Sep 2026 14:05:38 +0200"
+        "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+        "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+        "published": "Fri, 25 Sep 2026 18:50:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "AKTIEN IM FOKUS 2: Evonik schießen hoch nach FT-Bericht über BASF-Interesse",
-        "link": "https://www.finanzen.net/nachricht/aktien/aktien-im-fokus-2-evonik-schiessen-hoch-nach-ft-bericht-ueber-basf-interesse-15952918",
-        "published": "Fri, 25 Sep 2026 14:03:38 +0200"
+        "title": "Milliardendeal um Technologie: Nanexa-Aktie verdoppelt, Novo Nordisk-Aktie stabil",
+        "link": "https://www.finanzen.net/nachricht/aktien/vereinbarung-milliardendeal-um-technologie-nanexa-aktie-verdoppelt-novo-nordisk-aktie-stabil-15952623",
+        "published": "Fri, 25 Sep 2026 18:48:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "HelloFresh senkt Ziele drastisch - Anleger müssen sich auf weniger einstellen: Aktie fällt auf Rekordtief",
-        "link": "https://www.finanzen.net/nachricht/aktien/weniger-erwartet-hellofresh-senkt-ziele-drastisch-anleger-muessen-sich-auf-weniger-einstellen-aktie-faellt-auf-rekordtief-15951822",
-        "published": "Fri, 25 Sep 2026 14:03:00 +0200"
+        "title": "Favoriten der Finanzprofis: Diese Aktien empfehlen Experten zu kaufen",
+        "link": "https://www.finanzen.net/nachricht/aktien/kaufempfehlungen-kw-39-favoriten-der-finanzprofis-diese-aktien-empfehlen-experten-zu-kaufen-15927227",
+        "published": "Fri, 25 Sep 2026 18:39:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Innodata: Die Verbindung zu Meta! KI-Projekt Muse hebt den KI-Spezialisten Innodata auf ein neues Level!",
-        "link": "https://www.finanzen.net/nachricht/aktien/Innodata-Die-Verbindung-zu-Meta-KI-Projekt-Muse-hebt-den-KI-Spezialisten-Innodata-auf-ein-neues-Level-15952920",
-        "published": "Fri, 25 Sep 2026 14:00:57 +0200"
+        "title": "Aktien Wien Schluss: ATX schließt Rekordwoche mit Plus ab",
+        "link": "https://www.finanzen.net/nachricht/aktien/aktien-wien-schluss-atx-schliesst-rekordwoche-mit-plus-ab-15953673",
+        "published": "Fri, 25 Sep 2026 18:38:38 +0200"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Welcome to the New Era of Bond Yields at 5%",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-25/welcome-to-the-new-era-of-bond-yields-at-5-video",
-        "published": "Fri, 25 Sep 2026 12:05:29 GMT"
+        "title": "US Sanctions Are Stifling Cuban Economic Reform Efforts, Minister Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-25/us-sanctions-stifling-cuban-economic-reform-minister-video",
+        "published": "Fri, 25 Sep 2026 16:39:30 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Paraguay Is Increasing Beef Exports to US, President Peña Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/paraguay-is-increasing-beef-exports-to-us-president-pena-says",
-        "published": "Fri, 25 Sep 2026 12:03:34 GMT"
+        "title": "US Consumer Sentiment Falls on Worries About Prices, Economy",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-25/us-consumer-sentiment-falls-on-worries-about-pricece-video",
+        "published": "Fri, 25 Sep 2026 16:31:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Italy to Convene Oil Refiners as it Seeks to Boost Fuels Output",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/italy-to-convene-oil-refiners-as-it-seeks-to-boost-fuels-output",
-        "published": "Fri, 25 Sep 2026 11:54:48 GMT"
+        "title": "Odd Lots: Hollywood Was Cooked Before AI. Now It’s Getting Worse",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-25/odd-lots-hollywood-was-cooked-before-ai-now-it-s-getting-worse",
+        "published": "Fri, 25 Sep 2026 17:00:54 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Yen Rises as Takaichi Says Undervalued Currency Is a Problem",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/yen-heads-for-best-day-in-two-weeks-after-katayama-jawboning",
-        "published": "Fri, 25 Sep 2026 06:42:23 GMT"
+        "title": "Polymarket Wagers on Bank Failures Trigger FDIC Concerns",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/polymarket-wagers-on-bank-failures-trigger-fdic-concerns",
+        "published": "Fri, 25 Sep 2026 16:58:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "FTSE 100 Live: Stocks Set for Rebound, Pounds Sits Close to $1.32",
-        "link": "https://www.bloomberg.com/news/live-blog/2026-09-25/ftse-100-gilts-pound-yields-what-s-moving-uk-markets-right-now-markets-today",
-        "published": "Fri, 25 Sep 2026 05:50:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "South America Is Now Big Oil’s Top Hunting Ground",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-09-25/south-america-is-now-big-oil-s-top-hunting-ground",
-        "published": "Fri, 25 Sep 2026 11:46:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Markets Pushing Limits on Pricing in Fed Hikes, Says  SocGen’s Rajappa",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-25/markets-pushing-limits-on-pricing-in-fed-hikes-socgen-video",
-        "published": "Fri, 25 Sep 2026 11:44:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "European Stocks Set for First Weekly Gain in Four as Oil Eases",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/european-stocks-set-for-first-weekly-gain-in-four-as-oil-eases",
-        "published": "Fri, 25 Sep 2026 07:29:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Rise as Investors See Relief in Yields, Oil",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/us-stock-futures-rise-as-investors-see-relief-in-yields-oil",
-        "published": "Fri, 25 Sep 2026 11:35:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bond Selloff Fades as Oil Cools, Lifting Stocks: Markets Wrap",
+        "title": "Stocks Climb as Oil Retreats on US-Iran Deal Hopes: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-24/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 24 Sep 2026 22:13:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bond Selloff Fades, US-Iran Said to be Exploring Phased Deal, Trump-Xi Summit",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-25/bloomberg-brief-09-25-2026-video",
-        "published": "Fri, 25 Sep 2026 11:28:14 GMT"
+        "title": "People Are Being Spotted Emerging From New York City Sewers",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-25/people-are-being-spotted-emerging-from-nyc-sewers-video",
+        "published": "Fri, 25 Sep 2026 16:40:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -260,54 +230,90 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Oil is King for Gilts in Volatile Week",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-25/oil-is-king-for-gilts-in-volatile-week-video",
-        "published": "Fri, 25 Sep 2026 11:11:59 GMT"
+        "title": "Prospect Capital Junk-Bond Sale Comes With 8% Yield Whisper",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/prospect-capital-junk-bond-sale-comes-with-8-yield-whisper",
+        "published": "Fri, 25 Sep 2026 16:37:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Trump Trying to Buy Time With Xi; Amundi's Rosenberg",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-25/trump-trying-to-buy-time-with-xi-amundi-s-rosenberg-video",
-        "published": "Fri, 25 Sep 2026 10:57:14 GMT"
+        "title": "US Stocks Gain as Oil Drops on Hormuz Reopening Hopes",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/us-stock-futures-rise-as-investors-see-relief-in-yields-oil",
+        "published": "Fri, 25 Sep 2026 11:35:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lombard Odier Turns Bullish on Treasuries After Five-Year Hiatus",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/lombard-odier-turns-bullish-on-treasuries-after-five-year-hiatus",
-        "published": "Fri, 25 Sep 2026 10:40:24 GMT"
+        "title": "Nor'easter Strengthens Threatening Millions Along US East Coast",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-25/nor-easter-threatens-millions-along-us-east-coast-video",
+        "published": "Fri, 25 Sep 2026 16:21:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US, Iran Said to Be Exploring Phased Deal to Open Hormuz",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-25/the-opening-trade-9-25-2026-video",
-        "published": "Fri, 25 Sep 2026 10:37:26 GMT"
+        "title": "Nobody Talks About Hard and Soft Data Anymore",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-09-25/nobody-talks-about-hard-and-soft-data-anymore",
+        "published": "Fri, 25 Sep 2026 16:02:48 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Zambia Says Diesel Pipeline Open Access to Resume by January",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/zambia-says-diesel-pipeline-open-access-to-resume-by-january",
-        "published": "Fri, 25 Sep 2026 10:33:20 GMT"
+        "title": "Japanese Finance Minister: Takaichi is ‘Not a Reflationist’",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-25/japan-s-finance-minister-takaichi-isn-t-reflationist-video",
+        "published": "Fri, 25 Sep 2026 15:53:34 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Max Kettner Would Be Long Anything If Oil Falls to $80",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-25/max-kettner-would-be-long-anything-if-oil-falls-to-80-video",
-        "published": "Fri, 25 Sep 2026 10:32:45 GMT"
+        "title": "Burnham Rules Out Early UK Election, Saying Vote Due in 2029",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/burnham-rules-out-early-uk-election-saying-vote-due-in-2029",
+        "published": "Fri, 25 Sep 2026 16:00:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Meta’s Best Month Since 2013 Has It on Cusp of $2 Trillion Level",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-24/meta-s-best-month-since-2013-has-it-on-cusp-of-2-trillion-level",
-        "published": "Thu, 24 Sep 2026 20:31:34 GMT"
+        "title": "Treasury Volatility Eyes Biggest Jump in Year as Bonds Churn",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/treasury-volatility-set-for-biggest-jump-in-year-as-bonds-churn",
+        "published": "Fri, 25 Sep 2026 12:41:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US, Iran Explore Hormuz Deal, Trump-Xi Summit Short on Substance",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-25/the-pulse-9-25-2026-video",
-        "published": "Fri, 25 Sep 2026 10:21:28 GMT"
+        "title": "Chicago Schools Shed 11,500 Students as Budget Risk Grows",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-24/chicago-schools-shed-11-500-students-as-risk-of-budget-cuts-grow",
+        "published": "Thu, 24 Sep 2026 21:37:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "European Stocks Post First Weekly Gain in Four as Oil Retreats",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/european-stocks-set-for-first-weekly-gain-in-four-as-oil-eases",
+        "published": "Fri, 25 Sep 2026 07:29:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Get Back on Track, Trump-Xi Summit Delivers Pomp Over Policy",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-25/bloomberg-surveillance-9-25-2026-video",
+        "published": "Fri, 25 Sep 2026 15:41:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ex-Connecticut Housing Chief Charged With Fraud Over Loan Scheme",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/ex-connecticut-housing-chief-charged-with-fraud-over-loan-scheme",
+        "published": "Fri, 25 Sep 2026 15:40:18 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The Untapped Value of Tennis Stars",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-25/the-untapped-value-of-tennis-stars-video",
+        "published": "Fri, 25 Sep 2026 15:36:31 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Yen Rises as Japanese Officials Say Weak Currency Is a Problem",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/yen-heads-for-best-day-in-two-weeks-after-katayama-jawboning",
+        "published": "Fri, 25 Sep 2026 06:42:23 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Verlustserie beendet: Dax erzielt kleines Wochenplus",
+        "link": "https://www.onvista.de/news/2026/09-25-verlustserie-beendet-dax-erzielt-kleines-wochenplus-41121301-19-26557594",
+        "published": "Fri, 25 Sep 2026 17:59:01 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "BASF will für Evonik bieten - Aktie springt an",
@@ -451,12 +457,6 @@
         "title": "Nasdaq mit Rekord – Dax vorbörslich leicht im Plus",
         "link": "https://www.onvista.de/news/2026/09-23-nasdaq-mit-rekord-dax-vorboerslich-leicht-im-plus-41121301-19-26556504",
         "published": "Wed, 23 Sep 2026 08:02:15 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 23.09.2026",
-        "link": "https://www.onvista.de/news/2026/09-23-finanzberichte-heute-23-09-2026-41121301-19-26556466",
-        "published": "Wed, 23 Sep 2026 06:10:00 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -530,9 +530,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Sinkende Ölpreise bewegen DAX ins Plus",
+        "title": "Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
-        "published": "Fri, 25 Sep 2026 10:54:54 +0200"
+        "published": "Fri, 25 Sep 2026 18:31:47 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
