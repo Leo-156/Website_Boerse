@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-26T06:36:08.929076+00:00",
+  "updated_at": "2026-09-26T11:44:49.819551+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Stützungsfall: Bankhaus RSA hat fast 450 Millionen Euro an Garantien erhalten",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/stuetzungsfall-bankhaus-rsa-hat-fast-450-millionen-euro-an-garantien-erhalten/100257511.html",
+        "published": "Sat, 26 Sep 2026 09:13:27 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Altersvorsorge: Wie sich der Riester-Nachfolger für Gutverdiener lohnen kann",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/steuern-was-gutverdiener-ueber-das-altersvorsorgedepot-wissen-muessen/100222434.html",
+        "published": "Sat, 26 Sep 2026 07:39:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Was die hohen Anleiherenditen für US-Verbraucher bedeuten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/immobilien-was-die-hohen-anleiherenditen-fuer-us-verbraucher-bedeuten/100257448.html",
+        "published": "Sat, 26 Sep 2026 06:53:31 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "WhatsApp-Nachricht: Bank-Manager fällt auf KI-Fake rein – Betrüger erbeuten 36 Millionen Euro von Intesa-Sanpaolo-Tochter",
@@ -94,12 +112,6 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Rente: Finanzpsychologe Valentin Haas: „Der Ruhestand wird gesellschaftlich glorifiziert“",
-        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rentereform-der-ruhestand-gibt-dem-stress-ein-ablaufdatum-02/100236769.html",
-        "published": "Fri, 25 Sep 2026 06:06:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Börse am 25. September: Sechs Punkte, die für Anleger heute wichtig sind",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "published": "Fri, 25 Sep 2026 04:17:00 GMT"
@@ -109,86 +121,74 @@
         "title": "Immobilien: Es wird teuer – wer Wohnraum leer stehen lässt, muss häufig zahlen",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-es-wird-teuer-wer-wohnraum-leer-stehen-laesst-muss-haeufig-zahlen/100188705.html",
         "published": "Fri, 25 Sep 2026 02:00:26 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Aktie im Blick: Anleger misstrauen den Zukunftsplänen von Novo Nordisk",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-anleger-misstrauen-den-zukunftsplaenen-von-novo-nordisk-01/100256611.html",
-        "published": "Sat, 26 Sep 2026 05:57:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: US-Börsen schließen kaum verändert – Zinssorgen belasten Anleger",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-kaum-veraendert-zinssorgen-belasten-anleger/100257196.html",
-        "published": "Thu, 24 Sep 2026 19:26:00 GMT"
       }
     ],
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Altersvorsorgedepot: Nur wieder Abzocke, oder echte Alternative zur Riester-Rente?",
-        "link": "https://www.finanzen.net/nachricht/aktien/altersvorsorgedepot-nur-wieder-abzocke-oder-echte-alternative-zur-riester-rente-15954167",
-        "published": "Sat, 26 Sep 2026 08:15:43 +0200"
+        "title": "Sicher bestellen aus Drittländern: Zoll, Steuern und Fallen",
+        "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/online-shopping-sicher-bestellen-aus-drittlaendern-zoll-steuern-und-fallen-14628387",
+        "published": "Sat, 26 Sep 2026 13:29:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Tesla-Aktie nach enttäuschendem Cybercab-Debüt: Warum Anleger die Robotaxi-Story hinterfragen sollten",
-        "link": "https://www.finanzen.net/nachricht/aktien/behoerde-ermittelt-tesla-aktie-nach-enttaeuschendem-cybercab-debuet-warum-anleger-die-robotaxi-story-hinterfragen-sollten-00-15948072",
-        "published": "Sat, 26 Sep 2026 08:14:00 +0200"
+        "title": "KW 39: Die Gewinner und Verlierer der MDAX-Aktien der vergangenen Woche",
+        "link": "https://www.finanzen.net/nachricht/aktien/performance-kw-39-die-gewinner-und-verlierer-der-mdax-aktien-der-vergangenen-woche-15925704",
+        "published": "Sat, 26 Sep 2026 13:29:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Überstunden: So erkennt man, wann Schluss ist - und was dann zu tun ist",
-        "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitsrecht-ueberstunden-so-erkennt-man-wann-schluss-ist-und-was-dann-zu-tun-ist-14645547",
-        "published": "Sat, 26 Sep 2026 08:11:00 +0200"
+        "title": "Top-News der Woche: Diese Themen am Aktienmarkt waren in dieser Woche wichtig für Börsenanleger",
+        "link": "https://www.finanzen.net/nachricht/aktien/wochenrueckblick-kw-39-2026-top-news-der-woche-diese-themen-am-aktienmarkt-waren-in-dieser-woche-wichtig-fuer-boersenanleger-15947944",
+        "published": "Sat, 26 Sep 2026 13:26:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Engagement ausgebaut: Führungskraft erhöht flatexDEGIRO-Position",
-        "link": "https://www.finanzen.net/nachricht/aktien/engagement-ausgebaut-fuehrungskraft-erhoeht-flatexdegiro-position-15954158",
-        "published": "Sat, 26 Sep 2026 08:01:12 +0200"
+        "title": "Warum dein Bankberater dir keine ETFs empfiehlt - und was das für dein Vermögen bedeutet",
+        "link": "https://www.finanzen.net/nachricht/private-finanzen/gold-als-sicherheit-warum-dein-bankberater-dir-keine-etfs-empfiehlt-und-was-das-fuer-dein-vermoegen-bedeutet-15711390",
+        "published": "Sat, 26 Sep 2026 13:25:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Vermögenswirksame Leistungen mit ETFs: So wird aus dem Arbeitgeberzuschuss langfristig Vermögen",
-        "link": "https://www.finanzen.net/nachricht/aktien/vermoegenswirksame-leistungen-mit-etfs-so-wird-aus-dem-arbeitgeberzuschuss-langfristig-vermoegen-15954165",
-        "published": "Sat, 26 Sep 2026 08:00:54 +0200"
+        "title": "Gold, Heizöl, Silber & Co. am Samstagmittag",
+        "link": "https://www.finanzen.net/nachricht/rohstoffe/gold-heizoel-silber-co-am-samstagmittag-15954307",
+        "published": "Sat, 26 Sep 2026 13:17:06 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Megatrends im Depot: Wie viel KI und Halbleiter sind sinnvoll?",
-        "link": "https://www.finanzen.net/nachricht/aktien/megatrends-im-depot-wie-viel-ki-und-halbleiter-sind-sinnvoll-15954164",
-        "published": "Sat, 26 Sep 2026 08:00:43 +0200"
+        "title": "SpaceX-Aktie: Cathie Wood sieht eine 10-Billionen-Dollar-Chance - Was ist wirklich dran?",
+        "link": "https://www.finanzen.net/nachricht/aktien/woods-billionen-rechnung-spacex-aktie-cathie-wood-sieht-eine-10-billionen-dollar-chance-was-ist-wirklich-dran-00-15939377",
+        "published": "Sat, 26 Sep 2026 13:17:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Strategien die wirklich funktionieren inklusive Marktausblick - Livestream von der Finance 26 in Frankfurt heute um 09:00 Uhr",
-        "link": "https://www.finanzen.net/nachricht/trading/strategien-die-wirklich-funktionieren-inklusive-marktausblick-livestream-von-der-finance-26-in-frankfurt-heute-um-09-00-uhr-15954163",
-        "published": "Sat, 26 Sep 2026 08:00:00 +0200"
+        "title": "GNW-News: YYForce veröffentlicht die Finanzergebnisse für das erste Halbjahr 2026 und verzeichnet ein Umsatzwachstum von 26,8 % auf 32,7 Millionen US-Dollar",
+        "link": "https://www.finanzen.net/nachricht/aktien/gnw-news-yyforce-veroeffentlicht-die-finanzergebnisse-fuer-das-erste-halbjahr-2026-und-verzeichnet-ein-umsatzwachstum-von-26-8-auf-32-7-millionen-us-dollar-15954312",
+        "published": "Sat, 26 Sep 2026 13:15:38 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Strategien die wirklich funktionieren inklusive Marktausblick - Livestream von der Finance 26 in Frankfurt heute um 09:00 Uhr",
-        "link": "https://www.finanzen.net/nachricht/cfd/strategien-die-wirklich-funktionieren-inklusive-marktausblick-livestream-von-der-finance-26-in-frankfurt-heute-um-09-00-uhr-15954162",
-        "published": "Sat, 26 Sep 2026 08:00:00 +0200"
+        "title": "Vom Screening bis zum Trade: So wird das stock3 Terminal zu Deiner Börsen-Zentrale - Livestream von der Finance 26 in Frankfurt heute um 14:00 Uhr",
+        "link": "https://www.finanzen.net/nachricht/trading/vom-screening-bis-zum-trade-so-wird-das-stock3-terminal-zu-deiner-boersen-zentrale-livestream-von-der-finance-26-in-frankfurt-heute-um-14-00-uhr-15954311",
+        "published": "Sat, 26 Sep 2026 13:15:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Strategien die wirklich funktionieren inklusive Marktausblick - Livestream von der Finance 26 in Frankfurt heute um 09:00 Uhr",
-        "link": "https://www.finanzen.net/nachricht/cfd/strategien-die-wirklich-funktionieren-inklusive-marktausblick-livestream-von-der-finance-26-in-frankfurt-heute-um-09-00-uhr-15954161",
-        "published": "Sat, 26 Sep 2026 08:00:00 +0200"
+        "title": "Vom Screening bis zum Trade: So wird das stock3 Terminal zu Deiner Börsen-Zentrale - Livestream von der Finance 26 in Frankfurt heute um 14:00 Uhr",
+        "link": "https://www.finanzen.net/nachricht/cfd/vom-screening-bis-zum-trade-so-wird-das-stock3-terminal-zu-deiner-boersen-zentrale-livestream-von-der-finance-26-in-frankfurt-heute-um-14-00-uhr-15954310",
+        "published": "Sat, 26 Sep 2026 13:15:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Strategien die wirklich funktionieren inklusive Marktausblick - Livestream von der Finance 26 in Frankfurt heute um 09:00 Uhr",
-        "link": "https://www.finanzen.net/nachricht/aktien/strategien-die-wirklich-funktionieren-inklusive-marktausblick-livestream-von-der-finance-26-in-frankfurt-heute-um-09-00-uhr-15954160",
-        "published": "Sat, 26 Sep 2026 08:00:00 +0200"
+        "title": "Vom Screening bis zum Trade: So wird das stock3 Terminal zu Deiner Börsen-Zentrale - Livestream von der Finance 26 in Frankfurt heute um 14:00 Uhr",
+        "link": "https://www.finanzen.net/nachricht/cfd/vom-screening-bis-zum-trade-so-wird-das-stock3-terminal-zu-deiner-boersen-zentrale-livestream-von-der-finance-26-in-frankfurt-heute-um-14-00-uhr-15954309",
+        "published": "Sat, 26 Sep 2026 13:15:00 +0200"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "US Says China to Buy 10 Million Tons of Coal in 2027 and 2028",
+        "title": "US Says China to Buy 10 Million Tons of Coal in 2027, 2028",
         "link": "https://www.bloomberg.com/news/articles/2026-09-26/us-says-china-to-buy-10-million-tons-of-coal-in-2027-and-2028",
         "published": "Sat, 26 Sep 2026 04:52:45 GMT"
       },
@@ -462,6 +462,12 @@
     "Börse Frankfurt – News": [
       {
         "source": "Börse Frankfurt – News",
+        "title": "Anleihen: Neue Chancen nach dem Renditesprung",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/anleihen-neue-chancen-nach-dem-renditesprung",
+        "published": "Sat, 26 Sep 2026 06:49:43 GMT"
+      },
+      {
+        "source": "Börse Frankfurt – News",
         "title": "Auslandsaktien: KI-Diskussion geht weiter",
         "link": "https://www.boerse-frankfurt.de/nachrichten/auslandsaktien-ki-diskussion-geht-weiter",
         "published": "Thu, 24 Sep 2026 12:34:27 GMT"
@@ -513,12 +519,6 @@
         "title": "ETFs: Tausch von Technologie in weltweite Aktien",
         "link": "https://www.boerse-frankfurt.de/nachrichten/etfs-tausch-von-technologie-in-weltweite-aktien",
         "published": "Tue, 15 Sep 2026 12:22:52 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Fünf neue Tracker im Handel",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/fuenf-neue-tracker-im-handel",
-        "published": "Tue, 15 Sep 2026 12:03:33 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
