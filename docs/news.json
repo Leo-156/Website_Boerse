@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T20:23:36.686989+00:00",
+  "updated_at": "2026-09-27T23:10:15.491350+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -128,7 +128,19 @@
         "source": "finanzen.net – News-Ticker",
         "title": "Finanzbildung und Altersvorsorge: Warum hier etwas nicht zusammenpasst",
         "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-finanzbildung-und-altersvorsorge-warum-hier-etwas-nicht-zusammenpasst-15953607",
-        "published": "Sun, 27 Sep 2026 21:54:00 +0200"
+        "published": "Sun, 27 Sep 2026 23:54:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+        "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+        "published": "Sun, 27 Sep 2026 22:50:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Online Broker Vergleich - die besten Aktiendepots und Trading-Plattformen im Test",
+        "link": "https://www.finanzen.net/nachricht/aktien/online-broker-vergleich-die-besten-aktiendepots-und-trading-plattformen-im-test-4714571",
+        "published": "Sun, 27 Sep 2026 22:30:00 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
@@ -171,21 +183,27 @@
         "title": "Straße von Hormus: Iran schiebt den Ball bei Öffnung den USA zu - Trump legt Angebot ab",
         "link": "https://www.finanzen.net/nachricht/aktien/persischer-golf-strasse-von-hormus-iran-schiebt-den-ball-bei-oeffnung-den-usa-zu-trump-legt-angebot-ab-15954250",
         "published": "Sun, 27 Sep 2026 21:24:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Apple-Aktie nach Patent-Urteil im Blick: iKonzern soll Milliarden-Dollar-Betrag zahlen",
-        "link": "https://www.finanzen.net/nachricht/aktien/strafe-apple-aktie-nach-patent-urteil-im-blick-ikonzern-soll-milliarden-dollar-betrag-zahlen-15954843",
-        "published": "Sun, 27 Sep 2026 21:23:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Verbraucher aufgepasst: Das ändert sich ab Oktober 2026 – Mehrere Neuregelungen mit klaren Stichtagen",
-        "link": "https://www.finanzen.net/nachricht/aktien/neuerungen-und-gesetze-verbraucher-aufgepasst-das-aendert-sich-ab-oktober-2026-mehrere-neuregelungen-mit-klaren-stichtagen-00-15944871",
-        "published": "Sun, 27 Sep 2026 21:16:00 +0200"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil Up, Stock Futures Slip as Iran Offer Rejected: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-27/stock-market-today-dow-s-p-live-updates",
+        "published": "Sun, 27 Sep 2026 22:15:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Sept. 28",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-27/latest-oil-market-news-and-analysis-for-sept-28",
+        "published": "Sun, 27 Sep 2026 22:03:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump Says He’s ‘Very Seriously’ Looking at Diesel Export Ban",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-27/trump-says-he-s-very-seriously-looking-at-diesel-export-ban",
+        "published": "Sun, 27 Sep 2026 21:55:26 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Kennedy Center Musicians Find New Stages",
@@ -287,24 +305,6 @@
         "title": "El Niño Could Push Up Food Prices in Southern Africa",
         "link": "https://www.bloomberg.com/news/videos/2026-09-27/el-nino-could-push-up-food-prices-in-southern-africa-video",
         "published": "Sun, 27 Sep 2026 05:01:10 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Dispatches Pair of Pandas to Atlanta Zoo: CCTV Reports",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-27/china-dispatches-pair-of-pandas-to-atlanta-zoo-cctv-reports",
-        "published": "Sun, 27 Sep 2026 04:12:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Thai PM Anutin’s Support Drops in Latest Poll as Pressures Rise",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-27/thai-pm-anutin-s-support-drops-in-latest-poll-as-pressures-rise",
-        "published": "Sun, 27 Sep 2026 03:45:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight",
-        "published": "Sun, 27 Sep 2026 00:00:00 GMT"
       }
     ],
     "onvista – News": [
