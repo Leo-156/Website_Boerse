@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-27T07:20:58.568748+00:00",
+  "updated_at": "2026-09-27T13:08:49.306371+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Das endgültige Ende der Nullzins-Ära steht kurz bevor",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-das-endgueltige-ende-der-nullzins-aera-steht-kurz-bevor/100256081.html",
+        "published": "Sun, 27 Sep 2026 12:36:46 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Energiekise: Wie teuer wird Diesel in Deutschland?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/tankstelle-wie-teuer-wird-diesel-noch-die-wichtigsten-fragen-und-antworten/100257356.html",
+        "published": "Sun, 27 Sep 2026 11:23:40 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Kapitalmarkt: Mehrere Festnahmen nach Manipulationsskandal in der Türkei – fast 500.000 Kleinanleger betroffen",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/kapitalmarkt-mehrere-festnahmen-nach-manipulationsskandal-in-der-tuerkei/100257716.html",
+        "published": "Sun, 27 Sep 2026 10:24:53 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Stützungsfall: Bankhaus RSA hat fast 450 Millionen Euro an Garantien erhalten",
@@ -49,12 +67,6 @@
         "title": "Bitcoin-Anstieg: Spekulanten wetten gegen Krypto-Aktien – bei einer könnte ein Short-Squeeze bevorstehen",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/bitcoin-bei-dieser-krypto-aktie-koennte-ein-short-squeeze-bevorstehen/100257361.html",
         "published": "Fri, 25 Sep 2026 14:37:11 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Energiekise: Wie teuer wird Diesel in Deutschland?",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/tankstelle-wie-teuer-wird-diesel-noch-die-wichtigsten-fragen-und-antworten/100257356.html",
-        "published": "Fri, 25 Sep 2026 14:32:58 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -109,94 +121,106 @@
         "title": "Gewerkschaft: Bankangestellte fordern bis zu drei KI-Entlastungstage im Quartal",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/gewerkschaft-bankangestellte-fordern-bis-zu-drei-ki-entlastungstage-im-quartal/100257347.html",
         "published": "Fri, 25 Sep 2026 06:07:06 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 25. September: Sechs Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Fri, 25 Sep 2026 04:17:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Es wird teuer – wer Wohnraum leer stehen lässt, muss häufig zahlen",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-es-wird-teuer-wer-wohnraum-leer-stehen-laesst-muss-haeufig-zahlen/100188705.html",
-        "published": "Fri, 25 Sep 2026 02:00:26 GMT"
       }
     ],
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Boeing-Aktie: Neue Software-Panne bei der 737 Max",
-        "link": "https://www.finanzen.net/nachricht/aktien/boeing-aktie-neue-software-panne-bei-der-737-max-15954785",
-        "published": "Sun, 27 Sep 2026 09:10:37 +0200"
+        "title": "ZertifikateAwards – Für Société Générale stimmen und Reise nach Berlin gewinnen!",
+        "link": "https://www.finanzen.net/nachricht/trading/zertifikateawards-fr-socit-gnrale-stimmen-und-reise-nach-berlin-gewinnen-15955030",
+        "published": "Sun, 27 Sep 2026 15:00:01 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Smarter entscheiden: Entdecke die Welt der Trading-Bots - und sichere dir bis zu 110 € in Bitcoin",
-        "link": "https://www.finanzen.net/nachricht/devisen/werbung-smarter-entscheiden-entdecke-die-welt-der-trading-bots-und-sichere-dir-bis-zu-110-in-bitcoin-15304854",
-        "published": "Sun, 27 Sep 2026 09:10:00 +0200"
+        "title": "ZertifikateAwards – Für Société Générale stimmen und Reise nach Berlin gewinnen!",
+        "link": "https://www.finanzen.net/nachricht/devisen/zertifikateawards-fr-socit-gnrale-stimmen-und-reise-nach-berlin-gewinnen-15955028",
+        "published": "Sun, 27 Sep 2026 15:00:01 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Altersvorsorgedepot: 100 Euro im Monat, 110.000 Euro nach 30 Jahren",
-        "link": "https://www.finanzen.net/nachricht/aktien/altersvorsorgedepot-100-euro-im-monat-110-000-euro-nach-30-jahren-15954787",
-        "published": "Sun, 27 Sep 2026 09:09:55 +0200"
+        "title": "ZertifikateAwards – Für Société Générale stimmen und Reise nach Berlin gewinnen!",
+        "link": "https://www.finanzen.net/nachricht/rohstoffe/zertifikateawards-fr-socit-gnrale-stimmen-und-reise-nach-berlin-gewinnen-15955027",
+        "published": "Sun, 27 Sep 2026 15:00:01 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "ETF: Sparen für die Zukunft des Kindes - Warum das klassische Sparbuch Geld verbrennt und was die clevere Alternative ist",
-        "link": "https://www.finanzen.net/nachricht/aktien/etf-sparen-fuer-die-zukunft-des-kindes-warum-das-klassische-sparbuch-geld-verbrennt-und-was-die-clevere-alternative-ist-15954786",
-        "published": "Sun, 27 Sep 2026 09:08:51 +0200"
+        "title": "ZertifikateAwards – Für Société Générale stimmen und Reise nach Berlin gewinnen!",
+        "link": "https://www.finanzen.net/nachricht/zertifikate/zertifikateawards-fr-socit-gnrale-stimmen-und-reise-nach-berlin-gewinnen-15955029",
+        "published": "Sun, 27 Sep 2026 15:00:01 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
-        "title": "Apple-Aktie: Patent-Urteil fordert Milliarden-Dollar-Betrag",
-        "link": "https://www.finanzen.net/nachricht/aktien/apple-aktie-patent-urteil-fordert-milliarden-dollar-betrag-15954784",
-        "published": "Sun, 27 Sep 2026 09:05:37 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Quantencomputer vor dem Durchbruch? Diese 5 ETFs im Vergleich",
-        "link": "https://www.finanzen.net/nachricht/trading/quantencomputer-vor-dem-durchbruch-diese-5-etfs-im-vergleich-15954782",
-        "published": "Sun, 27 Sep 2026 09:00:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Quantencomputer vor dem Durchbruch? Diese 5 ETFs im Vergleich",
-        "link": "https://www.finanzen.net/nachricht/cfd/quantencomputer-vor-dem-durchbruch-diese-5-etfs-im-vergleich-15954781",
-        "published": "Sun, 27 Sep 2026 09:00:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Quantencomputer vor dem Durchbruch? Diese 5 ETFs im Vergleich",
-        "link": "https://www.finanzen.net/nachricht/cfd/quantencomputer-vor-dem-durchbruch-diese-5-etfs-im-vergleich-15954780",
-        "published": "Sun, 27 Sep 2026 09:00:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Quantencomputer vor dem Durchbruch? Diese 5 ETFs im Vergleich",
-        "link": "https://www.finanzen.net/nachricht/aktien/quantencomputer-vor-dem-durchbruch-diese-5-etfs-im-vergleich-15954779",
-        "published": "Sun, 27 Sep 2026 09:00:00 +0200"
+        "title": "ZertifikateAwards – Für Société Générale stimmen und Reise nach Berlin gewinnen!",
+        "link": "https://www.finanzen.net/nachricht/aktien/zertifikateawards-fr-socit-gnrale-stimmen-und-reise-nach-berlin-gewinnen-15955026",
+        "published": "Sun, 27 Sep 2026 15:00:01 +0200"
       },
       {
         "source": "finanzen.net – News-Ticker",
         "title": "Mietkaution clever anlegen: Warum Dein Geld auf dem Kautionssparbuch Wert verliert",
-        "link": "https://www.finanzen.net/nachricht/aktien/mietkaution-clever-anlegen-warum-dein-geld-auf-dem-kautionssparbuch-wert-verliert-15954778",
-        "published": "Sun, 27 Sep 2026 08:53:51 +0200"
+        "link": "https://www.finanzen.net/nachricht/private-finanzen/einfach-mieten-mietkaution-clever-anlegen-warum-dein-geld-auf-dem-kautionssparbuch-wert-verliert-15868436",
+        "published": "Sun, 27 Sep 2026 14:59:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "ETF vom Chef geschenkt: Warum Millionen Arbeitnehmer jedes Jahr 40 Euro im Monat verschenken",
+        "link": "https://www.finanzen.net/nachricht/aktien/etf-vom-chef-geschenkt-warum-millionen-arbeitnehmer-jedes-jahr-40-euro-im-monat-verschenken-15955024",
+        "published": "Sun, 27 Sep 2026 14:53:56 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Lass dich fürs Traden bezahlen: Hol dir bis zu 240 € Cashback bei unserem Broker",
+        "link": "https://www.finanzen.net/nachricht/aktien/in-eigener-sache-lass-dich-fuers-traden-bezahlen-hol-dir-bis-zu-240-cashback-bei-unserem-broker-15853896",
+        "published": "Sun, 27 Sep 2026 14:50:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Bitcoin-Prognose: Kommt die 100.000-Dollar-Marke noch 2026 zurück?",
+        "link": "https://www.finanzen.net/nachricht/aktien/bitcoin-prognose-kommt-die-100-000-dollar-marke-noch-2026-zurueck-15955023",
+        "published": "Sun, 27 Sep 2026 14:49:23 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "KI-Aktien wie NVIDIA, AMD und Co. vor Rally? BofA sieht neuen Chip-Boom - Chancen für Anleger im Blick",
+        "link": "https://www.finanzen.net/nachricht/aktien/chipmarkt-prognose-erhoeht-ki-aktien-wie-nvidia-amd-und-co-vor-rally-bofa-sieht-neuen-chip-boom-chancen-fuer-anleger-im-blick-00-15943787",
+        "published": "Sun, 27 Sep 2026 14:49:00 +0200"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Kazakh President Dismisses Defense Minister After Drill Deaths",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-27/kazakh-president-dismisses-defense-minister-after-drill-deaths",
-        "published": "Sun, 27 Sep 2026 07:07:27 GMT"
+        "title": "Northeast Storm Brings Wind, Rain and Flooding",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-27/northeast-storm-brings-wind-rain-and-flooding-video",
+        "published": "Sun, 27 Sep 2026 12:56:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "NZ Political Parties Court Squeezed Voters as Election Race Heats Up",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-27/nz-political-parties-court-squeezed-voters-as-election-race-heats-up",
-        "published": "Sun, 27 Sep 2026 06:27:36 GMT"
+        "title": "Rubenstein on the Billion Dollar Sports Boom",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-27/rubenstein-on-the-billion-dollar-sports-boom-video",
+        "published": "Sun, 27 Sep 2026 12:44:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "IAEA Says Iran Nuclear Oversight Can Resume Fast",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-27/iaea-says-iran-nuclear-oversight-can-resume-fast-video",
+        "published": "Sun, 27 Sep 2026 12:37:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump Rejects Iran Plan to Reopen Hormuz",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-27/trump-rejects-iran-plan-to-reopen-hormuz-video",
+        "published": "Sun, 27 Sep 2026 12:31:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "A Hockey Legend, a New Bridge, and the Trade War Tearing Neighbors Apart",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-27/the-bridge-that-epitomizes-the-us-canada-trade-war-video",
+        "published": "Sun, 27 Sep 2026 12:04:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Barrick Mining Reaches Deal With Mali Unions, Averting Strikes",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-27/barrick-mining-reaches-deal-with-mali-unions-averting-strikes",
+        "published": "Sun, 27 Sep 2026 11:34:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -281,30 +305,6 @@
         "title": "Russia Ukraine War Becomes Economic Battle",
         "link": "https://www.bloomberg.com/news/videos/2026-09-26/russia-ukraine-war-becomes-economic-battle-video",
         "published": "Sat, 26 Sep 2026 13:10:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "McDonald’s Selloff Hits 30% as Big Mac Inflation Spurs Pushback",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-26/mcdonald-s-sell-off-hits-30-as-big-mac-inflation-spurs-pushback",
-        "published": "Sat, 26 Sep 2026 13:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "By The Way: Headlines You May Have Missed",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-26/by-the-way-headlines-you-may-have-missed-video",
-        "published": "Sat, 26 Sep 2026 12:40:10 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Higher Bond Yields Mark a Return to Normal",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-26/higher-bond-yields-mark-a-return-to-normal-video",
-        "published": "Sat, 26 Sep 2026 12:33:14 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Northeast Faces Wind, Rain and Coastal Flooding",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-26/northeast-faces-wind-rain-and-coastal-flooding-video",
-        "published": "Sat, 26 Sep 2026 12:21:24 GMT"
       }
     ],
     "onvista – News": [
