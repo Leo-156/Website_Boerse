@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T23:51:51.344769+00:00",
+  "updated_at": "2026-09-27T01:57:22.548502+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,54 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
+        "title": "Goldpreis, Ölpreis, Silber, Platin & Co. - Das waren die Tops und Flops der Rohstoffe in KW 39",
+        "link": "https://www.finanzen.net/nachricht/rohstoffe/tops-flops-goldpreis-oelpreis-silber-platin-co-das-waren-die-tops-und-flops-der-rohstoffe-in-kw-39-15925726",
+        "published": "Sun, 27 Sep 2026 03:16:48 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "S&P 500-Index: Warum die Crash-Angst vor Oktober historisch unbegründet ist",
+        "link": "https://www.finanzen.net/nachricht/aktien/statistik-entkraeftet-angst-s-p-500-index-warum-die-crash-angst-vor-oktober-historisch-unbegruendet-ist-00-15950858",
+        "published": "Sun, 27 Sep 2026 03:10:57 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Die Highlights und Lowlights im TecDAX: Gewinner und Verlierer der KW 39 im Überblick",
+        "link": "https://www.finanzen.net/nachricht/aktien/tech-branche-im-fokus-die-highlights-und-lowlights-im-tecdax-gewinner-und-verlierer-der-kw-39-im-ueberblick-15925705",
+        "published": "Sun, 27 Sep 2026 02:55:12 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "KI-Aktien wie NVIDIA, AMD und Co. vor Rally? BofA sieht neuen Chip-Boom - Chancen für Anleger im Blick",
+        "link": "https://www.finanzen.net/nachricht/aktien/chipmarkt-prognose-erhoeht-ki-aktien-wie-nvidia-amd-und-co-vor-rally-bofa-sieht-neuen-chip-boom-chancen-fuer-anleger-im-blick-00-15943787",
+        "published": "Sun, 27 Sep 2026 02:43:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Die Performance der Kryptowährungen in KW 39: Das hat sich bei Bitcoin, Ether  Co. getan",
+        "link": "https://www.finanzen.net/nachricht/aktien/die-performance-der-kryptowaehrungen-in-kw-39-das-hat-sich-bei-bitcoin-ether-amp-co-getan-15954639",
+        "published": "Sun, 27 Sep 2026 02:23:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Bitcoin-Rally steht laut Experten auf wackligen Beinen: Bietet sich eine günstige Einstiegschance bei BTC?",
+        "link": "https://www.finanzen.net/nachricht/devisen/ruecksetzer-bitcoin-rally-steht-laut-experten-auf-wackligen-beinen-bietet-sich-eine-guenstige-einstiegschance-bei-btc-00-15939378",
+        "published": "Sun, 27 Sep 2026 02:14:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Steuern sparen: Mit geschickter Planung Jahresendprämieren richtig nutzen",
+        "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/steuerlast-optimieren-steuern-sparen-mit-geschickter-planung-jahresendpraemieren-richtig-nutzen-00-15291507",
+        "published": "Sun, 27 Sep 2026 02:05:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Achtung: Mietwagen-Kosten im Blick!",
+        "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/urlaubsplaene-achtung-mietwagen-kosten-im-blick-14633104",
+        "published": "Sun, 27 Sep 2026 01:57:00 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
         "title": "S&P 500 im Spannungsfeld: Tom Lee setzt auf Aktienrally, Ed Yardeni warnt - was Anleger wissen müssen",
         "link": "https://www.finanzen.net/nachricht/aktien/verzoegert-nicht-abgesagt-s-p-500-im-spannungsfeld-tom-lee-setzt-auf-aktienrally-ed-yardeni-warnt-was-anleger-wissen-muessen-00-15944369",
         "published": "Sun, 27 Sep 2026 01:41:00 +0200"
@@ -135,57 +183,15 @@
         "title": "Gold, Öl  Co. in KW 39: So bewegten sich die Rohstoffe in der vergangenen Woche",
         "link": "https://www.finanzen.net/nachricht/aktien/gold-oel-amp-co-in-kw-39-so-bewegten-sich-die-rohstoffe-in-der-vergangenen-woche-15954634",
         "published": "Sun, 27 Sep 2026 01:12:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Studie deckt Messfehler bei Onchain-Daten auf: Was das für die Bewertung von Bitcoin bedeutet",
-        "link": "https://www.finanzen.net/nachricht/devisen/starke-abweichungen-studie-deckt-messfehler-bei-onchain-daten-auf-was-das-fuer-die-bewertung-von-bitcoin-bedeutet-00-15948054",
-        "published": "Sun, 27 Sep 2026 01:11:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Shiller-KGV, Buffett-Indikator und Co.: So erkennst du, ob der Aktienmarkt teuer ist",
-        "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-shiller-kgv-buffett-indikator-und-co-so-erkennst-du-ob-der-aktienmarkt-teuer-ist-15953578",
-        "published": "Sat, 26 Sep 2026 23:54:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Kaufsignal oder Modellrechnung? Warum ein Analyst eine Verdopplung der Intel-Aktie für möglich hält",
-        "link": "https://www.finanzen.net/nachricht/aktien/foundry-geschaeft-im-fokus-kaufsignal-oder-modellrechnung-warum-ein-analyst-eine-verdopplung-der-intel-aktie-fuer-moeglich-haelt-00-15945904",
-        "published": "Sat, 26 Sep 2026 23:47:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "High-Margin Nischen: Warum Spezialpharma boomt und welche Aktien profitieren",
-        "link": "https://www.finanzen.net/nachricht/aktien/nebenwerte-im-fokus-high-margin-nischen-warum-spezialpharma-boomt-und-welche-aktien-profitieren-00-15938935",
-        "published": "Sat, 26 Sep 2026 23:41:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "KW 39 am Kryptomarkt: So haben Bitcoin, Ether & Co. in der vergangenen Woche performt",
-        "link": "https://www.finanzen.net/nachricht/devisen/tops-flops-kw-39-am-kryptomarkt-so-haben-bitcoin-ether-co-in-der-vergangenen-woche-performt-15925702",
-        "published": "Sat, 26 Sep 2026 23:36:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Überstunden: So erkennt man, wann Schluss ist - und was dann zu tun ist",
-        "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/arbeitsrecht-ueberstunden-so-erkennt-man-wann-schluss-ist-und-was-dann-zu-tun-ist-14645547",
-        "published": "Sat, 26 Sep 2026 23:29:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Tesla-Aktie nach enttäuschendem Cybercab-Debüt: Warum Anleger die Robotaxi-Story hinterfragen sollten",
-        "link": "https://www.finanzen.net/nachricht/aktien/behoerde-ermittelt-tesla-aktie-nach-enttaeuschendem-cybercab-debuet-warum-anleger-die-robotaxi-story-hinterfragen-sollten-00-15948072",
-        "published": "Sat, 26 Sep 2026 23:24:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Sicher bestellen aus Drittländern: Zoll, Steuern und Fallen",
-        "link": "https://www.finanzen.net/nachricht/geld-karriere-lifestyle/online-shopping-sicher-bestellen-aus-drittlaendern-zoll-steuern-und-fallen-14628387",
-        "published": "Sat, 26 Sep 2026 22:57:00 +0200"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight",
+        "published": "Sun, 27 Sep 2026 00:00:00 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Bond Market Volatility Signals Risks for Corporate Debt Investors",
@@ -293,18 +299,6 @@
         "title": "Billionaire Charoen’s Asset World Targets $1 Billion REIT IPO",
         "link": "https://www.bloomberg.com/news/articles/2026-09-26/billionaire-charoen-s-asset-world-targets-1-billion-reit-ipo",
         "published": "Sat, 26 Sep 2026 02:42:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Blackstone Cements Shift From Star Dealmakers With Baratta Exit",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-26/blackstone-cements-shift-from-star-dealmakers-with-baratta-exit",
-        "published": "Sat, 26 Sep 2026 01:43:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "SK Hynix’s Solidigm Is Said to Weigh US IPO as Soon as 2027",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/sk-hynix-s-solidigm-is-said-to-weigh-us-ipo-as-soon-as-2027",
-        "published": "Fri, 25 Sep 2026 17:05:51 GMT"
       }
     ],
     "onvista – News": [
