@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:10:15.491350+00:00",
+  "updated_at": "2026-09-28T01:36:23.352206+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,30 @@
     "finanzen.net – News-Ticker": [
       {
         "source": "finanzen.net – News-Ticker",
+        "title": "Aktien von NVIDIA und Palantir im Fokus: Sovereign AI wird zur neuen KI-Wette",
+        "link": "https://www.finanzen.net/nachricht/aktien/aktien-von-nvidia-und-palantir-im-fokus-sovereign-ai-wird-zur-neuen-ki-wette-15955217",
+        "published": "Mon, 28 Sep 2026 03:23:28 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Diese Aktien empfehlen Experten zu verkaufen",
+        "link": "https://www.finanzen.net/nachricht/aktien/diese-aktien-empfehlen-experten-zu-verkaufen-15955216",
+        "published": "Mon, 28 Sep 2026 03:23:08 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "SpaceX-Aktie unter Druck? Chinas Raumfahrt holt auf und drängt auf den Weltmarkt",
+        "link": "https://www.finanzen.net/nachricht/aktien/neue-konkurrenz-aus-china-spacex-aktie-unter-druck-chinas-raumfahrt-holt-auf-und-draengt-auf-den-weltmarkt-00-15950533",
+        "published": "Mon, 28 Sep 2026 03:19:22 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
+        "title": "Krypto trifft KI: Cardano-Gründer Charles Hoskinson mit ungewöhnlicher Prognose",
+        "link": "https://www.finanzen.net/nachricht/devisen/krypto-ki-krypto-trifft-ki-cardano-gruender-charles-hoskinson-mit-ungewoehnlicher-prognose-00-15946830",
+        "published": "Mon, 28 Sep 2026 03:17:40 +0200"
+      },
+      {
+        "source": "finanzen.net – News-Ticker",
         "title": "Finanzbildung und Altersvorsorge: Warum hier etwas nicht zusammenpasst",
         "link": "https://www.finanzen.net/nachricht/private-finanzen/ratgeber-finanzbildung-und-altersvorsorge-warum-hier-etwas-nicht-zusammenpasst-15953607",
         "published": "Sun, 27 Sep 2026 23:54:00 +0200"
@@ -159,44 +183,68 @@
         "title": "Mercedes-Benz: Werk Sindelfingen musste Produktion herunterfahren",
         "link": "https://www.finanzen.net/nachricht/aktien/lieferengpass-mercedes-benz-werk-sindelfingen-musste-produktion-herunterfahren-15954840",
         "published": "Sun, 27 Sep 2026 21:30:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "VW-Aktie: Neuer Rückruf zwingt Fahrer zu zwei Werkstatt-Besuchen",
-        "link": "https://www.finanzen.net/nachricht/aktien/korrosion-vw-aktie-neuer-rueckruf-zwingt-fahrer-zu-zwei-werkstatt-besuchen-15954320",
-        "published": "Sun, 27 Sep 2026 21:28:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Lufthansa-Aktie im Blick: Umleitung wegen brennender Powerbank an Bord",
-        "link": "https://www.finanzen.net/nachricht/aktien/lufthansa-aktie-im-blick-umleitung-wegen-brennender-powerbank-an-bord-15955139",
-        "published": "Sun, 27 Sep 2026 21:27:36 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "OpenAI: Nutzer-Bilder landeten durch KI auf externen Plattformen",
-        "link": "https://www.finanzen.net/nachricht/aktien/chatgpt-openai-nutzer-bilder-landeten-durch-ki-auf-externen-plattformen-15954201",
-        "published": "Sun, 27 Sep 2026 21:26:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Straße von Hormus: Iran schiebt den Ball bei Öffnung den USA zu - Trump legt Angebot ab",
-        "link": "https://www.finanzen.net/nachricht/aktien/persischer-golf-strasse-von-hormus-iran-schiebt-den-ball-bei-oeffnung-den-usa-zu-trump-legt-angebot-ab-15954250",
-        "published": "Sun, 27 Sep 2026 21:24:00 +0200"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Oil Up, Stock Futures Slip as Iran Offer Rejected: Markets Wrap",
+        "title": "Bonds Resume Slide as Oil Rises on Iran Tensions: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-27/stock-market-today-dow-s-p-live-updates",
         "published": "Sun, 27 Sep 2026 22:15:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Seoul Demands Ukraine Apology Over North Korea POW Disclosure",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/seoul-demands-ukraine-apology-over-north-korea-pow-disclosure",
+        "published": "Mon, 28 Sep 2026 00:54:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nomura's Wang: US Can Absorb More Rate Hikes",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-28/nomura-s-wang-us-can-absorb-more-rate-hikes-video",
+        "published": "Mon, 28 Sep 2026 00:51:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "David Perdue: US Taiwan Policy Unchanged After Talks",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-28/david-perdue-us-taiwan-policy-unchanged-after-talks-video",
+        "published": "Mon, 28 Sep 2026 00:48:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Sept. 28",
         "link": "https://www.bloomberg.com/news/articles/2026-09-27/latest-oil-market-news-and-analysis-for-sept-28",
         "published": "Sun, 27 Sep 2026 22:03:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Booms Don't Last Forever: Japan's Katayama",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-28/booms-don-t-last-forever-japan-s-katayama-video",
+        "published": "Mon, 28 Sep 2026 00:04:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Declines as Hormuz Impasse Keeps Rate-Hike Bets Elevated",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-27/gold-declines-as-hormuz-impasse-keeps-rate-hike-bets-elevated",
+        "published": "Sun, 27 Sep 2026 23:59:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil, AI Demand Give Ringgit Room to Rally, Strategists Say",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-27/oil-ai-demand-give-ringgit-room-to-rally-strategists-say",
+        "published": "Sun, 27 Sep 2026 23:57:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ingenia Board to Review Higher Takeover Bid from Warburg Pincus",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-27/ingenia-board-to-review-higher-takeover-bid-from-warburg-pincus",
+        "published": "Sun, 27 Sep 2026 23:26:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "JCB Succession Underway After Making Founder’s Grandson Co-Chair",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-27/jcb-succession-underway-after-making-founder-s-grandson-co-chair",
+        "published": "Sun, 27 Sep 2026 23:01:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -257,54 +305,6 @@
         "title": "AI Whiplash Jolts Stocks as Sentiment Lurches From Fear to Greed",
         "link": "https://www.bloomberg.com/news/articles/2026-09-27/ai-whiplash-jolts-stocks-as-sentiment-lurches-from-fear-to-greed",
         "published": "Sun, 27 Sep 2026 13:00:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Northeast Storm Brings Wind, Rain and Flooding",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-27/northeast-storm-brings-wind-rain-and-flooding-video",
-        "published": "Sun, 27 Sep 2026 12:56:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rubenstein on the Billion Dollar Sports Boom",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-27/rubenstein-on-the-billion-dollar-sports-boom-video",
-        "published": "Sun, 27 Sep 2026 12:44:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "IAEA Says Iran Nuclear Oversight Can Resume Fast",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-27/iaea-says-iran-nuclear-oversight-can-resume-fast-video",
-        "published": "Sun, 27 Sep 2026 12:37:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump Rejects Iran Plan to Reopen Hormuz",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-27/trump-rejects-iran-plan-to-reopen-hormuz-video",
-        "published": "Sun, 27 Sep 2026 12:31:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Emerging Market Investors Shun Riskiest Bonds as US Yields Soar",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-27/emerging-market-investors-shun-riskiest-bonds-as-us-yields-soar",
-        "published": "Sun, 27 Sep 2026 12:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "A Hockey Legend, a New Bridge, and the Trade War Tearing Neighbors Apart",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-27/the-bridge-that-epitomizes-the-us-canada-trade-war-video",
-        "published": "Sun, 27 Sep 2026 12:04:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Barrick Mining Reaches Deal With Mali Unions, Averting Strikes",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-27/barrick-mining-reaches-deal-with-mali-unions-averting-strikes",
-        "published": "Sun, 27 Sep 2026 11:34:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "El Niño Could Push Up Food Prices in Southern Africa",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-27/el-nino-could-push-up-food-prices-in-southern-africa-video",
-        "published": "Sun, 27 Sep 2026 05:01:10 GMT"
       }
     ],
     "onvista – News": [
