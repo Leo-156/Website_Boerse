@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-28T15:55:43.296324+00:00",
+  "updated_at": "2026-09-28T21:26:34.435231+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt niedriger",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-niedriger/100257988.html",
+        "published": "Mon, 28 Sep 2026 17:23:11 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Landesbank: Verkauf geplatzt – Sparkassen wollen ihre Anteile an der NordLB vorerst behalten",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/landesbank-sparkassen-wollen-nordlb-anteile-vorerst-nicht-verkaufen/100257975.html",
+        "published": "Mon, 28 Sep 2026 17:19:22 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt unverändert –  Aktie von Siemens Healthineers legt zu",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unveraendert-siemens-healthineers-legt-zu/100257824.html",
+        "published": "Mon, 28 Sep 2026 16:20:12 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Märkte Insight: Die Nike-Aktie zeigt, wo Bewertungen an ihre Grenzen stoßen",
@@ -22,21 +40,9 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax notiert im Plus –  Aktie von Siemens Healthineers steht an Dax-Spitze",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-siemens-healthineers-steht-an-dax-spitze/100257824.html",
-        "published": "Mon, 28 Sep 2026 14:52:55 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Altersvorsorge: Warum das Vorsorgedepot der Deutschen Bank nicht ganz überzeugt",
         "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-warum-das-vorsorgedepot-der-deutschen-bank-nicht-ganz-ueberzeugt/100257894.html",
         "published": "Mon, 28 Sep 2026 14:26:04 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street notiert im Minus – Nvidia-Aktie legt zu",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-im-minus-nvidia-aktie-legt-zu/100257988.html",
-        "published": "Mon, 28 Sep 2026 14:14:33 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -115,100 +121,74 @@
         "title": "Märkte Insight: Das endgültige Ende der Nullzins-Ära steht kurz bevor",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-das-endgueltige-ende-der-nullzins-aera-steht-kurz-bevor/100256081.html",
         "published": "Sun, 27 Sep 2026 12:36:46 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Kapitalmarkt: Mehrere Festnahmen nach Manipulationsskandal in der Türkei – fast 500.000 Kleinanleger betroffen",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/kapitalmarkt-mehrere-festnahmen-nach-manipulationsskandal-in-der-tuerkei/100257716.html",
-        "published": "Sun, 27 Sep 2026 10:24:53 GMT"
-      }
-    ],
-    "finanzen.net – News-Ticker": [
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Anleihen und Ölpreise bleiben wichtigste Faktoren: DAX schließt leicht tiefer",
-        "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-anleihen-und-oelpreise-bleiben-wichtigste-faktoren-dax-schliesst-leicht-tiefer-15955352",
-        "published": "Mon, 28 Sep 2026 17:45:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Aktien Schweiz treten auf der Stelle - Roche-Aktie mit leichten Abgaben",
-        "link": "https://www.finanzen.net/nachricht/aktien/aktien-schweiz-treten-auf-der-stelle-roche-aktie-mit-leichten-abgaben-15956707",
-        "published": "Mon, 28 Sep 2026 17:44:42 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Brokerwechsel: So sparen Anleger mehr als 130 Euro im Jahr",
-        "link": "https://www.finanzen.net/nachricht/aktien/brokerwechsel-so-sparen-anleger-mehr-als-130-euro-im-jahr-15956708",
-        "published": "Mon, 28 Sep 2026 17:43:33 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "AKTIE IM FOKUS: Prognoseanhebung beflügelt Redcare - 'Positives Signal'",
-        "link": "https://www.finanzen.net/nachricht/aktien/aktie-im-fokus-prognoseanhebung-befluegelt-redcare-positives-signal-15956703",
-        "published": "Mon, 28 Sep 2026 17:42:39 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Auf dem Verkaufszettel: Diese Aktien empfehlen Experten zu verkaufen",
-        "link": "https://www.finanzen.net/nachricht/aktien/verkaufsempfehlungen-kw-39-auf-dem-verkaufszettel-diese-aktien-empfehlen-experten-zu-verkaufen-15927230",
-        "published": "Mon, 28 Sep 2026 17:38:00 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Kallas: Deutsch-russisches Treffen verdeutlicht falsche Annahmen",
-        "link": "https://www.finanzen.net/nachricht/aktien/kallas-deutsch-russisches-treffen-verdeutlicht-falsche-annahmen-15956698",
-        "published": "Mon, 28 Sep 2026 17:37:38 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "TAGESVORSCHAU: Termine am 29. September 2026",
-        "link": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-termine-am-29-september-2026-15956693",
-        "published": "Mon, 28 Sep 2026 17:34:39 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "WOCHENVORSCHAU: Termine bis 12. Oktober 2026",
-        "link": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-12-oktober-2026-15956692",
-        "published": "Mon, 28 Sep 2026 17:34:38 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Der große Vergleich: Wo der Stoxx Europe 600 klar vor dem S&P 500 liegt",
-        "link": "https://www.finanzen.net/nachricht/aktien/der-grosse-vergleich-wo-der-stoxx-europe-600-klar-vor-dem-s-p-500-liegt-15956697",
-        "published": "Mon, 28 Sep 2026 17:32:59 +0200"
-      },
-      {
-        "source": "finanzen.net – News-Ticker",
-        "title": "Aktien von SK hynix und Samsung unter Druck: OpenAI-Vorfall sorgt für neue KI-Sorgen - IPO-Pläne helfen nicht",
-        "link": "https://www.finanzen.net/nachricht/aktien/asien-im-ausverkauf-aktien-von-sk-hynix-und-samsung-unter-druck-openai-vorfall-sorgt-fuer-neue-ki-sorgen-ipo-plaene-helfen-nicht-00-15955368",
-        "published": "Mon, 28 Sep 2026 17:32:00 +0200"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "European Stocks Steady as Bond Rout Offsets UK Homebuilder Gains",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/european-stocks-gain-as-uk-homebuilders-surge-on-loan-plan",
-        "published": "Mon, 28 Sep 2026 07:30:17 GMT"
+        "title": "Swinging Between Fear And Greed, Inside the US Markets",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-28/swinging-between-fear-and-greed-inside-the-us-markets",
+        "published": "Mon, 28 Sep 2026 21:00:13 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Rising Rates Pressure Property Values as REIT M&A Deals Pick Up",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-28/rising-rates-pressure-property-values-video",
-        "published": "Mon, 28 Sep 2026 15:41:23 GMT"
+        "title": "Korean Financial Firms Chase Bold Overseas M&A to Fuel Growth",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/korean-financial-firms-chase-bold-overseas-m-a-to-fuel-growth",
+        "published": "Mon, 28 Sep 2026 21:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Goldman Says High-Yield Debt Deluge Is Overwhelming Investors",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/goldman-says-high-yield-debt-deluge-is-overwhelming-investors",
-        "published": "Mon, 28 Sep 2026 15:36:31 GMT"
+        "title": "Copper Set to Give Australia’s Mining Stock Rally a New Engine",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/copper-set-to-give-australia-s-mining-stock-rally-a-new-engine",
+        "published": "Mon, 28 Sep 2026 21:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Tumbles as ‘Three-Headed Monster’ Forces Pullback",
+        "title": "Apollo-Backed Michaels Wins S&P Ratings Lift After Cutting Debt",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/apollo-backed-michaels-wins-s-p-ratings-lift-after-cutting-debt",
+        "published": "Mon, 28 Sep 2026 20:45:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "EM Debt Turns Negative for Year as Treasury Selloff Bites",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/emerging-stocks-slide-as-oil-gains-on-renewed-mideast-tensions",
+        "published": "Mon, 28 Sep 2026 04:14:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Tumble as US-Iran Stalemate Stokes Inflation Concerns",
         "link": "https://www.bloomberg.com/news/articles/2026-09-28/us-stocks-decline-as-middle-east-stalemate-pushes-oil-higher",
         "published": "Mon, 28 Sep 2026 11:15:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "MongoDB Plunges 18% as Meta Taps CEO To Lead New AI Platform | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-28/mongodb-plunges-18-closing-bell-video",
+        "published": "Mon, 28 Sep 2026 20:33:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japan’s New Warning Against Weak Yen Fuels Intervention Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/yen-gains-after-japan-s-currency-czar-warns-against-weakness",
+        "published": "Mon, 28 Sep 2026 09:03:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Higher Yields May Be a Great Opportunity, Vanguard's Venter Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-28/higher-yields-may-be-an-opportunity-vanguard-s-venter-video",
+        "published": "Mon, 28 Sep 2026 20:25:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Optimum, Patrick Drahi Sued by Creditors Who Allege ‘Fraudulent’ Deal-Making",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/optimum-patrick-drahi-sued-by-creditors-who-allege-fraudulent-deal-making",
+        "published": "Mon, 28 Sep 2026 20:23:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Soaring Yields Lead Traders to Snap Up Options on BlackRock ETFs",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/soaring-yields-lead-traders-to-snap-up-options-on-blackrock-etfs",
+        "published": "Mon, 28 Sep 2026 20:20:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -218,96 +198,60 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "SEC Sends ‘Critical’ Reminder on Hard-to-Value Private Assets",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/sec-sends-critical-reminder-on-hard-to-value-private-assets",
-        "published": "Mon, 28 Sep 2026 15:25:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Skeptic Rajiv Jain Embraces the Tech Trade He Once Shunned",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/ai-skeptic-rajiv-jain-embraces-the-tech-trade-he-once-shunned",
-        "published": "Mon, 28 Sep 2026 15:25:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "UBS Faces 9% Profit Hit From Swiss Capital Plan, RBC Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/ubs-faces-9-profit-hit-from-latest-swiss-capital-plan-rbc-says",
-        "published": "Mon, 28 Sep 2026 14:20:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Centerview Hires Elliott’s Capital Markets Specialist",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/centerview-hires-elliott-s-capital-markets-specialist-schachter",
-        "published": "Mon, 28 Sep 2026 14:01:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Strapped Consumers Quit Bowling, Dave & Busters in Blow to Debt",
         "link": "https://www.bloomberg.com/news/articles/2026-09-28/strapped-consumers-quit-bowling-dave-busters-in-blow-to-debt",
         "published": "Mon, 28 Sep 2026 15:13:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Security Raised at Fairford Base Before Terror Incident",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-28/security-raised-at-fairford-base-before-terror-incident-video",
-        "published": "Mon, 28 Sep 2026 15:09:53 GMT"
+        "title": "Bond Veteran Jim Bianco Turns Bullish for First Time Since 2020",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/bond-veteran-jim-bianco-turns-bullish-for-first-time-since-2020",
+        "published": "Mon, 28 Sep 2026 19:48:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Bond-Market Selloff Deepens as Trump Spurns Iran’s Offer",
+        "title": "Latest Oil Market News and Analysis for Sept. 28",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-27/latest-oil-market-news-and-analysis-for-sept-28",
+        "published": "Sun, 27 Sep 2026 22:03:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Former CEO Chapek Says Disney Erased Him From Company",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-28/former-ceo-chapek-says-disney-erased-him-from-company-video",
+        "published": "Mon, 28 Sep 2026 19:36:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "An Inversion of the US Yield Curve Becomes New Risk As Fed Hikes",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-28/an-inversion-of-the-us-yield-curve-becomes-new-risk-video",
+        "published": "Mon, 28 Sep 2026 19:29:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries Selloff Deepens as Trump Spurns Iran’s Latest Offer",
         "link": "https://www.bloomberg.com/news/articles/2026-09-28/bond-selloff-resumes-as-oil-rises-after-trump-spurns-iran-offer",
         "published": "Mon, 28 Sep 2026 01:50:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Rising Bond Yields as Global Bonds Eye 4%",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-28/rising-bond-yields-as-global-bonds-eye-4-video",
-        "published": "Mon, 28 Sep 2026 15:00:50 GMT"
+        "title": "Nuclear Reactor Project in Tennessee Set to Win US Approval",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/nuclear-reactor-project-in-tennessee-set-to-win-us-approval",
+        "published": "Mon, 28 Sep 2026 19:16:11 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Grains Fall as Traders Seek China Buying Signs After Tariff Cuts",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/grains-fall-as-traders-seek-china-buying-signs-after-tariff-cuts",
-        "published": "Mon, 28 Sep 2026 04:41:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P 500 Falls as Inflation Worry Lifts Bond Yields",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-28/s-p-500-falls-as-inflation-worry-lifts-bond-yields-video",
-        "published": "Mon, 28 Sep 2026 14:55:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Vietnam Air Jet Deployed Brakes Twice Before Botched Takeoff",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/vietnam-jet-deployed-brakes-twice-before-botched-munich-takeoff",
-        "published": "Mon, 28 Sep 2026 14:14:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nvidia Up on Share-Repurchase Program; Mining Stocks Slide | Stock Movers",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-28/nvidia-share-repurchase-program-mining-stocks-slide-video",
-        "published": "Mon, 28 Sep 2026 14:52:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Sweetgreen Shares Erase Cyclospora Slump as Wells Fargo Upgrades",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/sweetgreen-shares-erase-cyclospora-slump-as-wells-fargo-upgrades",
-        "published": "Mon, 28 Sep 2026 14:37:46 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Legoland Owner’s Bonds Tumble as Debt Fix Leaves Doubts",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/legoland-owner-s-bonds-tumbles-as-debt-fix-leaves-doubts",
-        "published": "Mon, 28 Sep 2026 14:34:26 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Options Are Pricing in Muted Moves for US Stocks on Midterm Vote",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/options-are-pricing-in-muted-moves-for-us-stocks-on-midterm-vote",
-        "published": "Mon, 28 Sep 2026 14:33:00 GMT"
+        "title": "Goldman Says High-Yield Debt Deluge Overwhelming Investors",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/goldman-says-high-yield-debt-deluge-is-overwhelming-investors",
+        "published": "Mon, 28 Sep 2026 15:36:31 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Ölpreise bremsen Dax erneut aus - Gold verliert deutlich",
+        "link": "https://www.onvista.de/news/2026/09-28-oelpreis-bremst-dax-erneut-aus-gold-verliert-deutlich-41121301-19-26558264",
+        "published": "Mon, 28 Sep 2026 18:08:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Was hohe Renditen für Anleger, Anleihen und Bitcoin bedeuten",
@@ -451,12 +395,6 @@
         "title": "Vorsorge schreibt man mit F. Denn die Zukunft beginnt mit der Entscheidung von heute. Fonds. Finanzielle Freiheit. Fidelity.",
         "link": "https://partner.fidelity.de/vorsorge/vorsorge-mit-f",
         "published": "Thu, 24 Sep 2026 09:45:24 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax dürfte weiter korrigieren - Anleihezinsen trüben Stimmung",
-        "link": "https://www.onvista.de/news/2026/09-24-dax-duerfte-weiter-korrigieren-anleihezinsen-trueben-stimmung-41121301-19-26556761",
-        "published": "Thu, 24 Sep 2026 08:07:00 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -530,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX trotzt steigenden Ölpreisen",
+        "title": "Marktbericht: DAX gibt nur wenig nach",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
-        "published": "Mon, 28 Sep 2026 10:35:47 +0200"
+        "published": "Mon, 28 Sep 2026 18:21:45 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
