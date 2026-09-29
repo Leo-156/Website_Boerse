@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-29T18:44:56.048372+00:00",
+  "updated_at": "2026-09-29T22:38:23.416700+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt nach KI-Treffen leicht im Minus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-nach-ki-treffen-leicht-im-minus/100258245.html",
+        "published": "Tue, 29 Sep 2026 18:58:21 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Anleihen: Rendite von 30-jährigen US-Bonds so hoch wie zuletzt 2002 – „Spielraum für weitere Zinsanstiege“",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-rendite-von-30-jaehrigen-us-bonds-jetzt-so-hoch-wie-zuletzt-2002/100258428.html",
         "published": "Tue, 29 Sep 2026 18:30:50 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street vor Jobdaten und KI-Treffen kaum verändert",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-vor-jobdaten-und-ki-treffen-kaum-veraendert/100258245.html",
-        "published": "Tue, 29 Sep 2026 17:01:30 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -28,8 +28,8 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: „Go big, or go home“: Die US-Wirtschaft wird immer abhängiger von der Wall Street",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-die-us-wirtschaft-wird-immer-abhaengiger-von-der-wall-street/100257472.html",
+        "title": "Märkte Insight: Wie die USA mit Geld aus dem Ausland ihren Konsum finanzieren",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-wie-die-usa-mit-geld-aus-dem-ausland-ihren-konsum-finanzieren/100257472.html",
         "published": "Tue, 29 Sep 2026 15:54:14 GMT"
       },
       {
@@ -126,123 +126,123 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Churn as Long-Term Yields Hit 24-Year High: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 28 Sep 2026 22:11:04 GMT"
+        "title": "Asian Stocks Set for Rebound as Oil Prices Ease: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 29 Sep 2026 22:12:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Musalem Says Clear Framework Helps Fed Policy Transmission",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/musalem-clear-framework-helps-fed-policy-transmission-video",
-        "published": "Tue, 29 Sep 2026 18:37:30 GMT"
+        "title": "Brinker Intl CEO on Growth While Delivering Value",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/brinker-intl-ceo-on-growth-while-delivering-value-video",
+        "published": "Tue, 29 Sep 2026 22:08:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Morgan Stanley’s $2.5 Billion Parking Sale Wins Chicago Approval",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/morgan-stanley-s-2-5-billion-parking-sale-wins-chicago-approval",
-        "published": "Tue, 29 Sep 2026 18:36:50 GMT"
+        "title": "JPMorgan Hires Three for Natural Resources Banking Team",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/jpmorgan-hires-three-for-natural-resources-banking-team",
+        "published": "Tue, 29 Sep 2026 15:15:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fake WhatsApp-Fueled Trades Bilked Investors, SEC Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/fake-whatsapp-fueled-trades-bilked-investors-sec-says",
-        "published": "Tue, 29 Sep 2026 18:26:25 GMT"
+        "title": "Latest Oil Market News and Analysis for Sept. 30",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30",
+        "published": "Tue, 29 Sep 2026 22:02:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Euro Falls to 16-Month Low as Hawkish Fed Bets Boost Dollar",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/euro-falls-to-16-month-low-as-hawkish-fed-hike-bets-boost-dollar",
-        "published": "Tue, 29 Sep 2026 17:15:29 GMT"
+        "title": "Trump Sued Over Move to Claw Back Federal Funds Set to Expire",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/trump-sued-over-move-to-claw-back-federal-funds-set-to-expire",
+        "published": "Tue, 29 Sep 2026 21:59:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Copper Edges Higher After Chile Mine Union Rejects Pay Offer",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/copper-edges-higher-as-chile-mine-dispute-raises-supply-concerns",
-        "published": "Tue, 29 Sep 2026 03:58:50 GMT"
+        "title": "Paramount Deal Delay Fuels Fears of Costly $52 Billion M&A Debt",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/paramount-deal-delay-fuels-fears-of-costly-52-billion-m-a-debt",
+        "published": "Tue, 29 Sep 2026 20:46:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Executives Attend Sold-Out Oil and Gas Conference in Venezuela",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/executives-attend-oil-and-gas-event-in-venezuela-video",
-        "published": "Tue, 29 Sep 2026 18:12:00 GMT"
+        "title": "Nielsen CFO Jessica Holscott on Going Private & the Creator Economy",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/nielsen-cfo-on-going-private-the-creator-economy-video",
+        "published": "Tue, 29 Sep 2026 21:49:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Some Oura IPO Investors Were Said to Push Back Citing Valuation",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/some-oura-ipo-investors-were-said-to-push-back-citing-valuation",
-        "published": "Tue, 29 Sep 2026 18:01:50 GMT"
+        "title": "Paramount Draws $109 Billion of Demand for High-Grade Bond Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/paramount-kicks-off-high-grade-bond-sale-for-warner-bros-deal",
+        "published": "Tue, 29 Sep 2026 13:50:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Baytex Energy, Saturn Oil on Fueling Canada’s Energy Growth",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/baytex-energy-saturn-oil-on-canada-s-energy-growth-video",
-        "published": "Tue, 29 Sep 2026 17:55:38 GMT"
+        "title": "There Are Some Chills in T-Bills",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-09-29/there-are-some-chills-in-t-bills",
+        "published": "Tue, 29 Sep 2026 21:36:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Tenaz Energy on International Growth",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/tenaz-energy-on-international-growth-video",
-        "published": "Tue, 29 Sep 2026 17:55:33 GMT"
+        "title": "Alaska Air CEO on Premium Offerings and New Lounges",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/alaska-air-ceo-on-premium-offerings-and-new-lounges-video",
+        "published": "Tue, 29 Sep 2026 21:35:25 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Hydro One on Meeting Increased Electricity Demand",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/hydro-one-on-meeting-increased-electricity-demand-video",
-        "published": "Tue, 29 Sep 2026 17:50:25 GMT"
+        "title": "Torani CEO Melanie Dulbecco on Manufacturing, Company Culture",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/torani-ceo-on-manufacturing-company-culture-video",
+        "published": "Tue, 29 Sep 2026 21:33:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bank of Canada Boosts Two-Week Repo Use to Ease Corra Strain",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/bank-of-canada-boosts-two-week-repo-use-to-lower-corra-pressure",
-        "published": "Tue, 29 Sep 2026 17:26:14 GMT"
+        "title": "Paramount Loan Upsized by $2 Billion as Investor Demand Strong",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/banks-draw-10-billion-of-demand-for-paramount-loan-offering",
+        "published": "Tue, 29 Sep 2026 15:16:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Emera, Northland Power on Electricity Investment",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/emera-northland-power-on-electricity-investment-video",
-        "published": "Tue, 29 Sep 2026 17:41:15 GMT"
+        "title": "CMHC on Canada’s Housing Market",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/cmhc-on-canada-s-housing-market-video",
+        "published": "Tue, 29 Sep 2026 21:28:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Why a Favorite Wall Street Tax Strategy Is Facing Scrutiny",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/why-a-favorite-wall-street-tax-strategy-is-facing-scrutiny",
-        "published": "Tue, 29 Sep 2026 17:32:48 GMT"
+        "title": "Tesla Lines Up $30 Billion to Borrow With Spending on the Rise",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise",
+        "published": "Tue, 29 Sep 2026 21:19:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Afores de México baten récord de inversión en deuda pública",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/afores-en-auge-alcanzan-record-de-deuda-publica-en-mexico-mumy7c0i",
-        "published": "Tue, 29 Sep 2026 17:26:24 GMT"
+        "title": "OFA, CMHC on Public-Sector Funding",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/ofa-cmhc-on-public-sector-funding-video",
+        "published": "Tue, 29 Sep 2026 21:08:13 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fed’s Barr Says Further Policy Adjustments Likely Needed to Tame Inflation",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/fed-s-barr-more-hikes-likely-needed-to-tame-inflation-video",
-        "published": "Tue, 29 Sep 2026 17:23:13 GMT"
+        "title": "IDB Invest, IFC on the Social Impact of Macro Shocks",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/idb-invest-ifc-on-the-social-impact-of-macro-shocks-video",
+        "published": "Tue, 29 Sep 2026 20:50:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Muni Trading Jumps to Highest Since at Least 1995 on Market Rout",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/muni-trading-jumps-to-highest-since-at-least-1995-on-market-rout",
-        "published": "Tue, 29 Sep 2026 17:11:25 GMT"
+        "title": "La Caisse, BCI on Bond Market Funding",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/la-caisse-bci-on-bond-market-funding-video",
+        "published": "Tue, 29 Sep 2026 20:31:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Canada on the Cusp of Investment Surge, NBF’s Marion Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/canada-on-the-cusp-of-investment-surge-nbf-s-marion-says",
-        "published": "Tue, 29 Sep 2026 17:10:07 GMT"
+        "title": "US Stocks Drop as Traders Parse Economic Data, Fedspeak",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/us-stock-futures-rise-as-traders-await-key-economic-data",
+        "published": "Tue, 29 Sep 2026 11:59:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Exchange Income, AirBoss of America on Canadian Defense",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/exchange-income-airboss-of-america-on-canadian-defense-video",
-        "published": "Tue, 29 Sep 2026 17:05:00 GMT"
+        "title": "Lundbeck Is Said to Express Interest in Xeris Biopharma",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/lundbeck-is-said-to-express-interest-in-buying-xeris-biopharma",
+        "published": "Tue, 29 Sep 2026 16:33:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Clearlake Raises $1 Billion From CFO Trade After Rejigging Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/clearlake-raises-1-billion-from-cfo-trade-after-rejigging-deal",
-        "published": "Tue, 29 Sep 2026 17:01:39 GMT"
+        "title": "Global Issuers on Funding Strategy",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/global-issuers-on-funding-strategy-video",
+        "published": "Tue, 29 Sep 2026 20:18:25 GMT"
       }
     ],
     "onvista – News": [
