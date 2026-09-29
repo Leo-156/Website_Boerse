@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-29T13:26:14.222205+00:00",
+  "updated_at": "2026-09-29T18:44:56.048372+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax dreht ins Plus – Ölpreise steigen",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-dreht-ins-plus-oelpreise-steigen/100258166.html",
-        "published": "Tue, 29 Sep 2026 13:22:06 GMT"
+        "title": "Anleihen: Rendite von 30-jährigen US-Bonds so hoch wie zuletzt 2002 – „Spielraum für weitere Zinsanstiege“",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-rendite-von-30-jaehrigen-us-bonds-jetzt-so-hoch-wie-zuletzt-2002/100258428.html",
+        "published": "Tue, 29 Sep 2026 18:30:50 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street vor Jobdaten und KI-Treffen kaum verändert",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-vor-jobdaten-und-ki-treffen-kaum-veraendert/100258245.html",
+        "published": "Tue, 29 Sep 2026 17:01:30 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Altersvorsorge: Sorge vor Fehlstart für Kapitalrente: „Als Politiker würde ich jeden Tag für eine Finanzkrise beten“",
+        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-als-politiker-wuerde-ich-jeden-tag-fuer-eine-finanzkrise-beten/100258418.html",
+        "published": "Tue, 29 Sep 2026 16:59:59 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt unverändert – Ölpreise gesunken",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unveraendert-oelpreise-gesunken/100258166.html",
+        "published": "Tue, 29 Sep 2026 16:19:41 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: „Go big, or go home“: Die US-Wirtschaft wird immer abhängiger von der Wall Street",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-die-us-wirtschaft-wird-immer-abhaengiger-von-der-wall-street/100257472.html",
+        "published": "Tue, 29 Sep 2026 15:54:14 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: Helaba plant offenbar IKB-Übernahmeangebot",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-helaba-plant-offenbar-ikb-uebernahmeangebot/100258396.html",
+        "published": "Tue, 29 Sep 2026 15:36:30 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: Unicredit will bei Commerzbank schnell durchregieren und Chefin Orlopp loswerden",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-unicredit-will-commerzbank-chefin-orlopp-schnell-loswerden/100258153.html",
+        "published": "Tue, 29 Sep 2026 15:25:41 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Rohstoffe: In Europas Bergbauabfällen könnte ein Milliardenmarkt schlummern",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/rohstoffe-in-europas-bergbauabfaellen-koennte-ein-milliardenmarkt-schlummern/100255398.html",
+        "published": "Tue, 29 Sep 2026 14:52:55 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Plötzlich schraubte Hilton die Schilder ab: Warum ein beliebtes Luxushotel jetzt pleite ist",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-ploetzlich-schraubte-hilton-die-schilder-ab-luxushotel-ist-pleite/100257449.html",
+        "published": "Tue, 29 Sep 2026 13:59:34 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -46,12 +94,6 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Unicredit will bei Commerzbank schnellstmöglich durchregieren und Vorstandschefin Orlopp loswerden",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-unicredit-will-commerzbank-chefin-orlopp-schnell-loswerden/100258153.html",
-        "published": "Tue, 29 Sep 2026 09:53:46 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Vermögen: Wann sich ein Ehevertrag lohnt – und was er kostet",
         "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-wann-sollten-paare-am-besten-einen-ehevertrag-schliessen/100224359.html",
         "published": "Tue, 29 Sep 2026 09:30:00 GMT"
@@ -79,140 +121,38 @@
         "title": "Vermögen: So setzen Sie einen Testamentsvollstrecker sinnvoll ein",
         "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/vermoegen-so-setzen-sie-einen-testamentsvollstrecker-sinnvoll-ein/100254611.html",
         "published": "Tue, 29 Sep 2026 06:47:59 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Mietrecht-Reform trifft Vermieter hart – Hunderte Euro weniger",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/mietrechtsreform-diese-veraenderungen-betreffen-vermieter-und-eigentuemer-01/100199045.html",
-        "published": "Tue, 29 Sep 2026 06:24:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 29. September: Sieben Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Tue, 29 Sep 2026 04:30:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: John Waldron offenbar als Goldman-Sachs-Chef im Gespräch",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-john-waldron-offenbar-als-goldman-sachs-chef-im-gespraech-01/100258100.html",
-        "published": "Tue, 29 Sep 2026 10:53:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt niedriger – Nvidia-Aktie legt zu",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-niedriger-nvidia-aktie-legt-zu/100257988.html",
-        "published": "Mon, 28 Sep 2026 17:23:11 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Landesbank: Verkauf geplatzt: Sparkassen wollen ihre Anteile an der NordLB vorerst behalten",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/landesbank-sparkassen-wollen-nordlb-anteile-vorerst-nicht-verkaufen/100257975.html",
-        "published": "Mon, 28 Sep 2026 17:19:22 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax schließt unverändert –  Aktie von Siemens Healthineers legt zu",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unveraendert-siemens-healthineers-legt-zu/100257824.html",
-        "published": "Mon, 28 Sep 2026 16:20:12 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Die Nike-Aktie zeigt, wo Bewertungen an ihre Grenzen stoßen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-die-nike-aktie-zeigt-wo-bewertungen-an-ihre-grenzen-stossen/100256076.html",
-        "published": "Mon, 28 Sep 2026 15:40:37 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Sept. 29",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/latest-oil-market-news-and-analysis-for-sept-29",
-        "published": "Mon, 28 Sep 2026 22:02:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Threat of Berlin Property Grab Spooks Real Estate Stocks",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/threat-of-berlin-property-grab-is-spooking-real-estate-stocks",
-        "published": "Tue, 29 Sep 2026 05:15:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hungary’s Kurali Urges Sticking to Path Toward Euro Accession",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/hungary-s-kurali-urges-sticking-to-path-toward-euro-accession",
-        "published": "Tue, 29 Sep 2026 13:01:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "FTSE 100 Live: Burnham Says UK Has Been on Wrong Path for a Long Time",
-        "link": "https://www.bloomberg.com/news/live-blog/2026-09-29/ftse-100-live-pound-bonds-burnham-speech-oil-prices-ai-stocks-gilts-what-s-moving-uk-markets-right-now-markets-today",
-        "published": "Tue, 29 Sep 2026 05:52:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Smart Ring Maker Oura Becomes Latest Company to Delay US IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty",
-        "published": "Tue, 29 Sep 2026 10:10:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Russia’s Oil Export Windfall Eroded by Ban on Diesel Shipments",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/russia-s-oil-export-windfall-eroded-by-ban-on-diesel-shipments",
-        "published": "Tue, 29 Sep 2026 12:48:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks and Bonds Find Relief as Oil Prices Ease: Markets Wrap",
+        "title": "Stocks Churn as Long-Term Yields Hit 24-Year High: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-28/stock-market-today-dow-s-p-live-updates",
         "published": "Mon, 28 Sep 2026 22:11:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dangote Dismisses Kenyan Court Ruling Pausing Refinery Build",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/kenya-high-court-pauses-dangote-refinery-construction-in-lamu-mull11mq",
-        "published": "Mon, 28 Sep 2026 18:29:49 GMT"
+        "title": "Musalem Says Clear Framework Helps Fed Policy Transmission",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/musalem-clear-framework-helps-fed-policy-transmission-video",
+        "published": "Tue, 29 Sep 2026 18:37:30 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Morningstar Shuns Low-Growth South Africa, Favors Brazil, Mexico",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/morningstar-shuns-low-growth-south-africa-favors-brazil-mexico",
-        "published": "Tue, 29 Sep 2026 12:15:20 GMT"
+        "title": "Morgan Stanley’s $2.5 Billion Parking Sale Wins Chicago Approval",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/morgan-stanley-s-2-5-billion-parking-sale-wins-chicago-approval",
+        "published": "Tue, 29 Sep 2026 18:36:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Tata Sons Biggest Shareholder Proposes a Recast to Skip Listing",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/tata-trusts-propose-restructuring-of-tata-sons-to-avoid-listing",
-        "published": "Mon, 28 Sep 2026 13:11:15 GMT"
+        "title": "Fake WhatsApp-Fueled Trades Bilked Investors, SEC Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/fake-whatsapp-fueled-trades-bilked-investors-sec-says",
+        "published": "Tue, 29 Sep 2026 18:26:25 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dangote Says Kenya Refinery Will Be Listed in Nairobi",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/dangote-says-kenya-refinery-will-be-listed-in-nairobi-video",
-        "published": "Tue, 29 Sep 2026 12:02:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bain Invests in Construction Tech Firm Kahua at $1 Billion Value",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/bain-invests-in-construction-tech-firm-kahua-at-1-billion-value",
-        "published": "Tue, 29 Sep 2026 12:00:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Rise as Traders Await Key Economic Data",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/us-stock-futures-rise-as-traders-await-key-economic-data",
-        "published": "Tue, 29 Sep 2026 11:59:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Waver Ahead of Jobs Data; Trump to Meet Tech CEOs on AI",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/bloomberg-brief-09-29-2026-video",
-        "published": "Tue, 29 Sep 2026 11:56:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump’s Offer for More Solar Comes With a Catch",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-09-29/trump-s-offer-for-more-solar-comes-with-a-catch",
-        "published": "Tue, 29 Sep 2026 11:52:43 GMT"
+        "title": "Euro Falls to 16-Month Low as Hawkish Fed Bets Boost Dollar",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/euro-falls-to-16-month-low-as-hawkish-fed-hike-bets-boost-dollar",
+        "published": "Tue, 29 Sep 2026 17:15:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -222,30 +162,186 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Cautious on US Bond Market: Purdie",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/cautious-on-us-bond-market-purdie-video",
-        "published": "Tue, 29 Sep 2026 11:46:53 GMT"
+        "title": "Executives Attend Sold-Out Oil and Gas Conference in Venezuela",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/executives-attend-oil-and-gas-event-in-venezuela-video",
+        "published": "Tue, 29 Sep 2026 18:12:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gilts Lead European Bonds Higher as Energy Prices Retreat",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/gilts-lead-european-bonds-higher-as-energy-prices-retreat",
-        "published": "Tue, 29 Sep 2026 11:40:27 GMT"
+        "title": "Some Oura IPO Investors Were Said to Push Back Citing Valuation",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/some-oura-ipo-investors-were-said-to-push-back-citing-valuation",
+        "published": "Tue, 29 Sep 2026 18:01:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "European Stocks Rise as Julius Baer Gains on End to Swiss Probe",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/european-stocks-rise-as-julius-baer-jumps-on-end-to-swiss-probe",
-        "published": "Tue, 29 Sep 2026 07:18:16 GMT"
+        "title": "Baytex Energy, Saturn Oil on Fueling Canada’s Energy Growth",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/baytex-energy-saturn-oil-on-canada-s-energy-growth-video",
+        "published": "Tue, 29 Sep 2026 17:55:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Trump Spurns Iran’s Latest Offer, OpenAI Scraps Debut of AI Model",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/the-opening-trade-9-29-2026-video",
-        "published": "Tue, 29 Sep 2026 11:34:32 GMT"
+        "title": "Tenaz Energy on International Growth",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/tenaz-energy-on-international-growth-video",
+        "published": "Tue, 29 Sep 2026 17:55:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hydro One on Meeting Increased Electricity Demand",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/hydro-one-on-meeting-increased-electricity-demand-video",
+        "published": "Tue, 29 Sep 2026 17:50:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bank of Canada Boosts Two-Week Repo Use to Ease Corra Strain",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/bank-of-canada-boosts-two-week-repo-use-to-lower-corra-pressure",
+        "published": "Tue, 29 Sep 2026 17:26:14 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Emera, Northland Power on Electricity Investment",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/emera-northland-power-on-electricity-investment-video",
+        "published": "Tue, 29 Sep 2026 17:41:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Why a Favorite Wall Street Tax Strategy Is Facing Scrutiny",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/why-a-favorite-wall-street-tax-strategy-is-facing-scrutiny",
+        "published": "Tue, 29 Sep 2026 17:32:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Afores de México baten récord de inversión en deuda pública",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/afores-en-auge-alcanzan-record-de-deuda-publica-en-mexico-mumy7c0i",
+        "published": "Tue, 29 Sep 2026 17:26:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed’s Barr Says Further Policy Adjustments Likely Needed to Tame Inflation",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/fed-s-barr-more-hikes-likely-needed-to-tame-inflation-video",
+        "published": "Tue, 29 Sep 2026 17:23:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Muni Trading Jumps to Highest Since at Least 1995 on Market Rout",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/muni-trading-jumps-to-highest-since-at-least-1995-on-market-rout",
+        "published": "Tue, 29 Sep 2026 17:11:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Canada on the Cusp of Investment Surge, NBF’s Marion Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/canada-on-the-cusp-of-investment-surge-nbf-s-marion-says",
+        "published": "Tue, 29 Sep 2026 17:10:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Exchange Income, AirBoss of America on Canadian Defense",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/exchange-income-airboss-of-america-on-canadian-defense-video",
+        "published": "Tue, 29 Sep 2026 17:05:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Clearlake Raises $1 Billion From CFO Trade After Rejigging Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/clearlake-raises-1-billion-from-cfo-trade-after-rejigging-deal",
+        "published": "Tue, 29 Sep 2026 17:01:39 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "OpenAI will Bewertung auf 1,4 Billionen Dollar treiben",
+        "link": "https://www.onvista.de/news/2026/09-29-openai-will-bewertung-auf-1-4-billionen-dollar-treiben-41121301-19-26558801",
+        "published": "Tue, 29 Sep 2026 20:26:42 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Evonik: BASF könnte Angebot auf 24 Euro je Aktie erhöhen",
+        "link": "https://www.onvista.de/news/2026/09-29-evonik-basf-koennte-angebot-auf-24-euro-je-aktie-erhoehen-40338625-19-26558747",
+        "published": "Tue, 29 Sep 2026 18:14:04 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Redcare: Die höhere Umsatzprognose treibt die Aktie",
+        "link": "https://www.onvista.de/news/2026/09-29-redcare-die-hoehere-umsatzprognose-treibt-die-aktie-40338625-19-26558746",
+        "published": "Tue, 29 Sep 2026 18:13:20 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Royal Caribbean: Nach dem Einbruch sind 320 Dollar möglich",
+        "link": "https://www.onvista.de/news/2026/09-29-royal-caribbean-nach-dem-einbruch-sind-320-dollar-moeglich-40338625-19-26558757",
+        "published": "Tue, 29 Sep 2026 18:12:07 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "TSMC: Zwei Nanometer erhöhen die Wachstumschance",
+        "link": "https://www.onvista.de/news/2026/09-29-tsmc-zwei-nanometer-erhoehen-die-wachstumschance-40338625-19-26558763",
+        "published": "Tue, 29 Sep 2026 18:11:24 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Palo Alto: Die Bewertung macht den Einstieg riskant",
+        "link": "https://www.onvista.de/news/2026/09-29-palo-alto-die-bewertung-macht-den-einstieg-riskant-40338625-19-26558760",
+        "published": "Tue, 29 Sep 2026 18:10:12 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Nvidias Rückkaufprogramm wächst um 150 Milliarden Dollar",
+        "link": "https://www.onvista.de/news/2026/09-29-nvidias-rueckkaufprogramm-waechst-um-150-milliarden-dollar-40338625-19-26558767",
+        "published": "Tue, 29 Sep 2026 18:09:19 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Snowflake: Bei 280 bis 300 Dollar wird die Aktie attraktiv",
+        "link": "https://www.onvista.de/news/2026/09-29-snowflake-bei-280-bis-300-dollar-wird-die-aktie-attraktiv-40338625-19-26558761",
+        "published": "Tue, 29 Sep 2026 18:05:17 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "IonQ: Oberhalb der Zwischenhochs sind 60 Dollar möglich",
+        "link": "https://www.onvista.de/news/2026/09-29-ionq-oberhalb-der-zwischenhochs-sind-60-dollar-moeglich-40338625-19-26558762",
+        "published": "Tue, 29 Sep 2026 18:04:19 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Meta baut neue Plattform - warum die Aktie trotzdem schwächelt",
+        "link": "https://www.onvista.de/news/2026/09-29-meta-baut-neue-plattform-warum-die-aktie-trotzdem-schwaechelt-40338625-19-26558768",
+        "published": "Tue, 29 Sep 2026 18:03:06 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "AMD: World-Labs-Kauf erweitert das KI-Geschäft",
+        "link": "https://www.onvista.de/news/2026/09-29-amd-world-labs-kauf-erweitert-das-ki-geschaeft-40338625-19-26558766",
+        "published": "Tue, 29 Sep 2026 18:01:05 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Warum SpaceX trotz Starship-Erfolg um zwei Prozent fällt",
+        "link": "https://www.onvista.de/news/2026/09-29-warum-spacex-trotz-starship-erfolg-um-zwei-prozent-faellt-40338625-19-26558759",
+        "published": "Tue, 29 Sep 2026 17:57:54 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Roblox: Die Aktie könnte auf 34 Dollar fallen",
+        "link": "https://www.onvista.de/news/2026/09-29-roblox-die-aktie-koennte-auf-34-dollar-fallen-40338625-19-26558758",
+        "published": "Tue, 29 Sep 2026 17:55:34 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax kommt minimal voran - Anleihezinsen belasten weiter",
+        "link": "https://www.onvista.de/news/2026/09-29-dax-kommt-minimal-voran-anleihezinsen-belasten-weiter-41121301-19-26558737",
+        "published": "Tue, 29 Sep 2026 17:55:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Die Welt elektrifiziert sich – diese Aktien profitieren",
+        "link": "https://www.onvista.de/news/2026/09-29-die-welt-elektrifiziert-sich-diese-aktien-profitieren-41122522-19-26558660",
+        "published": "Tue, 29 Sep 2026 16:52:29 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Ringhersteller Oura verschiebt Milliarden-Börsengang",
+        "link": "https://www.onvista.de/news/2026/09-29-ringhersteller-oura-verschiebt-milliarden-boersengang-41121301-19-26558714",
+        "published": "Tue, 29 Sep 2026 16:49:59 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Welches Potenzial abgestrafte Medtech-Aktien jetzt bieten",
@@ -299,102 +395,6 @@
         "title": "Dividendenkalender heute,  29.09.2026",
         "link": "https://www.onvista.de/news/2026/09-29-dividendenalarm-heute-29-09-2026-41121301-19-26558355",
         "published": "Tue, 29 Sep 2026 06:00:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Ölpreise bremsen Dax erneut aus - Gold verliert deutlich",
-        "link": "https://www.onvista.de/news/2026/09-28-oelpreis-bremst-dax-erneut-aus-gold-verliert-deutlich-41121301-19-26558264",
-        "published": "Mon, 28 Sep 2026 18:08:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Was hohe Renditen für Anleger, Anleihen und Bitcoin bedeuten",
-        "link": "https://www.onvista.de/news/2026/09-28-was-hohe-renditen-fuer-anleger-anleihen-und-bitcoin-bedeutet-124-19-26558100",
-        "published": "Mon, 28 Sep 2026 14:00:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Evonik-Übernahme, SK Hynix IPO, Microsoft mit Copilot-Schub",
-        "link": "https://www.onvista.de/news/2026/09-28-evonik-uebernahme-sk-hynix-ipo-microsoft-mit-copilot-schub-40338625-19-26558120",
-        "published": "Mon, 28 Sep 2026 12:58:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Trend schlägt Meinung: So finde ich die stärksten Aktien",
-        "link": "https://www.onvista.de/news/2026/09-28-trend-schlaegt-meinung-so-finde-ich-die-staerksten-aktien-40338625-19-26558059",
-        "published": "Mon, 28 Sep 2026 12:05:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax startet im Plus - Tech-Werte geben leicht nach",
-        "link": "https://www.onvista.de/news/2026/09-28-dax-startet-im-plus-tech-werte-geben-leicht-nach-0-19-26558035",
-        "published": "Mon, 28 Sep 2026 09:57:36 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Wann lohnt sich die American Express Platinum Card?",
-        "link": "https://www.onvista.de/news/2026/09-28-wann-lohnt-sich-die-american-express-platinum-card-0-19-26555622",
-        "published": "Mon, 28 Sep 2026 09:07:54 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax vor leichtem Plus - Nahost bleibt bestimmendes Thema",
-        "link": "https://www.onvista.de/news/2026/09-28-dax-vor-leichtem-plus-nahost-bleibt-bestimmendes-thema-41121301-19-26557967",
-        "published": "Mon, 28 Sep 2026 07:59:36 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 28.09.2026",
-        "link": "https://www.onvista.de/news/2026/09-28-finanzberichte-heute-28-09-2026-41121301-19-26557948",
-        "published": "Mon, 28 Sep 2026 06:10:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  28.09.2026",
-        "link": "https://www.onvista.de/news/2026/09-28-dividendenalarm-heute-28-09-2026-41121301-19-26557944",
-        "published": "Mon, 28 Sep 2026 06:00:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Verlustserie beendet: Dax erzielt kleines Wochenplus",
-        "link": "https://www.onvista.de/news/2026/09-25-verlustserie-beendet-dax-erzielt-kleines-wochenplus-41121301-19-26557594",
-        "published": "Fri, 25 Sep 2026 17:59:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "BASF will für Evonik bieten - Aktie springt an",
-        "link": "https://www.onvista.de/news/2026/09-25-basf-will-fuer-evonik-bieten-aktie-springt-an-41121301-19-26557492",
-        "published": "Fri, 25 Sep 2026 13:33:56 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Merz- und VW-Krise – Einstieg bei Solar- und Wind-Aktien?",
-        "link": "https://www.onvista.de/news/2026/09-25-merz-und-vw-krise-einstieg-bei-solar-und-wind-aktien-41121301-19-26557116",
-        "published": "Fri, 25 Sep 2026 12:00:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Börsenspiel-Trader Heiße Schokolade bleibt Spitzenreiter",
-        "link": "https://www.onvista.de/news/2026/09-25-boersenspiel-trader-heisse-schokolade-bleibt-spitzenreiter-41121301-19-26557422",
-        "published": "Fri, 25 Sep 2026 11:09:41 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Börsenspiel Trader 2026 läuft: Jetzt noch einsteigen",
-        "link": "https://www.onvista.de/news/2026/09-25-boersenspiel-trader-2026-laeuft-jetzt-noch-einsteigen-41121301-19-26554464",
-        "published": "Fri, 25 Sep 2026 10:09:09 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax erholt sich moderat - Kurseinbruch bei Hellofresh",
-        "link": "https://www.onvista.de/news/2026/09-25-dax-erholt-sich-moderat-kurseinbruch-bei-hellofresh-41121301-19-26557390",
-        "published": "Fri, 25 Sep 2026 09:55:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax steuert auf Gewinne zu - Wochenplus möglich",
-        "link": "https://www.onvista.de/news/2026/09-25-dax-steuert-auf-gewinne-zu-wochenplus-moeglich-41121301-19-26557341",
-        "published": "Fri, 25 Sep 2026 08:08:00 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Anleger können sich nicht zum Kauf durchringen",
+        "title": "Marktbericht: Anleger weiter zuversichtlich",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
-        "published": "Tue, 29 Sep 2026 12:05:02 +0200"
+        "published": "Tue, 29 Sep 2026 18:37:28 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
