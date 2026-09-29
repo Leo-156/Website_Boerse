@@ -1,16 +1,52 @@
 {
-  "updated_at": "2026-09-29T01:06:32.551474+00:00",
+  "updated_at": "2026-09-29T06:50:40.689231+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt niedriger",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-niedriger/100257988.html",
+        "title": "Vermögen: So setzen Sie einen Testamentsvollstrecker sinnvoll ein",
+        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/vermoegen-so-setzen-sie-einen-testamentsvollstrecker-sinnvoll-ein/100254611.html",
+        "published": "Tue, 29 Sep 2026 06:47:59 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Mietrecht-Reform trifft Vermieter hart – Hunderte Euro weniger",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/mietrechtsreform-diese-veraenderungen-betreffen-vermieter-und-eigentuemer-01/100199045.html",
+        "published": "Tue, 29 Sep 2026 06:24:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: Unicredit plant wohl noch frühere Übernahme der Commerzbank",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-unicredit-plant-wohl-noch-fruehere-uebernahme-der-commerzbank/100258153.html",
+        "published": "Tue, 29 Sep 2026 05:16:03 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 29. September: Sieben Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Tue, 29 Sep 2026 04:30:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Yen, Hang Seng: Hohe US-Renditen und Ölpreis belasten Asiens Börsen",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-hohe-us-renditen-und-oelpreis-belasten-asiens-boersen/100258099.html",
+        "published": "Tue, 29 Sep 2026 03:48:11 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: John Waldron offenbar als Goldman-Sachs-Chef im Gespräch",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-john-waldron-offenbar-als-goldman-sachs-chef-im-gespraech/100258100.html",
+        "published": "Tue, 29 Sep 2026 01:49:58 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt niedriger – Nvidia-Aktie legt zu",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-niedriger-nvidia-aktie-legt-zu/100257988.html",
         "published": "Mon, 28 Sep 2026 17:23:11 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Landesbank: Verkauf geplatzt – Sparkassen wollen ihre Anteile an der NordLB vorerst behalten",
+        "title": "Landesbank: Verkauf geplatzt: Sparkassen wollen ihre Anteile an der NordLB vorerst behalten",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/landesbank-sparkassen-wollen-nordlb-anteile-vorerst-nicht-verkaufen/100257975.html",
         "published": "Mon, 28 Sep 2026 17:19:22 GMT"
       },
@@ -85,62 +121,92 @@
         "title": "Interview: ING-Chef zur Commerzbank-Übernahme: „Kunden werden sich verstärkt nach Alternativen umsehen“",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/ing-chef-van-rijswijk-wir-wollen-der-kaeufer-sein-nicht-uebernahmeziel/100255687.html",
         "published": "Mon, 28 Sep 2026 08:01:16 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Passives Einkommen: Dieses ETF-Portfolio schüttet jeden Monat Geld aus",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/passives-einkommen-mit-diesen-etfs-bekommen-sie-monatliche-ausschuettungen/100226123.html",
-        "published": "Mon, 28 Sep 2026 06:32:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 28. September: Sechs Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Mon, 28 Sep 2026 04:59:08 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Northern Star: Goldproduzent weist milliardenschweres Übernahmeangebot zurück",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/northern-star-goldproduzent-weist-milliardenschweres-uebernahmeangebot-zurueck/100257818.html",
-        "published": "Mon, 28 Sep 2026 04:04:53 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Diese neuen Firmenbonds bieten Renditen von mehr als vier Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-diese-neuen-firmenbonds-bieten-renditen-von-mehr-als-vier-prozent/100256658.html",
-        "published": "Mon, 28 Sep 2026 02:02:15 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Iran-Krieg: Ölpreise steigen nach Trumps Absage an Iran",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/iran-krieg-oelpreise-steigen-nach-trumps-absage-an-iran/100257785.html",
-        "published": "Mon, 28 Sep 2026 01:34:28 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Das endgültige Ende der Nullzins-Ära steht kurz bevor",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-das-endgueltige-ende-der-nullzins-aera-steht-kurz-bevor/100256081.html",
-        "published": "Sun, 27 Sep 2026 12:36:46 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Trades Near Seven-Week Low as Rate-Hike Pressure Mounts",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/gold-trades-near-seven-week-low-as-rate-hike-pressure-mounts",
-        "published": "Tue, 29 Sep 2026 00:02:41 GMT"
+        "title": "Tata Trusts Seek Tata Sons Restructuring to Avoid Listing",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/tata-trusts-propose-restructuring-of-tata-sons-to-avoid-listing",
+        "published": "Mon, 28 Sep 2026 13:11:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasuries Stabilize After Selloff, Stocks Slip: Markets Wrap",
+        "title": "Ellawn: Brookfield Sees Many Mideast Opportunities",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/ellawn-brookfield-sees-many-mideast-opportunities-video",
+        "published": "Tue, 29 Sep 2026 06:44:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SGX's Kan: Investors Are Abandoning Siloed Trading",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/sgx-s-kan-investors-are-abandoning-siloed-trading-video",
+        "published": "Tue, 29 Sep 2026 06:40:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SpaceX’s Starship Reaches Orbit Despite Engine Issue",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/spacex-s-starship-reaches-orbit-despite-engine-issue-video",
+        "published": "Tue, 29 Sep 2026 06:32:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Dangote Targets 10 Million Investors With IPO Marketing Blitz",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/dangote-targets-10-million-investors-with-ipo-marketing-blitz",
+        "published": "Tue, 29 Sep 2026 06:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Chinese Stimulus Boost, Higher Bond Supply Threaten Debt Rally",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/chinese-stimulus-boost-higher-bond-supply-threaten-debt-rally",
+        "published": "Tue, 29 Sep 2026 06:25:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "What to Expect From Burnham's Speech to Labour Party",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/what-to-expect-from-burnham-s-speech-to-labour-party-video",
+        "published": "Tue, 29 Sep 2026 06:18:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Spain, Portugal, Luxembourg Urge EU to Set 2040 Renewables Goal",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/spain-portugal-luxembourg-urge-eu-to-set-2040-renewables-goal",
+        "published": "Tue, 29 Sep 2026 06:16:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Kenyan Court Pauses Building of $16 Billion Dangote Refinery",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-28/kenya-high-court-pauses-dangote-refinery-construction-in-lamu-mull11mq",
+        "published": "Mon, 28 Sep 2026 18:29:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Indian Stocks Are Breaking Long-Held Supports as Selloff Deepens",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/indian-stocks-are-breaking-long-held-supports-as-selloff-deepens",
+        "published": "Tue, 29 Sep 2026 06:10:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "South Africa Retailers Turn to New Leaders in Fight for Shoppers",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/south-africa-retailers-turn-to-new-leaders-in-fight-for-shoppers",
+        "published": "Tue, 29 Sep 2026 06:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Global Stocks Drop to One-Week Low, Oil Rallies: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-28/stock-market-today-dow-s-p-live-updates",
         "published": "Mon, 28 Sep 2026 22:11:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Why Earnings Growth Remain a Key Buffer Against Yield Risks",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/rodda-earnings-growth-key-buffer-against-yield-risks-video",
-        "published": "Tue, 29 Sep 2026 00:25:13 GMT"
+        "title": "Treasuries Selloff Stabilizes As Oil Surges",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-29/the-asia-trade-9-29-2026-video",
+        "published": "Tue, 29 Sep 2026 05:54:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "FTSE 100 Live: Pound Sinks as Dollar Rises With Oil",
+        "link": "https://www.bloomberg.com/news/live-blog/2026-09-29/ftse-100-live-pound-bonds-burnham-speech-oil-prices-ai-stocks-gilts-what-s-moving-uk-markets-right-now-markets-today",
+        "published": "Tue, 29 Sep 2026 05:52:18 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -150,102 +216,54 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Citi Recommends Buying China’s 30-Year Bonds on Weak Growth",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/citi-recommends-buying-china-s-30-year-bonds-on-weak-growth-view",
-        "published": "Mon, 28 Sep 2026 11:02:52 GMT"
+        "title": "Philippines Retail Bond Auction Draws Billions as Rates Rise",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/philippines-retail-bond-auction-draws-billions-as-rates-rise",
+        "published": "Tue, 29 Sep 2026 05:35:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Flashlight Capital Urges Secom to Raise Stake in Korea’s S-1",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/flashlight-capital-urges-secom-to-raise-stake-in-korea-s-s-1",
-        "published": "Tue, 29 Sep 2026 00:00:00 GMT"
+        "title": "Traditionally Terrible October Looms for Beleaguered Treasuries",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/traditionally-terrible-october-looms-for-beleaguered-treasuries",
+        "published": "Tue, 29 Sep 2026 05:32:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Samsung to Invest $1 Billion in KKR’s AI Infrastructure Company",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/samsung-to-invest-1-billion-in-kkr-s-ai-infrastructure-company",
-        "published": "Mon, 28 Sep 2026 23:21:03 GMT"
+        "title": "Japan 40-Year Bond Sale Sees Strongest Demand Since 2020",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/japan-40-year-bond-sale-sees-strongest-demand-since-2020",
+        "published": "Tue, 29 Sep 2026 03:43:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Tax-Slashing ‘Holy Grail’ Popularized by AQR Dealt IRS Warning",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/tax-slashing-holy-grail-popularized-by-aqr-dealt-irs-warning",
-        "published": "Mon, 28 Sep 2026 23:03:51 GMT"
+        "title": "Dongshan Precision Is Said to Target Up to $3 Billion HK Listing",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/dongshan-precision-is-said-to-target-up-to-3-billion-hk-listing",
+        "published": "Tue, 29 Sep 2026 05:25:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UK Should Relax Accounting Rules to Boost Investment, Paper Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/uk-should-relax-accounting-rules-to-boost-investment-paper-says",
-        "published": "Mon, 28 Sep 2026 23:01:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "RoboTechnik Leads Hong Kong’s $1.8 Billion Listing Debut Lineup",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/robotechnik-leads-hong-kong-s-1-8-billion-listing-debut-lineup",
-        "published": "Mon, 28 Sep 2026 23:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Selloff Deepens as Trump Spurns Iran’s Latest Offer",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/bond-selloff-resumes-as-oil-rises-after-trump-spurns-iran-offer",
-        "published": "Mon, 28 Sep 2026 01:50:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Subprime Auto Loans Make Wall Street Rich as Borrowers Struggle",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-28/subprime-car-loans-pay-off-even-as-borrowers-struggle-video",
-        "published": "Mon, 28 Sep 2026 22:23:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Former Disney CEO Bob Chapek Says Company Needs a 'Growth Engine'",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-28/former-disney-ceo-says-company-needs-a-growth-engine-video",
-        "published": "Mon, 28 Sep 2026 21:35:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "'Twenty Minutes is the New Hour'",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-28/-twenty-minutes-is-the-new-hour-video",
-        "published": "Mon, 28 Sep 2026 21:31:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Golden Gate Sued Over Insurer’s $2.2 Billion Capital Shortfall",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/golden-gate-sued-over-insurer-s-2-2-billion-capital-shortfall",
-        "published": "Mon, 28 Sep 2026 21:28:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Swinging Between Fear And Greed, Inside the US Markets",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-28/swinging-between-fear-and-greed-inside-the-us-markets",
-        "published": "Mon, 28 Sep 2026 21:00:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Korean Financial Firms Chase Bold Overseas M&A to Fuel Growth",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/korean-financial-firms-chase-bold-overseas-m-a-to-fuel-growth",
-        "published": "Mon, 28 Sep 2026 21:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Copper Set to Give Australia’s Mining Stock Rally a New Engine",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/copper-set-to-give-australia-s-mining-stock-rally-a-new-engine",
-        "published": "Mon, 28 Sep 2026 21:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Apollo-Backed Michaels Wins S&P Ratings Lift After Cutting Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/apollo-backed-michaels-wins-s-p-ratings-lift-after-cutting-debt",
-        "published": "Mon, 28 Sep 2026 20:45:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "EM Debt Turns Negative for Year as Treasury Selloff Bites",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-28/emerging-stocks-slide-as-oil-gains-on-renewed-mideast-tensions",
-        "published": "Mon, 28 Sep 2026 04:14:36 GMT"
+        "title": "Threat of Berlin Property Grab Is Spooking Real Estate Stocks",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/threat-of-berlin-property-grab-is-spooking-real-estate-stocks",
+        "published": "Tue, 29 Sep 2026 05:15:00 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax nahe Vortagsniveau - Ölpreise und US-Renditen steigen",
+        "link": "https://www.onvista.de/news/2026/09-29-dax-nahe-vortagsniveau-oelpreise-und-us-renditen-steigen-41121301-19-26558404",
+        "published": "Tue, 29 Sep 2026 08:00:15 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 29.09.2026",
+        "link": "https://www.onvista.de/news/2026/09-29-finanzberichte-heute-29-09-2026-41121301-19-26558358",
+        "published": "Tue, 29 Sep 2026 06:10:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  29.09.2026",
+        "link": "https://www.onvista.de/news/2026/09-29-dividendenalarm-heute-29-09-2026-41121301-19-26558355",
+        "published": "Tue, 29 Sep 2026 06:00:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Ölpreise bremsen Dax erneut aus - Gold verliert deutlich",
@@ -377,24 +395,6 @@
         "title": "MTU Upgrade, McDonald’s schwach, Twilio mit KI-Chance",
         "link": "https://www.onvista.de/news/2026/09-24-mtu-upgrade-mcdonalds-schwaechelt-twilio-mit-ki-chance-40338625-19-26557083",
         "published": "Thu, 24 Sep 2026 12:57:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Rendite 30-jähriger US-Anleihen steigt auf höchsten Stand seit 2004",
-        "link": "https://www.onvista.de/news/2026/09-24-rendite-30-jaehriger-us-anleihen-steigt-auf-hoechsten-stand-seit-2004-41121301-19-26557052",
-        "published": "Thu, 24 Sep 2026 11:38:52 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax sinkt leicht ab - MTU nach Empfehlung gefragt",
-        "link": "https://www.onvista.de/news/2026/09-24-dax-sinkt-leicht-ab-mtu-nach-empfehlung-gefragt-41121301-19-26556990",
-        "published": "Thu, 24 Sep 2026 09:47:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Vorsorge schreibt man mit F. Denn die Zukunft beginnt mit der Entscheidung von heute. Fonds. Finanzielle Freiheit. Fidelity.",
-        "link": "https://partner.fidelity.de/vorsorge/vorsorge-mit-f",
-        "published": "Thu, 24 Sep 2026 09:45:24 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX gibt nur wenig nach",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
-        "published": "Mon, 28 Sep 2026 18:21:45 +0200"
+        "title": "Marktbericht: Schwache Wall Street drückt auf die Stimmung",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
+        "published": "Tue, 29 Sep 2026 07:30:37 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
