@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T22:38:23.416700+00:00",
+  "updated_at": "2026-09-30T01:32:00.210728+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,9 +126,81 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Set for Rebound as Oil Prices Ease: Markets Wrap",
+        "title": "China’s Launches ‘Mini Stimulus’ to Counter Slowdown",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/china-s-launches-mini-stimulus-to-counter-slowdown-video",
+        "published": "Wed, 30 Sep 2026 01:11:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asian Stocks Rise, Bonds Steady Before PCE Data: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates",
         "published": "Tue, 29 Sep 2026 22:12:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stock Analyst Hiring Boom in India Defies Wall Street’s Pullback",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/stock-analyst-hiring-boom-in-india-defies-wall-street-s-pullback",
+        "published": "Wed, 30 Sep 2026 01:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Funds Buy Australian Bonds on Signal Rate Hikes Are Nearing End",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/funds-buy-australian-bonds-on-signal-rate-hikes-are-nearing-end",
+        "published": "Wed, 30 Sep 2026 00:56:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BlackRock's Hambro Sees New Commodity Cycle",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/blackrock-s-hambro-sees-new-commodity-cycle-video",
+        "published": "Wed, 30 Sep 2026 00:49:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Fields Said to Mull Sweeter Northern Star Bid With Cash",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/gold-fields-said-to-weigh-sweetening-northern-star-bid-with-cash",
+        "published": "Tue, 29 Sep 2026 19:18:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Can Treasury Yields Hit 6%?",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/can-treasury-yields-hit-6-video",
+        "published": "Wed, 30 Sep 2026 00:27:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Sept. 30",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30",
+        "published": "Tue, 29 Sep 2026 22:02:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Dollar Powers to Best Month Since June on Fed’s Inflation Fight",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/dollar-powers-to-best-month-since-june-on-fed-s-inflation-fight",
+        "published": "Wed, 30 Sep 2026 00:18:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Mongolia’s Stocks Beat Everybody This Quarter on Commodity Boom",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/commodity-boom-pushes-mongolian-stocks-to-world-beating-quarter",
+        "published": "Wed, 30 Sep 2026 00:04:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Korean Stocks Face Early End to $40 Billion Buyback Support",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/korean-stocks-face-early-end-to-40-billion-buyback-support",
+        "published": "Wed, 30 Sep 2026 00:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Steady as Traders Weigh Lower Oil Against Higher Yields",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/gold-steady-as-traders-weigh-lower-oil-against-higher-yields",
+        "published": "Tue, 29 Sep 2026 23:58:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Morgan Stanley Bank Analyst Graseck to Retire After 40 Years",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/morgan-stanley-bank-analyst-graseck-to-retire-after-40-years",
+        "published": "Tue, 29 Sep 2026 22:59:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -141,12 +213,6 @@
         "title": "JPMorgan Hires Three for Natural Resources Banking Team",
         "link": "https://www.bloomberg.com/news/articles/2026-09-29/jpmorgan-hires-three-for-natural-resources-banking-team",
         "published": "Tue, 29 Sep 2026 15:15:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Sept. 30",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30",
-        "published": "Tue, 29 Sep 2026 22:02:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -168,12 +234,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Paramount Draws $109 Billion of Demand for High-Grade Bond Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/paramount-kicks-off-high-grade-bond-sale-for-warner-bros-deal",
-        "published": "Tue, 29 Sep 2026 13:50:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "There Are Some Chills in T-Bills",
         "link": "https://www.bloomberg.com/news/newsletters/2026-09-29/there-are-some-chills-in-t-bills",
         "published": "Tue, 29 Sep 2026 21:36:08 GMT"
@@ -183,66 +243,6 @@
         "title": "Alaska Air CEO on Premium Offerings and New Lounges",
         "link": "https://www.bloomberg.com/news/videos/2026-09-29/alaska-air-ceo-on-premium-offerings-and-new-lounges-video",
         "published": "Tue, 29 Sep 2026 21:35:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Torani CEO Melanie Dulbecco on Manufacturing, Company Culture",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/torani-ceo-on-manufacturing-company-culture-video",
-        "published": "Tue, 29 Sep 2026 21:33:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Paramount Loan Upsized by $2 Billion as Investor Demand Strong",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/banks-draw-10-billion-of-demand-for-paramount-loan-offering",
-        "published": "Tue, 29 Sep 2026 15:16:46 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "CMHC on Canada’s Housing Market",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/cmhc-on-canada-s-housing-market-video",
-        "published": "Tue, 29 Sep 2026 21:28:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tesla Lines Up $30 Billion to Borrow With Spending on the Rise",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise",
-        "published": "Tue, 29 Sep 2026 21:19:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "OFA, CMHC on Public-Sector Funding",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/ofa-cmhc-on-public-sector-funding-video",
-        "published": "Tue, 29 Sep 2026 21:08:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "IDB Invest, IFC on the Social Impact of Macro Shocks",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/idb-invest-ifc-on-the-social-impact-of-macro-shocks-video",
-        "published": "Tue, 29 Sep 2026 20:50:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "La Caisse, BCI on Bond Market Funding",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/la-caisse-bci-on-bond-market-funding-video",
-        "published": "Tue, 29 Sep 2026 20:31:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Stocks Drop as Traders Parse Economic Data, Fedspeak",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/us-stock-futures-rise-as-traders-await-key-economic-data",
-        "published": "Tue, 29 Sep 2026 11:59:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Lundbeck Is Said to Express Interest in Xeris Biopharma",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/lundbeck-is-said-to-express-interest-in-buying-xeris-biopharma",
-        "published": "Tue, 29 Sep 2026 16:33:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Global Issuers on Funding Strategy",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-29/global-issuers-on-funding-strategy-video",
-        "published": "Tue, 29 Sep 2026 20:18:25 GMT"
       }
     ],
     "onvista – News": [
