@@ -1,7 +1,85 @@
 {
-  "updated_at": "2026-09-30T07:23:49.992318+00:00",
+  "updated_at": "2026-09-30T13:57:00.058500+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Aktien: Billionen-Lücke: Basiert die KI-Rally auf unstimmigen Schätzungen von Analysten?",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/aktien-billionen-luecke-basiert-die-ki-rally-auf-unstimmigen-schaetzungen/100258542.html",
+        "published": "Wed, 30 Sep 2026 13:38:03 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Verbraucherpreise: Inflation in Deutschland und anderen Euro-Ländern übertrifft reihenweise die Erwartungen",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-in-deutschland-steigt-auf-33-prozent/100254616.html",
+        "published": "Wed, 30 Sep 2026 13:23:34 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Konjunktur: Wichtiges US-Inflationsmaß verharrt bei 3,4 Prozent",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/us-konjunktur-wichtiges-us-inflationsmass-verharrt-bei-34-prozent/100258543.html",
+        "published": "Wed, 30 Sep 2026 12:53:41 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Finanz-Start-up: „Deutschland ist unsere Priorität“: Französisches Fintech Qonto startet Mittelstandsoffensive",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken-fintech-qonto-startet-mittelstandsoffensive-in-deutschland/100255649.html",
+        "published": "Wed, 30 Sep 2026 12:18:33 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax dreht am Mittag ins Minus – Commerzbank-Aktie größter Verlierer",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-inflation-in-deutschland-steigt-dax-dreht-ins-minus/100258541.html",
+        "published": "Wed, 30 Sep 2026 12:06:13 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Berenberg: Hamburger Privatbank holt JP-Morgan-Manager",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/berenberg-hamburger-privatbank-holt-jp-morgan-manager/100258653.html",
+        "published": "Wed, 30 Sep 2026 11:43:21 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Nvidia nutzt seine niedrige Bewertung für Rückkäufe – das sind die Folgen für Aktionäre",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/aktien-nvidia-mit-rekord-rueckkauf-das-sind-die-folgen-fuer-aktionaere/100258206.html",
+        "published": "Wed, 30 Sep 2026 10:37:21 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Fondsmanager – „Für die Garantie zahlen Sie einen hohen Preis“",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/aktien-wie-junge-anleger-die-richtige-anlagestrategie-finden/100222130.html",
+        "published": "Wed, 30 Sep 2026 09:32:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Interview: Private-Equity-Chef von Blackstone: „Wir setzen auf eine massiv steigende Nachfrage nach KI-Infrastruktur“",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/blackstone-wir-setzen-auf-eine-steigende-nachfrage-nach-ki-infrastruktur/100256551.html",
+        "published": "Wed, 30 Sep 2026 08:50:44 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Nur in einer Stadt reicht die Bafög‑Wohnhilfe für die Miete",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-nur-in-einer-stadt-reicht-die-bafoegwohnhilfe-fuer-die-miete/100258176.html",
+        "published": "Wed, 30 Sep 2026 08:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Topix, CSI 300: Inflations- und Kriegssorgen belasten Anleihemärkte – Märkte in Asien schließen uneinheitlich",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-inflations-und-kriegssorgen-belasten-anleihemaerkte/100258509.html",
+        "published": "Wed, 30 Sep 2026 07:53:30 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Krise am Immobilienmarkt trifft nun auch Gutverdiener",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-krise-am-immobilienmarkt-trifft-nun-auch-gutverdiener/100258025.html",
+        "published": "Wed, 30 Sep 2026 07:52:18 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Bis zu 14 Prozent Jahresrendite: Welche Robo-Advisor am besten performen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-diese-robo-advisor-brachten-anlegern-2025-die-hoechsten-renditen/100224417.html",
+        "published": "Wed, 30 Sep 2026 07:33:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Anleihen: Rendite von 30-jährigen US-Bonds so hoch wie zuletzt 2002: „Spielraum für weitere Zinsanstiege“",
@@ -10,7 +88,7 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Wettanleger haben auf das Ende von Kanzler Merz spekuliert",
+        "title": "Geldanlage: So haben Wettanleger auf das Ende von Kanzler Merz spekuliert",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/geldanlage-wettanleger-haben-auf-das-ende-von-kanzler-merz-spekuliert/100257098.html",
         "published": "Wed, 30 Sep 2026 05:40:11 GMT"
       },
@@ -25,12 +103,6 @@
         "title": "Börse am 30. September: Steigt die Inflation auf mehr als drei Prozent? Das ist heute für Anleger wichtig",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "published": "Wed, 30 Sep 2026 04:43:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Asien: Inflations- und Kriegssorgen belasten Anleihemärkte – Nikkei legt zu",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-inflations-und-kriegssorgen-belasten-anleihemaerkte/100258509.html",
-        "published": "Wed, 30 Sep 2026 03:18:58 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -49,78 +121,6 @@
         "title": "Altersvorsorge: Sorge vor Fehlstart für Kapitalrente: „Als Politiker würde ich jeden Tag für eine Finanzkrise beten“",
         "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-als-politiker-wuerde-ich-jeden-tag-fuer-eine-finanzkrise-beten-01/100258418.html",
         "published": "Wed, 30 Sep 2026 05:17:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax schließt unverändert – Ölpreise gesunken",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unveraendert-oelpreise-gesunken/100258166.html",
-        "published": "Tue, 29 Sep 2026 16:19:41 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Wie die USA mit Geld aus dem Ausland ihren Konsum finanzieren",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-wie-die-usa-mit-geld-aus-dem-ausland-ihren-konsum-finanzieren/100257472.html",
-        "published": "Tue, 29 Sep 2026 15:54:14 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Helaba plant offenbar IKB-Übernahmeangebot",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-helaba-plant-offenbar-ikb-uebernahmeangebot/100258396.html",
-        "published": "Tue, 29 Sep 2026 15:36:30 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Unicredit will bei Commerzbank schnell durchregieren und Chefin Orlopp loswerden",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-unicredit-will-commerzbank-chefin-orlopp-schnell-loswerden/100258153.html",
-        "published": "Tue, 29 Sep 2026 15:25:41 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Rohstoffe: In Europas Bergbauabfällen könnte ein Milliardenmarkt schlummern",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/rohstoffe-in-europas-bergbauabfaellen-koennte-ein-milliardenmarkt-schlummern/100255398.html",
-        "published": "Tue, 29 Sep 2026 14:52:55 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Plötzlich schraubte Hilton die Schilder ab: Warum ein beliebtes Luxushotel jetzt pleite ist",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-ploetzlich-schraubte-hilton-die-schilder-ab-und-das-luxushotel-ist-pleite/100257449.html",
-        "published": "Wed, 30 Sep 2026 06:58:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "FIRE-Bewegung: Wer finanziell frei werden will, sollte auf diese sechs Punkte achten",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fire-welche-huerden-koennen-dem-traum-von-finanzieller-freiheit-im-weg-stehen/100164519.html",
-        "published": "Tue, 29 Sep 2026 13:05:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: „Auch eine Rentnerin kann 100 Prozent Aktien vertragen“",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-wie-koennen-anleger-ihr-depot-sinnvoll-aufbauen/100124450.html",
-        "published": "Tue, 29 Sep 2026 12:05:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Sympatex-Prozess: Stephan Goetz drohte: „Dem brech ich alle Finger“",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/sympatex-prozess-dem-brech-ich-alle-finger-goetz-drohte-mit-angriff-auf-reporter/100257854.html",
-        "published": "Tue, 29 Sep 2026 11:33:25 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Versicherer: Allianz-Manager warnt: „KI-Risiken nicht vollständig versicherbar“",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherer-allianz-manager-warnt-ki-risiken-nicht-vollstaendig-versicherbar/100256086.html",
-        "published": "Tue, 29 Sep 2026 11:18:23 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Aktien, Anleihen, ETFs, Optionen: So klappt es mit dem Nebenverdienst ohne Arbeit",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/passives-einkommen-so-schaffen-sie-sich-ein-gefuehl-finanzieller-sicherheit/100188789.html",
-        "published": "Tue, 29 Sep 2026 11:05:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Aktien: Norwegens Staatsfonds warnt vor Einschränkung von Aktionärsrechten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-norwegens-staatsfonds-warnt-vor-einschraenkung-der-aktionaersrechte/100258262.html",
-        "published": "Wed, 30 Sep 2026 06:28:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
@@ -132,120 +132,156 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lundbeck Is Said to Express Interest in Xeris Biopharma",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/lundbeck-is-said-to-express-interest-in-buying-xeris-biopharma",
-        "published": "Tue, 29 Sep 2026 16:33:55 GMT"
+        "title": "Fed Votes to Overhaul Stress Tests in Win for Big Banks",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/fed-votes-to-overhaul-stress-tests-in-major-wall-street-bank-win",
+        "published": "Wed, 30 Sep 2026 13:01:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "France’s 10-Year Bond Risk Premium Rises to 120 Basis Points",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/france-s-10-year-bond-risk-premium-rises-to-120-basis-points",
-        "published": "Wed, 30 Sep 2026 07:05:44 GMT"
+        "title": "US Fund Accuses Radiant World of Fraud in Swiss Complaint",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/us-fund-accuses-trader-radiant-world-of-fraud-in-swiss-complaint",
+        "published": "Wed, 30 Sep 2026 07:32:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Paramount Deal Delay Fuels Fear of Costly $52 Billion Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/paramount-deal-delay-fuels-fears-of-costly-52-billion-m-a-debt",
-        "published": "Tue, 29 Sep 2026 20:46:04 GMT"
+        "title": "Ken Griffin Hopes $3 Billion Gift Transforms Miami",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/griffin-hopes-3-billion-gift-transforms-miami-video",
+        "published": "Wed, 30 Sep 2026 13:39:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Erdogan Hands Turkey Investment Fund Cleanup to Vice President",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/erdogan-says-turkey-created-a-board-to-oversee-fund-liquidation",
-        "published": "Tue, 29 Sep 2026 16:20:35 GMT"
+        "title": "Extreme Volatility Divergence Exposes ‘Fragile Footing’ for S&P",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/gap-between-calm-market-single-stock-vol-harkens-back-to-2000",
+        "published": "Wed, 30 Sep 2026 12:16:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Clearlake Wraps Up $1 Billion CFO Trade After Rejigging Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/clearlake-raises-1-billion-from-cfo-trade-after-rejigging-deal",
-        "published": "Tue, 29 Sep 2026 17:01:39 GMT"
+        "title": "Better.com Founder Wins Support to Regain Control of Board",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/better-com-founder-wins-support-to-regain-control-of-board",
+        "published": "Wed, 30 Sep 2026 13:33:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/yen-strengthens-past-157-per-dollar-outperforming-g-10-peers",
-        "published": "Wed, 30 Sep 2026 02:54:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Crude Comeback Loses Steam as Iran War Enters Eighth Month",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/china-crude-comeback-loses-steam-as-iran-war-enters-eighth-month",
-        "published": "Wed, 30 Sep 2026 06:47:44 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Kenyan Inflation Accelerates to 32-Month High in September",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/kenyan-inflation-accelerates-to-32-month-high-in-september",
-        "published": "Wed, 30 Sep 2026 06:46:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Real Estate Stocks Are a Bold Bet on Monetary Policy Reversal",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/real-estate-stocks-are-a-bold-bet-on-monetary-policy-reversal",
-        "published": "Wed, 30 Sep 2026 06:17:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How Abu Dhabi's Crown Prince Is Trying to Bypass Hormuz",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/how-abu-dhabi-s-crown-price-is-trying-to-bypass-hormuz-video",
-        "published": "Wed, 30 Sep 2026 06:03:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Goldman's Drayton: APAC Deals Boom May Last to '27",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-22/goldman-s-drayton-apac-deals-boom-may-last-to-27-video",
-        "published": "Tue, 22 Sep 2026 04:53:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Rebound, Bonds Steady Before Key US Data: Markets Wrap",
+        "title": "Stocks Rise as Inflation Surprise Curbs Fed Bets: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates",
         "published": "Tue, 29 Sep 2026 22:12:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "FTSE 100 Live: Gilts Lead a Broad Rally Across European Bonds",
-        "link": "https://www.bloomberg.com/news/live-blog/2026-09-30/ftse-100-live-uk-gdp-data-pound-gilts-burnham-iran-us-oil-prices-ai-stocks-inflation-what-s-moving-uk-markets-right-now-markets-today",
-        "published": "Wed, 30 Sep 2026 05:43:22 GMT"
+        "title": "Hartford Insurance Group Names A. Morris Tooker as Its Next CEO",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/hartford-insurance-group-names-a-morris-tooker-as-its-next-ceo",
+        "published": "Wed, 30 Sep 2026 13:27:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Repo Push Advances as Legal Issues, Low Yields Drag",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/china-s-repo-push-gains-ground-as-legal-issues-low-yields-drag",
-        "published": "Wed, 30 Sep 2026 03:07:23 GMT"
+        "title": "India Caps Weakest Monsoon Since 2015, Raising Food Price Risks",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/india-caps-weakest-monsoon-since-2015-raising-food-price-risks",
+        "published": "Wed, 30 Sep 2026 12:26:58 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Capitec Profit, Dividend Hit Record as Clients Top 26.6 Million",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/capitec-profit-dividend-hit-record-as-clients-top-26-6-million",
-        "published": "Wed, 30 Sep 2026 05:32:07 GMT"
+        "title": "Global Bonds Face Worst Quarter Since 2024 on Inflation Fears",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/global-bonds-face-worst-quarter-since-2024-on-inflation-fears",
+        "published": "Wed, 30 Sep 2026 13:14:25 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Extends Military Reach With New Air Support Base in Laos",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/china-expands-military-footprint-with-new-support-base-in-laos",
-        "published": "Tue, 29 Sep 2026 09:45:30 GMT"
+        "title": "RBI’s Short Dollar Book Surges Past $200 Billion on Forex Plan",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/rbi-s-short-dollar-book-surges-past-200-billion-on-forex-plan",
+        "published": "Wed, 30 Sep 2026 13:14:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bernstein's Liang on China's Biotech Stock Rally",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/bernstein-s-liang-on-china-s-biotech-stock-rally-video",
-        "published": "Wed, 30 Sep 2026 05:25:01 GMT"
+        "title": "Tesla Lines Up $30 Billion to Borrow With Spending on Rise",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise",
+        "published": "Tue, 29 Sep 2026 21:19:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bassiri Tabrizi: US Iran Moving Further Apart in Talks",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/bassiri-tabrizi-us-iran-moving-further-apart-in-talks-video",
-        "published": "Wed, 30 Sep 2026 05:21:46 GMT"
+        "title": "Morningstar Favors Brazil, Mexico Stocks Over South Africa",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/morningstar-shuns-low-growth-south-africa-favors-brazil-mexico",
+        "published": "Tue, 29 Sep 2026 12:15:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Vale Mulls Raising Over $500 Million in Debut Panda Bond Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/vale-mulls-raising-over-500-million-in-debut-panda-bond-sale",
-        "published": "Wed, 30 Sep 2026 05:07:24 GMT"
+        "title": "Stock Futures Rise as Traders Trim Rate-Hike Bets After PCE Data",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/us-stock-futures-hold-steady-ahead-of-pce-data-micron-earnings",
+        "published": "Wed, 30 Sep 2026 11:53:14 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Traders Pull Back on October Fed Hike Bets After Cool PCE Data",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/traders-pull-back-on-october-fed-hike-bets-after-cool-pce-data",
+        "published": "Wed, 30 Sep 2026 12:48:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Core PCE Rises 0.2%, Consumer Spending Soars in August",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/us-economy-core-pce-rises-0-2-consumer-spending-soars-video",
+        "published": "Wed, 30 Sep 2026 12:53:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Germany Moves Closer to Blocking Chinese Logistics Takeover",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/germany-moves-closer-to-blocking-chinese-logistics-takeover",
+        "published": "Wed, 30 Sep 2026 12:45:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Companies Added 90,000 Jobs in September: ADP",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/us-companies-added-90-000-jobs-in-september-adp-video",
+        "published": "Wed, 30 Sep 2026 12:41:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Sept. 30",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30",
+        "published": "Tue, 29 Sep 2026 22:02:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Sets New Car Emission Limits, Adds Carbon Credit Trading",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/india-sets-new-car-emission-limits-adds-carbon-credit-trading",
+        "published": "Wed, 30 Sep 2026 12:25:08 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "So ziehst du am besten Geld aus deinem Depot",
+        "link": "https://www.onvista.de/news/2026/09-30-so-ziehst-du-am-besten-geld-aus-deinem-depot-41123248-19-26556691",
+        "published": "Wed, 30 Sep 2026 15:30:01 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Welches Potenzial abgestrafte Medtech-Aktien jetzt bieten",
+        "link": "https://www.onvista.de/news/2026/09-30-welches-potenzial-abgestrafte-medtech-aktien-jetzt-bieten-41122786-19-26558595",
+        "published": "Wed, 30 Sep 2026 14:00:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Das sind meine Ideen für kurzfristige Trades",
+        "link": "https://www.onvista.de/news/2026/09-30-das-sind-meine-ideen-fuer-kurzfristige-trades-41122786-19-26559020",
+        "published": "Wed, 30 Sep 2026 13:45:01 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "BMW: Weg aus der Krise, Bloom Energy & SpaceX im Fokus",
+        "link": "https://www.onvista.de/news/2026/09-30-bmw-weg-aus-der-krise-bloom-energy-spacex-im-fokus-40338625-19-26559029",
+        "published": "Wed, 30 Sep 2026 12:57:01 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Gratisaktie bei XTB: Kostenlose Porsche-Vorzugsaktie für die ersten 5.000 Neukunden",
+        "link": "https://www.onvista.de/news/2026/09-30-xtb-gratisaktie-porsche-aktie-41122918-19-26550842",
+        "published": "Wed, 30 Sep 2026 12:18:02 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax hält vorbörsliche Gewinne – Ionos-Kurs schwach",
+        "link": "https://www.onvista.de/news/2026/09-30-dax-haelt-vorboersliche-gewinne-ionos-kurs-schwach-41121301-19-26558951",
+        "published": "Wed, 30 Sep 2026 10:05:56 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Leitindex im Plus erwartet – Gewinne bei Chipaktien",
@@ -359,42 +395,6 @@
         "title": "Ringhersteller Oura verschiebt Milliarden-Börsengang",
         "link": "https://www.onvista.de/news/2026/09-29-ringhersteller-oura-verschiebt-milliarden-boersengang-41121301-19-26558714",
         "published": "Tue, 29 Sep 2026 16:49:59 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Welches Potenzial abgestrafte Medtech-Aktien jetzt bieten",
-        "link": "https://www.onvista.de/news/2026/09-29-welches-potenzial-abgestrafte-medtech-aktien-jetzt-bieten-41122786-19-26558595",
-        "published": "Tue, 29 Sep 2026 14:00:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "AMD kauft World Labs, Nvidia Buyback, Meta greift SaaS an",
-        "link": "https://www.onvista.de/news/2026/09-29-amd-kauft-world-labs-nvidia-buyback-meta-greift-saas-an-40338625-19-26558554",
-        "published": "Tue, 29 Sep 2026 12:58:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Tagesgeld im September 2026: Hier sind aktuell bis zu 4,25 Prozent Zinsen drin",
-        "link": "https://www.onvista.de/news/2026/09-29-tagesgeld-im-september-2026-hier-sind-aktuell-bis-zu-4-25-prozent-zinsen-drin-41122918-19-26498067",
-        "published": "Tue, 29 Sep 2026 10:33:23 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax im Plus - Leitindex trotzt schwachem Umfeld",
-        "link": "https://www.onvista.de/news/2026/09-29-dax-im-plus-leitindex-trotzt-schwachem-umfeld-0-19-26558459",
-        "published": "Tue, 29 Sep 2026 09:52:45 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Das Wichtigste ist, zu sich selbst ehrlich zu sein",
-        "link": "https://www.onvista.de/news/2026/09-29-das-wichtigste-ist-zu-sich-selbst-ehrlich-zu-sein-41123050-19-26530448",
-        "published": "Tue, 29 Sep 2026 09:00:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Wir sind stets da, wenn Sie uns brauchen. Jetzt brauchen wir Sie. Ihre Stimme für BNP Paribas. >Hier abstimmen",
-        "link": "https://zertifikateaward.de/umfrage?ref=bnp",
-        "published": "Tue, 29 Sep 2026 08:53:30 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -406,7 +406,7 @@
       },
       {
         "source": "Börse Frankfurt – News",
-        "title": "Neun neue ETFs und ein neuer ETN",
+        "title": "Zehn neue ETFs und ein neuer ETN",
         "link": "https://www.boerse-frankfurt.de/nachrichten/neun-neue-etfs-und-ein-neuer-etn",
         "published": "Tue, 29 Sep 2026 09:13:09 GMT"
       },
@@ -462,15 +462,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Hitzesommer schlägt sich auch an der Börse nieder",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hitzesommer-100.html",
-        "published": "Tue, 29 Sep 2026 14:31:39 +0200"
+        "title": "Marktbericht: Commerzbank-Aktie gerät unter Druck",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/schwerpunkt-commerzbank-aktie-uebernahme-unicredit-100.html",
+        "published": "Wed, 30 Sep 2026 13:38:08 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Künstliche Intelligenz bleibt Stütze",
+        "title": "Marktbericht: KI sorgt für Rückenwind bei Tech-Werten",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
-        "published": "Wed, 30 Sep 2026 07:52:28 +0200"
+        "published": "Wed, 30 Sep 2026 11:22:36 +0200"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Hitzesommer schlägt sich auch an der Börse nieder",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hitzesommer-100.html",
+        "published": "Tue, 29 Sep 2026 14:31:39 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Treffen in Monaco: Rückversicherer warnen vor Naturkatastrophen",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-monte-carlo-100.html",
         "published": "Mon, 07 Sep 2026 14:35:17 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "VW-Aktie setzt sich an die DAX-Spitze",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/volkswagen-aktie-100.html",
-        "published": "Fri, 04 Sep 2026 14:36:45 +0200"
       }
     ],
     "Yahoo Finance – Top Stories (EN)": [
