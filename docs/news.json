@@ -1,18 +1,30 @@
 {
-  "updated_at": "2026-09-30T18:43:51.962266+00:00",
+  "updated_at": "2026-09-30T22:38:00.299327+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Altersvorsorgedepot: Trotz staatlicher Zulagen – Viele wollen laut Umfrage kein Depot eröffnen",
+        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorgedepot-trotz-staatlicher-zulagen-viele-wollen-laut-umfrage-kein-depot-eroeffnen/100258801.html",
+        "published": "Wed, 30 Sep 2026 22:24:32 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Notenbank: Interner Prüfer findet kein Fehlverhalten von Powell bei Umbau des Fed-Gebäudes",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/us-notenbank-interner-pruefer-findet-kein-powell-fehlverhalten-bei-fed-renovierung/100258782.html",
+        "published": "Wed, 30 Sep 2026 20:29:05 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt uneinheitlich, trotz starker Tech-Werte",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-uneinheitlich-trotz-starker-tech-werte/100258689.html",
+        "published": "Wed, 30 Sep 2026 20:00:26 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Geldpolitik: EZB-Präsidentin Lagarde: Könnte ein paar Monate früher abtreten",
         "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-ezb-praesidentin-lagarde-koennte-paar-monate-frueher-abtreten/100258774.html",
         "published": "Wed, 30 Sep 2026 18:22:54 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street liegt weiterhin leicht im Plus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-weiterhin-mit-leichten-tagesgewinnen/100258689.html",
-        "published": "Wed, 30 Sep 2026 17:38:59 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -34,7 +46,7 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Aktien: Billionen-Lücke: Basiert die KI-Rally auf unstimmigen Schätzungen von Analysten?",
+        "title": "Aktien: Zahlen sich die KI‑Investitionen aus? Rechnungen von Analysten weisen eine Billionen-Differenz auf",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/aktien-billionen-luecke-basiert-die-ki-rally-auf-unstimmigen-schaetzungen/100258542.html",
         "published": "Wed, 30 Sep 2026 13:38:03 GMT"
       },
@@ -109,140 +121,128 @@
         "title": "Anleihen: Rendite von 30-jährigen US-Bonds so hoch wie zuletzt 2002: „Spielraum für weitere Zinsanstiege“",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-rendite-von-30-jaehrigen-us-bonds-jetzt-so-hoch-wie-zuletzt-2002/100258428.html",
         "published": "Wed, 30 Sep 2026 07:15:13 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: So haben Wettanleger auf das Ende von Kanzler Merz spekuliert",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/geldanlage-wettanleger-haben-auf-das-ende-von-kanzler-merz-spekuliert/100257098.html",
-        "published": "Wed, 30 Sep 2026 05:40:11 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Türkei: Neuer Rat soll Fondsabwicklung in der Türkei überwachen",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/tuerkei-neuer-rat-soll-fondsabwicklung-in-der-tuerkei-ueberwachen/100258528.html",
-        "published": "Wed, 30 Sep 2026 05:38:22 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Passengers Avert Crash Tackling Pilot Who Stabbed Colleague",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/passengers-avoid-crash-tackle-pilot-video",
-        "published": "Wed, 30 Sep 2026 18:36:00 GMT"
+        "title": "Asian Stocks Eye Rough Start After US Reversal: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/stock-market-today-dow-s-p-live-updates",
+        "published": "Wed, 30 Sep 2026 22:19:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Formally Concludes Operation Inherent Resolve in Iraq",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/us-formally-concludes-operation-inherent-resolve-in-iraq-video",
-        "published": "Wed, 30 Sep 2026 18:35:59 GMT"
+        "title": "CCC Debt Turns Distressed for First Time Since 2023 Crisis",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/ccc-debt-turns-distressed-for-first-time-since-2023-bank-crisis",
+        "published": "Wed, 30 Sep 2026 22:10:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "“We Are In an Era of Warped Entrepreneurship,” Says Makunda",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/-we-are-in-an-era-of-warped-entrepreneurship-makunda-video",
-        "published": "Wed, 30 Sep 2026 18:33:06 GMT"
+        "title": "Hedge Funds Diameter, Redwood Bought Nuveen Brightline Debt",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/hedge-funds-diameter-redwood-purchased-nuveen-s-brightline-debt",
+        "published": "Wed, 30 Sep 2026 21:23:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Need Energy, Water Solutions With Data Centers: Jan Vesely",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/need-energy-water-solutions-with-data-centers-vesely-video",
-        "published": "Wed, 30 Sep 2026 18:25:30 GMT"
+        "title": "Latest Oil Market News and Analysis for Oct. 1",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/latest-oil-market-news-and-analysis-for-oct-1",
+        "published": "Wed, 30 Sep 2026 22:02:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UnitedHealth Must Face Shareholder Suit by CalPERS, Judge Rules",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/unitedhealth-must-face-shareholder-suit-by-calpers-judge-rules",
-        "published": "Wed, 30 Sep 2026 17:30:33 GMT"
+        "title": "Australia Housing Market: Why Are Home Prices Falling, How Far Could They Drop",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/australia-housing-market-why-are-home-prices-falling-how-far-could-they-drop",
+        "published": "Wed, 30 Sep 2026 21:57:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "AI 'Will Get Us Closer To Curing Cancer', Says Sen. Budd",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/ai-will-get-us-closer-to-curing-cancer-says-sen-budd-video",
-        "published": "Wed, 30 Sep 2026 18:12:34 GMT"
+        "title": "Paramount Wraps Up $52 Billion Debt Sale to Fund Warner Buyout",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/paramount-cuts-pricing-on-30-billion-high-grade-bond-sale",
+        "published": "Wed, 30 Sep 2026 14:09:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Some Oura IPO Investors Were Said to Push Back Citing Valuation",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/some-oura-ipo-investors-to-push-back-citing-valuation-video",
-        "published": "Wed, 30 Sep 2026 18:10:09 GMT"
+        "title": "UMich’s Stevenson on Fed Report, Inflation Reading",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/umich-s-stevenson-on-fed-report-inflation-reading-video",
+        "published": "Wed, 30 Sep 2026 21:26:26 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ford’s 45% Rally Wiped Out as Hopes for an AI Windfall Fizzle",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/ford-s-45-rally-wiped-out-as-hopes-for-an-ai-windfall-fizzle",
-        "published": "Wed, 30 Sep 2026 18:05:32 GMT"
+        "title": "Why American Homeowners Are Stuck",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/opinion-why-american-homeowners-are-stuck-video",
+        "published": "Wed, 30 Sep 2026 21:19:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Equal-Weight S&P 500 Set for a Rare, Weeks-Long Losing Streak",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/equal-weight-s-p-500-set-for-a-rare-weeks-long-losing-streak",
-        "published": "Wed, 30 Sep 2026 18:02:30 GMT"
+        "title": "National Geographic Shares its 130+ Year Story",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/national-geographic-shares-its-130-year-story-video",
+        "published": "Wed, 30 Sep 2026 21:18:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Rise as Inflation Surprise Curbs Fed Bets: Markets Wrap",
+        "title": "Mexican Peso Becomes World’s Worst as Carry Traders Flee",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/mexico-s-peso-becomes-worst-in-the-world-as-carry-traders-flee",
+        "published": "Wed, 30 Sep 2026 16:00:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The Elusive Power Players Behind the Rise of Jane Street",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/the-elusive-power-players-behind-the-rise-of-jane-street",
+        "published": "Wed, 30 Sep 2026 21:00:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Spending for the End of the World",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-09-30/spending-for-the-end-of-the-world",
+        "published": "Wed, 30 Sep 2026 20:56:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Amex's New AI Agent for Expenses (Correct)",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/amex-s-new-ai-agent-for-expenses-video",
+        "published": "Wed, 30 Sep 2026 14:47:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "S&P 500 Falls at End of Worst Month Since June: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates",
         "published": "Tue, 29 Sep 2026 22:12:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "New Zealand House Prices Fall to Lowest Since Early 2021",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/new-zealand-house-prices-fall-to-lowest-since-early-2021",
-        "published": "Wed, 30 Sep 2026 18:00:00 GMT"
+        "title": "Dollar Wraps Best Month Since March on Fed’s Inflation Fight",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/dollar-powers-to-best-month-since-june-on-fed-s-inflation-fight",
+        "published": "Wed, 30 Sep 2026 00:18:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Global Bonds Face Worst Quarter Since 2024 on Inflation Fear",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/global-bonds-face-worst-quarter-since-2024-on-inflation-fears",
-        "published": "Wed, 30 Sep 2026 13:14:25 GMT"
+        "title": "S&P 500 Suffers Worst Month Since June as Rate Worries Persist",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/us-stock-futures-hold-steady-ahead-of-pce-data-micron-earnings",
+        "published": "Wed, 30 Sep 2026 11:53:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Munis Rally Most in Nearly Six Months, Snapping Selloff",
+        "title": "Munis Snap Selloff in Biggest Rally in More Than a Year",
         "link": "https://www.bloomberg.com/news/articles/2026-09-30/munis-rally-most-in-nearly-six-months-snapping-selloff",
         "published": "Wed, 30 Sep 2026 17:32:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Tesla Lines Up $30 Billion to Borrow With Spending on Rise",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise",
-        "published": "Tue, 29 Sep 2026 21:19:19 GMT"
+        "title": "Vale Mulls Over $500 Million in First Time Panda Bond Sale",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/vale-mulls-raising-over-500-million-in-debut-panda-bond-sale",
+        "published": "Wed, 30 Sep 2026 05:07:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "JPMorgan Hires Three for Natural Resources Banking",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/jpmorgan-hires-three-for-natural-resources-banking-team",
-        "published": "Tue, 29 Sep 2026 15:15:41 GMT"
+        "title": "Ford’s 45% Rally Wiped Out as Hopes for AI Windfall Fizzle",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/ford-s-45-rally-wiped-out-as-hopes-for-an-ai-windfall-fizzle",
+        "published": "Wed, 30 Sep 2026 18:05:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "FlyDubai Crash Averted After Pilot Stabbed Colleague",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/flydubai-crash-averted-after-pilot-stabbed-colleague-video",
-        "published": "Wed, 30 Sep 2026 16:08:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Convicted Insider Trader Arrested in Dubai After Fleeing France",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/convicted-insider-trader-arrested-in-dubai-after-fleeing-france",
-        "published": "Wed, 30 Sep 2026 17:05:26 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ackman Talks Howard Hughes Plans, IPOs and Anthropic",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/ackman-talks-howard-hughes-plans-ipos-and-anthropic-video",
-        "published": "Wed, 30 Sep 2026 16:51:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fed Votes to Overhaul Stress Tests in Win for Big Banks",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/fed-votes-to-overhaul-stress-tests-in-major-wall-street-bank-win",
-        "published": "Wed, 30 Sep 2026 13:01:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Paramount Set to Raise $42.4 Billion Through Bond Offerings",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/paramount-cuts-pricing-on-30-billion-high-grade-bond-sale",
-        "published": "Wed, 30 Sep 2026 14:09:01 GMT"
+        "title": "Micron Beats Estimates as AI Data Center Revenue Surges | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/micron-beats-estimates-closing-bell-video",
+        "published": "Wed, 30 Sep 2026 20:17:20 GMT"
       }
     ],
     "onvista – News": [
