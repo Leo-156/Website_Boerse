@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-30T22:38:00.299327+00:00",
+  "updated_at": "2026-10-01T01:32:20.091310+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Anleihen: US-Rendite zehnjähriger Bonds bei 5,3 Prozent – höchster Stand seit 24 Jahren",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-us-rendite-zehnjaehriger-bonds-bei-53-prozent-hoechster-stand-seit-24-jahren/100258428.html",
+        "published": "Thu, 01 Oct 2026 00:36:44 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Neobroker: Im Schlaf handeln: Robinhood führt Handel mit KI-Finanzagenten ein",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/neobroker-im-schlaf-handeln-robinhood-fuehrt-handel-mit-ki-finanzagenten-ein/100258763.html",
+        "published": "Wed, 30 Sep 2026 22:46:51 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Altersvorsorgedepot: Trotz staatlicher Zulagen – Viele wollen laut Umfrage kein Depot eröffnen",
@@ -109,26 +121,62 @@
         "title": "Immobilien: Krise am Immobilienmarkt trifft nun auch Gutverdiener",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-krise-am-immobilienmarkt-trifft-nun-auch-gutverdiener/100258025.html",
         "published": "Wed, 30 Sep 2026 07:52:18 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Bis zu 14 Prozent Jahresrendite: Welche Robo-Advisor am besten performen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-diese-robo-advisor-brachten-anlegern-2025-die-hoechsten-renditen/100224417.html",
-        "published": "Wed, 30 Sep 2026 07:33:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Anleihen: Rendite von 30-jährigen US-Bonds so hoch wie zuletzt 2002: „Spielraum für weitere Zinsanstiege“",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-rendite-von-30-jaehrigen-us-bonds-jetzt-so-hoch-wie-zuletzt-2002/100258428.html",
-        "published": "Wed, 30 Sep 2026 07:15:13 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Eye Rough Start After US Reversal: Markets Wrap",
+        "title": "Gina Rinehart Backed Lynas to Buy Rare Earths Miner Meteoric",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/gina-rinehart-backed-lynas-to-buy-rare-earths-miner-meteoric",
+        "published": "Wed, 30 Sep 2026 23:40:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Chile’s 2027 Fiscal Spending to Rise 1.5%, Focus on Employment",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/chile-s-2027-fiscal-spending-to-rise-1-5-focus-on-employment",
+        "published": "Thu, 01 Oct 2026 00:55:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asian Bonds Follow Treasuries Lower, Stocks Fall: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-30/stock-market-today-dow-s-p-live-updates",
         "published": "Wed, 30 Sep 2026 22:19:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China’s Property Crisis: From Evergrande Collapse to Beijing’s Latest Measures",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/china-s-property-crisis-from-evergrande-collapse-to-beijing-s-latest-measures",
+        "published": "Thu, 01 Oct 2026 00:24:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 1",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/latest-oil-market-news-and-analysis-for-oct-1",
+        "published": "Wed, 30 Sep 2026 22:02:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Passengers Avert Crash by Tackling Pilot Who Stabbed Colleague",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-30/passengers-avert-crash-tackling-pilot-video",
+        "published": "Wed, 30 Sep 2026 20:10:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Steady as Softer Inflation Data Tempers Fed Rate-Hike Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/gold-steady-as-softer-inflation-data-tempers-fed-rate-hike-bets",
+        "published": "Thu, 01 Oct 2026 00:08:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "RBI’s Success on Dollar Flows Raises Stakes in Inflation Fight",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/rbi-s-success-on-dollar-flows-raises-stakes-in-inflation-fight",
+        "published": "Thu, 01 Oct 2026 00:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "CFTC Secures $30 Million Judgment Tied to Alleged Crypto Scam",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-30/cftc-secures-30-million-judgment-tied-to-alleged-crypto-scam",
+        "published": "Wed, 30 Sep 2026 22:27:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -141,12 +189,6 @@
         "title": "Hedge Funds Diameter, Redwood Bought Nuveen Brightline Debt",
         "link": "https://www.bloomberg.com/news/articles/2026-09-30/hedge-funds-diameter-redwood-purchased-nuveen-s-brightline-debt",
         "published": "Wed, 30 Sep 2026 21:23:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 1",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/latest-oil-market-news-and-analysis-for-oct-1",
-        "published": "Wed, 30 Sep 2026 22:02:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -201,48 +243,6 @@
         "title": "Amex's New AI Agent for Expenses (Correct)",
         "link": "https://www.bloomberg.com/news/videos/2026-09-30/amex-s-new-ai-agent-for-expenses-video",
         "published": "Wed, 30 Sep 2026 14:47:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P 500 Falls at End of Worst Month Since June: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 29 Sep 2026 22:12:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Dollar Wraps Best Month Since March on Fed’s Inflation Fight",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/dollar-powers-to-best-month-since-june-on-fed-s-inflation-fight",
-        "published": "Wed, 30 Sep 2026 00:18:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P 500 Suffers Worst Month Since June as Rate Worries Persist",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/us-stock-futures-hold-steady-ahead-of-pce-data-micron-earnings",
-        "published": "Wed, 30 Sep 2026 11:53:14 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Munis Snap Selloff in Biggest Rally in More Than a Year",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/munis-rally-most-in-nearly-six-months-snapping-selloff",
-        "published": "Wed, 30 Sep 2026 17:32:46 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Vale Mulls Over $500 Million in First Time Panda Bond Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/vale-mulls-raising-over-500-million-in-debut-panda-bond-sale",
-        "published": "Wed, 30 Sep 2026 05:07:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ford’s 45% Rally Wiped Out as Hopes for AI Windfall Fizzle",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/ford-s-45-rally-wiped-out-as-hopes-for-an-ai-windfall-fizzle",
-        "published": "Wed, 30 Sep 2026 18:05:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Micron Beats Estimates as AI Data Center Revenue Surges | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/micron-beats-estimates-closing-bell-video",
-        "published": "Wed, 30 Sep 2026 20:17:20 GMT"
       }
     ],
     "onvista – News": [
