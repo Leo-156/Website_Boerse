@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-01T01:32:20.091310+00:00",
+  "updated_at": "2026-10-01T07:46:19.924162+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei und Topix: Nikkei gewinnt mehr als drei Prozent – Chipaktien größte Gewinner",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-und-topix-nikkei-gewinnt-mehr-als-drei-prozent/100258842.html",
+        "published": "Thu, 01 Oct 2026 07:27:19 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax startet schwächer – Infineon-Aktie steigt",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-schwaecher-infineon-aktie-steigt/100258866.html",
+        "published": "Thu, 01 Oct 2026 07:25:24 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Finanzbranche: Krakau statt Frankfurt: Fondsdienstleister streicht Stellen in Deutschland",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/finanzbranche-krakau-statt-frankfurt-fondsdienstleister-streicht-jobs/100258328.html",
+        "published": "Thu, 01 Oct 2026 06:06:24 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 1. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Thu, 01 Oct 2026 04:21:04 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Lebensversicherung: So stehen die größten deutschen Lebensversicherer finanziell da",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/lebensversicherung-so-stehen-die-groessten-deutschen-lebensversicherer-finanziell-da/100256085.html",
+        "published": "Thu, 01 Oct 2026 02:05:59 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Notenbank: „Sofort“! Trump fordert Powells Rücktritt als Fed-Gouverneur",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/usa-sofort-trump-fordert-powells-ruecktritt-als-fed-gouverneur/100258782.html",
+        "published": "Thu, 01 Oct 2026 01:31:07 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Anleihen: US-Rendite zehnjähriger Bonds bei 5,3 Prozent – höchster Stand seit 24 Jahren",
@@ -11,7 +47,7 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Neobroker: Im Schlaf handeln: Robinhood führt Handel mit KI-Finanzagenten ein",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/neobroker-im-schlaf-handeln-robinhood-fuehrt-handel-mit-ki-finanzagenten-ein/100258763.html",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/broker-robinhood-fuehrt-handel-mit-ki-finanzagenten-ein/100258763.html",
         "published": "Wed, 30 Sep 2026 22:46:51 GMT"
       },
       {
@@ -19,12 +55,6 @@
         "title": "Altersvorsorgedepot: Trotz staatlicher Zulagen – Viele wollen laut Umfrage kein Depot eröffnen",
         "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorgedepot-trotz-staatlicher-zulagen-viele-wollen-laut-umfrage-kein-depot-eroeffnen/100258801.html",
         "published": "Wed, 30 Sep 2026 22:24:32 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Notenbank: Interner Prüfer findet kein Fehlverhalten von Powell bei Umbau des Fed-Gebäudes",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/us-notenbank-interner-pruefer-findet-kein-powell-fehlverhalten-bei-fed-renovierung/100258782.html",
-        "published": "Wed, 30 Sep 2026 20:29:05 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -91,161 +121,149 @@
         "title": "Geldanlage: Nvidia nutzt seine niedrige Bewertung für Rückkäufe – das sind die Folgen für Aktionäre",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/aktien-nvidia-mit-rekord-rueckkauf-das-sind-die-folgen-fuer-aktionaere/100258206.html",
         "published": "Wed, 30 Sep 2026 10:37:21 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Fondsmanager – „Für die Garantie zahlen Sie einen hohen Preis“",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/aktien-wie-junge-anleger-die-richtige-anlagestrategie-finden/100222130.html",
-        "published": "Wed, 30 Sep 2026 09:32:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Interview: Private-Equity-Chef von Blackstone: „Wir blicken sehr positiv auf Deutschland“",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/blackstone-wir-setzen-auf-eine-steigende-nachfrage-nach-ki-infrastruktur/100256551.html",
-        "published": "Wed, 30 Sep 2026 08:50:44 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Nur in einer Stadt reicht die Bafög‑Wohnhilfe für die Miete",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-nur-in-einer-stadt-reicht-die-bafoegwohnhilfe-fuer-die-miete/100258176.html",
-        "published": "Wed, 30 Sep 2026 08:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei, Topix, CSI 300: Inflations- und Kriegssorgen belasten Anleihemärkte – Märkte in Asien schließen uneinheitlich",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-inflations-und-kriegssorgen-belasten-anleihemaerkte/100258509.html",
-        "published": "Wed, 30 Sep 2026 07:53:30 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Krise am Immobilienmarkt trifft nun auch Gutverdiener",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-krise-am-immobilienmarkt-trifft-nun-auch-gutverdiener/100258025.html",
-        "published": "Wed, 30 Sep 2026 07:52:18 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Gina Rinehart Backed Lynas to Buy Rare Earths Miner Meteoric",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/gina-rinehart-backed-lynas-to-buy-rare-earths-miner-meteoric",
-        "published": "Wed, 30 Sep 2026 23:40:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Chile’s 2027 Fiscal Spending to Rise 1.5%, Focus on Employment",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/chile-s-2027-fiscal-spending-to-rise-1-5-focus-on-employment",
-        "published": "Thu, 01 Oct 2026 00:55:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Asian Bonds Follow Treasuries Lower, Stocks Fall: Markets Wrap",
+        "title": "US Stock Gains Fade as Oil Fuels Bond Selloff: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-09-30/stock-market-today-dow-s-p-live-updates",
         "published": "Wed, 30 Sep 2026 22:19:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China’s Property Crisis: From Evergrande Collapse to Beijing’s Latest Measures",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/china-s-property-crisis-from-evergrande-collapse-to-beijing-s-latest-measures",
-        "published": "Thu, 01 Oct 2026 00:24:59 GMT"
+        "title": "India Stock Futures Trading Slumps as Auction Disrupts Arbitrage",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/india-stock-futures-trading-slumps-as-auction-disrupts-arbitrage",
+        "published": "Thu, 01 Oct 2026 07:30:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 1",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/latest-oil-market-news-and-analysis-for-oct-1",
-        "published": "Wed, 30 Sep 2026 22:02:36 GMT"
+        "title": "Treasury 10-Year Yield Hits Highest Since 2002 on Rate Outlook",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/treasury-10-year-yield-hits-highest-since-2002-on-rate-outlook-mup7ryq2",
+        "published": "Thu, 01 Oct 2026 07:29:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Passengers Avert Crash by Tackling Pilot Who Stabbed Colleague",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/passengers-avert-crash-tackling-pilot-video",
-        "published": "Wed, 30 Sep 2026 20:10:50 GMT"
+        "title": "FTSE 100 Live: UK 30-Year Yields Hit 6% as Global Bond Selloff Reignites",
+        "link": "https://www.bloomberg.com/news/live-blog/2026-10-01/ftse-100-live-pound-gilts-house-prices-iran-trump-hormuz-oil-prices-ai-stocks-what-s-moving-uk-markets-right-now-markets-today",
+        "published": "Thu, 01 Oct 2026 05:48:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Steady as Softer Inflation Data Tempers Fed Rate-Hike Bets",
+        "title": "Airtel Money Plans UK IPO That May Rank as Biggest in Five Years",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/airtel-money-backers-are-seeking-to-raise-529-million-in-uk-ipo",
+        "published": "Thu, 01 Oct 2026 07:23:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ares, Apollo Lead $6.5 Billion Debt Deal for Phoenix Tower",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/ares-leads-phoenix-tower-debt-package-with-2-billion-facility",
+        "published": "Thu, 01 Oct 2026 05:01:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Rises as Softer Inflation Data Tempers Fed Rate-Hike Bets",
         "link": "https://www.bloomberg.com/news/articles/2026-10-01/gold-steady-as-softer-inflation-data-tempers-fed-rate-hike-bets",
         "published": "Thu, 01 Oct 2026 00:08:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "RBI’s Success on Dollar Flows Raises Stakes in Inflation Fight",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/rbi-s-success-on-dollar-flows-raises-stakes-in-inflation-fight",
-        "published": "Thu, 01 Oct 2026 00:00:00 GMT"
+        "title": "JPMorgan's Sajjid Chinoy Expects RBI To Hike Rates In October 5 Meeting",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-01/jpmorgan-s-chinoy-expects-rbi-to-hike-rates-in-october-video",
+        "published": "Thu, 01 Oct 2026 07:14:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "CFTC Secures $30 Million Judgment Tied to Alleged Crypto Scam",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/cftc-secures-30-million-judgment-tied-to-alleged-crypto-scam",
-        "published": "Wed, 30 Sep 2026 22:27:24 GMT"
+        "title": "Billionaire Solowow Eyes 2028 IPO for Polish Nuclear Power Firm",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/billionaire-solowow-eyes-2028-ipo-for-polish-nuclear-power-firm",
+        "published": "Thu, 01 Oct 2026 07:00:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "CCC Debt Turns Distressed for First Time Since 2023 Crisis",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/ccc-debt-turns-distressed-for-first-time-since-2023-bank-crisis",
-        "published": "Wed, 30 Sep 2026 22:10:05 GMT"
+        "title": "Investors Stung as Favorite European Swap-Rates Trade Flops",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/investors-stung-as-favorite-european-swap-rates-trade-flops",
+        "published": "Thu, 01 Oct 2026 07:00:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Hedge Funds Diameter, Redwood Bought Nuveen Brightline Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/hedge-funds-diameter-redwood-purchased-nuveen-s-brightline-debt",
-        "published": "Wed, 30 Sep 2026 21:23:15 GMT"
+        "title": "India's Rate Hike Moment Nears as Inflation Pressure Builds",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-01/insight-with-haslinda-amin-10-1-2026-video",
+        "published": "Thu, 01 Oct 2026 06:39:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Australia Housing Market: Why Are Home Prices Falling, How Far Could They Drop",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/australia-housing-market-why-are-home-prices-falling-how-far-could-they-drop",
-        "published": "Wed, 30 Sep 2026 21:57:04 GMT"
+        "title": "Turkey to Start Payments to Investors Caught in Fund Crisis",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/turkey-to-start-payments-to-investors-caught-in-fund-crisis",
+        "published": "Thu, 01 Oct 2026 06:30:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Paramount Wraps Up $52 Billion Debt Sale to Fund Warner Buyout",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/paramount-cuts-pricing-on-30-billion-high-grade-bond-sale",
-        "published": "Wed, 30 Sep 2026 14:09:01 GMT"
+        "title": "Hedge Funds Boost Bets on Euro Weakness as French Risks Increase",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/hedge-funds-boost-bets-on-euro-weakness-as-french-risks-increase",
+        "published": "Thu, 01 Oct 2026 06:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UMich’s Stevenson on Fed Report, Inflation Reading",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/umich-s-stevenson-on-fed-report-inflation-reading-video",
-        "published": "Wed, 30 Sep 2026 21:26:26 GMT"
+        "title": "Kiran Nadar's $850 Million-Plus Art Bet to Build a Museum-Going India",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-01/kiran-nadar-s-850-million-art-bet-on-museum-going-india-video",
+        "published": "Thu, 01 Oct 2026 06:29:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Why American Homeowners Are Stuck",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/opinion-why-american-homeowners-are-stuck-video",
-        "published": "Wed, 30 Sep 2026 21:19:22 GMT"
+        "title": "OpenAI Accuses Moonshot of Extracting Data From AI Models",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-01/the-china-show-10-1-2026-video",
+        "published": "Thu, 01 Oct 2026 06:28:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "National Geographic Shares its 130+ Year Story",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/national-geographic-shares-its-130-year-story-video",
-        "published": "Wed, 30 Sep 2026 21:18:15 GMT"
+        "title": "Global Bond Funds Are Rewarding the Early Movers on Inflation",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/global-bond-funds-are-rewarding-the-early-movers-on-inflation",
+        "published": "Thu, 01 Oct 2026 06:15:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Mexican Peso Becomes World’s Worst as Carry Traders Flee",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/mexico-s-peso-becomes-worst-in-the-world-as-carry-traders-flee",
-        "published": "Wed, 30 Sep 2026 16:00:06 GMT"
+        "title": "FlyDubai Incident: What We Know",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-01/flydubai-incident-what-we-know-video",
+        "published": "Thu, 01 Oct 2026 06:12:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "The Elusive Power Players Behind the Rise of Jane Street",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/the-elusive-power-players-behind-the-rise-of-jane-street",
-        "published": "Wed, 30 Sep 2026 21:00:20 GMT"
+        "title": "Ten Reasons Investors Are Driving Government Bond Yields Higher",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/ten-reasons-investors-are-driving-government-bond-yields-higher",
+        "published": "Thu, 01 Oct 2026 01:58:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Spending for the End of the World",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-09-30/spending-for-the-end-of-the-world",
-        "published": "Wed, 30 Sep 2026 20:56:41 GMT"
+        "title": "Copper Steadies With Focus on Supplies During China’s Holiday",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/copper-steadies-with-focus-on-supply-during-china-holiday",
+        "published": "Thu, 01 Oct 2026 02:08:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Amex's New AI Agent for Expenses (Correct)",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-30/amex-s-new-ai-agent-for-expenses-video",
-        "published": "Wed, 30 Sep 2026 14:47:20 GMT"
+        "title": "Ben Affleck on AI and Hollywood Economics",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-01/ben-affleck-on-ai-and-hollywood-economics-video",
+        "published": "Thu, 01 Oct 2026 05:58:44 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax dürfte schwächer starten - tiefster Stand seit Juli droht",
+        "link": "https://www.onvista.de/news/2026/10-01-dax-duerfte-schwaecher-starten-tiefster-stand-seit-juli-droht-41121301-19-26559355",
+        "published": "Thu, 01 Oct 2026 08:07:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 01.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-01-finanzberichte-heute-01-10-2026-41121301-19-26559314",
+        "published": "Thu, 01 Oct 2026 06:10:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  01.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-01-dividendenalarm-heute-01-10-2026-41121301-19-26559311",
+        "published": "Thu, 01 Oct 2026 06:00:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Leitindex im Minus: Inflation belastet trotz guter US-Daten",
@@ -377,24 +395,6 @@
         "title": "OpenAI will Bewertung auf 1,4 Billionen Dollar treiben",
         "link": "https://www.onvista.de/news/2026/09-29-openai-will-bewertung-auf-1-4-billionen-dollar-treiben-41121301-19-26558801",
         "published": "Tue, 29 Sep 2026 20:26:42 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Evonik: BASF könnte Angebot auf 24 Euro je Aktie erhöhen",
-        "link": "https://www.onvista.de/news/2026/09-29-evonik-basf-koennte-angebot-auf-24-euro-je-aktie-erhoehen-40338625-19-26558747",
-        "published": "Tue, 29 Sep 2026 18:14:04 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Redcare: Die höhere Umsatzprognose treibt die Aktie",
-        "link": "https://www.onvista.de/news/2026/09-29-redcare-die-hoehere-umsatzprognose-treibt-die-aktie-40338625-19-26558746",
-        "published": "Tue, 29 Sep 2026 18:13:20 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Royal Caribbean: Nach dem Einbruch sind 320 Dollar möglich",
-        "link": "https://www.onvista.de/news/2026/09-29-royal-caribbean-nach-dem-einbruch-sind-320-dollar-moeglich-40338625-19-26558757",
-        "published": "Tue, 29 Sep 2026 18:12:07 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Zinsängste schrecken DAX-Anleger ab",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
-        "published": "Wed, 30 Sep 2026 18:22:36 +0200"
+        "title": "Marktbericht: DAX dürfte mit Verlusten starten",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
+        "published": "Thu, 01 Oct 2026 07:26:20 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
