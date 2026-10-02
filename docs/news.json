@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-01T23:30:42.222311+00:00",
+  "updated_at": "2026-10-02T02:33:34.076667+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Wo Käufer im Umland der Metropolen bis zu 62 Prozent sparen",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-kaeufer-im-umland-der-metropolen-bis-zu-62-prozent-sparen/100249545.html",
+        "published": "Fri, 02 Oct 2026 02:01:32 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte im Blick: Warum haben die Börsen steigende Zinsen so lange ignoriert?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte-im-blick-warum-haben-die-boersen-steigende-zinsen-so-lange-ignoriert/100258570.html",
+        "published": "Fri, 02 Oct 2026 02:00:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt kaum verändert – Ölpreis steigt",
@@ -109,32 +121,110 @@
         "title": "Neobroker: Im Schlaf handeln: Robinhood führt Handel mit KI-Finanzagenten ein",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/broker-robinhood-fuehrt-handel-mit-ki-finanzagenten-ein-01/100258763.html",
         "published": "Thu, 01 Oct 2026 09:14:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Altersvorsorgedepot: Trotz staatlicher Zulagen – Viele wollen laut Umfrage kein Depot eröffnen",
-        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorgedepot-trotz-staatlicher-zulagen-viele-wollen-laut-umfrage-kein-depot-eroeffnen/100258801.html",
-        "published": "Wed, 30 Sep 2026 22:24:32 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt uneinheitlich, trotz starker Tech-Werte",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-uneinheitlich-trotz-starker-tech-werte/100258689.html",
-        "published": "Wed, 30 Sep 2026 20:00:26 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Set to Fall, Treasury Yields Slide: Markets Wrap",
+        "title": "World’s Top LNG Buyer Doesn’t See Qatar Supply Coming Back Soon",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/world-s-top-lng-buyer-doesn-t-see-qatar-supply-coming-back-soon",
+        "published": "Fri, 02 Oct 2026 02:21:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries Hold Gains After Rally, Stocks Decline: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-01/asian-stocks-to-fall-on-oil-rally-bonds-in-focus-markets-wrap",
         "published": "Thu, 01 Oct 2026 22:15:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asia Bankers Hope Japan, Australia Can Lift M&A From Doldrums",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/asia-bankers-hope-japan-australia-can-lift-m-a-from-doldrums",
+        "published": "Fri, 02 Oct 2026 01:54:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Indonesia’s 30% Stock Rout Lures Swedish Fund in First-Ever Bet",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/indonesia-s-30-stock-rout-lures-swedish-fund-in-first-ever-bet",
+        "published": "Fri, 02 Oct 2026 01:47:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Australia Sees Export Income Rising 5% on High Energy Prices",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/australia-sees-global-commodity-woes-lifting-export-income-by-5",
+        "published": "Thu, 01 Oct 2026 14:01:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nvidia-Backed Firmus Prices Landmark IPO at A$11 a Share",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports",
+        "published": "Thu, 01 Oct 2026 22:30:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Oct. 2",
         "link": "https://www.bloomberg.com/news/articles/2026-10-01/latest-oil-market-news-and-analysis-for-oct-2",
         "published": "Thu, 01 Oct 2026 22:03:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries Rebound as Global Bond Rout Continues",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/treasuries-rebound-as-global-bond-rout-continues-video",
+        "published": "Fri, 02 Oct 2026 00:52:57 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US May Add Carrier and 10,000 Troops to Mideast, Official Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/us-may-add-carrier-and-10-000-troops-to-middle-east-video",
+        "published": "Fri, 02 Oct 2026 00:40:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Anthropic Said to Target Mega-IPO Before Thanksgiving Holiday",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/anthropic-said-to-target-ipo-before-thanksgiving-holiday-video",
+        "published": "Fri, 02 Oct 2026 00:40:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Steadies as Easing US Bond Yields Reduce Rate-Hike Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/gold-steadies-as-easing-us-bond-yields-reduce-rate-hike-bets",
+        "published": "Fri, 02 Oct 2026 00:14:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "What Do Entertainment Industry Leaders Look for in a Pitch?",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/what-do-entertainment-leaders-look-for-in-a-pitch-video",
+        "published": "Fri, 02 Oct 2026 00:08:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bloomberg Screentime: AI, Streaming Wars and Deals",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/bloomberg-screentime-ai-streaming-wars-and-deals-video",
+        "published": "Fri, 02 Oct 2026 00:04:34 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "NBCUniversal's Donna Langley on Film, TV and Streaming",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-01/nbcuniversal-s-donna-langley-on-film-tv-and-streaming-video",
+        "published": "Thu, 01 Oct 2026 23:47:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Australia-US Bond Yield Gap Nears Zero as Policy Paths Diverge",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/australia-us-bond-yield-gap-nears-zero-as-policy-paths-diverge",
+        "published": "Thu, 01 Oct 2026 23:43:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Paramount Dealmaker Says Warner Merger Is About Growth, Not Cuts",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/paramount-dealmaker-says-warner-merger-is-about-growth-not-cuts",
+        "published": "Thu, 01 Oct 2026 23:24:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "RedBird's Cardinale on Paramount Future & Investing",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-01/redbird-s-cardinale-on-paramount-future-investing-video",
+        "published": "Thu, 01 Oct 2026 23:22:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -153,96 +243,6 @@
         "title": "Cboe Eyes VIX Perpetuals as Exchanges Move Beyond Crypto",
         "link": "https://www.bloomberg.com/news/articles/2026-10-01/cboe-eyes-vix-perpetual-futures-as-exchanges-move-beyond-crypto",
         "published": "Thu, 01 Oct 2026 17:02:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Diary of a CEO's Steven Bartlett on Podcast Growth",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/the-diary-of-a-ceo-s-steven-bartlett-on-podcast-growth-video",
-        "published": "Thu, 01 Oct 2026 22:09:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "'Shameless' Actor Noel Fisher on AI in Hollywood",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/-shameless-actor-noel-fisher-on-ai-in-hollywood-video",
-        "published": "Thu, 01 Oct 2026 22:02:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "De olho nas eleições no Brasil",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/de-olho-nas-eleicoes-no-brasil-video",
-        "published": "Thu, 01 Oct 2026 22:02:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Semmelhack on Nike’s Sneaker-Culture Future Post-Results",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/semmelhack-on-nike-s-sneaker-culture-future-post-results-video",
-        "published": "Thu, 01 Oct 2026 21:51:34 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nuveen CEO on Schroders Deal, Plans for Combined Company",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/nuveen-ceo-on-schroders-deal-plans-for-combined-company-video",
-        "published": "Thu, 01 Oct 2026 21:30:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Best of Bloomberg Podcasts",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/the-best-of-bloomberg-podcasts-video",
-        "published": "Thu, 01 Oct 2026 21:24:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Swelling Bets Against Treasuries Are Fueling Repo Borrowing Cost",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/swelling-bets-against-treasuries-are-fueling-repo-borrowing-cost",
-        "published": "Thu, 01 Oct 2026 21:07:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Anthropic Targets Mega-IPO Before Thanksgiving Holiday",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday",
-        "published": "Thu, 01 Oct 2026 17:27:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Paramount’s $41 Billion of M&A Bonds Slump as Trading Begins",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/paramount-s-41-billion-of-m-a-bonds-slump-as-trading-begins",
-        "published": "Thu, 01 Oct 2026 12:35:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Global Bond Selloff, US Benchmark Slides, Paramount's Debt",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/real-yield-10-1-2026-video",
-        "published": "Thu, 01 Oct 2026 20:58:10 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Man City scandal rocking the Premier League",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/the-man-city-scandal-rocking-the-premier-league",
-        "published": "Thu, 01 Oct 2026 20:45:26 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Rise as Yields Drop From Multi-Decade Highs: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 30 Sep 2026 22:19:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bowman Sees No Urgent Need for Fed Rate Moves This Year",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/bowman-sees-no-urgent-need-for-fed-rate-moves-this-year-video",
-        "published": "Thu, 01 Oct 2026 20:30:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Gains as Yields Retreat Despite Lingering Inflation Risks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/gold-steady-as-softer-inflation-data-tempers-fed-rate-hike-bets",
-        "published": "Thu, 01 Oct 2026 00:08:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Powell Jobs & Anonymous' Walker on Investing in Media",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/powell-jobs-anonymous-walker-on-investing-in-media-video",
-        "published": "Thu, 01 Oct 2026 20:01:28 GMT"
       }
     ],
     "onvista – News": [
