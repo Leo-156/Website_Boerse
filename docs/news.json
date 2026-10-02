@@ -1,10 +1,34 @@
 {
-  "updated_at": "2026-10-02T02:33:34.076667+00:00",
+  "updated_at": "2026-10-02T08:58:51.179151+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Wo Käufer im Umland der Metropolen bis zu 62 Prozent sparen",
+        "title": "Dax aktuell: Dax erobert 25.000-Punkte-Marke zurück – Puma-Aktie unter Druck",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-erobert-25.000-punkte-marke-zurueck-puma-aktie-verliert/100259189.html",
+        "published": "Fri, 02 Oct 2026 08:16:49 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Tarifverhandlungen: Banker fordern Anspruch auf den Kauf zusätzlicher Urlaubstage",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/tarifverhandlungen-banker-fordern-anspruch-auf-den-kauf-zusaetzlicher-urlaubstage/100259206.html",
+        "published": "Fri, 02 Oct 2026 06:09:02 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 2. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Fri, 02 Oct 2026 04:21:45 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Asien: Asiens Börsen geben nach – Inflationssorgen und Nahost-Konflikt belasten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-asiens-boersen-geben-nach-inflationssorgen-und-nahost-konflikt-belasten/100259178.html",
+        "published": "Fri, 02 Oct 2026 03:51:18 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Bis zu 62 Prozent günstiger: Wo Immobilienkäufer im Umland der Metropolen am meisten sparen",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-kaeufer-im-umland-der-metropolen-bis-zu-62-prozent-sparen/100249545.html",
         "published": "Fri, 02 Oct 2026 02:01:32 GMT"
       },
@@ -71,8 +95,8 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Geld. Leben. Looman.: Warum Sie sich den Kauf einer Ferienwohnung dreimal überlegen sollten",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/immobilien-warum-der-ferienwohnung-kauf-dreimal-ueberlegt-sein-sollte/100258261.html",
-        "published": "Thu, 01 Oct 2026 09:06:11 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/immobilien-warum-der-ferienwohnung-kauf-dreimal-ueberlegt-sein-sollte-01/100258261.html",
+        "published": "Fri, 02 Oct 2026 05:22:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -97,68 +121,14 @@
         "title": "Finanzbranche: Krakau statt Frankfurt: Fondsdienstleister streicht Stellen in Deutschland",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/finanzbranche-krakau-statt-frankfurt-fondsdienstleister-streicht-jobs/100258328.html",
         "published": "Thu, 01 Oct 2026 06:06:24 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 1. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Thu, 01 Oct 2026 04:21:04 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Lebensversicherung: So stehen die größten deutschen Lebensversicherer finanziell da",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/lebensversicherung-so-stehen-die-groessten-deutschen-lebensversicherer-finanziell-da/100256085.html",
-        "published": "Thu, 01 Oct 2026 02:05:59 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Notenbank: „Sofort“ – Trump fordert Powells Rücktritt als Fed-Gouverneur",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/usa-sofort-trump-fordert-powells-ruecktritt-als-fed-gouverneur/100258782.html",
-        "published": "Thu, 01 Oct 2026 01:31:07 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Neobroker: Im Schlaf handeln: Robinhood führt Handel mit KI-Finanzagenten ein",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/broker-robinhood-fuehrt-handel-mit-ki-finanzagenten-ein-01/100258763.html",
-        "published": "Thu, 01 Oct 2026 09:14:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "World’s Top LNG Buyer Doesn’t See Qatar Supply Coming Back Soon",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-02/world-s-top-lng-buyer-doesn-t-see-qatar-supply-coming-back-soon",
-        "published": "Fri, 02 Oct 2026 02:21:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Hold Gains After Rally, Stocks Decline: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/asian-stocks-to-fall-on-oil-rally-bonds-in-focus-markets-wrap",
-        "published": "Thu, 01 Oct 2026 22:15:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Asia Bankers Hope Japan, Australia Can Lift M&A From Doldrums",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-02/asia-bankers-hope-japan-australia-can-lift-m-a-from-doldrums",
-        "published": "Fri, 02 Oct 2026 01:54:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Indonesia’s 30% Stock Rout Lures Swedish Fund in First-Ever Bet",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-02/indonesia-s-30-stock-rout-lures-swedish-fund-in-first-ever-bet",
-        "published": "Fri, 02 Oct 2026 01:47:44 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Australia Sees Export Income Rising 5% on High Energy Prices",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/australia-sees-global-commodity-woes-lifting-export-income-by-5",
-        "published": "Thu, 01 Oct 2026 14:01:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nvidia-Backed Firmus Prices Landmark IPO at A$11 a Share",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports",
-        "published": "Thu, 01 Oct 2026 22:30:03 GMT"
+        "title": "BofA’s Hartnett Sees Risk-Off Mood Lasting Until Dollar Peaks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/bofa-s-hartnett-sees-risk-off-mood-lasting-until-dollar-peaks",
+        "published": "Fri, 02 Oct 2026 08:50:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -168,84 +138,156 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasuries Rebound as Global Bond Rout Continues",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/treasuries-rebound-as-global-bond-rout-continues-video",
-        "published": "Fri, 02 Oct 2026 00:52:57 GMT"
+        "title": "Stocks Climb as Calm Prevails Before Payrolls: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-01/asian-stocks-to-fall-on-oil-rally-bonds-in-focus-markets-wrap",
+        "published": "Thu, 01 Oct 2026 22:15:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US May Add Carrier and 10,000 Troops to Mideast, Official Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/us-may-add-carrier-and-10-000-troops-to-middle-east-video",
-        "published": "Fri, 02 Oct 2026 00:40:13 GMT"
+        "title": "IG Group Shares Plunge After Surprise Slump in Revenue",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/ig-group-shares-plunge-after-third-quarter-revenue-slumps",
+        "published": "Fri, 02 Oct 2026 07:22:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Anthropic Said to Target Mega-IPO Before Thanksgiving Holiday",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/anthropic-said-to-target-ipo-before-thanksgiving-holiday-video",
-        "published": "Fri, 02 Oct 2026 00:40:06 GMT"
+        "title": "How To Buy Your First Rolex",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/how-to-buy-your-first-rolex",
+        "published": "Fri, 02 Oct 2026 08:00:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Steadies as Easing US Bond Yields Reduce Rate-Hike Bets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-02/gold-steadies-as-easing-us-bond-yields-reduce-rate-hike-bets",
-        "published": "Fri, 02 Oct 2026 00:14:23 GMT"
+        "title": "How Airlines Actually Hedge Higher Fuel Prices",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/how-airlines-actually-hedge-higher-fuel-prices",
+        "published": "Fri, 02 Oct 2026 08:00:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "What Do Entertainment Industry Leaders Look for in a Pitch?",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/what-do-entertainment-leaders-look-for-in-a-pitch-video",
-        "published": "Fri, 02 Oct 2026 00:08:13 GMT"
+        "title": "Odd Lots: How Airlines Hedge Higher Fuel Prices (Podcast)",
+        "link": "https://www.bloomberg.com/news/audio/2026-10-02/odd-lots-how-airlines-hedge-higher-fuel-prices-podcast",
+        "published": "Fri, 02 Oct 2026 08:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bloomberg Screentime: AI, Streaming Wars and Deals",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/bloomberg-screentime-ai-streaming-wars-and-deals-video",
-        "published": "Fri, 02 Oct 2026 00:04:34 GMT"
+        "title": "Bain Is Said to Explore Investment in Hong Kong’s New World",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/bain-said-to-explore-investment-in-hong-kong-developer-new-world",
+        "published": "Fri, 02 Oct 2026 07:31:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "NBCUniversal's Donna Langley on Film, TV and Streaming",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/nbcuniversal-s-donna-langley-on-film-tv-and-streaming-video",
-        "published": "Thu, 01 Oct 2026 23:47:30 GMT"
+        "title": "Global Credit Market Starts to Sputter as Jumbo Deals Drag",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/global-credit-market-starts-to-sputter-as-jumbo-deals-drag",
+        "published": "Fri, 02 Oct 2026 03:37:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Australia-US Bond Yield Gap Nears Zero as Policy Paths Diverge",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/australia-us-bond-yield-gap-nears-zero-as-policy-paths-diverge",
-        "published": "Thu, 01 Oct 2026 23:43:33 GMT"
+        "title": "PIMCO's Stracke on Credit Risks, Yield Shock Ahead",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/pimco-s-stracke-on-credit-risks-yield-shock-ahead-video",
+        "published": "Fri, 02 Oct 2026 06:03:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Paramount Dealmaker Says Warner Merger Is About Growth, Not Cuts",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/paramount-dealmaker-says-warner-merger-is-about-growth-not-cuts",
-        "published": "Thu, 01 Oct 2026 23:24:20 GMT"
+        "title": "Sumitomo Mitsui DS AM’s Kunibe Exits French Bonds",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/sumitomo-mitsui-ds-am-exits-french-bonds-on-fiscal-concerns",
+        "published": "Fri, 02 Oct 2026 03:01:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "RedBird's Cardinale on Paramount Future & Investing",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/redbird-s-cardinale-on-paramount-future-investing-video",
-        "published": "Thu, 01 Oct 2026 23:22:22 GMT"
+        "title": "France’s Troubles Are Deepening as Investors Head for the Exit",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/france-s-crisis-is-deepening-as-investors-head-for-the-exit",
+        "published": "Fri, 02 Oct 2026 04:15:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Getting Oil and Gas Through Hormuz Strait Is Dangerous Job for Ship Captains",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/getting-oil-and-gas-through-hormuz-strait-is-dangerous-job-for-ship-captains",
-        "published": "Thu, 01 Oct 2026 23:01:01 GMT"
+        "title": "Pimco’s Stracke Says AI Spending Drove Yields, Not Inflation",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/pimco-s-stracke-says-ai-spending-drove-yields-not-inflation",
+        "published": "Fri, 02 Oct 2026 07:34:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Suno's Mikey Shulman on the AI Music Landscape",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-01/suno-s-mikey-shulman-on-the-ai-music-landscape-video",
-        "published": "Thu, 01 Oct 2026 22:46:49 GMT"
+        "title": "China's Epic Wedding Video Microfilms",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/china-s-epic-wedding-video-microfilms-video",
+        "published": "Fri, 02 Oct 2026 07:04:48 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Cboe Eyes VIX Perpetuals as Exchanges Move Beyond Crypto",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/cboe-eyes-vix-perpetual-futures-as-exchanges-move-beyond-crypto",
-        "published": "Thu, 01 Oct 2026 17:02:18 GMT"
+        "title": "Novartis Inks Chinese mRNA-Therapy Deal for Up to $7.8 Billion",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/novartis-inks-chinese-mrna-therapy-deal-for-up-to-7-8-billion",
+        "published": "Fri, 02 Oct 2026 06:47:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hong Kong Stocks Slump Most Since March, Led by Financials",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/hong-kong-stocks-slump-most-since-march-leading-losses-in-asia",
+        "published": "Fri, 02 Oct 2026 04:04:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Israel PM Says Flydubai Pilot Is Omani, US May Send 10,000 More Troops to Mideast",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/horizons-middle-east-africa-10-2-2026-video",
+        "published": "Fri, 02 Oct 2026 06:28:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Indonesia Finance Chief Avoids Prabowo Turf Wars",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/indonesia-finance-chief-avoids-prabowo-turf-wars-video",
+        "published": "Fri, 02 Oct 2026 06:26:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "French Bond Blowout Amid Debt Dilemma: Market Snapshot",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/french-bond-blowout-amid-debt-dilemma-market-snapshot-video",
+        "published": "Fri, 02 Oct 2026 06:25:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bond Storm Shakes London’s Fragile Stocks Recovery",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/bond-storm-shakes-london-s-fragile-stocks-recovery",
+        "published": "Fri, 02 Oct 2026 06:17:44 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax über 25.000 Punkten – Adidas nach Nike-Ausblick im Minus",
+        "link": "https://www.onvista.de/news/2026/10-02-dax-ueber-25-000-punkten-adidas-nach-nike-ausblick-im-minus-0-19-26559844",
+        "published": "Fri, 02 Oct 2026 09:51:03 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Heiße Schokolade weiter ungeschlagen – Gold-Derivate zahlen sich aus",
+        "link": "https://www.onvista.de/news/2026/10-02-heisse-schokolade-weiter-ungeschlagen-gold-derivate-zahlen-sich-aus-41121301-19-26559599",
+        "published": "Fri, 02 Oct 2026 09:00:01 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax über 25.000 Punkten - Warten auf US-Arbeitsmarktdaten",
+        "link": "https://www.onvista.de/news/2026/10-02-dax-ueber-25-000-punkten-warten-auf-us-arbeitsmarktdaten-41121301-19-26559791",
+        "published": "Fri, 02 Oct 2026 07:59:50 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Renault Bank direkt: 3,50 % Zinsen für vier Monate",
+        "link": "https://www.onvista.de/news/2026/10-02-renault-bank-direkt-3-50-zinsen-fuer-vier-monate-41122918-19-26553027",
+        "published": "Fri, 02 Oct 2026 07:55:43 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Tagesgeld im Oktober 2026: Hier sind aktuell bis zu 4,25 Prozent Zinsen drin",
+        "link": "https://www.onvista.de/news/2026/10-02-tagesgeld-im-oktober-2026-hier-sind-aktuell-bis-zu-4-25-prozent-zinsen-drin-41122918-19-26498067",
+        "published": "Fri, 02 Oct 2026 07:53:41 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 02.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-02-finanzberichte-heute-02-10-2026-41121301-19-26559767",
+        "published": "Fri, 02 Oct 2026 06:10:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  02.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-02-dividendenalarm-heute-02-10-2026-41121301-19-26559764",
+        "published": "Fri, 02 Oct 2026 06:00:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Leitindex unter 25.000 Punkten – doch 200-Tage-Linie hält",
@@ -326,12 +368,6 @@
       },
       {
         "source": "onvista – News",
-        "title": "Tagesgeld im Oktober 2026: Hier sind aktuell bis zu 4,25 Prozent Zinsen drin",
-        "link": "https://www.onvista.de/news/2026/10-01-tagesgeld-im-oktober-2026-hier-sind-aktuell-bis-zu-4-25-prozent-zinsen-drin-41122918-19-26498067",
-        "published": "Thu, 01 Oct 2026 10:06:20 +0200"
-      },
-      {
-        "source": "onvista – News",
         "title": "Dax unter 25.000 Punkten – Renk fällt nach Abstufung",
         "link": "https://www.onvista.de/news/2026/10-01-dax-unter-25-000-punkten-renk-faellt-nach-abstufung-41121301-19-26559420",
         "published": "Thu, 01 Oct 2026 09:57:45 +0200"
@@ -359,45 +395,15 @@
         "title": "Leitindex im Minus: Inflation belastet trotz guter US-Daten",
         "link": "https://www.onvista.de/news/2026/09-30-dax-rutscht-ab-inflationssorgen-belasten-trotz-us-daten-41121301-19-26559213",
         "published": "Wed, 30 Sep 2026 18:01:27 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "S Broker: Neustart beim Sparkassen-Angebot",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-s-broker-26379923",
-        "published": "Wed, 30 Sep 2026 17:21:12 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Flatex-Depot 2026: Kostenlose Sparpläne, breites Handelsangebot",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-flatex-26312996",
-        "published": "Wed, 30 Sep 2026 17:03:48 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "SpaceX vereinbart Milliardendeal - doch Risiken bleiben",
-        "link": "https://www.onvista.de/news/2026/09-30-spacex-vereinbart-milliardendeal-doch-risiken-bleiben-40338625-19-26559173",
-        "published": "Wed, 30 Sep 2026 16:48:38 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "LPKF: Die gesenkte Prognose belastet die Aktie deutlich",
-        "link": "https://www.onvista.de/news/2026/09-30-lpkf-die-gesenkte-prognose-belastet-die-aktie-deutlich-40338625-19-26559162",
-        "published": "Wed, 30 Sep 2026 16:37:28 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "MongoDB: Prognose und Rückkäufe sprechen für eine Erholung",
-        "link": "https://www.onvista.de/news/2026/09-30-mongodb-prognose-und-rueckkaeufe-sprechen-fuer-eine-erholung-40338625-19-26559169",
-        "published": "Wed, 30 Sep 2026 16:36:42 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Boeing: Marineauftrag stärkt die langfristige Perspektive",
-        "link": "https://www.onvista.de/news/2026/09-30-boeing-marineauftrag-staerkt-die-langfristige-perspektive-40338625-19-26559168",
-        "published": "Wed, 30 Sep 2026 16:34:51 +0200"
       }
     ],
     "Börse Frankfurt – News": [
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Auswahlindizes: Außerplanmäßige Anpassungen SDAX",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/auswahlindizes-ausserplanmaessige-anpassungen-sdax",
+        "published": "Fri, 02 Oct 2026 07:39:51 GMT"
+      },
       {
         "source": "Börse Frankfurt – News",
         "title": "Rohstoffe: Alles auf Gold",
@@ -451,12 +457,6 @@
         "title": "Acht neue ETFs",
         "link": "https://www.boerse-frankfurt.de/nachrichten/acht-neue-etfs-1",
         "published": "Tue, 22 Sep 2026 06:23:37 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Wochenausblick: „Erstaunlich unaufgeregt“",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/wochenausblick-erstaunlich-unaufgeregt",
-        "published": "Mon, 21 Sep 2026 07:22:33 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX schließt unter 25.000 Punkten",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
-        "published": "Thu, 01 Oct 2026 18:41:56 +0200"
+        "title": "Marktbericht: DAX wieder über 25.000 Punkten",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
+        "published": "Fri, 02 Oct 2026 10:15:46 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
