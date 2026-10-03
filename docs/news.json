@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T08:19:57.572917+00:00",
+  "updated_at": "2026-10-03T13:32:12.632911+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,15 +126,51 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Malaysia Eyes $245 Million Naval Missile System, Star Reports",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/malaysia-eyes-245-million-naval-missile-system-star-reports",
-        "published": "Sat, 03 Oct 2026 07:32:16 GMT"
+        "title": "Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/larry-ellison-risk-exposed-by-paramount-and-oracle-debt-binges",
+        "published": "Sat, 03 Oct 2026 13:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UAE Says FlyDubai Co-Pilot Used Emergency Ax in Crash Attempt",
+        "title": "Can AI Outrun America’s Deficit Problem?",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-03/can-ai-outrun-america-s-deficit-problem",
+        "published": "Sat, 03 Oct 2026 12:03:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Pakistan Summons Indian Diplomat Over Civilian Deaths at Border",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/pakistan-summons-indian-diplomat-over-civilian-deaths-at-border",
+        "published": "Sat, 03 Oct 2026 11:50:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "London Gold Body’s Legal Fight Exposes Threat to Bullion Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/london-gold-body-s-legal-fight-exposes-threat-to-bullion-market",
+        "published": "Sat, 03 Oct 2026 10:45:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Mulls Commodity Derivatives Changes to Boost Liquidity",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/india-mulls-commodity-derivatives-changes-to-boost-liquidity",
+        "published": "Sat, 03 Oct 2026 09:47:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Israel’s Supreme Court Overturns Election Ban on Arab Parties",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/israel-s-supreme-court-overturns-election-ban-on-arab-parties",
+        "published": "Sat, 03 Oct 2026 09:44:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "UAE Probe Labels FlyDubai Cockpit Ax Attack a Terrorist Act",
         "link": "https://www.bloomberg.com/news/articles/2026-10-03/uae-says-flydubai-co-pilot-planned-terrorist-operation",
         "published": "Sat, 03 Oct 2026 07:06:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Malaysia Eyes $245 Million Naval Missile System, Star Reports",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/malaysia-eyes-245-million-naval-missile-system-star-reports",
+        "published": "Sat, 03 Oct 2026 07:32:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -207,42 +243,6 @@
         "title": "CME Shelves Plans for 24/7 Oil Contract Amid Industry Qualms",
         "link": "https://www.bloomberg.com/news/articles/2026-10-02/cme-shelves-plans-for-24-7-oil-contract-after-industry-pushback",
         "published": "Fri, 02 Oct 2026 20:34:44 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Using Decision Science in Investing | Masters in Business with Omar Aguilar",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/using-decision-science-in-investing-video",
-        "published": "Fri, 02 Oct 2026 21:00:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Dollar Falls as Soft Job Data Roils Timing of Fed Rate-Hike Bets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-02/dollar-falls-as-traders-pare-fed-hike-bets-after-soft-jobs-data",
-        "published": "Fri, 02 Oct 2026 13:00:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Tries to Live With 5% Yields as Market Cracks Grow",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-02/wall-street-tries-to-live-with-5-yields-as-market-cracks-grow",
-        "published": "Fri, 02 Oct 2026 20:40:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasury Yields Climb, Adding to Weekly Gains | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/treasury-yields-climb-add-to-weekly-gains-closing-bell-video",
-        "published": "Fri, 02 Oct 2026 20:37:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "FAA Says Boeing 737 Max Computer Glitch Is Not Safety Issue",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/faa-says-737-max-computer-glitch-is-not-safety-issue-video",
-        "published": "Fri, 02 Oct 2026 20:36:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Why Robert Reich Is So Worried About Stagflation",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/why-robert-reich-is-so-worried-about-stagflation-video",
-        "published": "Fri, 02 Oct 2026 20:16:55 GMT"
       }
     ],
     "onvista – News": [
