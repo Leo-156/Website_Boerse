@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-03T02:18:26.391940+00:00",
+  "updated_at": "2026-10-03T08:19:57.572917+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Bezahlsysteme: Mehr als jeder Zweite scheitert beim bargeldlosen Bezahlen",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/bezahlsysteme-mehr-als-jeder-zweite-scheitert-beim-bargeldlosen-bezahlen/100259472.html",
+        "published": "Sat, 03 Oct 2026 07:57:12 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Dow Jones, S&P 500, Nasdaq: Wall Street notiert nach US-Arbeitsmarktdaten im Plus",
@@ -115,15 +121,27 @@
         "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt kaum verändert – Ölpreis steigt",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-kaum-veraendert-oelpreis-steigt/100259034.html",
         "published": "Thu, 01 Oct 2026 19:10:01 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Wenn Angst vor Künstlicher Intelligenz zum Geschäftsmodell wird",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-wenn-angst-vor-kuenstlicher-intelligenz-zum-geschaeftsmodell-wird/100257475.html",
-        "published": "Thu, 01 Oct 2026 16:40:46 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Malaysia Eyes $245 Million Naval Missile System, Star Reports",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/malaysia-eyes-245-million-naval-missile-system-star-reports",
+        "published": "Sat, 03 Oct 2026 07:32:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "UAE Says FlyDubai Co-Pilot Used Emergency Ax in Crash Attempt",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/uae-says-flydubai-co-pilot-planned-terrorist-operation",
+        "published": "Sat, 03 Oct 2026 07:06:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Europe’s Stocks Are Straining Under Pressure From Bond Yields",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/europe-s-stocks-are-straining-under-pressure-from-bond-yields",
+        "published": "Sat, 03 Oct 2026 07:00:00 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "IMF Approves Bolivia Loan Deal to Support Paz’s Economic Reforms",
@@ -225,24 +243,6 @@
         "title": "Why Robert Reich Is So Worried About Stagflation",
         "link": "https://www.bloomberg.com/news/videos/2026-10-02/why-robert-reich-is-so-worried-about-stagflation-video",
         "published": "Fri, 02 Oct 2026 20:16:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Stocks Advance After Cooler-Than-Expected Employment Data",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-02/us-stock-futures-advance-ahead-of-september-payrolls-data",
-        "published": "Fri, 02 Oct 2026 11:47:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hedge Funds Are Rebuilding Short Bets Against Japan’s Yen",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-02/hedge-funds-are-rebuilding-short-bets-against-japan-s-yen",
-        "published": "Fri, 02 Oct 2026 20:10:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Climbs to Record as Jobs Curb Fed Bets: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-01/asian-stocks-to-fall-on-oil-rally-bonds-in-focus-markets-wrap",
-        "published": "Thu, 01 Oct 2026 22:15:32 GMT"
       }
     ],
     "onvista – News": [
