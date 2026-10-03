@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-03T17:35:43.034407+00:00",
+  "updated_at": "2026-10-03T20:10:43.718588+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Ein Gemeinschaftsdepot kann eine gute Idee sein – aber nicht für jeden",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-gemeinschaftsdepot-kann-eine-gute-idee-sein-aber-nicht-fuer-jeden/100257957.html",
+        "published": "Sat, 03 Oct 2026 17:40:13 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Bezahlsysteme: Mehr als jeder Zweite scheitert beim bargeldlosen Bezahlen",
@@ -115,15 +121,27 @@
         "title": "Märkte im Blick: Warum haben die Börsen steigende Zinsen so lange ignoriert?",
         "link": "https://www.handelsblatt.com/finanzen/maerkte-im-blick-warum-haben-die-boersen-steigende-zinsen-so-lange-ignoriert/100258570.html",
         "published": "Fri, 02 Oct 2026 02:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt kaum verändert – Ölpreis steigt",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-kaum-veraendert-oelpreis-steigt/100259034.html",
-        "published": "Thu, 01 Oct 2026 19:10:01 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Paramount Debt Drop Spells Trouble for Borrowers: Credit Weekly",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/paramount-debt-drop-spells-trouble-for-borrowers-credit-weekly",
+        "published": "Sat, 03 Oct 2026 19:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bloomberg This Weekend 10/3/2026",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-03/bloomberg-this-weekend-10-3-2026-video",
+        "published": "Sat, 03 Oct 2026 18:34:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "UAE Probe Labels FlyDubai Cockpit Ax Attack a Terrorist Act",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/uae-says-flydubai-co-pilot-planned-terrorist-operation",
+        "published": "Sat, 03 Oct 2026 07:06:28 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Pakistan, India Trade Accusations Over Deaths at Border",
@@ -204,12 +222,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UAE Probe Labels FlyDubai Cockpit Ax Attack a Terrorist Act",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/uae-says-flydubai-co-pilot-planned-terrorist-operation",
-        "published": "Sat, 03 Oct 2026 07:06:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Malaysia Eyes $245 Million Naval Missile System, Star Reports",
         "link": "https://www.bloomberg.com/news/articles/2026-10-03/malaysia-eyes-245-million-naval-missile-system-star-reports",
         "published": "Sat, 03 Oct 2026 07:32:16 GMT"
@@ -231,18 +243,6 @@
         "title": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
         "link": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video",
         "published": "Fri, 02 Oct 2026 23:12:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Rise As Jobs Report Eases Fed-Hike Worries",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/the-close-10-2-2026-video",
-        "published": "Fri, 02 Oct 2026 23:45:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Former CEA Chair on Jobs Report, GDP Growth",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/former-cea-chair-on-jobs-report-gdp-growth-video",
-        "published": "Fri, 02 Oct 2026 22:17:57 GMT"
       }
     ],
     "onvista – News": [
