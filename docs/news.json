@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T20:10:43.718588+00:00",
+  "updated_at": "2026-10-03T22:51:52.478343+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,12 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Lula, Bolsonaro in Dead Heat as Brazil Prepares to Vote",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote",
+        "published": "Sat, 03 Oct 2026 22:35:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Paramount Debt Drop Spells Trouble for Borrowers: Credit Weekly",
         "link": "https://www.bloomberg.com/news/articles/2026-10-03/paramount-debt-drop-spells-trouble-for-borrowers-credit-weekly",
         "published": "Sat, 03 Oct 2026 19:00:00 GMT"
@@ -237,12 +243,6 @@
         "title": "IMF Approves Bolivia Loan Deal to Support Paz’s Economic Reforms",
         "link": "https://www.bloomberg.com/news/articles/2026-10-03/imf-approves-bolivia-loan-deal-to-support-paz-s-economic-reforms",
         "published": "Sat, 03 Oct 2026 00:55:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video",
-        "published": "Fri, 02 Oct 2026 23:12:45 GMT"
       }
     ],
     "onvista – News": [
