@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T23:32:50.546291+00:00",
+  "updated_at": "2026-10-03T02:18:26.391940+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,24 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "IMF Approves Bolivia Loan Deal to Support Paz’s Economic Reforms",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/imf-approves-bolivia-loan-deal-to-support-paz-s-economic-reforms",
+        "published": "Sat, 03 Oct 2026 00:55:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video",
+        "published": "Fri, 02 Oct 2026 23:12:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Rise As Jobs Report Eases Fed-Hike Worries",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/the-close-10-2-2026-video",
+        "published": "Fri, 02 Oct 2026 23:45:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Former CEA Chair on Jobs Report, GDP Growth",
         "link": "https://www.bloomberg.com/news/videos/2026-10-02/former-cea-chair-on-jobs-report-gdp-growth-video",
         "published": "Fri, 02 Oct 2026 22:17:57 GMT"
@@ -225,24 +243,6 @@
         "title": "Nasdaq 100 Climbs to Record as Jobs Curb Fed Bets: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-01/asian-stocks-to-fall-on-oil-rally-bonds-in-focus-markets-wrap",
         "published": "Thu, 01 Oct 2026 22:15:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "G7 to Release Up to 100 Million Barrels of Diesel, Crude",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-02/g7-to-release-up-to-100-millions-of-barrels-of-diesel-and-oil",
-        "published": "Fri, 02 Oct 2026 14:04:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bond Traders See Weak Jobs Data Letting Fed Delay Rate Hikes",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-02/bond-traders-pull-back-on-fed-hike-bets-after-soft-jobs-data",
-        "published": "Fri, 02 Oct 2026 12:38:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "A Fabulous Debt, These Are The Plunderers: Must-Read Books",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-02/a-fabulous-debt-these-are-the-plunderers-must-read-books",
-        "published": "Fri, 02 Oct 2026 19:49:18 GMT"
       }
     ],
     "onvista – News": [
