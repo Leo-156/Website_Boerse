@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-04T14:09:56.193315+00:00",
+  "updated_at": "2026-10-04T18:07:29.774362+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Der Zinsschock verschont Aktien? Von wegen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anleihen-der-zinsschock-verschont-aktien-von-wegen/100257476.html",
+        "title": "Märkte Insight: Der Zinsschock hat Aktien bereits getroffen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anleihen-der-zinsschock-hat-aktien-bereits-getroffen/100257476.html",
         "published": "Sun, 04 Oct 2026 12:30:00 GMT"
       },
       {
@@ -126,6 +126,42 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Supreme Court Opens Term With Climate Fight",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-04/supreme-court-opens-term-with-climate-fight-video",
+        "published": "Sun, 04 Oct 2026 16:42:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bloomberg This Weekend 10/4/2026",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-04/bloomberg-this-weekend-10-4-2026-video",
+        "published": "Sun, 04 Oct 2026 16:33:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-04/by-the-way-headlines-you-may-have-missed-video",
+        "published": "Sun, 04 Oct 2026 15:11:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Taiwan Says US Policy Remains Unchanged",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-04/taiwan-says-us-policy-remains-unchanged-video",
+        "published": "Sun, 04 Oct 2026 14:45:57 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Inside the Enrollment Cliff Hitting US Colleges",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-04/inside-the-enrollment-cliff-hitting-us-colleges-video",
+        "published": "Sun, 04 Oct 2026 14:04:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street Strategists Steer Investors to Cross-Asset Hedges",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-strategists-steer-investors-to-cross-asset-hedges",
+        "published": "Sun, 04 Oct 2026 14:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Jobs Slow but Inflation Keeps Fed on Alert",
         "link": "https://www.bloomberg.com/news/videos/2026-10-04/jobs-slow-but-inflation-keeps-fed-on-alert-video",
         "published": "Sun, 04 Oct 2026 13:04:07 GMT"
@@ -207,45 +243,15 @@
         "title": "Mexico Says Its Troops Sent to Border in Conjunction With US",
         "link": "https://www.bloomberg.com/news/articles/2026-10-03/mexico-says-its-troops-sent-to-border-in-conjunction-with-us",
         "published": "Sat, 03 Oct 2026 23:24:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Paramount Debt Drop Spells Trouble for Borrowers: Credit Weekly",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/paramount-debt-drop-spells-trouble-for-borrowers-credit-weekly",
-        "published": "Sat, 03 Oct 2026 19:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bloomberg This Weekend 10/3/2026",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-03/bloomberg-this-weekend-10-3-2026-video",
-        "published": "Sat, 03 Oct 2026 18:34:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "UAE Probe Labels FlyDubai Cockpit Ax Attack a Terrorist Act",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/uae-says-flydubai-co-pilot-planned-terrorist-operation",
-        "published": "Sat, 03 Oct 2026 07:06:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pakistan, India Trade Accusations Over Deaths at Border",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/pakistan-summons-indian-diplomat-over-civilian-deaths-at-border",
-        "published": "Sat, 03 Oct 2026 11:50:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tiny Hotels Are Luxury Travel’s Next Big Thing",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-03/tiny-hotels-are-luxury-travel-s-next-big-thing-video",
-        "published": "Sat, 03 Oct 2026 16:35:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-03/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-        "published": "Sat, 03 Oct 2026 16:28:40 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Unter der Oberfläche ist der Markt schon ausverkauft",
+        "link": "https://www.onvista.de/news/2026/10-04-unter-der-oberflaeche-ist-der-markt-schon-ausverkauft-40338625-19-26560348",
+        "published": "Sun, 04 Oct 2026 20:00:01 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Speicherchips sind der Treiber der Revolution",
@@ -389,12 +395,6 @@
         "title": "Dividendenkalender heute,  02.10.2026",
         "link": "https://www.onvista.de/news/2026/10-02-dividendenalarm-heute-02-10-2026-41121301-19-26559764",
         "published": "Fri, 02 Oct 2026 06:00:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Leitindex unter 25.000 Punkten – doch 200-Tage-Linie hält",
-        "link": "https://www.onvista.de/news/2026/10-01-leitindex-unter-25-000-punkten-200-tage-linie-haelt-41121301-19-26559651",
-        "published": "Thu, 01 Oct 2026 17:58:35 +0200"
       }
     ],
     "Börse Frankfurt – News": [
