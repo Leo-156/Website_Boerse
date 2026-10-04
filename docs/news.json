@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T18:07:29.774362+00:00",
+  "updated_at": "2026-10-04T21:18:18.640339+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,12 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Schneider Said to Near Deal to Buy PTC for More Than $20 Billion",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-04/schneider-said-to-near-deal-to-buy-ptc-for-more-than-20-billion",
+        "published": "Sun, 04 Oct 2026 20:47:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Supreme Court Opens Term With Climate Fight",
         "link": "https://www.bloomberg.com/news/videos/2026-10-04/supreme-court-opens-term-with-climate-fight-video",
         "published": "Sun, 04 Oct 2026 16:42:40 GMT"
@@ -237,12 +243,6 @@
         "title": "Lula, Bolsonaro in Tight Race as Brazil Prepares to Vote",
         "link": "https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote",
         "published": "Sat, 03 Oct 2026 22:35:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Mexico Says Its Troops Sent to Border in Conjunction With US",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/mexico-says-its-troops-sent-to-border-in-conjunction-with-us",
-        "published": "Sat, 03 Oct 2026 23:24:07 GMT"
       }
     ],
     "onvista – News": [
