@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T02:11:27.599854+00:00",
+  "updated_at": "2026-10-04T08:25:15.363495+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,15 +126,27 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Lula, Bolsonaro in Tight Race as Brazil Prepares to Vote",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote",
-        "published": "Sat, 03 Oct 2026 22:35:24 GMT"
+        "title": "OPEC+ Set to Keep Quotas Steady in November, Delegates Say",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-04/opec-has-deal-outline-for-steady-november-quotas-delegates-say",
+        "published": "Sun, 04 Oct 2026 07:49:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ethiopia Recaptures Tigray Airport as Northern Rebels Retreat",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-04/ethiopia-recaptures-tigray-airport-as-northern-rebels-retreat",
+        "published": "Sun, 04 Oct 2026 07:47:44 GMT"
       },
       {
         "source": "Bloomberg – Markets",
         "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
         "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
         "published": "Sun, 04 Oct 2026 00:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Lula, Bolsonaro in Tight Race as Brazil Prepares to Vote",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote",
+        "published": "Sat, 03 Oct 2026 22:35:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -231,18 +243,6 @@
         "title": "India Mulls Commodity Derivatives Changes to Boost Liquidity",
         "link": "https://www.bloomberg.com/news/articles/2026-10-03/india-mulls-commodity-derivatives-changes-to-boost-liquidity",
         "published": "Sat, 03 Oct 2026 09:47:10 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Israel’s Supreme Court Overturns Election Ban on Arab Parties",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/israel-s-supreme-court-overturns-election-ban-on-arab-parties",
-        "published": "Sat, 03 Oct 2026 09:44:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Malaysia Eyes $245 Million Naval Missile System, Star Reports",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/malaysia-eyes-245-million-naval-missile-system-star-reports",
-        "published": "Sat, 03 Oct 2026 07:32:16 GMT"
       }
     ],
     "onvista – News": [
