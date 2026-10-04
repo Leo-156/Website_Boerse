@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T22:51:52.478343+00:00",
+  "updated_at": "2026-10-04T02:11:27.599854+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,9 +126,21 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Lula, Bolsonaro in Dead Heat as Brazil Prepares to Vote",
+        "title": "Lula, Bolsonaro in Tight Race as Brazil Prepares to Vote",
         "link": "https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote",
         "published": "Sat, 03 Oct 2026 22:35:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
+        "published": "Sun, 04 Oct 2026 00:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Mexico Says Its Troops Sent to Border in Conjunction With US",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-03/mexico-says-its-troops-sent-to-border-in-conjunction-with-us",
+        "published": "Sat, 03 Oct 2026 23:24:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -231,18 +243,6 @@
         "title": "Malaysia Eyes $245 Million Naval Missile System, Star Reports",
         "link": "https://www.bloomberg.com/news/articles/2026-10-03/malaysia-eyes-245-million-naval-missile-system-star-reports",
         "published": "Sat, 03 Oct 2026 07:32:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Europe’s Stocks Are Straining Under Pressure From Bond Yields",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/europe-s-stocks-are-straining-under-pressure-from-bond-yields",
-        "published": "Sat, 03 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "IMF Approves Bolivia Loan Deal to Support Paz’s Economic Reforms",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/imf-approves-bolivia-loan-deal-to-support-paz-s-economic-reforms",
-        "published": "Sat, 03 Oct 2026 00:55:49 GMT"
       }
     ],
     "onvista – News": [
