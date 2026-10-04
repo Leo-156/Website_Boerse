@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-04T08:25:15.363495+00:00",
+  "updated_at": "2026-10-04T14:09:56.193315+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Der Zinsschock verschont Aktien? Von wegen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anleihen-der-zinsschock-verschont-aktien-von-wegen/100257476.html",
+        "published": "Sun, 04 Oct 2026 12:30:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Öl: Opec plus will Förderziele für November beibehalten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oel-opec-plus-will-foerderziele-fuer-november-beibehalten/100259559.html",
+        "published": "Sun, 04 Oct 2026 11:34:19 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Heizung: Wärmepumpen sind in bis zu 90 Prozent der Mehrfamilienhäuser möglich",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/waermepumpe-im-mehrfamilienhaus-oft-reicht-ein-heizkoerpertausch-damit-es-machbar-wird/100259569.html",
+        "published": "Sun, 04 Oct 2026 10:40:38 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Insiderbarometer: Diese drei Dax-Aktien sind bei ihren Chefs gefragt – und auch für Privatanleger interessant",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-diese-drei-dax-aktien-sind-bei-ihren-chefs-gefragt/100258024.html",
+        "published": "Sun, 04 Oct 2026 09:45:14 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Geldanlage: Ein Gemeinschaftsdepot kann eine gute Idee sein – aber nicht für jeden",
@@ -97,42 +121,72 @@
         "title": "Tarifverhandlungen: Banker fordern Anspruch auf den Kauf zusätzlicher Urlaubstage",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/tarifverhandlungen-banker-fordern-anspruch-auf-den-kauf-zusaetzlicher-urlaubstage/100259206.html",
         "published": "Fri, 02 Oct 2026 06:09:02 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 2. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Fri, 02 Oct 2026 04:21:45 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Asien: Asiens Börsen geben nach – Inflationssorgen und Nahost-Konflikt belasten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-asiens-boersen-geben-nach-inflationssorgen-und-nahost-konflikt-belasten/100259178.html",
-        "published": "Fri, 02 Oct 2026 03:51:18 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Bis zu 62 Prozent günstiger: Wo Immobilienkäufer im Umland der Metropolen am meisten sparen",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-kaeufer-im-umland-der-metropolen-bis-zu-62-prozent-sparen/100249545.html",
-        "published": "Fri, 02 Oct 2026 02:01:32 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte im Blick: Warum haben die Börsen steigende Zinsen so lange ignoriert?",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte-im-blick-warum-haben-die-boersen-steigende-zinsen-so-lange-ignoriert/100258570.html",
-        "published": "Fri, 02 Oct 2026 02:00:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "OPEC+ Set to Keep Quotas Steady in November, Delegates Say",
+        "title": "Jobs Slow but Inflation Keeps Fed on Alert",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-04/jobs-slow-but-inflation-keeps-fed-on-alert-video",
+        "published": "Sun, 04 Oct 2026 13:04:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks",
+        "published": "Sun, 04 Oct 2026 13:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "White House Moves to Assess Growing AI Risks",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-04/white-house-moves-to-assess-growing-ai-risks-video",
+        "published": "Sun, 04 Oct 2026 12:40:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Markets Brace for Sharp Swings No Matter Result of Brazil Vote",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-04/markets-brace-for-sharp-swings-no-matter-result-of-brazil-vote",
+        "published": "Sun, 04 Oct 2026 12:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "EM Investors Shrug Off Quarter’s Pullback, Double Down on Carry Trades",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-04/em-investors-shrug-off-quarter-s-pullback-double-down-on-carry-trades",
+        "published": "Sun, 04 Oct 2026 12:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "G7 Fuel Release Offers Temporary Price Relief",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-04/g7-fuel-release-offers-temporary-price-relief-video",
+        "published": "Sun, 04 Oct 2026 12:07:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Can America Break China’s Grip on Rare Earths?",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-04/can-america-break-china-s-grip-on-rare-earths-video",
+        "published": "Sun, 04 Oct 2026 12:03:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "OPEC+ Agrees to Keep Oil Output Targets Steady in November",
         "link": "https://www.bloomberg.com/news/articles/2026-10-04/opec-has-deal-outline-for-steady-november-quotas-delegates-say",
         "published": "Sun, 04 Oct 2026 07:49:48 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ethiopia Recaptures Tigray Airport as Northern Rebels Retreat",
+        "title": "Whispers of Contagion Risk Are Returning to Europe’s Bond Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-04/whispers-of-contagion-risk-are-returning-to-europe-s-bond-market",
+        "published": "Sun, 04 Oct 2026 11:15:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Iraq Shifts Oil Strategy by Arranging Tanker to Move Past Hormuz",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-04/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz",
+        "published": "Sun, 04 Oct 2026 10:09:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ethiopia Retakes Tigray Airport as Northern Rebels Retreat",
         "link": "https://www.bloomberg.com/news/articles/2026-10-04/ethiopia-recaptures-tigray-airport-as-northern-rebels-retreat",
         "published": "Sun, 04 Oct 2026 07:47:44 GMT"
       },
@@ -189,60 +243,6 @@
         "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
         "link": "https://www.bloomberg.com/news/videos/2026-10-03/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
         "published": "Sat, 03 Oct 2026 16:28:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "By The Way: Headlines You May Have Missed",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-03/by-the-way-headlines-you-may-have-missed",
-        "published": "Sat, 03 Oct 2026 16:27:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Military Buildup Raises Iran Escalation Risk",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-03/us-military-buildup-raises-iran-escalation-risk-video",
-        "published": "Sat, 03 Oct 2026 15:25:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fake Jobs Put Job Seekers at Risk of Identity Theft",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-03/fake-jobs-put-job-seekers-at-risk-of-identity-theft-video",
-        "published": "Sat, 03 Oct 2026 15:15:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Egypt Flagged Hamas Threat Before Oct. 7",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-03/egypt-flagged-hamas-threat-before-oct-7-video",
-        "published": "Sat, 03 Oct 2026 15:09:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Why Philosophers Are Worried About AI",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-03/why-philosophers-are-worried-about-ai-video",
-        "published": "Sat, 03 Oct 2026 14:03:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/larry-ellison-risk-exposed-by-paramount-and-oracle-debt-binges",
-        "published": "Sat, 03 Oct 2026 13:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Can AI Outrun America’s Deficit Problem?",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-03/can-ai-outrun-america-s-deficit-problem",
-        "published": "Sat, 03 Oct 2026 12:03:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "London Gold Body’s Legal Fight Exposes Threat to Bullion Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/london-gold-body-s-legal-fight-exposes-threat-to-bullion-market",
-        "published": "Sat, 03 Oct 2026 10:45:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "India Mulls Commodity Derivatives Changes to Boost Liquidity",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/india-mulls-commodity-derivatives-changes-to-boost-liquidity",
-        "published": "Sat, 03 Oct 2026 09:47:10 GMT"
       }
     ],
     "onvista – News": [
