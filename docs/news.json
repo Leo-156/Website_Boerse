@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T21:18:18.640339+00:00",
+  "updated_at": "2026-10-05T00:01:05.353575+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,12 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
+        "published": "Sun, 04 Oct 2026 22:17:26 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Schneider Said to Near Deal to Buy PTC for More Than $20 Billion",
         "link": "https://www.bloomberg.com/news/articles/2026-10-04/schneider-said-to-near-deal-to-buy-ptc-for-more-than-20-billion",
         "published": "Sun, 04 Oct 2026 20:47:02 GMT"
@@ -237,12 +243,6 @@
         "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
         "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
         "published": "Sun, 04 Oct 2026 00:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Lula, Bolsonaro in Tight Race as Brazil Prepares to Vote",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote",
-        "published": "Sat, 03 Oct 2026 22:35:24 GMT"
       }
     ],
     "onvista – News": [
