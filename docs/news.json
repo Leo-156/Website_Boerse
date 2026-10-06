@@ -1,12 +1,42 @@
 {
-  "updated_at": "2026-10-06T14:27:14.858338+00:00",
+  "updated_at": "2026-10-06T19:37:22.335591+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: US-Börsen öffnen im Plus – S&P 500 auf Rekord",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-oeffnen-im-plus-sp500-auf-rekord/100260153.html",
-        "published": "Tue, 06 Oct 2026 14:07:07 GMT"
+        "title": "Wall Street: US-Börsen notiert im Plus – S&P 500 auf Rekord",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-notiert-im-plus-sp500-auf-rekord/100260153.html",
+        "published": "Tue, 06 Oct 2026 17:18:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte: „Tickende Zeitbombe“ – Große Tech-Börsengänge bergen ein verstecktes Risiko",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/markt-tickende-zeitbombe-verstecktes-risiko-bei-grossen-tech-ipos/100258445.html",
+        "published": "Tue, 06 Oct 2026 17:08:36 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Staatsanleihen: Die neue Macht der Schattenbanken – welche Rolle spielen sie beim Anleihecrash?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/staatsanleihen-welche-rolle-spielen-schattenbanken-beim-bond-abverkauf/100259715.html",
+        "published": "Tue, 06 Oct 2026 16:40:02 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt dank Tech-Impulsen und Entspannung bei Anleihen im Plus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-dank-tech-impulsen-im-plus/100259982.html",
+        "published": "Tue, 06 Oct 2026 16:31:27 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Die Ausgangslage für den Dax ist fast zu schön, um wahr zu sein",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/dax-die-ausgangslage-an-der-boerse-ist-fast-zu-schoen-um-wahr-zu-sein/100259988.html",
+        "published": "Tue, 06 Oct 2026 15:34:59 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "BFH-Urteil: Denkmalgeschütztes Haus geerbt? Wann Steuervorteile übergehen",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/immobilien-denkmalgeschuetztes-haus-geerbt-wann-steuervorteile-uebergehen/100256486.html",
+        "published": "Tue, 06 Oct 2026 15:14:46 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -19,18 +49,6 @@
         "title": "Nvidia: Chip-Konzern Nvidia nähert sich Börsenwert von sechs Billionen Dollar",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/nvidia-chip-konzern-naehert-sich-boersenwert-von-sechs-billionen-dollar/100260095.html",
         "published": "Tue, 06 Oct 2026 13:46:32 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax notiert im Plus – Rally an der Wall Street gibt Aufwind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-rally-an-der-wall-street-gibt-aufwind/100259982.html",
-        "published": "Tue, 06 Oct 2026 13:07:26 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte: „Tickende Zeitbombe“ – Große Tech-Börsengänge bergen ein verstecktes Risiko",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/markt-tickende-zeitbombe-verstecktes-risiko-bei-grossen-tech-ipos/100258445.html",
-        "published": "Tue, 06 Oct 2026 13:02:58 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -103,38 +121,14 @@
         "title": "Onecoin: Zehn Millionen Euro fließen an Opfer der Krypto-Queen",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/onecoin-zehn-millionen-euro-fliessen-an-opfer-der-krypto-queen-ruja-ignatova/100259882.html",
         "published": "Mon, 05 Oct 2026 15:18:54 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Warum trotz 60 Milliarden Euro an Fördermitteln kaum gebaut wird",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-warum-wird-trotz-60-milliarden-euro-an-foerdermitteln-kaum-gebaut/100259777.html",
-        "published": "Tue, 06 Oct 2026 09:57:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax-Sentiment: Immer mehr Anleger erwarten baldige Erholungsrally – ignorieren sie die Gefahr?",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/dax-anleger-sind-erstaunlich-optimistisch-ignorieren-sie-die-gefahr/100259217.html",
-        "published": "Mon, 05 Oct 2026 12:39:22 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Notenbank: Merz trifft Kandidaten für Lagarde-Nachfolge bei der EZB",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/notenbank-merz-trifft-kandidaten-fuer-lagarde-nachfolge-bei-der-ezb/100259823.html",
-        "published": "Mon, 05 Oct 2026 12:07:56 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Mark Walter Charity’s CLO Tie-Up Maps Intricacies of Empire",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/mark-walter-charity-s-clo-tie-up-maps-intricacies-of-his-empire",
-        "published": "Mon, 05 Oct 2026 21:41:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P 500 Hits All-Time High on AI Bets as Oil Drops: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/s-p-500-closes-in-on-record-high-as-tech-rallies-markets-wrap-muvv94wz",
-        "published": "Mon, 05 Oct 2026 23:13:44 GMT"
+        "title": "Iran Ramps Up Ship Attacks in Hormuz as Oil, Gas Flows Climb",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/iran-ramps-up-ship-attacks-in-hormuz-as-oil-and-gas-flows-climb",
+        "published": "Tue, 06 Oct 2026 16:18:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -144,69 +138,39 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Yields Fall From 2002 High as Oil Dips, Bessent Vows On Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/us-yields-fall-from-2002-high-as-oil-dips-bessent-vows-on-debt",
-        "published": "Tue, 06 Oct 2026 10:20:19 GMT"
+        "title": "Latest Oil Market News and Analysis for Oct. 6",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-05/latest-oil-market-news-and-analysis-for-oct-6",
+        "published": "Mon, 05 Oct 2026 22:03:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Canada Exports to US Surged in August Ahead of New Tariffs",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/canada-exports-to-us-surged-in-august-ahead-of-new-tariffs",
-        "published": "Tue, 06 Oct 2026 12:30:06 GMT"
+        "title": "S&P 500 Climbs to Record High on Earnings Optimism: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-05/s-p-500-closes-in-on-record-high-as-tech-rallies-markets-wrap-muvv94wz",
+        "published": "Mon, 05 Oct 2026 23:13:44 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Investor Pushes Snap to Raise Capital for New Specs Business",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/investor-pushes-snap-to-raise-capital-for-eyeware-business-specs",
-        "published": "Tue, 06 Oct 2026 12:30:39 GMT"
+        "title": "Florida’s Public Schools Load Up on Debt Like Never Before",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/florida-s-troubled-public-schools-load-up-on-debt-to-pay-bills",
+        "published": "Tue, 06 Oct 2026 17:33:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "S&P 500 Sets First Record Since August as Bulls Downplay Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/s-p-500-set-for-first-record-since-august-as-bulls-downplay-risk",
-        "published": "Tue, 06 Oct 2026 12:14:59 GMT"
+        "title": "Texas Governor to Skip San Antonio Trump Rally Amid Tight Race",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/texas-governor-in-tight-race-to-skip-trump-rally-in-san-antonio",
+        "published": "Tue, 06 Oct 2026 19:01:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wall Street Eyes Record Bonuses With Profit on Pace for $90 Billion",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-06/wall-street-eyes-record-bonuses-profit-on-pace-for-90b-video",
-        "published": "Tue, 06 Oct 2026 13:50:50 GMT"
+        "title": "NYC Can Proceed With Pied-a-Terre Tax as Court Weighs Appeal",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/nyc-can-proceed-with-pied-a-terre-tax-as-court-weighs-appeal",
+        "published": "Tue, 06 Oct 2026 16:30:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dimon Concerned Inflation May Be Sticky, Rates Go Up",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-06/dimon-concerned-inflation-may-be-sticky-rates-go-up-video",
-        "published": "Tue, 06 Oct 2026 13:34:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Trade Gap Widens to $105.6 Billion as Imports Hit Record",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/us-trade-deficit-widens-to-105-6-billion-on-oil-capital-goods",
-        "published": "Tue, 06 Oct 2026 12:32:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "MadeGood Granola Owner Reaches Unicorn Status After Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/madegood-granola-bites-owner-reaches-unicorn-status-after-deal",
-        "published": "Tue, 06 Oct 2026 12:00:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ford Selloff Tests Wall Street’s Faith in an Earnings Recovery",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/ford-selloff-tests-wall-street-s-faith-in-an-earnings-recovery",
-        "published": "Tue, 06 Oct 2026 13:02:10 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "France’s Decades of Deficits Bring Home a Painful Risk Premium",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/france-s-decades-of-deficits-bring-home-a-painful-risk-premium",
-        "published": "Tue, 06 Oct 2026 13:01:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "GPU Financing Filters Into ABS With Stonebriar, Wingspire Deals",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/gpu-financing-filters-into-abs-with-stonebriar-wingspire-deals",
-        "published": "Mon, 05 Oct 2026 21:44:28 GMT"
+        "title": "Walter’s Insurance CEO Told DOJ He Was Unaware of Boss’s Loans",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/walter-s-insurance-ceo-told-doj-he-was-unaware-of-boss-s-loans",
+        "published": "Tue, 06 Oct 2026 18:34:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -216,36 +180,78 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 6",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/latest-oil-market-news-and-analysis-for-oct-6",
-        "published": "Mon, 05 Oct 2026 22:03:37 GMT"
+        "title": "BofA Analysts See Tech Bubble Brewing, Advise Clients to Pile In",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/bofa-analysts-see-tech-bubble-brewing-advise-clients-to-pile-in",
+        "published": "Tue, 06 Oct 2026 18:28:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Man Group Disputes View That High Inflation Is Bad for US Bonds",
+        "title": "S&P 500 Hits First Record Since August as AI Bulls Take the Lead",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/s-p-500-set-for-first-record-since-august-as-bulls-downplay-risk",
+        "published": "Tue, 06 Oct 2026 12:14:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Deeply Distressed US Loans Rise to Highest Level Since Pandemic, JPMorgan Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/deeply-distressed-us-loans-rise-to-highest-level-since-pandemic",
+        "published": "Tue, 06 Oct 2026 18:10:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gen Z’s Love of Malls Boosts NZ Stock, Defying Cost-of-Living Blues",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/gen-z-s-love-of-malls-boosts-nz-stock-defying-cost-of-living-blues",
+        "published": "Tue, 06 Oct 2026 18:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ships Take Long Way Around as Drought Snarls Panama Canal",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/ships-take-long-way-around-as-drought-snarls-panama-canal",
+        "published": "Tue, 06 Oct 2026 17:53:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Treasuries Yields Fall From 2002 High as Oil Prices Dip",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/us-yields-fall-from-2002-high-as-oil-dips-bessent-vows-on-debt",
+        "published": "Tue, 06 Oct 2026 10:20:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Emerging-Market Assets Extend Gains as US Yields Decline",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/emerging-markets-gain-as-oil-drop-brazil-vote-boost-sentiment",
+        "published": "Tue, 06 Oct 2026 11:52:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Paramount Closes Warner Merger in Historic Hollywood Deal",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-06/paramount-closes-warner-merger-in-historic-deal-video",
+        "published": "Tue, 06 Oct 2026 16:59:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Jamie Dimon Warns on AI's Growing Cyber Threat",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-06/open-interest-10-6-2026-video",
+        "published": "Tue, 06 Oct 2026 16:46:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Man Group Disputes View That High Inflation Is Bad for Bonds",
         "link": "https://www.bloomberg.com/news/articles/2026-10-06/man-group-disputes-view-that-high-inflation-is-bad-for-us-bonds",
         "published": "Tue, 06 Oct 2026 12:31:11 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "ByteDance Draws ADIA, Coller to Primavera Continuation Fund",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/bytedance-draws-adia-coller-to-primavera-s-continuation-fund",
-        "published": "Tue, 06 Oct 2026 06:39:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pimco Touts Diversification Need as Yields Lure at 24-Year High",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/pimco-touts-diversification-need-as-yields-lure-at-24-year-high",
-        "published": "Tue, 06 Oct 2026 12:30:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Germany and France Drive EU to Get Tough on Chinese Trade",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/franco-german-unity-on-china-trade-paves-way-for-tougher-eu-line",
-        "published": "Tue, 06 Oct 2026 07:04:16 GMT"
+        "title": "GPU Financing Filters Into ABS With Stonebriar, Wingspire Deals",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-05/gpu-financing-filters-into-abs-with-stonebriar-wingspire-deals",
+        "published": "Mon, 05 Oct 2026 21:44:28 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Starke Wall Street verhilft Dax zu Gewinnen",
+        "link": "https://www.onvista.de/news/2026/10-06-starke-wall-street-verhilft-dax-zu-gewinnen-41121301-19-26561219",
+        "published": "Tue, 06 Oct 2026 17:55:01 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Microsoft: Der Kurs muss erstmal die 555-Dollar-Marke knacken",
@@ -389,15 +395,15 @@
         "title": "Nach dem Zwischenhoch hat Oracle noch Potenzial",
         "link": "https://www.onvista.de/news/2026/10-05-nach-dem-zwischenhoch-hat-oracle-noch-potenzial-40338625-19-26560780",
         "published": "Mon, 05 Oct 2026 17:26:05 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Trotz Warnsignalen kann Nvidia über 280 Dollar steigen",
-        "link": "https://www.onvista.de/news/2026/10-05-trotz-warnsignalen-kann-nvidia-ueber-280-dollar-steigen-40338625-19-26560782",
-        "published": "Mon, 05 Oct 2026 17:05:53 +0200"
       }
     ],
     "Börse Frankfurt – News": [
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Sechzehn neue ETFs & ETPs",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/sechzehn-neue-etfs-etps",
+        "published": "Tue, 06 Oct 2026 11:57:36 GMT"
+      },
       {
         "source": "Börse Frankfurt – News",
         "title": "ETFs: „Nach der Tech-Rally wird Kasse gemacht“",
@@ -451,12 +457,6 @@
         "title": "Wochenausblick: ,,Ab fünf Prozent Rendite wird es für Aktien schwieriger''",
         "link": "https://www.boerse-frankfurt.de/nachrichten/wochenausblick-ab-fuenf-prozent-rendite-wird-es-fuer-aktien-schwieriger",
         "published": "Mon, 28 Sep 2026 08:19:48 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Anleihen: Neue Chancen nach dem Renditesprung",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/anleihen-neue-chancen-nach-dem-renditesprung",
-        "published": "Sat, 26 Sep 2026 06:49:43 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX gewinnt an Schwung",
+        "title": "Marktbericht: Neue Zuversicht an der Börse",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
-        "published": "Tue, 06 Oct 2026 09:56:06 +0200"
+        "published": "Tue, 06 Oct 2026 19:10:54 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
