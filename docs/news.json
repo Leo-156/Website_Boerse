@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-06T01:25:51.931979+00:00",
+  "updated_at": "2026-10-06T07:41:19.795528+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Asien: Tech-Rally an der Wall Street beflügelt Börsen in Asien",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-tech-rally-an-der-wall-street-befluegelt-boersen-in-asien/100259953.html",
+        "published": "Tue, 06 Oct 2026 07:21:42 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax öffnet im Plus – Rally an der Wall Street gibt Aufwind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-oeffnet-im-plus-rally-an-der-wall-street-gibt-aufwind/100259982.html",
+        "published": "Tue, 06 Oct 2026 07:20:39 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Finanz-Start-up: Axel Weber investiert in französisches Fintech Spiko – Deutschland-Start geplant",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/spiko-axel-weber-investiert-in-franzoesisches-fintech/100259862.html",
+        "published": "Tue, 06 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 6. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Tue, 06 Oct 2026 04:27:15 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Aktien statt Anleihen: Diese fünf Dax-Titel bringen mehr Rendite",
+        "link": "https://www.handelsblatt.com/finanzen/geldanlage-diese-fuenf-dax-titel-bringen-mehr-rendite-als-bundesanleihen-01/100257219.html",
+        "published": "Tue, 06 Oct 2026 06:49:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Wall Street: US-Börsen schließen im Plus nach uneinheitlichem Start in neue Woche",
@@ -91,39 +121,111 @@
         "title": "Einkommensteuer: Hier schaut das Finanzamt in der Steuererklärung für 2025 ganz genau hin",
         "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-wann-der-steuerzahler-mit-unangenehmen-nachfragen-rechnen-muss/100105886.html",
         "published": "Mon, 05 Oct 2026 06:27:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 5. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Mon, 05 Oct 2026 04:21:50 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Finanzinvestor Lone Star erwartet mehrere Angebote für Mittelstandsbank IKB",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-lone-star-erwartet-mehrere-angebote-fuer-mittelstandsbank-ikb/100259056.html",
-        "published": "Mon, 05 Oct 2026 02:11:17 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Expo Real: Stimmung auf dem Immobilienmarkt ist düster – bietet aber Chancen für eine Investorengruppe",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-duestere-stimmung-aber-chancen-fuer-kapitalkraeftige-investoren/100258296.html",
-        "published": "Mon, 05 Oct 2026 02:08:19 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Der Zinsschock hat Aktien bereits getroffen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anleihen-der-zinsschock-hat-aktien-bereits-getroffen/100257476.html",
-        "published": "Sun, 04 Oct 2026 12:30:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Öl: Opec plus will Förderziele für November beibehalten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oel-opec-plus-will-foerderziele-fuer-november-beibehalten/100259559.html",
-        "published": "Sun, 04 Oct 2026 11:34:19 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "French Bonds Will Sell Off Further: 3-Minutes MLIV",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-06/french-bonds-will-sell-off-further-3-minutes-mliv-video",
+        "published": "Tue, 06 Oct 2026 07:33:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "S&P 500 Nears Record as Oil Falls and Bonds Steady: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-05/s-p-500-closes-in-on-record-high-as-tech-rallies-markets-wrap-muvv94wz",
+        "published": "Mon, 05 Oct 2026 23:13:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japanese Rivals Study Bids for TK Elevator’s European Assets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-05/japanese-rivals-study-bids-for-tk-elevator-s-european-assets",
+        "published": "Mon, 05 Oct 2026 16:10:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Edges Lower as Strong Dollar, Yields Weigh on Fed Rate Path",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-05/gold-steadies-as-stronger-dollar-and-yields-weigh-on-rate-path",
+        "published": "Mon, 05 Oct 2026 23:39:14 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Franco-German Unity on China Trade Paves Way for Tougher EU Line",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/franco-german-unity-on-china-trade-paves-way-for-tougher-eu-line",
+        "published": "Tue, 06 Oct 2026 07:04:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Full Interview: Why Ray Dalio Sees Risk of US Debt Crisis",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-06/dalio-sees-possibility-of-us-debt-crisis-within-3-years-video",
+        "published": "Tue, 06 Oct 2026 03:48:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "FTSE 100 Live: UK Stocks Set for Third Day of Gains",
+        "link": "https://www.bloomberg.com/news/live-blog/2026-10-06/ftse-100-live-bonds-pound-uk-pmi-data-hormuz-ai-stocks-oil-prices-iran-trump-news-what-s-moving-uk-markets-right-now-markets-today",
+        "published": "Tue, 06 Oct 2026 05:44:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Moonshot AI Eyes 2027 IPO After Reaching $50B Valuation",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-06/the-china-show-10-6-2026-video",
+        "published": "Tue, 06 Oct 2026 05:40:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Firmus Stock Overhang Said to Make Some Investors Wary on IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/firmus-stock-overhang-said-to-make-some-investors-wary-on-ipo",
+        "published": "Tue, 06 Oct 2026 05:39:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ray Dalio Warns of US Debt Crisis Within 3 Years",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-06/insight-with-haslinda-amin-10-6-2026-video",
+        "published": "Tue, 06 Oct 2026 05:28:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How Total Return Swaps Pile on Risk For Bondholders",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/how-total-return-swaps-pile-on-risk-for-bondholders",
+        "published": "Tue, 06 Oct 2026 05:15:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
+        "published": "Tue, 06 Oct 2026 05:00:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bonds Extend Slide, Stocks Edge Up Toward Record Highs",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-06/the-asia-trade-10-6-2026-video",
+        "published": "Tue, 06 Oct 2026 04:32:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japan’s 10-Year Bond Sale Draws Solid Demand as Yields Top 3%",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/japan-s-10-year-bond-sale-demand-stronger-than-12-month-average",
+        "published": "Tue, 06 Oct 2026 03:40:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "GPIF Didn’t Discuss Portfolio Allocation, Easing Speculation",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-05/japan-s-gpif-didn-t-discuss-allocation-at-sept-meeting-sources",
+        "published": "Mon, 05 Oct 2026 11:16:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bakai Sees Hong Kong as Bridge to Central Asia",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-06/bakai-sees-hong-kong-as-bridge-to-central-asia-video",
+        "published": "Tue, 06 Oct 2026 03:47:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ray Dalio Warns of US Debt Crisis Within Three Years",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-06/ray-dalio-warns-of-us-debt-crisis-within-three-years-video",
+        "published": "Tue, 06 Oct 2026 03:37:51 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Oct. 6",
@@ -132,120 +234,54 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Philippines’ Inflation Heats Up for First Time in Five Months",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/philippines-inflation-heats-up-for-first-time-in-five-months",
-        "published": "Tue, 06 Oct 2026 01:05:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P 500 Closes In on Record High as Tech Rallies: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/s-p-500-closes-in-on-record-high-as-tech-rallies-markets-wrap-muvv94wz",
-        "published": "Mon, 05 Oct 2026 23:13:44 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "New World Launches Exchange Offer for Nearly $1 Billion of Bonds",
+        "title": "New World Seeks More Time to Pay Bonds With $1 Billion Swap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-06/new-world-launches-exchange-offer-for-nearly-1-billion-of-bonds",
         "published": "Tue, 06 Oct 2026 00:36:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nidec Scandal Sends Bonds to Bottom in Test for New President",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/nidec-scandal-sends-bonds-to-bottom-in-test-for-new-president",
-        "published": "Tue, 06 Oct 2026 00:30:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "GPIF Said to Have Skipped Allocation Talks at September Meet",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/japan-s-gpif-didn-t-discuss-allocation-at-sept-meeting-sources",
-        "published": "Mon, 05 Oct 2026 11:16:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Japan's Takaichi Pitches Food Tax Cut, Investment Plan",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-06/japan-s-takaichi-pitches-food-tax-cut-investment-plan-video",
-        "published": "Tue, 06 Oct 2026 00:18:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "LA Schools Face High Fiscal Solvency Risk, State Report Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/la-schools-face-high-fiscal-solvency-risk-state-report-finds",
-        "published": "Mon, 05 Oct 2026 19:41:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Higher Bond Yields Will Pressure Australia Budget, Chalmers Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-05/bond-yields-will-pressure-australia-budget-chalmers-video",
-        "published": "Mon, 05 Oct 2026 23:44:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Steadies as Stronger Dollar and Yields Weigh on Rate Path",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/gold-steadies-as-stronger-dollar-and-yields-weigh-on-rate-path",
-        "published": "Mon, 05 Oct 2026 23:39:14 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Australia’s Consumer Confidence Tumbles Further After Rate Hike",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/australia-s-consumer-confidence-tumbles-further-after-rate-hike",
-        "published": "Mon, 05 Oct 2026 23:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "A Trader’s Guide to Navigating Malaysia’s 2027 Budget Plan",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/a-trader-s-guide-to-navigating-malaysia-s-2027-budget-plan",
-        "published": "Mon, 05 Oct 2026 23:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "GPU Financing Filters Into ABS With Stonebriar, Wingspire Deals",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/gpu-financing-filters-into-abs-with-stonebriar-wingspire-deals",
-        "published": "Mon, 05 Oct 2026 21:44:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Mark Walter Charity’s CLO Tie-Up Maps Intricacies of His Empire",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/mark-walter-charity-s-clo-tie-up-maps-intricacies-of-his-empire",
-        "published": "Mon, 05 Oct 2026 21:41:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Babylist CEO on New NYC Showroom, Growth Targets",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-05/babylist-ceo-on-new-nyc-showroom-growth-targets-video",
-        "published": "Mon, 05 Oct 2026 21:37:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ellison's Skydance Announced Merger Details",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-05/ellison-s-skydance-announced-merger-details-video",
-        "published": "Mon, 05 Oct 2026 21:35:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P 500 Closes In on Record High as Tech Rallies",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-05/s-p-500-closes-in-on-record-high-as-tech-rallies-video",
-        "published": "Mon, 05 Oct 2026 21:25:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "World’s Biggest Business Class Coming to British Airways’ A380s",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/world-s-biggest-business-class-coming-to-british-airways-a380s",
-        "published": "Mon, 05 Oct 2026 21:01:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Could High US Bond Yields Spark A Crisis in Europe?",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-05/could-high-us-bond-yields-spark-a-crisis-in-europe-video",
-        "published": "Mon, 05 Oct 2026 21:00:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brazilian Real Outperforms on Elections, Leads LatAm FX Rally",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-05/emerging-market-assets-climb-as-fed-hike-bets-cool-oil-drops",
-        "published": "Mon, 05 Oct 2026 02:23:26 GMT"
+        "title": "Moonshot Said to Eye Early 2027 IPO After Value Hits $50 Billion",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-06/moonshot-said-to-eye-early-2027-ipo-video",
+        "published": "Tue, 06 Oct 2026 03:14:18 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Altersvorsorgedepot",
+        "link": "https://www.onvista.de/anlagethemen/altersvorsorgedepot-26534199",
+        "published": "Tue, 06 Oct 2026 09:14:41 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Turnaround-Chancen: Diese Aktien habe ich bisher gekauft",
+        "link": "https://www.onvista.de/news/2026/10-06-turnaround-chancen-diese-aktien-habe-ich-bisher-gekauft-41122324-19-26558682",
+        "published": "Tue, 06 Oct 2026 09:01:01 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Tagesgeld im Oktober 2026: Hier sind aktuell bis zu 4,25 Prozent Zinsen drin",
+        "link": "https://www.onvista.de/news/2026/10-06-tagesgeld-im-oktober-2026-hier-sind-aktuell-bis-zu-4-25-prozent-zinsen-drin-41122918-19-26498067",
+        "published": "Tue, 06 Oct 2026 08:47:14 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax leicht im Plus erwartet – Nasdaq erneut auf Rekordhoch",
+        "link": "https://www.onvista.de/news/2026/10-06-dax-leicht-im-plus-erwartet-nasdaq-erneut-auf-rekordhoch-41121301-19-26560898",
+        "published": "Tue, 06 Oct 2026 08:01:13 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 06.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-06-finanzberichte-heute-06-10-2026-41121301-19-26560878",
+        "published": "Tue, 06 Oct 2026 06:10:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  06.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-06-dividendenalarm-heute-06-10-2026-41121301-19-26560875",
+        "published": "Tue, 06 Oct 2026 06:00:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Dax stagniert zum Wochenauftakt - Euro rutscht abwärts",
@@ -359,42 +395,6 @@
         "title": "Für alle, die mehr wollen. Entdecken Sie jetzt das vielfältige Angebot an Bonus-Zertifikaten der LBBW!",
         "link": "https://www.lbbw-markets.de/portal/privatkunden/themen/produkteimfokus/bonus-zertifikate?pk_campaign=retail-bonus_on_multi_pbox_2026_09_campaign",
         "published": "Mon, 05 Oct 2026 07:58:18 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 05.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-05-finanzberichte-heute-05-10-2026-41121301-19-26560462",
-        "published": "Mon, 05 Oct 2026 06:10:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  05.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-05-dividendenalarm-heute-05-10-2026-41121301-19-26560457",
-        "published": "Mon, 05 Oct 2026 06:00:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Unter der Oberfläche ist der Markt schon ausverkauft",
-        "link": "https://www.onvista.de/news/2026/10-04-unter-der-oberflaeche-ist-der-markt-schon-ausverkauft-40338625-19-26560348",
-        "published": "Sun, 04 Oct 2026 20:00:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Speicherchips sind der Treiber der Revolution",
-        "link": "https://www.onvista.de/news/2026/10-03-speicherchips-sind-der-treiber-der-revolution-0-19-26560269",
-        "published": "Sat, 03 Oct 2026 18:15:02 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax erholt sich kräftig - Gold bleibt überraschend schwach",
-        "link": "https://www.onvista.de/news/2026/10-02-dax-erholt-sich-kraeftig-gold-bleibt-ueberraschend-schwach-41121301-19-26560064",
-        "published": "Fri, 02 Oct 2026 17:57:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Siemens: Ich kaufe lieber Rücksetzer",
-        "link": "https://www.onvista.de/news/2026/10-02-siemens-ich-kaufe-lieber-ruecksetzer-40338625-19-26560009",
-        "published": "Fri, 02 Oct 2026 16:56:08 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX kommt nicht vom Fleck",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
-        "published": "Mon, 05 Oct 2026 18:28:41 +0200"
+        "title": "Marktbericht: Positive Vorzeichen könnten DAX beflügeln",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
+        "published": "Tue, 06 Oct 2026 07:29:40 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -591,158 +591,6 @@
         "title": "Marktbericht: Ölpreis steigt erstmals seit Juli über 100 Dollar",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-brent-100.html",
         "published": "Wed, 09 Sep 2026 13:08:06 +0200"
-      }
-    ],
-    "Yahoo Finance – Top Stories (EN)": [
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
-        "published": "2026-09-23T01:52:26Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
-        "published": "2026-09-23T01:51:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
-        "published": "2026-09-23T01:43:50Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
-        "published": "2026-09-23T01:42:06Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
-        "link": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
-        "published": "2026-09-23T04:29:16Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/titan-international-twi-signs-itm-012718577.html",
-        "published": "2026-09-23T01:26:44Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/may-mobilitys-spac-merger-road-015000118.html",
-        "published": "2026-09-23T01:50:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-        "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
-        "published": "2026-09-23T04:33:16Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
-        "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html",
-        "published": "2026-09-23T04:24:33Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-jumped-nearly-10-while-041957023.html",
-        "published": "2026-09-23T04:19:57Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html",
-        "published": "2026-09-23T04:17:10Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Why AutoZone Stock Rallied Today",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-autozone-stock-rallied-today-020051614.html",
-        "published": "2026-09-23T02:00:51Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Why Bernstein Still Sees 46% Upside in Zscaler (ZS) but Downgraded Palo Alto (PANW)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-still-sees-46-041316215.html",
-        "published": "2026-09-23T04:13:16Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft",
-        "link": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
-        "published": "2026-09-23T04:46:53Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nike (NKE): Wall Street Tests Whether the Turnaround Can Outrun Weak Demand Ahead of Q1 Results",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-wall-street-tests-040747520.html",
-        "published": "2026-09-23T04:07:47Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Sports Betting Looks for a Parlay Into Funds",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sports-betting-looks-parlay-funds-040100974.html",
-        "published": "2026-09-23T04:01:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "BMO Sees Loan Demand Surge as Returns Rise Toward 2027 Targets",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-sees-loan-demand-surge-020206941.html",
-        "published": "2026-09-23T02:02:06Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Goldman Leads Bidding for $37 Billion Palmer Square, a CLO Powerhouse",
-        "link": "https://finance.yahoo.com/markets/options/articles/goldman-leads-bidding-37-billion-040100673.html",
-        "published": "2026-09-23T04:01:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Wedbush Goes Old School with Analog Economy ETF",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wedbush-goes-old-school-analog-040300728.html",
-        "published": "2026-09-23T04:03:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "For Sale: What Asset Managers Want in Indie ETF Shops",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sale-asset-managers-want-indie-040200939.html",
-        "published": "2026-09-23T04:02:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "How Is Incyte’s Stock Performance Compared to Other Biotech Stocks?",
-        "link": "https://finance.yahoo.com/healthcare/articles/incyte-stock-performance-compared-other-045305372.html",
-        "published": "2026-09-23T04:53:05Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Nvidia doubles down on selling to both sides of the AI race",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-doubles-down-selling-both-020300627.html",
-        "published": "2026-09-23T02:03:00Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "NewAmsterdam Pharma (NAMS) Wins EU Approvals. Can Cholesterol Pills Drive Royalties?",
-        "link": "https://finance.yahoo.com/healthcare/articles/newamsterdam-pharma-nams-wins-eu-012024900.html",
-        "published": "2026-09-23T01:20:24Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Chewy (CHWY) vs. Petco (WOOF): Proven Growth Story or Turnaround Bet?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-vs-petco-woof-045607515.html",
-        "published": "2026-09-23T04:56:07Z"
-      },
-      {
-        "source": "Yahoo Finance – Top Stories (EN)",
-        "title": "Chinese beauty product exporters are sitting pretty despite US trade dispute",
-        "link": "https://finance.yahoo.com/economy/policy/articles/chinese-beauty-product-exporters-sitting-033541899.html",
-        "published": "2026-09-23T03:35:41Z"
       }
     ]
   }
