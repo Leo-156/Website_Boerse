@@ -1,10 +1,34 @@
 {
-  "updated_at": "2026-10-07T15:52:02.207821+00:00",
+  "updated_at": "2026-10-07T20:50:24.725146+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Anleihen: „Investoren preisen Frankreich-Risiko ein“: Druck auf Staatsanleihen belastet Banken",
+        "title": "US-Staatsanleihen: US-Anleiheauktion: Starke Nachfrage bremst den Renditeanstieg",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/us-staatsanleihen-anleiheauktion-starke-nachfrage-bremst-renditeanstieg/100260436.html",
+        "published": "Wed, 07 Oct 2026 19:55:45 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Fed-Protokolle: US-Zentralbank uneins über weiteren Zinserhöhungskurs",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/us-geldpolitik-fed-protokolle-untermauern-uneinigkeit-ueber-zinserhoehungen/100260547.html",
+        "published": "Wed, 07 Oct 2026 19:09:21 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Deutschland-Gipfel: Frankreich als Vorbild: „Choose-France-Gipfel haben gezeigt, wie man durch gute Stimmung Investitionen ins Land holt“",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/deutschland-gipfel-frankreich-als-vorbild-bei-der-suche-nach-investoren/100259698.html",
+        "published": "Wed, 07 Oct 2026 17:11:29 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax baut die Verluste aus – und schließt nur knapp über der 25.000-Punkte-Marke",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-baut-verluste-aus-und-schliesst-knapp-ueber-25.000-punkten/100260303.html",
+        "published": "Wed, 07 Oct 2026 16:08:01 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Anleihen: „Investoren preisen Risiko ein“: Absturz französischer Bonds belastet Banken und Unternehmen",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/anleihen-druck-auf-franzoesische-staatsanleihen-belastet-banken/100259330.html",
         "published": "Wed, 07 Oct 2026 15:42:23 GMT"
       },
@@ -22,27 +46,21 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: Ist die Zinsangst zurück? US-Börse deutlich im Minus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ist-die-zinsangst-zurueck-us-boerse-deutlich-im-minus/100260472.html",
-        "published": "Wed, 07 Oct 2026 14:07:31 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Geldanlage: Acht bis neun Prozent stabile Rendite im Jahr? Wie neue ETFs das schaffen wollen",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-neun-prozent-stabile-rendite-wie-neue-etfs-das-schaffen-wollen/100258953.html",
         "published": "Wed, 07 Oct 2026 13:40:32 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "US-Staatsanleihen: Rendite 30-jähriger US-Anleihen auf höchstem Stand seit 2002",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/us-staatsanleihen-rendite-30-jaehriger-us-anleihen-auf-hoechstem-stand-seit-2002/100260436.html",
-        "published": "Wed, 07 Oct 2026 13:19:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Volkswagen: VW-Finanztochter stellt Millionen für Entschädigungen zurück",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/volkswagen-vw-finanztochter-stellt-millionen-fuer-entschaedigungen-zurueck/100260463.html",
         "published": "Wed, 07 Oct 2026 12:57:38 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wall Street: Ist die Zinsangst zurück? US-Börse schließen im Minus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ist-die-zinsangst-zurueck-us-boerse-schliessen-im-minus/100260472.html",
+        "published": "Wed, 07 Oct 2026 12:00:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -55,12 +73,6 @@
         "title": "Sparen: DKB-Tagesgeld im Check: Sind die vier Prozent wirklich spitze?",
         "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/tagesgeld-sind-die-vier-prozent-der-dkb-wirklich-spitze/100260213.html",
         "published": "Wed, 07 Oct 2026 11:10:39 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax baut Verluste aus – und erreicht die 25.000-Marke",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-baut-verluste-aus-und-erreicht-die-25.000-marke/100260303.html",
-        "published": "Wed, 07 Oct 2026 10:50:55 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -109,44 +121,74 @@
         "title": "Wall Street: US-Börsen schließen im Plus – S&P 500 im Handelsverlauf auf Rekord",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-im-plus-sp500-im-handelsverlauf-auf-rekord/100260153.html",
         "published": "Tue, 06 Oct 2026 17:18:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte: „Tickende Zeitbombe“ – Große Tech-Börsengänge bergen ein verstecktes Risiko",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/markt-tickende-zeitbombe-verstecktes-risiko-bei-grossen-tech-ipos/100258445.html",
-        "published": "Tue, 06 Oct 2026 17:08:36 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Staatsanleihen: Die neue Macht der Schattenbanken – welche Rolle spielen sie beim Bond-Abverkauf?",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/staatsanleihen-welche-rolle-spielen-schattenbanken-beim-bond-abverkauf/100259715.html",
-        "published": "Tue, 06 Oct 2026 16:40:02 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Boots Sold for $8.9 Billion as Canada’s Westons Re-Enter UK",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/canada-s-westons-to-buy-uk-pharmacy-chain-boots-for-8-9-billion",
-        "published": "Wed, 07 Oct 2026 13:26:54 GMT"
+        "title": "Emerging Market Assets Snap Rally Amid Oil Swings, Rising Dollar",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/emerging-stocks-halt-advance-as-hormuz-tensions-come-into-focus",
+        "published": "Wed, 07 Oct 2026 11:22:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "New York’s Record Profits, Hidden Risks",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/new-york-s-record-profits-hidden-risks-video",
-        "published": "Wed, 07 Oct 2026 15:44:09 GMT"
+        "title": "Farm Machinery Firms Plunge as US Examines Market Practices",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/ftc-usda-seek-comment-on-farm-equipment-market-practices",
+        "published": "Wed, 07 Oct 2026 14:56:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Fall as Inflation Worries Boost Bond Yields: Markets Wrap",
+        "title": "Micron Rallies as AI Tailwinds Drive a Street-High Price Target | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-07/micron-rallies-on-ai-tailwinds-closing-bell-video",
+        "published": "Wed, 07 Oct 2026 20:24:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Fall From All-Time Highs on Inflation Worry: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-06/stock-market-today-dow-s-p-live-updates",
         "published": "Tue, 06 Oct 2026 22:12:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Syria Eyes Doubling Oil Output in a Year as Investors Return",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/syria-plans-to-double-oil-output-in-a-year-as-investors-return",
-        "published": "Wed, 07 Oct 2026 14:02:18 GMT"
+        "title": "SEC Warns Activist Investors After Climate Push at Exxon",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/sec-warns-activist-investors-after-climate-push-at-exxon-mobil",
+        "published": "Wed, 07 Oct 2026 17:39:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "First Brands’ Brothers Say They’ll Blame Each Other at Trial",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/first-brands-brothers-say-they-ll-blame-each-other-at-trial",
+        "published": "Wed, 07 Oct 2026 20:05:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Canada Reviews Foreign Homebuyers Ban as 2027 Expiry Approaches",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/canada-reviews-foreign-homebuyers-ban-as-2027-expiry-approaches",
+        "published": "Wed, 07 Oct 2026 17:31:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed Minutes Show Hawkish Unity Behind September Rate Hike",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-07/fed-minutes-show-hawkish-unity-behind-sept-rate-hike-video",
+        "published": "Wed, 07 Oct 2026 19:53:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Lofty US Yields Lure Strong Investor Appetite at 10-Year Auction",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/us-bonds-rise-as-yields-at-2002-high-lures-buyers-at-auction",
+        "published": "Wed, 07 Oct 2026 17:32:18 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Midterm Elections Are Potential Test for US Defense Investors",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/midterm-elections-are-potential-test-for-us-defense-investors",
+        "published": "Wed, 07 Oct 2026 19:46:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Why China Shock 2.0 Is Different",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-07/why-china-shock-2-0-is-different",
+        "published": "Wed, 07 Oct 2026 19:37:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -156,96 +198,60 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Constellation Brands Down on Earnings; Intel Up on Terafab | Stock Movers",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/constellation-brands-earnings-intel-up-on-terafab-video",
-        "published": "Wed, 07 Oct 2026 15:34:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "From Goldman to BofA, Strategists Try to Call Peak Bond Yields",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/from-goldman-to-bofa-strategists-try-to-call-peak-bond-yields",
-        "published": "Wed, 07 Oct 2026 15:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Oil Prices Rise as Flows Through Hormuz Increase",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/oil-prices-rise-as-flows-through-hormuz-increase-video",
-        "published": "Wed, 07 Oct 2026 15:28:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Dollar Nears New High of the Year as Investors Rush to Safety",
+        "title": "Dollar Nears New High of the Year as Investors Seek Safety",
         "link": "https://www.bloomberg.com/news/articles/2026-10-07/dollar-nears-new-high-of-the-year-as-investors-rush-to-safety",
         "published": "Wed, 07 Oct 2026 15:20:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Reliance Drives India’s Venezuela Oil Imports to 7-Year High",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/reliance-drives-india-s-venezuela-oil-imports-to-seven-year-high",
-        "published": "Wed, 07 Oct 2026 06:59:59 GMT"
+        "title": "Israel Has 'No Desire to Stay in Gaza,' Says UN Ambassador Danny Danon",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-07/israel-has-no-desire-to-stay-in-gaza-un-amb-danon-video",
+        "published": "Wed, 07 Oct 2026 19:17:18 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India Seeks Black Sea Deal as Merchant Ships Face Fresh Attacks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/india-seeks-black-sea-deal-as-merchant-ships-face-fresh-attacks",
-        "published": "Wed, 07 Oct 2026 15:12:04 GMT"
+        "title": "PE Isn’t Slowing its Poaching of Bankers: Friedland",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-07/pe-isn-t-slowing-its-poaching-of-bankers-friedland-video",
+        "published": "Wed, 07 Oct 2026 19:05:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "SpaceX Credit-Risk Gauge Hits Fresh High on Fundraising Reports",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/spacex-credit-risk-gauge-hits-record-high-on-fundraising-reports",
-        "published": "Wed, 07 Oct 2026 13:01:46 GMT"
+        "title": "Copper Edges Higher as Chile Mine Strike Adds to Supply Risks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/copper-stable-as-ai-driven-tech-stock-rally-holds-near-record",
+        "published": "Wed, 07 Oct 2026 02:01:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US 30-Year Yields Return to 2002 High",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/us-30-year-yields-return-to-2002-high-video",
-        "published": "Wed, 07 Oct 2026 15:00:25 GMT"
+        "title": "Fed Used Treasury Funds to Support Yen in Joint Intervention",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/fed-used-treasury-funds-to-support-yen-in-joint-intervention",
+        "published": "Wed, 07 Oct 2026 19:03:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Apollo's Cortese Says Liquidity Is a Virtue, Not a Vice",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/apollo-s-cortese-says-liquidity-is-a-virtue-not-a-vice-video",
-        "published": "Wed, 07 Oct 2026 14:59:26 GMT"
+        "title": "LIV Golf Loses Jon Rahm in Blow to League’s Bankruptcy-Exit Plan",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/liv-golf-loses-jon-rahm-in-blow-to-league-s-bankruptcy-exit-plan",
+        "published": "Wed, 07 Oct 2026 18:53:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks, Bonds Fall on Inflation Worry as Oil Rises",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/stocks-bonds-fall-on-inflation-worry-as-oil-rises-video",
-        "published": "Wed, 07 Oct 2026 14:58:25 GMT"
+        "title": "Boots Sold for $8.9B As Canada’s Westons Re-Enter UK",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-07/boots-sold-for-8-9b-as-canada-s-westons-re-enter-uk-video",
+        "published": "Wed, 07 Oct 2026 18:50:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "When 20% of Profits Won’t Do, Fund Managers Seek ‘Super Carry’",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/when-20-of-profits-won-t-do-fund-managers-seek-super-carry",
-        "published": "Wed, 07 Oct 2026 11:45:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "FTC, USDA Seek Comment on Farm Equipment Market Practices",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/ftc-usda-seek-comment-on-farm-equipment-market-practices",
-        "published": "Wed, 07 Oct 2026 14:56:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AG Capital’s Sprake on High Yields, Central Bank Outlook",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/ag-capital-s-sprake-on-high-yields-central-bank-outlook",
-        "published": "Wed, 07 Oct 2026 14:48:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How AI is Changing the Fan Experience, with Jump’s Jordy Leiser",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/how-ai-is-changing-the-fan-experience-with-jump-s-jordy-leiser",
-        "published": "Wed, 07 Oct 2026 14:21:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bolsa tem fluxo externo de R$ 10 bi com rali do 1º turno",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/bolsa-tem-fluxo-externo-de-r-10-bi-com-rali-do-1-turno-video-muy6zupm",
-        "published": "Wed, 07 Oct 2026 14:17:59 GMT"
+        "title": "LIV Golf Gets Potential Lifeline From BC Partners Credit",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-07/liv-golf-gets-potential-lifeline-from-bc-partners-credit-video",
+        "published": "Wed, 07 Oct 2026 18:43:20 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Leitindex schließt im Minus – hohe Renditen belasten",
+        "link": "https://www.onvista.de/news/2026/10-07-leitindex-schliesst-im-minus-hohe-renditen-belasten-41121301-19-26561594",
+        "published": "Wed, 07 Oct 2026 17:54:01 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Marvell: Warum ich trotz hohem KGV weitere Kurschancen sehe",
@@ -314,7 +320,7 @@
       },
       {
         "source": "onvista – News",
-        "title": "Zwei Rezepte gegen einen schwachen Euro",
+        "title": "Wie du einen schwachen Euro im Depot nutzen kannst",
         "link": "https://www.onvista.de/news/2026/10-07-zwei-rezepte-gegen-einen-schwachen-euro-41121763-19-26561003",
         "published": "Wed, 07 Oct 2026 16:00:00 +0200"
       },
@@ -389,12 +395,6 @@
         "title": "Trotz der Kurszielerhöhung bleibe ich bei SAP vorsichtig",
         "link": "https://www.onvista.de/news/2026/10-06-trotz-der-kurszielerhoehung-bleibe-ich-bei-sap-vorsichtig-40338625-19-26561158",
         "published": "Tue, 06 Oct 2026 16:15:51 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "AMD bleibt klarer Wachstumswert - der Kurs hat noch Potenzial",
-        "link": "https://www.onvista.de/news/2026/10-06-amd-bleibt-klarer-wachstumswert-der-kurs-hat-noch-potenzial-40338625-19-26561163",
-        "published": "Tue, 06 Oct 2026 16:13:57 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "DAX gibt Vortagesgewinn ab",
+        "title": "DAX fällt wieder zurück",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
-        "published": "Wed, 07 Oct 2026 10:36:56 +0200"
+        "published": "Wed, 07 Oct 2026 18:30:44 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
