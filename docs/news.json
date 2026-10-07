@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T23:13:49.328245+00:00",
+  "updated_at": "2026-10-07T02:22:06.990953+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,78 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Copper Stable as AI-Driven Tech Stock Rally Holds Near Record",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/copper-stable-as-ai-driven-tech-stock-rally-holds-near-record",
+        "published": "Wed, 07 Oct 2026 02:01:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asian Stocks Edge Lower, Bonds Fall as Oil Gains: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 06 Oct 2026 22:12:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 7",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/latest-oil-market-news-and-analysis-for-oct-7",
+        "published": "Tue, 06 Oct 2026 22:02:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "QatarEnergy Secures $3 Billion Loan From Four Chinese Banks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/qatarenergy-secures-3-billion-loan-from-four-chinese-banks",
+        "published": "Wed, 07 Oct 2026 01:31:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Taiwan Dethrones Korea Atop Global Markets",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-07/taiwan-dethrones-korea-atop-global-markets-video",
+        "published": "Wed, 07 Oct 2026 01:02:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Mary Ng: Asian Trade Growth Can Boost Canadian Exports",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-07/mary-ng-asian-trade-growth-can-boost-canadian-exports-video",
+        "published": "Wed, 07 Oct 2026 00:33:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Taiwan Dethrones Korea Atop Global Markets as AI Trade Widens",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/taiwan-dethrones-korea-atop-global-markets-as-ai-trade-widens",
+        "published": "Wed, 07 Oct 2026 00:07:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asset Management One to Boost Talent Spending 30% Over 3 Years",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/asset-management-one-to-boost-talent-spending-30-over-3-years",
+        "published": "Wed, 07 Oct 2026 00:00:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Steady as More Oil and Falling Yields Ease Rate-Hike Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/gold-steady-as-more-oil-and-falling-yields-ease-rate-hike-bets",
+        "published": "Tue, 06 Oct 2026 23:52:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BHP Sells Shuttered Australian Nickel Plant to Gold Fields",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/bhp-sells-shuttered-australian-nickel-plant-to-gold-fields",
+        "published": "Tue, 06 Oct 2026 23:41:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Samsung Investors Want Evidence Profit Boom Has Staying Power",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/samsung-investors-want-evidence-profit-boom-has-staying-power",
+        "published": "Tue, 06 Oct 2026 23:36:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ken Leech Agrees to $3 Million SEC Fine Over Cherry-Picking Case",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/ken-leech-agrees-to-3-million-sec-fine-over-cherry-picking-case",
+        "published": "Tue, 06 Oct 2026 23:22:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "BofA Team Touts Options for Tech Sector to Hedge Bubble Risk",
         "link": "https://www.bloomberg.com/news/articles/2026-10-06/bofa-analysts-see-tech-bubble-brewing-advise-clients-to-pile-in",
         "published": "Tue, 06 Oct 2026 18:28:42 GMT"
@@ -150,18 +222,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Record Run for US Stocks to Set Tone for Asia: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 06 Oct 2026 22:12:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 7",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/latest-oil-market-news-and-analysis-for-oct-7",
-        "published": "Tue, 06 Oct 2026 22:02:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Trump pierde apoyo entre los votantes latinos en EE.UU.",
         "link": "https://www.bloomberg.com/news/videos/2026-10-06/trump-pierde-apoyo-entre-los-votantes-latinos-en-ee-uu-video",
         "published": "Tue, 06 Oct 2026 22:02:18 GMT"
@@ -183,66 +243,6 @@
         "title": "JetBlue Wins FAA Approval to Take on Spirit’s Slots at LaGuardia",
         "link": "https://www.bloomberg.com/news/articles/2026-10-06/jetblue-wins-faa-approval-to-take-on-spirit-s-slots-at-laguardia",
         "published": "Tue, 06 Oct 2026 21:18:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Greg Abbott to Skip San Antonio Trump Rally Amid Tight Race",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/texas-governor-in-tight-race-to-skip-trump-rally-in-san-antonio",
-        "published": "Tue, 06 Oct 2026 19:01:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Crescimento da fortuna de André Esteves",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-06/crescimento-da-fortuna-de-andre-esteves-video",
-        "published": "Tue, 06 Oct 2026 20:56:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Emerging-Market Assets Gain as US Yields Drop, Oil Steadies",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/emerging-markets-gain-as-oil-drop-brazil-vote-boost-sentiment",
-        "published": "Tue, 06 Oct 2026 11:52:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "FTSE Reiterates Indonesia’s Emerging Status Amid Ongoing Reforms",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/ftse-reiterates-indonesia-s-emerging-status-amid-ongoing-reforms",
-        "published": "Tue, 06 Oct 2026 20:50:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Constellation Energy Surges 12% on Google Nuclear Power Deal | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-06/constellation-energy-surges-12-closing-bell-video",
-        "published": "Tue, 06 Oct 2026 20:31:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Traders Reload Bets on Ever Higher Bond Yields After Brief Jolt",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/bonds-traders-revive-treasury-short-bets-after-fleeting-shakeout",
-        "published": "Tue, 06 Oct 2026 20:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Billionaire C&A Family Taps CFO to Lead 185-Year-Old Empire",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/billionaire-c-a-family-taps-cfo-to-lead-185-year-old-empire",
-        "published": "Tue, 06 Oct 2026 20:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Bond Market’s Threat to American Hegemony",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-06/the-bond-market-s-threat-to-american-hegemony",
-        "published": "Tue, 06 Oct 2026 20:25:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bessent Risks Higher Yields If He Axes 20-Year Bond, BNP Warns",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/bessent-axing-20-year-treasury-may-send-yields-higher-bnp-warns",
-        "published": "Tue, 06 Oct 2026 20:25:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brazil Market Euphoria Hinges on Fixes Flávio Bolsonaro Is Yet to Lay Out",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out",
-        "published": "Tue, 06 Oct 2026 14:21:36 GMT"
       }
     ],
     "onvista – News": [
