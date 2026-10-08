@@ -1,12 +1,42 @@
 {
-  "updated_at": "2026-10-08T19:32:14.505341+00:00",
+  "updated_at": "2026-10-08T23:56:20.594100+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Hohe Ölpreise lasten auf Wall Street – Starke Nachfrage bremst Anstieg der US-Anleiherenditen",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-hohe-oelpreise-lasten-auf-wall-street/100260698.html",
-        "published": "Thu, 08 Oct 2026 18:30:54 GMT"
+        "title": "Euro: Der Frankreich-Schock weckt düstere Erinnerungen",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/euro-der-frankreich-schock-weckt-duestere-erinnerungen/100260419.html",
+        "published": "Thu, 08 Oct 2026 21:01:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Wie lange können die Aktienmärkte den hohen Zinsen trotzen?",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-wie-lange-koennen-die-aktienmaerkte-den-hohen-zinsen-trotzen/100260510.html",
+        "published": "Thu, 08 Oct 2026 21:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Anleihen: Für schwache Schuldner wird es eng",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-fuer-schwache-schuldner-wird-es-eng/100260423.html",
+        "published": "Thu, 08 Oct 2026 21:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Teure Kredite – so wirken höhere Zinsen in Deutschland und den USA",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-teure-kredite-so-wirken-hoehere-zinsen-in-deutschland-und-usa/100260105.html",
+        "published": "Thu, 08 Oct 2026 21:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Anleihen: Der Zins-Schock – und wie er die Märkte verändert",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-der-zins-schock-und-wie-er-die-maerkte-veraendert/100259996.html",
+        "published": "Thu, 08 Oct 2026 21:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: Wall Street schließt im Minus – Starke Verluste bei KI-Werten wegen OpenAI-Umsatz",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-im-minus-starke-verluste-bei-ki-werten-wegen-openai-umsatz/100260698.html",
+        "published": "Thu, 08 Oct 2026 19:53:10 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -91,158 +121,128 @@
         "title": "Börse am 8. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "published": "Thu, 08 Oct 2026 04:23:14 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "SEC: US-Börsenaufsicht warnt Wall-Street-Firmen vor zu viel Klima-Aktivismus",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/sec-us-boersenaufsicht-warnt-wall-street-firmen-vor-zu-viel-klima-aktivismus/100260582.html",
-        "published": "Thu, 08 Oct 2026 02:23:17 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Interview: „Werden Effekt spüren“: So kalkuliert Deutschlands zweitgrößter Immobilien-Konzern nach dem Bauzins-Anstieg",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-so-kalkuliert-der-wohnkonzern-leg-nach-den-gestiegenen-bauzinsen/100260070.html",
-        "published": "Thu, 08 Oct 2026 01:59:27 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Versicherung: 850.000 Euro pro Fall – Betriebsunterbrechungen kosten Unternehmen immer mehr",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-betriebsunterbrechungen-kosten-unternehmen-immer-mehr/100258735.html",
-        "published": "Wed, 07 Oct 2026 22:01:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Fed-Protokolle: US-Zentralbank uneins über weiteren Zinserhöhungskurs",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/us-geldpolitik-fed-protokolle-untermauern-uneinigkeit-ueber-zinserhoehungen/100260547.html",
-        "published": "Wed, 07 Oct 2026 19:09:21 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Deutschland-Gipfel: Frankreich als Vorbild: „Choose-France-Gipfel haben gezeigt, wie man durch gute Stimmung Investitionen ins Land holt“",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/deutschland-gipfel-frankreich-als-vorbild-bei-der-suche-nach-investoren/100259698.html",
-        "published": "Wed, 07 Oct 2026 17:11:29 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "A Scary Implication of OpenAI’s Math Breakthroughs",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-08/a-scary-implication-of-openai-s-math-breakthroughs",
-        "published": "Thu, 08 Oct 2026 19:20:45 GMT"
+        "title": "Japan’s Household Spending Falls Again Despite Wage Gains",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/japan-s-household-spending-falls-again-despite-wage-gains",
+        "published": "Thu, 08 Oct 2026 23:35:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Debating Donalds Won't Further Inform Public, Says FL Gov Candidate Jolly",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/debating-donalds-won-t-further-inform-public-says-jolly-video",
-        "published": "Thu, 08 Oct 2026 19:19:39 GMT"
+        "title": "Asian Stocks Set to Fall on Tech, Oil Edges Lower: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/stock-market-today-dow-s-p-live-updates",
+        "published": "Thu, 08 Oct 2026 22:05:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "LA, Florida Schools Face Budget Pressures",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/la-florida-schools-face-budget-pressures-video",
-        "published": "Thu, 08 Oct 2026 18:30:59 GMT"
+        "title": "Latest Oil Market News and Analysis for Oct. 9",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/latest-oil-market-news-and-analysis-for-oct-9",
+        "published": "Thu, 08 Oct 2026 22:02:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasury’s Tax Warning Leaves Key ETF Maneuvers Untouched",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-08/treasury-s-tax-warning-leaves-key-etf-maneuvers-untouched",
-        "published": "Thu, 08 Oct 2026 19:12:22 GMT"
+        "title": "AI Debt Spree Hammers Tech Debt as Traders Rush to Reprice Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/ai-debt-spree-hammers-tech-debt-as-traders-rush-to-reprice-risk",
+        "published": "Thu, 08 Oct 2026 22:24:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/us-suspends-visa-program-for-tech-firms-video",
-        "published": "Thu, 08 Oct 2026 19:10:45 GMT"
+        "title": "Ray Dalio Warns of US Debt Crisis Within Three Years",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-06/ray-dalio-warns-of-us-debt-crisis-within-three-years-video",
+        "published": "Tue, 06 Oct 2026 03:37:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Currency Slide Tests Venezuela as Rodríguez Touts Adjustment",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/venezuela-bolivar-hits-new-milestone-as-dollar-supply-declines",
-        "published": "Thu, 08 Oct 2026 17:14:04 GMT"
+        "title": "Barclays’ Lauren Lieberman on PepsiCo Earnings",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/barclays-lauren-lieberman-on-pepsico-earnings-video",
+        "published": "Thu, 08 Oct 2026 22:13:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Fall as Reports on OpenAI Sink Chipmakers: Markets Wrap",
+        "title": "True Religion CEO on Company Transformation and Gen Z Customers",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/true-religion-ceo-on-company-transformation-video",
+        "published": "Thu, 08 Oct 2026 22:05:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Rachel Gamarski conta sobre os cotados de Flávio Bolsonaro",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/rachel-gamarski-conta-sobre-os-cotados-de-flavio-video",
+        "published": "Thu, 08 Oct 2026 22:02:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Brazil Election: Bolsonaro Says He’d Work With US, China as President",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/brazil-election-bolsonaro-says-he-d-work-with-us-china-as-president",
+        "published": "Thu, 08 Oct 2026 16:27:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Patagonia CEO: Insist on Growing at Own Pace",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/patagonia-ceo-insist-on-growing-at-own-pace-video",
+        "published": "Thu, 08 Oct 2026 21:57:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Arc’teryx CEO on Product Expansion & Consumer Demand",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/arc-teryx-ceo-on-product-expansion-consumer-demand-video",
+        "published": "Thu, 08 Oct 2026 21:55:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fixed Income Leaders Dialogue",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/fixed-income-leaders-dialogue-video",
+        "published": "Thu, 08 Oct 2026 21:41:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Chipotle Jumps on Report Starbucks Has Explored Takeover",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/chipotle-jumps-on-report-starbucks-has-explored-takeover-video",
+        "published": "Thu, 08 Oct 2026 21:28:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How Bond ETFs Are Reshaping Portfolio Construction",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/how-bond-etfs-are-reshaping-portfolio-construction-video",
+        "published": "Thu, 08 Oct 2026 21:22:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Rises After Trump Says US Won’t Attack Iran Before Midterms",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/gold-near-nine-week-low-on-prospects-for-rate-hike-by-year-end",
+        "published": "Wed, 07 Oct 2026 23:37:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Global Banks Bolster Japan Debt Teams as Bond Issuance Booms",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/global-banks-bolster-japan-debt-teams-as-bond-issuance-booms",
+        "published": "Thu, 08 Oct 2026 21:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Firmus Misfire Casts Shadow on Data Center IPOs in the Pipeline",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/firmus-misfire-casts-shadow-on-data-center-ipos-in-the-pipeline",
+        "published": "Thu, 08 Oct 2026 20:53:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "S&P 500 Falls as Reports on OpenAI Sink Chipmakers: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates",
         "published": "Wed, 07 Oct 2026 22:03:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "JetBio to Add Ethanol-to-Diesel Capacity at Plant",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/jetbio-to-add-ethanol-to-diesel-capacity-at-proposed-plant",
-        "published": "Thu, 08 Oct 2026 08:00:00 GMT"
+        "title": "Chipotle Jumps on Report of Potential Starbucks Takeover | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/starbucks-eyes-chipotle-takeover-closing-bell-video",
+        "published": "Thu, 08 Oct 2026 20:28:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Hallador Signs $693 Million Power Deal With Indiana Utility",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/hallador-signs-711-million-power-deal-with-indiana-utility",
-        "published": "Thu, 08 Oct 2026 09:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hedge Funds That Won Big on Brazil Vote Bet on More Gains",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/hedge-funds-that-nailed-brazil-vote-bet-on-more-gains-ahead",
-        "published": "Thu, 08 Oct 2026 17:20:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fed’s Musalem Signals Rates Should Rise Next Six-to-Nine Months",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/fed-s-musalem-signals-rates-should-rise-next-6-9-months-video",
-        "published": "Thu, 08 Oct 2026 18:47:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Maduro Faces New Charge of Torturing US Citizens in Custody",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/maduro-faces-new-charge-over-torture-of-us-citizens-in-venezuela",
-        "published": "Thu, 08 Oct 2026 14:33:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "NFL Asks Supreme Court to Let States Regulate Event Markets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/nfl-asks-supreme-court-to-let-states-regulate-prediction-markets",
-        "published": "Thu, 08 Oct 2026 16:50:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Isaias Puts 500,000 Barrels a Day of Refining Capacity at Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/isaias-puts-500-000-barrels-a-day-of-refining-capacity-at-risk",
-        "published": "Thu, 08 Oct 2026 18:32:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Private Credit Firms See Rare Growth Shortcut With BDCs for Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/private-credit-firms-see-rare-growth-shortcut-with-bdcs-for-sale",
-        "published": "Thu, 08 Oct 2026 18:19:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Rise as Lofty Yields Lure Demand to 30-Year Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/longer-dated-treasuries-rise-ahead-of-22-billion-30-year-sale",
-        "published": "Thu, 08 Oct 2026 14:58:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Musalem Signals Fed Rates Should Rise Over Next Six-to-Nine Months",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/musalem-says-fed-rates-should-rise-over-next-6-9-months-video",
-        "published": "Thu, 08 Oct 2026 18:17:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Seeing 'Bond Abundance': BNP Paribas' Robson",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/seeing-bond-abundance-bnp-paribas-robson-video",
-        "published": "Thu, 08 Oct 2026 18:14:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Some French IG Bonds Seem Safer Than Sovereign",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/some-french-ig-bonds-seem-safer-than-sovereign-video",
-        "published": "Thu, 08 Oct 2026 17:59:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Copper Slides as Risk Appetite Hurt by Oil Surge, Stock Selloff",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/copper-gains-with-other-metals-as-china-returns-in-positive-mood",
-        "published": "Thu, 08 Oct 2026 02:23:06 GMT"
+        "title": "Nasdaq 100 Drops 1.4% as OpenAI Warning Deepens Bubble Fears",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/us-stock-futures-slip-on-mounting-energy-shock-ai-bubble-fears",
+        "published": "Thu, 08 Oct 2026 12:08:23 GMT"
       }
     ],
     "onvista – News": [
