@@ -1,12 +1,42 @@
 {
-  "updated_at": "2026-10-08T00:28:46.426228+00:00",
+  "updated_at": "2026-10-08T06:26:26.628044+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "US-Staatsanleihen: US-Anleiheauktion: Starke Nachfrage bremst den Renditeanstieg",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/us-staatsanleihen-anleiheauktion-starke-nachfrage-bremst-renditeanstieg/100260436.html",
-        "published": "Wed, 07 Oct 2026 19:55:45 GMT"
+        "title": "Börse am 8. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Fri, 09 Oct 2026 04:20:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Staatsanleihen: Rendite von US-Anleihen nahe höchstem Stand seit 2002 – Auktion kann Anstieg nur kurzzeitig bremsen",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/us-staatsanleihen-rendite-von-us-anleihen-nahe-hoechstem-stand-seit-2002/100260436.html",
+        "published": "Thu, 08 Oct 2026 06:17:23 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei: Asiens Börsen unter Druck – Tech-Konzerne konkurrieren mit Staaten um Kapital",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-asiens-boersen-unter-druck-tech-konzerne-konkurrieren-mit-staaten-um-kapital/100260586.html",
+        "published": "Thu, 08 Oct 2026 03:23:17 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "SEC: US-Börsenaufsicht warnt Wall-Street-Firmen vor zu viel Klima-Aktivismus",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/sec-us-boersenaufsicht-warnt-wall-street-firmen-vor-zu-viel-klima-aktivismus/100260582.html",
+        "published": "Thu, 08 Oct 2026 02:23:17 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Interview: „Werden Effekt spüren“: So kalkuliert Deutschlands zweitgrößter Immobilien-Konzern nach dem Bauzins-Anstieg",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-so-kalkuliert-der-wohnkonzern-leg-nach-den-gestiegenen-bauzinsen/100260070.html",
+        "published": "Thu, 08 Oct 2026 01:59:27 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Versicherung: 850.000 Euro pro Fall – Betriebsunterbrechungen kosten Unternehmen immer mehr",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-betriebsunterbrechungen-kosten-unternehmen-immer-mehr/100258735.html",
+        "published": "Wed, 07 Oct 2026 22:01:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -71,8 +101,8 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Sparen: DKB-Tagesgeld im Check: Sind die vier Prozent wirklich spitze?",
-        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/tagesgeld-sind-die-vier-prozent-der-dkb-wirklich-spitze/100260213.html",
-        "published": "Wed, 07 Oct 2026 11:10:39 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/dkb-tagesgeld-sind-die-vier-prozent-zinsen-der-dkb-wirklich-spitze/100260213.html",
+        "published": "Thu, 08 Oct 2026 05:45:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -91,161 +121,149 @@
         "title": "Volksbank: Vorstandsmitglied Jürgen Neutgens verlässt Volksbank Köln Bonn",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/volksbank-vorstandsmitglied-juergen-neutgens-verlaesst-volksbank-koeln-bonn/100260150.html",
         "published": "Wed, 07 Oct 2026 08:04:42 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Mit Daten den Index schlagen – was einen guten Quant-ETF ausmacht",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-mit-daten-den-index-schlagen-was-einen-quant-etf-ausmacht/100256485.html",
-        "published": "Wed, 07 Oct 2026 07:35:55 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei, Topix, Kospi: Steigender Ölpreis bremst Börsen in Asien",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-kospi-steigender-oelpreis-bremst-boersen-in-asien/100260257.html",
-        "published": "Wed, 07 Oct 2026 07:35:01 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Ranking 2026: Das sind die besten Sterbegeldversicherungen",
-        "link": "https://www.handelsblatt.com/finanzen/vorsorge/versicherung/ranking-2026-das-sind-die-besten-sterbegeldversicherungen/100244622.html",
-        "published": "Wed, 07 Oct 2026 06:37:21 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 7. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Wed, 07 Oct 2026 04:31:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: US-Börsen schließen im Plus – S&P 500 im Handelsverlauf auf Rekord",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-im-plus-sp500-im-handelsverlauf-auf-rekord/100260153.html",
-        "published": "Tue, 06 Oct 2026 17:18:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Oasis Urges Nidec to Seek a Buyout, Warns of Delisting Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/oasis-urges-nidec-to-explore-privatization-on-delisting-risk",
-        "published": "Wed, 07 Oct 2026 10:22:59 GMT"
+        "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/ai-bubble-risks-worst-s-p-500-crash-since-2008-strategist-says",
+        "published": "Thu, 08 Oct 2026 06:16:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Drop on Inflation Concerns, Oil Gains: Markets Wrap",
+        "title": "Stocks and Treasuries Decline as Brent Tops $102: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates",
         "published": "Wed, 07 Oct 2026 22:03:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for DATE",
+        "title": "FTSE 100 Live: UK Assets Show Few Signs of Recovery",
+        "link": "https://www.bloomberg.com/news/live-blog/2026-10-08/ftse-100-uk-jobs-data-house-prices-pound-houthis-oil-prices-hormuz-ai-stocks-what-s-moving-uk-markets-right-now-markets-today",
+        "published": "Thu, 08 Oct 2026 05:46:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Tencent Mulls $5 Billion Bond Offering as AI Push Ramps Up",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/tencent-mulls-5-billion-bond-offering-as-ai-push-ramps-up",
+        "published": "Thu, 08 Oct 2026 05:37:14 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AI Squeezes Tech Grads at India’s Banking Hubs",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/ai-squeezes-tech-grads-at-india-s-banking-hubs-video",
+        "published": "Thu, 08 Oct 2026 05:15:57 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 8",
         "link": "https://www.bloomberg.com/news/articles/2026-10-07/latest-oil-market-news-and-analysis-for-date",
         "published": "Wed, 07 Oct 2026 22:02:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Worst-Performing Philippine Bonds Face Peso, Inflation Risks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/worst-performing-philippine-bonds-face-peso-inflation-risks",
-        "published": "Thu, 08 Oct 2026 00:00:00 GMT"
+        "title": "Tikehau: Private Markets Entering a More Selective Phase",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/tikehau-private-markets-entering-a-more-selective-phase-video",
+        "published": "Thu, 08 Oct 2026 04:54:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "LG Energy Profit Beats Estimates on Energy-Storage System Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/lg-energy-profit-beats-estimates-on-energy-storage-system-demand",
-        "published": "Wed, 07 Oct 2026 23:58:55 GMT"
+        "title": "Oasis Urges Nidec to Consider Sale, Warns of Delisting Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/oasis-urges-nidec-to-explore-privatization-on-delisting-risk",
+        "published": "Wed, 07 Oct 2026 10:22:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fortescue Says Dispute With China’s CMRG Hits Iron Ore Sales",
+        "title": "Houthi Attacks Heighten Saudi Escalation Concerns",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/houthi-attacks-heighten-saudi-escalation-concerns-video",
+        "published": "Thu, 08 Oct 2026 04:28:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japan 30-Year Bond Auction Sees Firm Demand on Elevated Yields",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/japan-30-year-bond-sale-sees-firmer-demand-than-12-month-average-muyzkqpv",
+        "published": "Thu, 08 Oct 2026 03:38:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "WTO's Okonjo-Iweala on Why Globalization Needs a Rethink",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/wto-s-okonjo-iweala-on-why-globalization-needs-a-rethink-video",
+        "published": "Thu, 08 Oct 2026 04:02:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Samsung Posts Record Profit but Investors Question Sustainability of AI Spending",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/the-asia-trade-10-8-2026-video",
+        "published": "Thu, 08 Oct 2026 03:56:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japanese Equities Decline as Topix Weighting Announcement Weighs",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/japanese-stocks-fall-as-inflation-fears-hit-cyclical-shares",
+        "published": "Thu, 08 Oct 2026 00:27:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Korea Mulls Banning Unlicensed Foreign Banks’ Global Bond Deals",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/korea-mulls-banning-unlicensed-foreign-banks-global-bond-deals",
+        "published": "Thu, 08 Oct 2026 03:54:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Vietnam’s Long Thanh Airport Faces Uphill Battle to Open on Time",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/vietnam-s-long-thanh-airport-faces-uphill-battle-to-open-on-time",
+        "published": "Thu, 08 Oct 2026 03:51:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fortescue Warns China Dispute Is Weighing on Iron Ore Sales",
         "link": "https://www.bloomberg.com/news/articles/2026-10-07/fortescue-flags-lower-iron-ore-sales-as-china-dispute-drags-on",
         "published": "Wed, 07 Oct 2026 22:46:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Near Nine-Week Low on Prospects for Rate Hike by Year-End",
+        "title": "How China’s 25 Trillion-Yuan Infrastructure Plan Could Offset Weaknesses",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/how-china-s-25-trillion-yuan-plan-could-offset-weakness-video",
+        "published": "Thu, 08 Oct 2026 03:33:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Edges Higher as Traders Weigh Prospects for Fed Rate Hike",
         "link": "https://www.bloomberg.com/news/articles/2026-10-07/gold-near-nine-week-low-on-prospects-for-rate-hike-by-year-end",
         "published": "Wed, 07 Oct 2026 23:37:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Peru Unexpectedly Holds Rate as Price Jump Seen as Temporary",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/peru-unexpectedly-holds-rate-as-inflation-jump-seen-as-temporary",
-        "published": "Wed, 07 Oct 2026 23:04:10 GMT"
+        "title": "Singapore Bank Shares Tumble as Yield Surge Threatens Earnings",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/singapore-banks-hot-rally-stutters-over-surging-bond-yields",
+        "published": "Thu, 08 Oct 2026 02:03:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "What to Know About Suspected Plague Case in Siberia",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/what-to-know-about-suspected-plague-case-in-siberia-video",
-        "published": "Wed, 07 Oct 2026 22:10:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Braskem Creditors Balk at Restructuring Plan as Deadline Looms",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/braskem-creditors-balk-at-restructuring-plan-as-deadline-looms",
-        "published": "Wed, 07 Oct 2026 21:41:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Saudi-Led Forces Claim Ground Advances Against Houthis in Yemen",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/saudi-led-forces-claim-ground-advances-against-houthis-video",
-        "published": "Wed, 07 Oct 2026 21:38:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Falls as Traders Weigh Rate-Hike Prospects, Inflation Fears",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/gold-steady-as-more-oil-and-falling-yields-ease-rate-hike-bets",
-        "published": "Tue, 06 Oct 2026 23:52:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Longshots Losing 98% of Time Dominate Kalshi, Polymarket Trading",
-        "link": "https://www.bloomberg.com/news/features/2026-10-07/longshots-losing-98-of-time-dominate-kalshi-polymarket-trading",
-        "published": "Wed, 07 Oct 2026 21:00:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Emerging Market Assets Snap Rally Amid Oil Swings, Rising Dollar",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/emerging-stocks-halt-advance-as-hormuz-tensions-come-into-focus",
-        "published": "Wed, 07 Oct 2026 11:22:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Farm Machinery Firms Plunge as US Examines Market Practices",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/ftc-usda-seek-comment-on-farm-equipment-market-practices",
-        "published": "Wed, 07 Oct 2026 14:56:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Micron Rallies as AI Tailwinds Drive a Street-High Price Target | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-07/micron-rallies-on-ai-tailwinds-closing-bell-video",
-        "published": "Wed, 07 Oct 2026 20:24:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Fall From All-Time Highs on Inflation Worry: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 06 Oct 2026 22:12:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "SEC Warns Activist Investors After Climate Push at Exxon",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/sec-warns-activist-investors-after-climate-push-at-exxon-mobil",
-        "published": "Wed, 07 Oct 2026 17:39:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "First Brands’ Brothers Say They’ll Blame Each Other at Trial",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/first-brands-brothers-say-they-ll-blame-each-other-at-trial",
-        "published": "Wed, 07 Oct 2026 20:05:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Canada Reviews Foreign Homebuyers Ban as 2027 Expiry Approaches",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/canada-reviews-foreign-homebuyers-ban-as-2027-expiry-approaches",
-        "published": "Wed, 07 Oct 2026 17:31:56 GMT"
+        "title": "Kioxia Shares Up on $13 Billion Inflow Hope After JPX Review",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-07/kioxia-s-weighting-on-topix-index-to-rise-after-jpx-review",
+        "published": "Wed, 07 Oct 2026 09:40:15 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax unverändert erwartet – negative Vorgaben aus Asien",
+        "link": "https://www.onvista.de/news/2026/10-08-dax-unveraendert-erwartet-negative-vorgaben-aus-asien-41121301-19-26561729",
+        "published": "Thu, 08 Oct 2026 07:50:47 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 08.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-08-finanzberichte-heute-08-10-2026-41121301-19-26561680",
+        "published": "Thu, 08 Oct 2026 06:10:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  08.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-08-dividendenalarm-heute-08-10-2026-41121301-19-26561675",
+        "published": "Thu, 08 Oct 2026 06:00:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Leitindex schließt im Minus – hohe Renditen belasten",
@@ -377,24 +395,6 @@
         "title": "Ondas: Ich sehe Chancen bis 14 Dollar",
         "link": "https://www.onvista.de/news/2026/10-06-ondas-ich-sehe-chancen-bis-14-dollar-40338625-19-26561161",
         "published": "Tue, 06 Oct 2026 16:19:26 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "GEA: Nach dem Rekord ist die Aktie fair bewertet",
-        "link": "https://www.onvista.de/news/2026/10-06-gea-nach-dem-rekord-ist-die-aktie-fair-bewertet-40338625-19-26561159",
-        "published": "Tue, 06 Oct 2026 16:18:20 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Zeiss Meditec: Ich sehe nach der Abstufung Chancen",
-        "link": "https://www.onvista.de/news/2026/10-06-zeiss-meditec-ich-sehe-nach-der-abstufung-chancen-40338625-19-26561152",
-        "published": "Tue, 06 Oct 2026 16:16:54 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Trotz der Kurszielerhöhung bleibe ich bei SAP vorsichtig",
-        "link": "https://www.onvista.de/news/2026/10-06-trotz-der-kurszielerhoehung-bleibe-ich-bei-sap-vorsichtig-40338625-19-26561158",
-        "published": "Tue, 06 Oct 2026 16:15:51 +0200"
       }
     ],
     "Börse Frankfurt – News": [
