@@ -1,12 +1,54 @@
 {
-  "updated_at": "2026-10-08T13:47:24.510801+00:00",
+  "updated_at": "2026-10-08T19:32:14.505341+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax notiert im Minus – und rutscht unter 25.000-Punkte-Marke",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-und-rutscht-unter-25.000-punkte-marke/100260619.html",
-        "published": "Thu, 08 Oct 2026 12:50:56 GMT"
+        "title": "US-Börsen: Hohe Ölpreise lasten auf Wall Street – Starke Nachfrage bremst Anstieg der US-Anleiherenditen",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-hohe-oelpreise-lasten-auf-wall-street/100260698.html",
+        "published": "Thu, 08 Oct 2026 18:30:54 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt deutlich unterhalb der 25.000-Punkte-Marke – Öl und Anleihen belasten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unterhalb-der-25.000-punkte-marke/100260619.html",
+        "published": "Thu, 08 Oct 2026 16:27:22 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Iran-Krieg: Das Öl ist wieder verfügbar, doch der Preis sinkt nicht – wie passt das zusammen?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/iran-krieg-oel-vom-golf-fliesst-wieder-warum-bleibt-der-preis-dennoch-hoch/100259847.html",
+        "published": "Thu, 08 Oct 2026 16:11:25 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "JP Morgan: Deutschlandchef von Digitalbank Chase steigt auf – Expansion in weitere Märkte in Europa",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/jp-morgan-deutschlandchef-von-digitalbank-chase-steigt-auf/100260777.html",
+        "published": "Thu, 08 Oct 2026 15:31:27 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Refinanzierung: Immobilienmarkt vor der nächsten Krise: Experten sagen Marktbereinigung voraus",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-jeder-vierte-immobilienkredit-muss-bald-refinanziert-werden/100258888.html",
+        "published": "Thu, 08 Oct 2026 15:15:38 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Wann die Gewinner am Aktienmarkt zu Verlierern werden",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-wann-die-gewinner-am-aktienmarkt-zu-verlierern-werden/100260021.html",
+        "published": "Thu, 08 Oct 2026 14:54:16 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Musterdepot – Nachhaltigkeit: Investoren entdecken japanische Aktien neu",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/geldanlage-investoren-entdecken-japanische-aktien-neu/100259869.html",
+        "published": "Thu, 08 Oct 2026 14:47:36 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: Wird die UBS zwischen regulatorischen Veränderungen in den USA und der Schweiz zerrieben?",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-wird-die-ubs-zwischen-us-und-schweizer-auflagen-zerrieben/100257224.html",
+        "published": "Thu, 08 Oct 2026 14:22:06 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -79,173 +121,191 @@
         "title": "Deutschland-Gipfel: Frankreich als Vorbild: „Choose-France-Gipfel haben gezeigt, wie man durch gute Stimmung Investitionen ins Land holt“",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/deutschland-gipfel-frankreich-als-vorbild-bei-der-suche-nach-investoren/100259698.html",
         "published": "Wed, 07 Oct 2026 17:11:29 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax baut die Verluste aus – und schließt nur knapp über der 25.000-Punkte-Marke",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-baut-verluste-aus-und-schliesst-knapp-ueber-25.000-punkten/100260303.html",
-        "published": "Wed, 07 Oct 2026 16:08:01 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Anleihen: „Investoren preisen Risiko ein“: Absturz französischer Bonds belastet Banken und Unternehmen",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/anleihen-druck-auf-franzoesische-staatsanleihen-belastet-banken/100259330.html",
-        "published": "Wed, 07 Oct 2026 15:42:23 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkt Insight: Egal, wie die Midterms ausgehen: Die Anleiherenditen bleiben hoch",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anleihen-egal-wie-die-midterms-ausgehen-die-renditen-bleiben-hoch/100259276.html",
-        "published": "Wed, 07 Oct 2026 15:29:56 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Drei Aktien, die von Bedenken bei der KI-Sicherheit profitieren",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-drei-aktien-die-von-bedenken-bei-der-ki-sicherheit-profitieren/100258228.html",
-        "published": "Wed, 07 Oct 2026 14:40:34 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Acht bis neun Prozent stabile Rendite im Jahr? Wie neue ETFs das schaffen wollen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-neun-prozent-stabile-rendite-wie-neue-etfs-das-schaffen-wollen-01/100258953.html",
-        "published": "Thu, 08 Oct 2026 06:49:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: US-Börsen schließen nach Fed-Protokollen nahezu unverändert",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-nach-fed-protokollen-nahezu-unveraendert/100260472.html",
-        "published": "Wed, 07 Oct 2026 13:30:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Volkswagen: VW-Finanztochter stellt Millionen für Entschädigungen zurück",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/volkswagen-vw-finanztochter-stellt-millionen-fuer-entschaedigungen-zurueck/100260463.html",
-        "published": "Wed, 07 Oct 2026 12:57:38 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Germany Doubles 2026 Growth Outlook as Manufacturing Rallies",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/germany-doubles-2026-growth-outlook-as-manufacturing-rallies",
-        "published": "Thu, 08 Oct 2026 10:17:33 GMT"
+        "title": "A Scary Implication of OpenAI’s Math Breakthroughs",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-08/a-scary-implication-of-openai-s-math-breakthroughs",
+        "published": "Thu, 08 Oct 2026 19:20:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Hallador Signs $711 Million Power Deal With Indiana Utility",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/hallador-signs-711-million-power-deal-with-indiana-utility",
-        "published": "Thu, 08 Oct 2026 09:30:00 GMT"
+        "title": "Debating Donalds Won't Further Inform Public, Says FL Gov Candidate Jolly",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/debating-donalds-won-t-further-inform-public-says-jolly-video",
+        "published": "Thu, 08 Oct 2026 19:19:39 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "PepsiCo Lowers Outlook on Higher North America Costs",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/pepsico-lowers-outlook-on-higher-north-america-costs-video",
-        "published": "Thu, 08 Oct 2026 13:41:17 GMT"
+        "title": "LA, Florida Schools Face Budget Pressures",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/la-florida-schools-face-budget-pressures-video",
+        "published": "Thu, 08 Oct 2026 18:30:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "AI Hot Potato Is Meta’s for Now, But Chip Stocks Are the Winners",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/ai-hot-potato-is-meta-s-for-now-but-chip-stocks-are-the-winners",
-        "published": "Thu, 08 Oct 2026 11:35:01 GMT"
+        "title": "Treasury’s Tax Warning Leaves Key ETF Maneuvers Untouched",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-08/treasury-s-tax-warning-leaves-key-etf-maneuvers-untouched",
+        "published": "Thu, 08 Oct 2026 19:12:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Fall as Oil Rally Spurs Treasury Volatility: Markets Wrap",
+        "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/us-suspends-visa-program-for-tech-firms-video",
+        "published": "Thu, 08 Oct 2026 19:10:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Currency Slide Tests Venezuela as Rodríguez Touts Adjustment",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/venezuela-bolivar-hits-new-milestone-as-dollar-supply-declines",
+        "published": "Thu, 08 Oct 2026 17:14:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Fall as Reports on OpenAI Sink Chipmakers: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates",
         "published": "Wed, 07 Oct 2026 22:03:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "What’s the TPI? How ECB Can Respond to French Bond Turmoil",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/what-s-the-tpi-how-ecb-can-respond-to-french-bond-turmoil",
-        "published": "Thu, 08 Oct 2026 13:24:21 GMT"
+        "title": "JetBio to Add Ethanol-to-Diesel Capacity at Plant",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/jetbio-to-add-ethanol-to-diesel-capacity-at-proposed-plant",
+        "published": "Thu, 08 Oct 2026 08:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Morgan Stanley Bond Veteran Is Bullish for First Time in Decade",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/morgan-stanley-bond-veteran-is-bullish-for-first-time-in-decade",
-        "published": "Thu, 08 Oct 2026 13:11:10 GMT"
+        "title": "Hallador Signs $693 Million Power Deal With Indiana Utility",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/hallador-signs-711-million-power-deal-with-indiana-utility",
+        "published": "Thu, 08 Oct 2026 09:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UK’s MFS Owner Says He’s Been Harassed by Lawsuits After $3 Billion Collapse",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/uk-s-mfs-owner-says-he-s-been-harassed-by-lawsuits-after-3-billion-collapse",
-        "published": "Thu, 08 Oct 2026 13:11:05 GMT"
+        "title": "Hedge Funds That Won Big on Brazil Vote Bet on More Gains",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/hedge-funds-that-nailed-brazil-vote-bet-on-more-gains-ahead",
+        "published": "Thu, 08 Oct 2026 17:20:09 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BlackRock’s Rieder on Yield Curve, Federal Reserve Rate Hikes",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/blackrock-s-rieder-on-yield-curve-federal-reserve-hikes-video",
-        "published": "Thu, 08 Oct 2026 13:06:07 GMT"
+        "title": "Fed’s Musalem Signals Rates Should Rise Next Six-to-Nine Months",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/fed-s-musalem-signals-rates-should-rise-next-6-9-months-video",
+        "published": "Thu, 08 Oct 2026 18:47:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Jobless Claims Fall to Lowest Level Since July",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/us-jobless-claims-fall-to-lowest-level-since-july-video",
-        "published": "Thu, 08 Oct 2026 13:00:53 GMT"
+        "title": "Maduro Faces New Charge of Torturing US Citizens in Custody",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/maduro-faces-new-charge-over-torture-of-us-citizens-in-venezuela",
+        "published": "Thu, 08 Oct 2026 14:33:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Devon to Sell Shale Oil Assets to Crescent for $4.2 Billion",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/devon-to-sell-4-2-billon-shale-oil-assets-to-crescent-energy",
-        "published": "Thu, 08 Oct 2026 11:17:39 GMT"
+        "title": "NFL Asks Supreme Court to Let States Regulate Event Markets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/nfl-asks-supreme-court-to-let-states-regulate-prediction-markets",
+        "published": "Thu, 08 Oct 2026 16:50:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Yardeni Sees Bond Yields Heading in ‘Danger Zone’ Direction",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/yardeni-bond-yields-heading-in-danger-zone-direction-video",
-        "published": "Thu, 08 Oct 2026 11:00:43 GMT"
+        "title": "Isaias Puts 500,000 Barrels a Day of Refining Capacity at Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/isaias-puts-500-000-barrels-a-day-of-refining-capacity-at-risk",
+        "published": "Thu, 08 Oct 2026 18:32:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "France’s Lescure Says Not in Dysfunctional Bond Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/france-s-lescure-says-not-in-dysfunctional-bond-market",
-        "published": "Thu, 08 Oct 2026 12:42:12 GMT"
+        "title": "Private Credit Firms See Rare Growth Shortcut With BDCs for Sale",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/private-credit-firms-see-rare-growth-shortcut-with-bdcs-for-sale",
+        "published": "Thu, 08 Oct 2026 18:19:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BlackRock’s Rieder Says Front End of Yield Curve ‘Still Very Attractive’",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/rieder-front-end-of-yield-curve-still-very-attractive-video",
-        "published": "Thu, 08 Oct 2026 12:38:07 GMT"
+        "title": "Treasuries Rise as Lofty Yields Lure Demand to 30-Year Sale",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/longer-dated-treasuries-rise-ahead-of-22-billion-30-year-sale",
+        "published": "Thu, 08 Oct 2026 14:58:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Odd Lots: Europe may be falling behind. Working less isn’t why",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/europe-may-be-falling-behind-working-less-isn-t-why-video",
-        "published": "Thu, 08 Oct 2026 12:25:33 GMT"
+        "title": "Musalem Signals Fed Rates Should Rise Over Next Six-to-Nine Months",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/musalem-says-fed-rates-should-rise-over-next-6-9-months-video",
+        "published": "Thu, 08 Oct 2026 18:17:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Windshield Repair Group Belron Picks Banks for Europe IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/windshield-repair-group-belron-picks-banks-for-europe-ipo",
-        "published": "Thu, 08 Oct 2026 12:10:01 GMT"
+        "title": "Seeing 'Bond Abundance': BNP Paribas' Robson",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/seeing-bond-abundance-bnp-paribas-robson-video",
+        "published": "Thu, 08 Oct 2026 18:14:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Slip on Mounting Energy Shock, AI Bubble Fears",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/us-stock-futures-slip-on-mounting-energy-shock-ai-bubble-fears",
-        "published": "Thu, 08 Oct 2026 12:08:23 GMT"
+        "title": "Some French IG Bonds Seem Safer Than Sovereign",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/some-french-ig-bonds-seem-safer-than-sovereign-video",
+        "published": "Thu, 08 Oct 2026 17:59:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "AI Darlings, Defense Shares Most at Risk as US Midterms Near",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/ai-darlings-defense-shares-most-at-risk-as-us-midterms-near",
-        "published": "Thu, 08 Oct 2026 12:06:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "European Bank Stocks Head for Worst Two-Day Rout Since March",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/european-bank-stocks-head-for-biggest-two-day-slump-since-march",
-        "published": "Thu, 08 Oct 2026 08:37:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Anthropic IPO Investors Struggle to Put a Price on Rogue AI Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/anthropic-ipo-investors-struggle-to-put-a-price-on-rogue-ai-risk",
-        "published": "Thu, 08 Oct 2026 12:00:00 GMT"
+        "title": "Copper Slides as Risk Appetite Hurt by Oil Surge, Stock Selloff",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/copper-gains-with-other-metals-as-china-returns-in-positive-mood",
+        "published": "Thu, 08 Oct 2026 02:23:06 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Starker Ölpreis-Anstieg beschert Dax nächsten Verlusttag",
+        "link": "https://www.onvista.de/news/2026/10-08-leitindex-unter-25-000-punkten-oel-und-anleihen-belasten-41121301-19-26562033",
+        "published": "Thu, 08 Oct 2026 17:57:40 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Martin Goersch nur Dritter – Depot ist von Micron abhängig",
+        "link": "https://www.onvista.de/news/2026/10-08-martin-goersch-nur-dritter-depot-ist-von-micron-abhaengig-40338625-19-26561969",
+        "published": "Thu, 08 Oct 2026 16:30:02 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Jungheinrich: Ich meide die Aktie weiterhin",
+        "link": "https://www.onvista.de/news/2026/10-08-jungheinrich-ich-meide-die-aktie-weiterhin-40338625-19-26561971",
+        "published": "Thu, 08 Oct 2026 16:12:57 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Südzucker: Ich werde bei der Aktie vorsichtig",
+        "link": "https://www.onvista.de/news/2026/10-08-suedzucker-ich-werde-bei-der-aktie-vorsichtig-40338625-19-26561970",
+        "published": "Thu, 08 Oct 2026 16:12:02 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Samsung: Ich sehe eine klare Unterbewertung",
+        "link": "https://www.onvista.de/news/2026/10-08-samsung-ich-sehe-eine-klare-unterbewertung-40338625-19-26561978",
+        "published": "Thu, 08 Oct 2026 16:11:17 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Caterpillar: Ich sehe den Rückgang als Einstiegschance",
+        "link": "https://www.onvista.de/news/2026/10-08-caterpillar-ich-sehe-den-rueckgang-als-einstiegschance-40338625-19-26561983",
+        "published": "Thu, 08 Oct 2026 16:09:56 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Palantir:  Startet die Aktie jetzt richtig durch?",
+        "link": "https://www.onvista.de/news/2026/10-08-palantir-hochbewertete-wachstumsaktie-40338625-19-26561987",
+        "published": "Thu, 08 Oct 2026 16:08:42 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Marvell: Ich sehe weiter hohes Potenzial",
+        "link": "https://www.onvista.de/news/2026/10-08-marvell-ich-sehe-weiter-hohes-potenzial-40338625-19-26561984",
+        "published": "Thu, 08 Oct 2026 16:06:15 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Micron: Wieso das neue Kursziel realitätsfern scheint",
+        "link": "https://www.onvista.de/news/2026/10-08-micron-kursziel-von-3-000-dollar-40338625-19-26561985",
+        "published": "Thu, 08 Oct 2026 16:02:40 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Taiwan Semi: Ich sehe den Rückgang als Chance",
+        "link": "https://www.onvista.de/news/2026/10-08-taiwan-semi-ich-sehe-den-rueckgang-als-chance-40338625-19-26561986",
+        "published": "Thu, 08 Oct 2026 16:01:18 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Micron: 3.000-Dollar-Kursziel – TSMC erzielt Rekordumsatz",
@@ -335,66 +395,6 @@
         "title": "AMD: Weiteres Potenzial im KI-Sektor",
         "link": "https://www.onvista.de/news/2026/10-07-amd-weiteres-potenzial-im-ki-sektor-40338625-19-26561553",
         "published": "Wed, 07 Oct 2026 16:44:03 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Porsche: Fokus auf Marge und Cashflow-Wachstum",
-        "link": "https://www.onvista.de/news/2026/10-07-porsche-fokus-auf-marge-und-cashflow-wachstum-40338625-19-26561551",
-        "published": "Wed, 07 Oct 2026 16:41:23 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Rheinmetall: Ich sehe 900 Euro als entscheidend",
-        "link": "https://www.onvista.de/news/2026/10-07-rheinmetall-ich-sehe-900-euro-als-entscheidend-40338625-19-26561550",
-        "published": "Wed, 07 Oct 2026 16:38:28 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Scalable-Capital-Depot 2026: Günstige Orders, große ETF-Auswahl und KI-Zugang",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-scalable-26351137",
-        "published": "Wed, 07 Oct 2026 16:10:46 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Wie du einen schwachen Euro im Depot nutzen kannst",
-        "link": "https://www.onvista.de/news/2026/10-07-zwei-rezepte-gegen-einen-schwachen-euro-41121763-19-26561003",
-        "published": "Wed, 07 Oct 2026 16:00:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Porsche will sparen – Marvell setzt auf KI-Wachstum",
-        "link": "https://www.onvista.de/news/2026/10-07-porsche-will-sparen-marvell-setz-auf-ki-wachstum-40338625-19-26561450",
-        "published": "Wed, 07 Oct 2026 12:57:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Leitindex erholt sich – diese Marke rückt jetzt in den Blick",
-        "link": "https://www.onvista.de/news/2026/10-07-leitindex-erholt-sich-diese-marke-rueckt-jetzt-in-den-blick-41123281-19-26561405",
-        "published": "Wed, 07 Oct 2026 11:04:32 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax weitet Minus aus – wildes Auf und Ab bei Porsche",
-        "link": "https://www.onvista.de/news/2026/10-07-dax-weitet-minus-aus-wildes-auf-und-ab-bei-porsche-41121301-19-26561382",
-        "published": "Wed, 07 Oct 2026 10:00:06 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Nach zuletzt drei Gewinntagen: Dax mit Verlust erwartet",
-        "link": "https://www.onvista.de/news/2026/10-07-nach-zuletzt-drei-gewinntagen-dax-mit-verlust-erwartet-41121301-19-26561328",
-        "published": "Wed, 07 Oct 2026 08:09:23 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 07.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-07-finanzberichte-heute-07-10-2026-41121301-19-26561287",
-        "published": "Wed, 07 Oct 2026 06:10:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  07.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-07-dividendenalarm-heute-07-10-2026-41121301-19-26561283",
-        "published": "Wed, 07 Oct 2026 06:00:00 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -470,7 +470,7 @@
         "source": "tagesschau.de – Wirtschaft/Finanzen",
         "title": "Marktbericht: DAX fällt unter 25.000 Punkte",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-oel-100.html",
-        "published": "Thu, 08 Oct 2026 10:30:36 +0200"
+        "published": "Thu, 08 Oct 2026 18:43:29 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
