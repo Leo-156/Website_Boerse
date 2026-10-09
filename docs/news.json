@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-08T23:56:20.594100+00:00",
+  "updated_at": "2026-10-09T03:33:33.771449+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: So haben 450.000 Deutsche im September investiert",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-haben-450.000-deutsche-im-september-investiert/100260026.html",
+        "published": "Fri, 09 Oct 2026 02:02:35 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Hier sparen Käufer im Umland von München am meisten",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-hier-sparen-kaeufer-im-umland-von-muenchen-am-meisten/100258893.html",
+        "published": "Fri, 09 Oct 2026 02:02:31 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Aktie im Blick: Nokia ist wieder da – keiner ist besser im Euro Stoxx 50",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-nokia-ist-wieder-da-keiner-ist-besser-im-euro-stoxx-50/100260148.html",
+        "published": "Fri, 09 Oct 2026 02:00:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Euro: Der Frankreich-Schock weckt düstere Erinnerungen",
@@ -103,39 +121,9 @@
         "title": "Geld. Leben. Looman.: Warum Sie sich weniger Wohnung leisten können, als Sie denken",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/immobilien-reicht-ihr-geld-wirklich-fuer-ein-eigenheim/100260548.html",
         "published": "Thu, 08 Oct 2026 09:34:10 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei: Asiens Börsen unter Druck – Tech-Konzerne konkurrieren mit Staaten um Kapital",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-asiens-boersen-unter-druck-tech-konzerne-konkurrieren-mit-staaten-um-kapital/100260586.html",
-        "published": "Thu, 08 Oct 2026 07:50:31 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Staatsanleihen: Rendite von US-Anleihen nahe höchstem Stand seit 2002 – Auktion kann Anstieg nur kurzzeitig bremsen",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/us-staatsanleihen-rendite-von-us-anleihen-nahe-hoechstem-stand-seit-2002/100260436.html",
-        "published": "Thu, 08 Oct 2026 06:17:23 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 8. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Thu, 08 Oct 2026 04:23:14 GMT"
       }
     ],
     "Bloomberg – Markets": [
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Japan’s Household Spending Falls Again Despite Wage Gains",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/japan-s-household-spending-falls-again-despite-wage-gains",
-        "published": "Thu, 08 Oct 2026 23:35:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Set to Fall on Tech, Oil Edges Lower: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 08 Oct 2026 22:05:53 GMT"
-      },
       {
         "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Oct. 9",
@@ -144,105 +132,117 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "AI Debt Spree Hammers Tech Debt as Traders Rush to Reprice Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/ai-debt-spree-hammers-tech-debt-as-traders-rush-to-reprice-risk",
-        "published": "Thu, 08 Oct 2026 22:24:51 GMT"
+        "title": "Xiaomi Shares Jump 9% as Strong EV Orders Boost Sentiment",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/xiaomi-shares-jump-9-on-strong-orders-for-new-ev-model",
+        "published": "Fri, 09 Oct 2026 02:57:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ray Dalio Warns of US Debt Crisis Within Three Years",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-06/ray-dalio-warns-of-us-debt-crisis-within-three-years-video",
-        "published": "Tue, 06 Oct 2026 03:37:51 GMT"
+        "title": "US Stock Futures Rise on OpenAI Revenue, Oil Drops: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/stock-market-today-dow-s-p-live-updates",
+        "published": "Thu, 08 Oct 2026 22:05:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Barclays’ Lauren Lieberman on PepsiCo Earnings",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/barclays-lauren-lieberman-on-pepsico-earnings-video",
-        "published": "Thu, 08 Oct 2026 22:13:29 GMT"
+        "title": "Gold Advances as Strong Auction Demand Lowers Treasury Yields",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/gold-steadies-as-traders-assess-us-iran-tensions-fed-rate-path",
+        "published": "Fri, 09 Oct 2026 00:02:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "True Religion CEO on Company Transformation and Gen Z Customers",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/true-religion-ceo-on-company-transformation-video",
-        "published": "Thu, 08 Oct 2026 22:05:23 GMT"
+        "title": "Olympian Gabby Thomas On Building a New Track League",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/olympian-gabby-thomas-on-building-a-new-track-league-video",
+        "published": "Thu, 08 Oct 2026 09:06:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Rachel Gamarski conta sobre os cotados de Flávio Bolsonaro",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/rachel-gamarski-conta-sobre-os-cotados-de-flavio-video",
-        "published": "Thu, 08 Oct 2026 22:02:07 GMT"
+        "title": "Foreigners Buy Japan Stocks Alongside Record Futures Selling",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/foreigners-buy-japan-stocks-alongside-record-futures-selling",
+        "published": "Fri, 09 Oct 2026 02:52:34 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Brazil Election: Bolsonaro Says He’d Work With US, China as President",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/brazil-election-bolsonaro-says-he-d-work-with-us-china-as-president",
-        "published": "Thu, 08 Oct 2026 16:27:09 GMT"
+        "title": "US Targets Indian IT Companies in Crackdown on Alleged Visa Abuse",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-09/us-targets-indian-it-companies-in-crackdown-on-alleged-visa-abuse",
+        "published": "Fri, 09 Oct 2026 02:45:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Patagonia CEO: Insist on Growing at Own Pace",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/patagonia-ceo-insist-on-growing-at-own-pace-video",
-        "published": "Thu, 08 Oct 2026 21:57:03 GMT"
+        "title": "Hinrich Foundation's Elms on EU-China Trade Tensions",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/hinrich-foundation-s-elms-on-eu-china-trade-tensions-video",
+        "published": "Fri, 09 Oct 2026 02:40:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Arc’teryx CEO on Product Expansion & Consumer Demand",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/arc-teryx-ceo-on-product-expansion-consumer-demand-video",
-        "published": "Thu, 08 Oct 2026 21:55:05 GMT"
+        "title": "Copper Set for Weekly Gain on China’s Return and Supply Concerns",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/copper-set-for-weekly-gain-on-china-s-return-and-supply-concerns",
+        "published": "Fri, 09 Oct 2026 02:37:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fixed Income Leaders Dialogue",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/fixed-income-leaders-dialogue-video",
-        "published": "Thu, 08 Oct 2026 21:41:38 GMT"
+        "title": "Nvidia-Backed Firmus IPO Collapses",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/nvidia-backed-firmus-ipo-collapses-video",
+        "published": "Fri, 09 Oct 2026 02:37:18 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Chipotle Jumps on Report Starbucks Has Explored Takeover",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/chipotle-jumps-on-report-starbucks-has-explored-takeover-video",
-        "published": "Thu, 08 Oct 2026 21:28:48 GMT"
+        "title": "Philippines to Adopt International Bond Pricing to Woo Investors",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/philippines-to-adopt-international-bond-pricing-to-woo-investors",
+        "published": "Fri, 09 Oct 2026 02:35:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "How Bond ETFs Are Reshaping Portfolio Construction",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/how-bond-etfs-are-reshaping-portfolio-construction-video",
-        "published": "Thu, 08 Oct 2026 21:22:38 GMT"
+        "title": "BofA Says China Has 25 Trillion Yuan Infrastructure Plan, May Offset Weakness",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/how-china-s-25-trillion-yuan-plan-could-offset-weakness-video",
+        "published": "Thu, 08 Oct 2026 03:33:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Rises After Trump Says US Won’t Attack Iran Before Midterms",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/gold-near-nine-week-low-on-prospects-for-rate-hike-by-year-end",
-        "published": "Wed, 07 Oct 2026 23:37:27 GMT"
+        "title": "Las Vegas Sands CEO: Remain Bullish on Macau Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/las-vegas-sands-ceo-remain-bullish-on-macau-outlook-video",
+        "published": "Fri, 09 Oct 2026 02:21:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Global Banks Bolster Japan Debt Teams as Bond Issuance Booms",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/global-banks-bolster-japan-debt-teams-as-bond-issuance-booms",
-        "published": "Thu, 08 Oct 2026 21:00:00 GMT"
+        "title": "India’s Controversial Voter-Roll Changes Drive Protest Movements",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/india-s-controversial-voter-roll-changes-drive-protest-movements",
+        "published": "Fri, 09 Oct 2026 01:54:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Firmus Misfire Casts Shadow on Data Center IPOs in the Pipeline",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/firmus-misfire-casts-shadow-on-data-center-ipos-in-the-pipeline",
-        "published": "Thu, 08 Oct 2026 20:53:45 GMT"
+        "title": "Lumentum CEO: Opto-Parts Capacity Sold Out to 2029",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/lumentum-ceo-opto-parts-capacity-sold-out-to-2029-video",
+        "published": "Fri, 09 Oct 2026 01:27:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "S&P 500 Falls as Reports on OpenAI Sink Chipmakers: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 07 Oct 2026 22:03:17 GMT"
+        "title": "India IT Set For Fourth Year of Weak Growth on Geopolitics, AI Risks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/india-it-set-for-fourth-year-of-weak-growth-on-geopolitics-ai-risks",
+        "published": "Fri, 09 Oct 2026 01:08:21 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Chipotle Jumps on Report of Potential Starbucks Takeover | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-08/starbucks-eyes-chipotle-takeover-closing-bell-video",
-        "published": "Thu, 08 Oct 2026 20:28:59 GMT"
+        "title": "Top Qatari Bank QNB Inks $2.5 Billion Loan Led By Asia Firms",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/top-qatari-bank-qnb-inks-2-5-billion-loan-led-by-asian-lenders",
+        "published": "Thu, 08 Oct 2026 11:57:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Drops 1.4% as OpenAI Warning Deepens Bubble Fears",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/us-stock-futures-slip-on-mounting-energy-shock-ai-bubble-fears",
-        "published": "Thu, 08 Oct 2026 12:08:23 GMT"
+        "title": "Japan Deal Drought Cuts IPO Fundraising to Lowest in 14 Years",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/japan-deal-drought-cuts-ipo-fundraising-to-lowest-in-14-years",
+        "published": "Fri, 09 Oct 2026 00:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "De olho nas eleições",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/de-olho-nas-eleicoes-video",
+        "published": "Fri, 09 Oct 2026 00:10:34 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japan’s Household Spending Falls Again Despite Wage Gains",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/japan-s-household-spending-falls-again-despite-wage-gains",
+        "published": "Thu, 08 Oct 2026 23:35:57 GMT"
       }
     ],
     "onvista – News": [
