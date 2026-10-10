@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T07:04:47.237822+00:00",
+  "updated_at": "2026-10-10T13:35:54.406882+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,9 +126,57 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "India Detains Protest Leaders as Delhi Curbs Limit Movement",
+        "title": "Hurricane Isaias Slams Florida Panhandle",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/hurricane-isaias-slams-florida-panhandle-video",
+        "published": "Sat, 10 Oct 2026 12:43:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump's Russian Diesel Deal Draws Ukraine Criticism",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/trump-s-russian-diesel-deal-draws-ukraine-criticism-video",
+        "published": "Sat, 10 Oct 2026 12:32:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Why This Canadian Community Is Betting on Coal Again",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/why-this-canadian-community-is-betting-on-coal-again",
+        "published": "Sat, 10 Oct 2026 12:00:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
+        "published": "Sat, 10 Oct 2026 03:35:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Poland Central Bank Faces Meeting Hurdles Without Glapinski: PAP",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/poland-central-bank-faces-meeting-hurdles-without-glapinski-pap",
+        "published": "Sat, 10 Oct 2026 11:02:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Rich Countries Are Now on Front Lines as World’s Risk Map Shifts",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/rich-countries-are-now-on-front-lines-as-world-s-risk-map-shifts",
+        "published": "Sat, 10 Oct 2026 11:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Passenger Vehicle Retail Sales Drop 24% in September",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/china-passenger-vehicle-retail-sales-drop-24-in-september",
+        "published": "Sat, 10 Oct 2026 09:53:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Detains Student Leaders in Major Crackdown on Protests",
         "link": "https://www.bloomberg.com/news/articles/2026-10-10/india-masses-police-in-new-delhi-as-cockroach-protest-looms",
         "published": "Sat, 10 Oct 2026 03:23:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Announces Emergency Steps to Support Plunging Currency",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/rbi-announces-special-oil-window-regulatory-steps-for-rupee",
+        "published": "Sat, 10 Oct 2026 03:14:34 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -138,21 +186,9 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India Central Bank Announces Measures to Support Plunging Rupee",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/rbi-announces-special-oil-window-regulatory-steps-for-rupee",
-        "published": "Sat, 10 Oct 2026 03:14:34 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "China Targets AI-Linked Jobs With New Employment Initiative",
         "link": "https://www.bloomberg.com/news/articles/2026-10-10/china-targets-ai-linked-jobs-with-new-employment-initiative",
         "published": "Sat, 10 Oct 2026 03:43:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
-        "published": "Sat, 10 Oct 2026 03:35:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -207,45 +243,15 @@
         "title": "Bambusa Therapeutics Files for IPO to Fund Eczema Drug Trials",
         "link": "https://www.bloomberg.com/news/articles/2026-10-09/bambusa-therapeutics-files-for-ipo-to-fund-eczema-drug-trials",
         "published": "Fri, 09 Oct 2026 22:06:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Rallies Ahead of Next Week's Earnings | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-rallies-closing-bell-video",
-        "published": "Fri, 09 Oct 2026 21:48:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Drones Help Tackle Shell’s Million-Dollar Hurricane Problem",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-09/tiny-drones-help-tackle-shell-s-million-dollar-hurricane-problem",
-        "published": "Fri, 09 Oct 2026 15:56:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Cable One Blocked From Mega Broadband Deal for Now by Judge",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-09/cable-one-lender-seeks-to-block-480-million-mega-broadband-deal",
-        "published": "Fri, 09 Oct 2026 15:26:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "SpaceX’s Wireless Threat Rises With Spectrum Deal",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/spacex-s-wireless-threat-rises-with-spectrum-deal-video",
-        "published": "Fri, 09 Oct 2026 21:25:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Surveillance Pricing, Orszag's Retirement Warning, Suburb Discount Dwindles",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/bloomberg-money-10-9-2026-video",
-        "published": "Fri, 09 Oct 2026 21:23:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Masters in Business with Barry Ritholtz",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/masters-in-business-with-barry-ritholtz-video",
-        "published": "Fri, 09 Oct 2026 21:00:50 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Ray Dalio: Schutzpolster der Börsen vor Zinsanstiegen schrumpft",
+        "link": "https://www.onvista.de/news/2026/10-10-ray-dalio-schutzpolster-der-boersen-vor-zinsanstiegen-schrumpft-41122522-19-26562600",
+        "published": "Sat, 10 Oct 2026 14:54:08 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Deutscher Leitindex legt trotz Kursdebakel der T-Aktie zu",
@@ -389,12 +395,6 @@
         "title": "VW Bank zahlt 3,75 %: Dieses Tagesgeld-Angebot kann sich sehen lassen",
         "link": "https://www.onvista.de/news/2026/10-08-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
         "published": "Thu, 08 Oct 2026 10:28:17 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax erneut im Minus – Infineon verliert am deutlichsten",
-        "link": "https://www.onvista.de/news/2026/10-08-dax-erneut-im-minus-infineon-verliert-am-deutlichsten-41121301-19-26561810",
-        "published": "Thu, 08 Oct 2026 10:09:37 +0200"
       }
     ],
     "Börse Frankfurt – News": [
