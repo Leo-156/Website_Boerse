@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-10T13:35:54.406882+00:00",
+  "updated_at": "2026-10-10T17:59:30.948920+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Arbeitnehmerhaftung: Wie ein Gerichtsurteil leitende Angestellte in den Ruin treiben könnte",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/haftung-neues-gerichtsurteil-koennte-leitende-angestellte-in-den-finanziellen-ruin-treiben/100261026.html",
+        "published": "Sat, 10 Oct 2026 13:59:49 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "US-Börsen: Techwerte erholen sich nach neuer KI-Angst – Wall Street schließt im Plus",
@@ -115,15 +121,81 @@
         "title": "Börse am 9. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "published": "Fri, 09 Oct 2026 04:13:57 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Aus dieser Branche ziehen viele Deutsche ihr Geld ab",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/aktien-wie-haben-deutsche-anleger-im-september-ihr-geld-investiert/100260026.html",
-        "published": "Fri, 09 Oct 2026 11:51:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Strong Earnings Keep US Stocks in Favor",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video",
+        "published": "Sat, 10 Oct 2026 17:37:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Phenomenal Time To Be Investor, Not Consumer: Amoroso",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/phenomenal-time-to-be-investor-not-consumer-amoroso-video",
+        "published": "Fri, 09 Oct 2026 19:27:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+        "published": "Sat, 10 Oct 2026 17:18:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Viral Handbags Turn Small Designer Into Fashion Star",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/viral-handbags-turn-small-designer-into-fashion-star-video",
+        "published": "Sat, 10 Oct 2026 17:15:26 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/by-the-way-headlines-you-may-have-missed-video",
+        "published": "Sat, 10 Oct 2026 17:02:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hurricane Isaias May Cost Insurers Billions",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/hurricane-isaias-may-cost-insurers-billions-video",
+        "published": "Sat, 10 Oct 2026 16:19:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Russia Plague Scare Raises Public Health Questions",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/russia-plague-scare-raises-public-health-questions-video",
+        "published": "Sat, 10 Oct 2026 16:11:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Russian Diesel Deal Unlikely to Lower US Prices",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/russian-diesel-deal-unlikely-to-lower-us-prices-video",
+        "published": "Sat, 10 Oct 2026 16:03:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Banana Ball Takes Its Baseball Show Nationwide",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/banana-ball-takes-its-baseball-show-nationwide-video",
+        "published": "Sat, 10 Oct 2026 15:33:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Jefferies Says It Found Fraud in $900 Million of Radiant Deals",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/jefferies-says-it-found-fraud-in-900-million-of-radiant-deals",
+        "published": "Sat, 10 Oct 2026 15:03:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Balancing Conviction and Risk: Masters in Business  with Maria Vassalou",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/masters-in-business-with-barry-ritholtz-video",
+        "published": "Fri, 09 Oct 2026 21:00:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Restaurant Theft Adds to Rising Dining Costs",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-10/restaurant-theft-adds-to-rising-dining-costs-video",
+        "published": "Sat, 10 Oct 2026 14:26:18 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Hurricane Isaias Slams Florida Panhandle",
@@ -168,81 +240,9 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India Detains Student Leaders in Major Crackdown on Protests",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/india-masses-police-in-new-delhi-as-cockroach-protest-looms",
-        "published": "Sat, 10 Oct 2026 03:23:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "India Announces Emergency Steps to Support Plunging Currency",
         "link": "https://www.bloomberg.com/news/articles/2026-10-10/rbi-announces-special-oil-window-regulatory-steps-for-rupee",
         "published": "Sat, 10 Oct 2026 03:14:34 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Banking Stock Swoon in Europe Is a Sign of Caution, Not Panic",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/banking-stock-swoon-in-europe-is-a-sign-of-caution-not-panic",
-        "published": "Sat, 10 Oct 2026 06:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Targets AI-Linked Jobs With New Employment Initiative",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/china-targets-ai-linked-jobs-with-new-employment-initiative",
-        "published": "Sat, 10 Oct 2026 03:43:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Thai Bourse Revises Short-Selling, High-Frequency Trading Rules",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/thai-bourse-revises-short-selling-high-frequency-trading-rules",
-        "published": "Sat, 10 Oct 2026 02:48:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Australia Says Doesn’t Need Russian Fuel After Trump Diesel Move",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/australia-says-doesn-t-need-russian-fuel-after-trump-diesel-move",
-        "published": "Sat, 10 Oct 2026 02:30:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Safari Park Plan Sparks Fresh Wave of Resident Angst in Vietnam",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/safari-park-plan-sparks-fresh-wave-of-resident-angst-in-vietnam",
-        "published": "Sat, 10 Oct 2026 02:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump Says Putin to Supply US With Diesel",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/the-close-10-9-2026-video",
-        "published": "Fri, 09 Oct 2026 23:17:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Week | Michigan Manufacturing, AI Debt Investments, Baby Bonds, Canadian Coal Fight",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-week-baby-bonds-canadian-coal-fight-video",
-        "published": "Fri, 09 Oct 2026 23:13:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Flexport CEO on Oil Tanker Costs, Diesel Prices",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/flexport-ceo-on-oil-tanker-costs-diesel-prices-video",
-        "published": "Fri, 09 Oct 2026 23:05:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Clinches Weekly Gain on Growing Bullish ETF, Energy Signs",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-09/gold-steadies-as-traders-assess-us-iran-tensions-fed-rate-path",
-        "published": "Fri, 09 Oct 2026 00:02:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Atomic Machines CEO on Developing 'Micro-Machines'",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/atomic-machines-ceo-on-developing-micro-machines-video",
-        "published": "Fri, 09 Oct 2026 22:40:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bambusa Therapeutics Files for IPO to Fund Eczema Drug Trials",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-09/bambusa-therapeutics-files-for-ipo-to-fund-eczema-drug-trials",
-        "published": "Fri, 09 Oct 2026 22:06:37 GMT"
       }
     ],
     "onvista – News": [
