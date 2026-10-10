@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T01:13:40.253387+00:00",
+  "updated_at": "2026-10-10T07:04:47.237822+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,54 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "India Detains Protest Leaders as Delhi Curbs Limit Movement",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/india-masses-police-in-new-delhi-as-cockroach-protest-looms",
+        "published": "Sat, 10 Oct 2026 03:23:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Banking Stock Swoon in Europe Is a Sign of Caution, Not Panic",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/banking-stock-swoon-in-europe-is-a-sign-of-caution-not-panic",
+        "published": "Sat, 10 Oct 2026 06:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Central Bank Announces Measures to Support Plunging Rupee",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/rbi-announces-special-oil-window-regulatory-steps-for-rupee",
+        "published": "Sat, 10 Oct 2026 03:14:34 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Targets AI-Linked Jobs With New Employment Initiative",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/china-targets-ai-linked-jobs-with-new-employment-initiative",
+        "published": "Sat, 10 Oct 2026 03:43:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
+        "published": "Sat, 10 Oct 2026 03:35:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Thai Bourse Revises Short-Selling, High-Frequency Trading Rules",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/thai-bourse-revises-short-selling-high-frequency-trading-rules",
+        "published": "Sat, 10 Oct 2026 02:48:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Australia Says Doesn’t Need Russian Fuel After Trump Diesel Move",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/australia-says-doesn-t-need-russian-fuel-after-trump-diesel-move",
+        "published": "Sat, 10 Oct 2026 02:30:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Safari Park Plan Sparks Fresh Wave of Resident Angst in Vietnam",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/safari-park-plan-sparks-fresh-wave-of-resident-angst-in-vietnam",
+        "published": "Sat, 10 Oct 2026 02:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Trump Says Putin to Supply US With Diesel",
         "link": "https://www.bloomberg.com/news/videos/2026-10-09/the-close-10-9-2026-video",
         "published": "Fri, 09 Oct 2026 23:17:38 GMT"
@@ -195,54 +243,6 @@
         "title": "Masters in Business with Barry Ritholtz",
         "link": "https://www.bloomberg.com/news/videos/2026-10-09/masters-in-business-with-barry-ritholtz-video",
         "published": "Fri, 09 Oct 2026 21:00:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Dollar Notches Its Longest Winning Streak Since Early 2025",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-09/dollar-s-longest-winning-streak-since-early-2025-keeps-going",
-        "published": "Fri, 09 Oct 2026 08:05:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "A Big Asset Manager Deleveraging Is Underway in Treasury Futures",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-09/a-big-asset-manager-deleveraging-is-underway-in-treasury-futures",
-        "published": "Fri, 09 Oct 2026 20:41:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Social Security Has To Be Addressed: Orszag",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/social-security-has-to-be-addressed-orszag-video",
-        "published": "Fri, 09 Oct 2026 20:36:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street’s Rate Shock Spreads Beneath AI-Fueled Market Rally",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-09/wall-street-s-rate-shock-spreads-beneath-ai-fueled-market-rally",
-        "published": "Fri, 09 Oct 2026 20:34:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Aritzia Rises Most in Over Two Years on Beat, Better Outlook",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-09/aritzia-surges-most-over-a-year-on-earnings-beat-better-outlook",
-        "published": "Fri, 09 Oct 2026 16:41:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Little-Known Trading Firm That Beat Wall Street’s Biggest Giants",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/the-little-known-trading-firm-that-beat-wall-street-s-biggest-giants",
-        "published": "Fri, 09 Oct 2026 20:30:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Big Tech Rally Extends Into Fourth Week as AI Bubble Fears Fade",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-09/us-stocks-set-to-rebound-as-oil-slips-ai-bubble-fears-recede",
-        "published": "Fri, 09 Oct 2026 12:01:10 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "'Surveillance Pricing' Comes Under Scrutiny",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/-surveillance-pricing-comes-under-scrutiny-video",
-        "published": "Fri, 09 Oct 2026 20:25:03 GMT"
       }
     ],
     "onvista – News": [
