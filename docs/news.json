@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T21:40:01.264319+00:00",
+  "updated_at": "2026-10-10T01:13:40.253387+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,54 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Trump Says Putin to Supply US With Diesel",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/the-close-10-9-2026-video",
+        "published": "Fri, 09 Oct 2026 23:17:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street Week | Michigan Manufacturing, AI Debt Investments, Baby Bonds, Canadian Coal Fight",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-week-baby-bonds-canadian-coal-fight-video",
+        "published": "Fri, 09 Oct 2026 23:13:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Flexport CEO on Oil Tanker Costs, Diesel Prices",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/flexport-ceo-on-oil-tanker-costs-diesel-prices-video",
+        "published": "Fri, 09 Oct 2026 23:05:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Clinches Weekly Gain on Growing Bullish ETF, Energy Signs",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/gold-steadies-as-traders-assess-us-iran-tensions-fed-rate-path",
+        "published": "Fri, 09 Oct 2026 00:02:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Atomic Machines CEO on Developing 'Micro-Machines'",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/atomic-machines-ceo-on-developing-micro-machines-video",
+        "published": "Fri, 09 Oct 2026 22:40:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bambusa Therapeutics Files for IPO to Fund Eczema Drug Trials",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/bambusa-therapeutics-files-for-ipo-to-fund-eczema-drug-trials",
+        "published": "Fri, 09 Oct 2026 22:06:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street Rallies Ahead of Next Week's Earnings | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-rallies-closing-bell-video",
+        "published": "Fri, 09 Oct 2026 21:48:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Drones Help Tackle Shell’s Million-Dollar Hurricane Problem",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/tiny-drones-help-tackle-shell-s-million-dollar-hurricane-problem",
+        "published": "Fri, 09 Oct 2026 15:56:39 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Cable One Blocked From Mega Broadband Deal for Now by Judge",
         "link": "https://www.bloomberg.com/news/articles/2026-10-09/cable-one-lender-seeks-to-block-480-million-mega-broadband-deal",
         "published": "Fri, 09 Oct 2026 15:26:04 GMT"
@@ -135,6 +183,12 @@
         "title": "SpaceX’s Wireless Threat Rises With Spectrum Deal",
         "link": "https://www.bloomberg.com/news/videos/2026-10-09/spacex-s-wireless-threat-rises-with-spectrum-deal-video",
         "published": "Fri, 09 Oct 2026 21:25:57 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Surveillance Pricing, Orszag's Retirement Warning, Suburb Discount Dwindles",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-09/bloomberg-money-10-9-2026-video",
+        "published": "Fri, 09 Oct 2026 21:23:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -189,60 +243,6 @@
         "title": "'Surveillance Pricing' Comes Under Scrutiny",
         "link": "https://www.bloomberg.com/news/videos/2026-10-09/-surveillance-pricing-comes-under-scrutiny-video",
         "published": "Fri, 09 Oct 2026 20:25:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P 500 Rises to Near-Record Level Before Earnings: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 08 Oct 2026 22:05:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "\"Pee Wees: Confessions of a Hockey Parent\", \"The Stories of John Cheever\"",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/tom-scarlet-s-must-read-books-video",
-        "published": "Fri, 09 Oct 2026 20:08:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 9",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/latest-oil-market-news-and-analysis-for-oct-9",
-        "published": "Thu, 08 Oct 2026 22:02:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Sees an Ominous Sign in Bond Market’s Latest Selloff",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-sees-an-ominous-sign-in-bond-market-selloff-video",
-        "published": "Fri, 09 Oct 2026 19:38:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "New Jersey Suburban Discount Dwindles",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/new-jersey-suburban-discount-dwindles-video",
-        "published": "Fri, 09 Oct 2026 19:38:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hurricane Isaias Shuts Almost Three-Quarters of Gulf Oil Output",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-09/hurricane-isaias-shuts-almost-three-quarters-of-gulf-oil-output",
-        "published": "Fri, 09 Oct 2026 19:28:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Phenomenal Time To Be Investor, Not Consumer: Amoroso",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/phenomenal-time-to-be-investor-not-consumer-amoroso-video",
-        "published": "Fri, 09 Oct 2026 19:27:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Some High Earners Stop Maxing Out 401(k)s",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/some-high-earners-stop-maxing-out-401-k-s-video",
-        "published": "Fri, 09 Oct 2026 19:19:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bond Vigilantes Are Coming Back: Peter Orszag",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-09/bond-vigilantes-are-coming-back-peter-orszag-video",
-        "published": "Fri, 09 Oct 2026 19:11:30 GMT"
       }
     ],
     "onvista – News": [
