@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T17:59:30.948920+00:00",
+  "updated_at": "2026-10-10T21:09:56.755911+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,12 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
+        "published": "Sat, 10 Oct 2026 19:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Strong Earnings Keep US Stocks in Favor",
         "link": "https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video",
         "published": "Sat, 10 Oct 2026 17:37:41 GMT"
@@ -237,12 +243,6 @@
         "title": "China Passenger Vehicle Retail Sales Drop 24% in September",
         "link": "https://www.bloomberg.com/news/articles/2026-10-10/china-passenger-vehicle-retail-sales-drop-24-in-september",
         "published": "Sat, 10 Oct 2026 09:53:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "India Announces Emergency Steps to Support Plunging Currency",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/rbi-announces-special-oil-window-regulatory-steps-for-rupee",
-        "published": "Sat, 10 Oct 2026 03:14:34 GMT"
       }
     ],
     "onvista – News": [
