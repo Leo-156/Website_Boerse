@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T20:38:41.268168+00:00",
+  "updated_at": "2026-10-11T23:57:59.766260+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,36 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Advance, Oil Erases Early Gains: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
+        "published": "Sun, 11 Oct 2026 22:09:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "NZ National Party Will Wait for Budget Surplus Before Tax Cuts",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/nz-national-party-will-wait-for-budget-surplus-before-tax-cuts",
+        "published": "Sun, 11 Oct 2026 23:15:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Healey Needs £35 Billion to Meet UK Spending Plans, IFS Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/healey-needs-35-billion-to-meet-uk-spending-plans-ifs-says",
+        "published": "Sun, 11 Oct 2026 23:01:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Saudi Airport Hit Again as Riyadh Set to Host Major Events",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack",
+        "published": "Sun, 11 Oct 2026 14:47:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 12",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12",
+        "published": "Sun, 11 Oct 2026 22:08:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks",
         "link": "https://www.bloomberg.com/news/articles/2026-10-11/bond-selloff-may-mean-fewer-rate-hikes-from-global-central-banks",
         "published": "Sun, 11 Oct 2026 19:00:00 GMT"
@@ -153,12 +183,6 @@
         "title": "Former US Envoy Warns of Wider Middle East Conflict",
         "link": "https://www.bloomberg.com/news/videos/2026-10-11/former-us-envoy-warns-of-wider-middle-east-conflict-video",
         "published": "Sun, 11 Oct 2026 17:12:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Saudi Airport Hit Again as Riyadh Set to Host Major Conferences",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack",
-        "published": "Sun, 11 Oct 2026 14:47:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -219,30 +243,6 @@
         "title": "Prediction Markets’ NFL Boom Tests Sports Betting Rules",
         "link": "https://www.bloomberg.com/news/articles/2026-10-11/prediction-markets-nfl-boom-tests-sports-betting-rules",
         "published": "Sun, 11 Oct 2026 13:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Inside Italy's Changing Politics and Papacy",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/inside-italy-s-changing-politics-and-papacy-video",
-        "published": "Sun, 11 Oct 2026 12:45:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "India Protests Trigger Security Crackdown in New Delhi",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/india-protests-trigger-security-crackdown-in-new-delhi-video",
-        "published": "Sun, 11 Oct 2026 12:37:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Cockroach Party Leaders Vow to Continue Protests After Release",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/indian-cockroaches-plan-new-protest-amid-heavy-delhi-security",
-        "published": "Sun, 11 Oct 2026 05:24:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Exclusive: Dimon, Farley, Gov. Whitmer on Rebuilding American Manufacturing",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/why-ford-and-jpmorgan-are-betting-on-michigan-video",
-        "published": "Sun, 11 Oct 2026 12:03:31 GMT"
       }
     ],
     "onvista – News": [
