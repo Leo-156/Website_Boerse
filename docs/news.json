@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T00:13:01.993347+00:00",
+  "updated_at": "2026-10-11T05:42:38.946897+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,30 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
+        "published": "Sat, 10 Oct 2026 03:35:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Issues Draft Standards for Remanufactured Automotive Parts",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/china-issues-draft-standards-for-remanufactured-automotive-parts",
+        "published": "Sun, 11 Oct 2026 03:21:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India’s Rupee Defense Raises Question of How Far RBI Will Go",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/india-s-rupee-defense-raises-question-of-how-far-rbi-will-go",
+        "published": "Sun, 11 Oct 2026 03:00:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
+        "published": "Sun, 11 Oct 2026 00:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
         "link": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
         "published": "Sat, 10 Oct 2026 19:00:00 GMT"
@@ -219,30 +243,6 @@
         "title": "Why This Canadian Community Is Betting on Coal Again",
         "link": "https://www.bloomberg.com/news/videos/2026-10-10/why-this-canadian-community-is-betting-on-coal-again",
         "published": "Sat, 10 Oct 2026 12:00:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
-        "published": "Sat, 10 Oct 2026 03:35:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Poland Central Bank Faces Meeting Hurdles Without Glapinski: PAP",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/poland-central-bank-faces-meeting-hurdles-without-glapinski-pap",
-        "published": "Sat, 10 Oct 2026 11:02:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rich Countries Are Now on Front Lines as World’s Risk Map Shifts",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/rich-countries-are-now-on-front-lines-as-world-s-risk-map-shifts",
-        "published": "Sat, 10 Oct 2026 11:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Passenger Vehicle Retail Sales Drop 24% in September",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-10/china-passenger-vehicle-retail-sales-drop-24-in-september",
-        "published": "Sat, 10 Oct 2026 09:53:56 GMT"
       }
     ],
     "onvista – News": [
