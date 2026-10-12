@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-12T03:47:37.460420+00:00",
+  "updated_at": "2026-10-12T11:22:10.121797+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax notiert im Plus – VW-Aktie legt zu",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-vw-aktie-legt-zu/100261443.html",
+        "published": "Mon, 12 Oct 2026 09:59:41 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Vermögen: Wann sich ein Ehevertrag lohnt – und was er kostet",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-wann-ist-ein-ehevertrag-fuer-paare-sinnvoll/100224359.html",
+        "published": "Mon, 12 Oct 2026 09:51:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Neobank: Marc Heß wird neuer Finanzvorstand bei N26",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/neobank-marc-hess-wird-neuer-finanzvorstand-bei-n26/100261517.html",
+        "published": "Mon, 12 Oct 2026 08:59:22 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Kann eine 150 Jahre alte Grafik die Börsenkurse vorhersagen?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-was-eine-150-jahre-alte-grafik-ueber-heutige-boersenentwicklungen-sagt/100189715.html",
+        "published": "Mon, 12 Oct 2026 08:48:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-welche-erfahrungen-ich-als-etf-anfaenger-gesammelt-habe/100184984.html",
+        "published": "Mon, 12 Oct 2026 07:47:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Asien: Asiens Börsen treten auf der Stelle – Ölpreise geben nach",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-asiens-boersen-treten-auf-der-stelle-oelpreise-geben-nach/100261428.html",
+        "published": "Mon, 12 Oct 2026 07:29:01 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 12. Oktober: Fünf Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Mon, 12 Oct 2026 04:13:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Klimaschutz: Gegen den Trend: EU-Banken fahren Finanzierung von Kohle-Unternehmen deutlich zurück",
@@ -17,8 +59,8 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Vermögen: So sichern sich Paare ohne Trauschein gegenseitig ab",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-so-sichern-sich-paare-ohne-trauschein-gegenseitig-ab/100257225.html",
-        "published": "Sun, 11 Oct 2026 12:00:00 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-so-sichern-sich-paare-ohne-trauschein-gegenseitig-ab-1/100257225.html",
+        "published": "Mon, 12 Oct 2026 10:36:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -41,8 +83,8 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Arbeitnehmerhaftung: Wie ein Gerichtsurteil leitende Angestellte in den Ruin treiben könnte",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/haftung-neues-gerichtsurteil-koennte-leitende-angestellte-in-den-finanziellen-ruin-treiben/100261026.html",
-        "published": "Sat, 10 Oct 2026 13:59:49 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/urteil-haften-mitarbeiter-bei-groben-fehlern-bald-mit-dem-privaten-vermoegen/100261026.html",
+        "published": "Mon, 12 Oct 2026 05:16:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -79,56 +121,98 @@
         "title": "Devisen: Der Yuan soll steigen – aber nicht auf Geheiß des Westens",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/geld-der-yuan-soll-steigen-aber-nicht-auf-geheiss-des-westens/100256759.html",
         "published": "Fri, 09 Oct 2026 13:05:38 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Kauf einer Mietwohnung – Das verdienen Vermieter tatsächlich",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-sind-vermietete-wohnungen-ein-gutes-investment/100180922.html",
-        "published": "Fri, 09 Oct 2026 13:04:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Verurteilung von Ex-Deutsche-Bank-Händler wegen Zinsmanipulation aufgehoben",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/bank-urteil-vonex-deutsche-bank-haendler-wegen-zinsmanipulation-aufgehoben/100261057.html",
-        "published": "Fri, 09 Oct 2026 12:05:12 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "FIRE: „Wer finanziell unabhängig wird, gerät oft in eine Existenzkrise“",
-        "link": "https://www.handelsblatt.com/finanzen/vorsorge/fire-bewegung-im-leben-geht-es-um-beziehungen-nicht-um-geld/100149007.html",
-        "published": "Fri, 09 Oct 2026 11:39:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Sparkasse Göttingen muss Konten der linksextremen Roten Hilfe behalten",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-sparkasse-goettingen-muss-konten-der-linksextremen-roten-hilfe-behalten/100260412.html",
-        "published": "Fri, 09 Oct 2026 10:55:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Euro: Der Frankreich-Schock weckt düstere Erinnerungen",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/euro-der-frankreich-schock-weckt-duestere-erinnerungen/100260419.html",
-        "published": "Fri, 09 Oct 2026 10:42:30 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Bewertungen: Börsengang von australischer KI-Firma Firmus abgesagt",
-        "link": "https://www.handelsblatt.com/finanzen/bewertungen-boersengang-von-australischer-ki-firma-firmus-abgesagt/100261001.html",
-        "published": "Fri, 09 Oct 2026 09:33:55 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Für welche Investoren sich Schulen, Kitas und Gerichte lohnen",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-fuer-welche-investoren-sich-schulen-kitas-und-gerichte-lohnen/100260362.html",
-        "published": "Fri, 09 Oct 2026 09:28:19 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Indian Rupee Jumps 1% After RBI Measures to Support Currency",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/indian-rupee-strengthens-in-offshore-market-after-rbi-measures",
-        "published": "Mon, 12 Oct 2026 01:44:56 GMT"
+        "title": "US Stocks Flat as Earnings Hopes Offset Oil Swings: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
+        "published": "Sun, 11 Oct 2026 22:09:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Boxer Names New CEO as Low Prices Help Lift Grocer’s Profit",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/boxer-appoints-new-ceo-as-south-african-grocer-s-profit-rises",
+        "published": "Mon, 12 Oct 2026 05:56:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Russia Sanctions Must Stay in Place, Says Dutch Defense Minister",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/dutch-defense-min-russia-sanctions-must-stay-in-place-video",
+        "published": "Mon, 12 Oct 2026 11:11:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Copper Gains on Interest-Rate Outlook and Chile Mine Avalanche",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/copper-gains-on-easing-rate-hike-bets-and-chile-mine-avalanche",
+        "published": "Mon, 12 Oct 2026 04:02:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "HSBC Moves to Wall Street Bonus Model",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/hsbc-moves-to-wall-street-bonus-model-video",
+        "published": "Mon, 12 Oct 2026 11:04:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Russia Diesel Deal, Energy Ceasefire ‘Extremely Desperate,’ Sen Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/russia-diesel-deal-energy-ceasefire-desperate-sen-video",
+        "published": "Mon, 12 Oct 2026 11:00:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stumbling Equity Rally Hinges on Earnings for Year-End Boost",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/stumbling-equity-rally-hinges-on-earnings-for-year-end-boost",
+        "published": "Mon, 12 Oct 2026 11:00:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "What Could Stand in the Way of India's Growth Ambitions",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/what-could-stand-in-the-way-of-india-s-growth-ambitions-video",
+        "published": "Mon, 12 Oct 2026 10:52:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Credit Agricole Weighs Hedging Risky Debt in Car Dealer SRT",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/credit-agricole-weighs-hedging-risky-debt-in-car-dealer-srt",
+        "published": "Mon, 12 Oct 2026 10:43:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Equity Trading Desks May Spur a Vibe Shift on Bank Stocks",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-12/equity-trading-desks-may-spur-a-vibe-shift-on-bank-stocks",
+        "published": "Mon, 12 Oct 2026 10:39:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nobel Prize in Economics Shared by Hall, Woodford",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/nobel-prize-in-economics-shared-by-hall-woodford-video",
+        "published": "Mon, 12 Oct 2026 10:01:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "INR/USD: India Draws Line in Sand for Rupee at 97 as RBI Steps Up Defense",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/inr-usd-india-draws-line-in-sand-for-rupee-at-97-as-rbi-steps-up-defense",
+        "published": "Mon, 12 Oct 2026 05:50:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Equity Fund Flows Draw More Cash as Investors Buy the Dip",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/india-equity-fund-flows-draw-more-cash-as-investors-buy-the-dip",
+        "published": "Mon, 12 Oct 2026 06:45:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Morgan Stanley Traders Pitch Travelodge’s Unloved Bonds as a Buy",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/morgan-stanley-traders-pitch-travelodge-s-unloved-bonds-as-a-buy",
+        "published": "Mon, 12 Oct 2026 09:54:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Genting Shares Tumble Most on Record on Rights Issue Plan",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/genting-shares-tumble-most-since-1998-on-rights-issue-plan",
+        "published": "Mon, 12 Oct 2026 03:07:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -138,114 +222,96 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Iran War’s End Will Be Turning Point for India, Amundi Arm Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/iran-war-s-end-will-be-turning-point-for-india-amundi-arm-says",
-        "published": "Mon, 12 Oct 2026 03:18:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Genting Shares Tumble Most Since 1998 on Rights Issue Plan",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/genting-shares-tumble-most-since-1998-on-rights-issue-plan",
-        "published": "Mon, 12 Oct 2026 03:07:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stock and Bond Futures Advance as Oil Declines: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
-        "published": "Sun, 11 Oct 2026 22:09:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/bond-selloff-may-mean-fewer-rate-hikes-from-global-central-banks",
-        "published": "Sun, 11 Oct 2026 19:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "RBI Tightens Rupee Defense as Pricey Crude, Foreign Outflows Bite: USD/INR",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-12/rbi-tightens-rupee-defense-as-pricey-crude-foreign-outflows-bite-usd-inr",
-        "published": "Mon, 12 Oct 2026 02:30:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "South Korean Won Hits Two-Year High on Lower Oil, Dollar Sales",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/south-korean-won-hits-two-year-high-on-lower-oil-dollar-sales",
-        "published": "Mon, 12 Oct 2026 02:20:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Agrees to Curb Hybrid Car Exports to EU",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-12/china-agrees-to-curb-hybrid-car-exports-to-eu-video",
-        "published": "Mon, 12 Oct 2026 02:12:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "India IT Set For Fourth Year of Weak Growth on Geopolitics, AI Risks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-09/india-it-set-for-fourth-year-of-weak-growth-on-geopolitics-ai-risks",
-        "published": "Fri, 09 Oct 2026 01:08:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gov. Koike's Next Key Priorities for Tokyo",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-12/gov-koike-s-nest-key-priorities-for-tokyo-video",
-        "published": "Mon, 12 Oct 2026 01:16:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Malaysia Budget Sees Consumer Names Emerge Winners, Analysts Say",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/malaysia-budget-sees-consumer-names-emerge-winners-analysts-say",
-        "published": "Mon, 12 Oct 2026 00:43:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Edges Up as Lower Oil Prices Pare Rate-Hike Expectations",
+        "title": "Gold Edges Down as Traders Monitor Oil Prices, Fed Rate Outlook",
         "link": "https://www.bloomberg.com/news/articles/2026-10-12/gold-edges-up-as-traders-weigh-russia-ukraine-energy-ceasefire",
         "published": "Mon, 12 Oct 2026 00:38:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India’s Capital Braces for More Protests After Mass Detentions",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/india-s-capital-braces-for-more-protests-after-mass-detentions",
-        "published": "Mon, 12 Oct 2026 01:18:02 GMT"
+        "title": "G20’s Debt Toolkit Faces Fresh Test in Senegal",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/g20-s-debt-toolkit-faces-fresh-test-in-senegal-video",
+        "published": "Mon, 12 Oct 2026 08:57:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Korean Bond Rally Seen Faltering as Traders Brace for Rate Hikes",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/korean-bond-rally-seen-faltering-as-traders-brace-for-rate-hikes",
-        "published": "Mon, 12 Oct 2026 00:14:05 GMT"
+        "title": "Indonesia Stocks Tumble on Speculation Over Regulatory Fines",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/indonesian-stocks-plunge-sending-benchmark-to-three-month-low",
+        "published": "Mon, 12 Oct 2026 07:42:58 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wrightson’s Crandall Ends Weekly Market Missives After 44 Years",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/wrightson-s-crandall-ends-weekly-market-missives-after-44-years",
-        "published": "Sun, 11 Oct 2026 23:32:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Saudi Airport Hit Again as Riyadh Set to Host Major Events",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack",
-        "published": "Sun, 11 Oct 2026 14:47:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Bond Traders Await CPI, Warsh For Insight on Fed’s Rate Path",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/us-bond-traders-await-cpi-warsh-for-insight-on-fed-s-rate-path",
-        "published": "Sun, 11 Oct 2026 19:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "'Windows of Opportunity' to End War in Ukraine, SACEUR Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/digi-full-intv-gen-alexus-g-grynkewich-nato-supreme-allied-commander-europe",
-        "published": "Sun, 11 Oct 2026 17:41:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bookmarked: Stories That Caught Our Eye This Week",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/bookmarked-stories-that-caught-our-eye-this-week-video",
-        "published": "Sun, 11 Oct 2026 17:18:16 GMT"
+        "title": "Goldman Strategists Upgrade Global Stocks on Earnings Boost",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/goldman-strategists-upgrade-global-stocks-on-earnings-boost",
+        "published": "Mon, 12 Oct 2026 08:39:57 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Spartopf übernimmt die Führung – matteom punktet mit Dax-Short",
+        "link": "https://www.onvista.de/news/2026/10-12-spartopf-uebernimmt-die-fuehrung-matteom-punktet-mit-dax-short-41121301-19-26563028",
+        "published": "Mon, 12 Oct 2026 13:10:54 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Mercedes: Kursziele sinken, Oracle & OpenAI-Risiko, Microsoft mit KI-PCs",
+        "link": "https://www.onvista.de/news/2026/10-12-mercedes-kursziele-sinken-oracle-openai-risiko-microsoft-mit-ki-pcs-40338625-19-26563053",
+        "published": "Mon, 12 Oct 2026 12:58:01 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "BISON Test 2026: Gebühren, Sicherheit & Erfahrungen im ausführlichen Review",
+        "link": "https://www.onvista.de/ratgeber/kryptowaehrungen-ratgeber/bison-test-2026-gebuehren-sicherheit-erfahrungen-im-ausfuehrlichen-review-26497210",
+        "published": "Mon, 12 Oct 2026 11:43:37 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax setzt seine Erholung fort und erreicht 25.260 Punkte",
+        "link": "https://www.onvista.de/news/2026/10-12-dax-setzt-seine-erholung-fort-und-erreicht-25-260-punkte-41123281-19-26562981",
+        "published": "Mon, 12 Oct 2026 10:25:02 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax setzt Erholung fort – Ölpreise und China stützen",
+        "link": "https://www.onvista.de/news/2026/10-12-dax-setzt-erholung-fort-oelpreise-und-china-stuetzen-0-19-26562963",
+        "published": "Mon, 12 Oct 2026 09:53:43 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Einer für alle. Alles in Einem. Hol dir mit nur einem ETF die ganze Welt in dein Depot.",
+        "link": "https://www.comdirect.de/wtr/affiliate?ci=000000000000000BA0000000400050&aid=y&rd=%2Fcms%2Flp%2Fall-world-etf_media.html&tid=s:C;pid:%epid!;cid:%ECid!;(clid)%EDclid!",
+        "published": "Mon, 12 Oct 2026 09:01:32 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Möge das Wachstum mit dir sein. Mit einem ETF in Aktienmärkte weltweit investieren.",
+        "link": "https://www.comdirect.de/wtr/affiliate?ci=000000000000000BA0000000400050&aid=y&rd=%2Fcms%2Flp%2Fall-world-etf_media.html&tid=s:C;pid:%epid!;cid:%ECid!;(clid)%EDclid!",
+        "published": "Mon, 12 Oct 2026 09:01:24 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Du verdienst die ganze Welt. Investiere ganz einfach weltweit.",
+        "link": "https://www.comdirect.de/wtr/affiliate?ci=000000000000000BA0000000400050&aid=y&rd=%2Fcms%2Flp%2Fall-world-etf_media.html&tid=s:C;pid:%epid!;cid:%ECid!;(clid)%EDclid!",
+        "published": "Mon, 12 Oct 2026 09:01:15 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax im Plus erwartet – Ölpreise geben nach",
+        "link": "https://www.onvista.de/news/2026/10-12-dax-im-plus-erwartet-oelpreise-geben-nach-41121301-19-26562901",
+        "published": "Mon, 12 Oct 2026 08:04:22 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 12.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-12-finanzberichte-heute-12-10-2026-41121301-19-26562875",
+        "published": "Mon, 12 Oct 2026 06:10:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  12.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-12-dividendenalarm-heute-12-10-2026-41121301-19-26562866",
+        "published": "Mon, 12 Oct 2026 06:00:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Ray Dalio: Schutzpolster der Börsen vor Zinsanstiegen schrumpft",
@@ -329,75 +395,15 @@
         "title": "Starker Ölpreis-Anstieg beschert Dax nächsten Verlusttag",
         "link": "https://www.onvista.de/news/2026/10-08-leitindex-unter-25-000-punkten-oel-und-anleihen-belasten-41121301-19-26562033",
         "published": "Thu, 08 Oct 2026 17:57:40 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Martin Goersch nur Dritter – Depot ist von Micron abhängig",
-        "link": "https://www.onvista.de/news/2026/10-08-martin-goersch-nur-dritter-depot-ist-von-micron-abhaengig-40338625-19-26561969",
-        "published": "Thu, 08 Oct 2026 16:30:02 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Jungheinrich: Ich meide die Aktie weiterhin",
-        "link": "https://www.onvista.de/news/2026/10-08-jungheinrich-ich-meide-die-aktie-weiterhin-40338625-19-26561971",
-        "published": "Thu, 08 Oct 2026 16:12:57 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Südzucker: Ich werde bei der Aktie vorsichtig",
-        "link": "https://www.onvista.de/news/2026/10-08-suedzucker-ich-werde-bei-der-aktie-vorsichtig-40338625-19-26561970",
-        "published": "Thu, 08 Oct 2026 16:12:02 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Samsung: Ich sehe eine klare Unterbewertung",
-        "link": "https://www.onvista.de/news/2026/10-08-samsung-ich-sehe-eine-klare-unterbewertung-40338625-19-26561978",
-        "published": "Thu, 08 Oct 2026 16:11:17 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Caterpillar: Ich sehe den Rückgang als Einstiegschance",
-        "link": "https://www.onvista.de/news/2026/10-08-caterpillar-ich-sehe-den-rueckgang-als-einstiegschance-40338625-19-26561983",
-        "published": "Thu, 08 Oct 2026 16:09:56 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Palantir:  Startet die Aktie jetzt richtig durch?",
-        "link": "https://www.onvista.de/news/2026/10-08-palantir-hochbewertete-wachstumsaktie-40338625-19-26561987",
-        "published": "Thu, 08 Oct 2026 16:08:42 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Marvell: Ich sehe weiter hohes Potenzial",
-        "link": "https://www.onvista.de/news/2026/10-08-marvell-ich-sehe-weiter-hohes-potenzial-40338625-19-26561984",
-        "published": "Thu, 08 Oct 2026 16:06:15 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Micron: Wieso das neue Kursziel realitätsfern scheint",
-        "link": "https://www.onvista.de/news/2026/10-08-micron-kursziel-von-3-000-dollar-40338625-19-26561985",
-        "published": "Thu, 08 Oct 2026 16:02:40 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Taiwan Semi: Ich sehe den Rückgang als Chance",
-        "link": "https://www.onvista.de/news/2026/10-08-taiwan-semi-ich-sehe-den-rueckgang-als-chance-40338625-19-26561986",
-        "published": "Thu, 08 Oct 2026 16:01:18 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Micron: 3.000-Dollar-Kursziel – TSMC erzielt Rekordumsatz",
-        "link": "https://www.onvista.de/news/2026/10-08-micron-3-000-dollar-kursziel-tsmc-erzielt-rekordumsatz-40338625-19-26561869",
-        "published": "Thu, 08 Oct 2026 12:57:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "VW Bank zahlt 3,75 %: Dieses Tagesgeld-Angebot kann sich sehen lassen",
-        "link": "https://www.onvista.de/news/2026/10-08-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
-        "published": "Thu, 08 Oct 2026 10:28:17 +0200"
       }
     ],
     "Börse Frankfurt – News": [
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Auswahlindizes: ProCredit Holding steigt in den SDAX auf",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/auswahlindizes-procredit-holding-steigt-in-den-sdax-auf",
+        "published": "Mon, 12 Oct 2026 07:46:19 GMT"
+      },
       {
         "source": "Börse Frankfurt – News",
         "title": "Anleihen: Ein bisschen Entspannung",
@@ -451,12 +457,6 @@
         "title": "Auswahlindizes: Außerplanmäßige Anpassungen SDAX",
         "link": "https://www.boerse-frankfurt.de/nachrichten/auswahlindizes-ausserplanmaessige-anpassungen-sdax",
         "published": "Fri, 02 Oct 2026 07:39:51 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Rohstoffe: Alles auf Gold",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/rohstoffe-alles-auf-gold",
-        "published": "Thu, 01 Oct 2026 07:35:04 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
-        "published": "Fri, 09 Oct 2026 18:10:17 +0200"
+        "title": "Marktbericht: DAX behauptet sich in der Gewinnzone",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
+        "published": "Mon, 12 Oct 2026 13:20:47 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
