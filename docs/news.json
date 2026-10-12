@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-11T23:57:59.766260+00:00",
+  "updated_at": "2026-10-12T03:47:37.460420+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Klimaschutz: Gegen den Trend: EU-Banken fahren Finanzierung von Kohle-Unternehmen deutlich zurück",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-eu-banken-haben-die-finanzierung-fuer-die-kohleindustrie-gesenkt/100260388.html",
+        "published": "Mon, 12 Oct 2026 02:13:26 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Fintechs: Trade Republic macht jetzt über 750 Millionen Euro Umsatz",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/fintechs-trade-republic-macht-jetzt-ueber-750-millionen-euro-umsatz/100260956.html",
+        "published": "Mon, 12 Oct 2026 02:12:13 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Vermögen: So sichern sich Paare ohne Trauschein gegenseitig ab",
@@ -109,44 +121,14 @@
         "title": "Immobilien: Für welche Investoren sich Schulen, Kitas und Gerichte lohnen",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-fuer-welche-investoren-sich-schulen-kitas-und-gerichte-lohnen/100260362.html",
         "published": "Fri, 09 Oct 2026 09:28:19 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Michael Neumann: „Der Wohnraum der Zukunft ist manchmal längst gebaut“",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/michael-neumann-der-wohnraum-der-zukunft-ist-manchmal-laengst-gebaut/100257418.html",
-        "published": "Fri, 09 Oct 2026 09:25:56 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Regulierung: Banken nutzen Sonderregel und drängen auf den Markt der Versicherer – die sind erzürnt",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/unicredit-banken-nutzen-sonderregel-und-draengen-auf-markt-der-versicherer/100247810.html",
-        "published": "Fri, 09 Oct 2026 07:57:19 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Advance, Oil Erases Early Gains: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
-        "published": "Sun, 11 Oct 2026 22:09:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "NZ National Party Will Wait for Budget Surplus Before Tax Cuts",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/nz-national-party-will-wait-for-budget-surplus-before-tax-cuts",
-        "published": "Sun, 11 Oct 2026 23:15:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Healey Needs £35 Billion to Meet UK Spending Plans, IFS Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/healey-needs-35-billion-to-meet-uk-spending-plans-ifs-says",
-        "published": "Sun, 11 Oct 2026 23:01:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Saudi Airport Hit Again as Riyadh Set to Host Major Events",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack",
-        "published": "Sun, 11 Oct 2026 14:47:50 GMT"
+        "title": "Indian Rupee Jumps 1% After RBI Measures to Support Currency",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/indian-rupee-strengthens-in-offshore-market-after-rbi-measures",
+        "published": "Mon, 12 Oct 2026 01:44:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -156,9 +138,93 @@
       },
       {
         "source": "Bloomberg – Markets",
+        "title": "Iran War’s End Will Be Turning Point for India, Amundi Arm Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/iran-war-s-end-will-be-turning-point-for-india-amundi-arm-says",
+        "published": "Mon, 12 Oct 2026 03:18:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Genting Shares Tumble Most Since 1998 on Rights Issue Plan",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/genting-shares-tumble-most-since-1998-on-rights-issue-plan",
+        "published": "Mon, 12 Oct 2026 03:07:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stock and Bond Futures Advance as Oil Declines: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
+        "published": "Sun, 11 Oct 2026 22:09:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks",
         "link": "https://www.bloomberg.com/news/articles/2026-10-11/bond-selloff-may-mean-fewer-rate-hikes-from-global-central-banks",
         "published": "Sun, 11 Oct 2026 19:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "RBI Tightens Rupee Defense as Pricey Crude, Foreign Outflows Bite: USD/INR",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-12/rbi-tightens-rupee-defense-as-pricey-crude-foreign-outflows-bite-usd-inr",
+        "published": "Mon, 12 Oct 2026 02:30:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "South Korean Won Hits Two-Year High on Lower Oil, Dollar Sales",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/south-korean-won-hits-two-year-high-on-lower-oil-dollar-sales",
+        "published": "Mon, 12 Oct 2026 02:20:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Agrees to Curb Hybrid Car Exports to EU",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/china-agrees-to-curb-hybrid-car-exports-to-eu-video",
+        "published": "Mon, 12 Oct 2026 02:12:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India IT Set For Fourth Year of Weak Growth on Geopolitics, AI Risks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-09/india-it-set-for-fourth-year-of-weak-growth-on-geopolitics-ai-risks",
+        "published": "Fri, 09 Oct 2026 01:08:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gov. Koike's Next Key Priorities for Tokyo",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/gov-koike-s-nest-key-priorities-for-tokyo-video",
+        "published": "Mon, 12 Oct 2026 01:16:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Malaysia Budget Sees Consumer Names Emerge Winners, Analysts Say",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/malaysia-budget-sees-consumer-names-emerge-winners-analysts-say",
+        "published": "Mon, 12 Oct 2026 00:43:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Edges Up as Lower Oil Prices Pare Rate-Hike Expectations",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/gold-edges-up-as-traders-weigh-russia-ukraine-energy-ceasefire",
+        "published": "Mon, 12 Oct 2026 00:38:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India’s Capital Braces for More Protests After Mass Detentions",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/india-s-capital-braces-for-more-protests-after-mass-detentions",
+        "published": "Mon, 12 Oct 2026 01:18:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Korean Bond Rally Seen Faltering as Traders Brace for Rate Hikes",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/korean-bond-rally-seen-faltering-as-traders-brace-for-rate-hikes",
+        "published": "Mon, 12 Oct 2026 00:14:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wrightson’s Crandall Ends Weekly Market Missives After 44 Years",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/wrightson-s-crandall-ends-weekly-market-missives-after-44-years",
+        "published": "Sun, 11 Oct 2026 23:32:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Saudi Airport Hit Again as Riyadh Set to Host Major Events",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack",
+        "published": "Sun, 11 Oct 2026 14:47:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -177,72 +243,6 @@
         "title": "Bookmarked: Stories That Caught Our Eye This Week",
         "link": "https://www.bloomberg.com/news/videos/2026-10-11/bookmarked-stories-that-caught-our-eye-this-week-video",
         "published": "Sun, 11 Oct 2026 17:18:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Former US Envoy Warns of Wider Middle East Conflict",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/former-us-envoy-warns-of-wider-middle-east-conflict-video",
-        "published": "Sun, 11 Oct 2026 17:12:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Globalization Defies a Decade of Populist Pushback",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/globalization-defies-a-decade-of-populist-pushback-video",
-        "published": "Sun, 11 Oct 2026 17:03:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Riyadh Airport Attack, Trump To Ukraine: “Time To Get A New President”",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/bloomberg-this-weekend-10-11-2026-video",
-        "published": "Sun, 11 Oct 2026 16:24:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tech Billionaires Gain $845 Billion in 2026",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/tech-billionaires-gain-845-billion-in-2026-video",
-        "published": "Sun, 11 Oct 2026 16:20:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Saudi Airport Attack Raises Middle East War Risks",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/saudi-airport-attack-raises-middle-east-war-risks-video",
-        "published": "Sun, 11 Oct 2026 15:46:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Big Banks Face Test as Earnings Season Begins",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/big-banks-face-test-as-earnings-season-begins-video",
-        "published": "Sun, 11 Oct 2026 15:20:26 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump's Russia Diesel Deal Deepens Ukraine Rift",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/trump-s-russia-diesel-deal-deepens-ukraine-rift-video",
-        "published": "Sun, 11 Oct 2026 14:50:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tech Earnings Loom Large for Hedge Funds Packed Into Dispersion Trade",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/tech-earnings-loom-large-for-hedge-funds-packed-into-dispersion-trade",
-        "published": "Sun, 11 Oct 2026 14:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Saudi Airport Attack Kills 12 as Conflict Escalates",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/saudi-airport-attack-kills-12-as-conflict-escalates-video",
-        "published": "Sun, 11 Oct 2026 13:46:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "By The Way: Headlines You May Have Missed",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-11/by-the-way-headlines-you-may-have-missed-video",
-        "published": "Sun, 11 Oct 2026 13:33:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Prediction Markets’ NFL Boom Tests Sports Betting Rules",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/prediction-markets-nfl-boom-tests-sports-betting-rules",
-        "published": "Sun, 11 Oct 2026 13:30:00 GMT"
       }
     ],
     "onvista – News": [
