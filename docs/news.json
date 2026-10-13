@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-13T17:01:31.969803+00:00",
+  "updated_at": "2026-10-13T21:49:15.950834+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Übernahme: LSEG verhandelt über Milliarden-Übernahme von Octus",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/uebernahme-lseg-verhandelt-ueber-milliarden-uebernahme-von-octus/100262001.html",
+        "published": "Tue, 13 Oct 2026 16:56:39 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Dax aktuell: Dax schließt kaum verändert – Tech-Aktien unter Druck",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-kaum-veraendert-chipwert-groesster-verlierer/100261749.html",
         "published": "Tue, 13 Oct 2026 15:55:33 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Kursrutsch bei Chip-Aktien belastet Wall Street – Goldman Sachs legt zu",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-chipverkaeufe-bremsen-wall-street-goldman-sachs-aktie-im-plus/100261904.html",
-        "published": "Tue, 13 Oct 2026 15:43:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -43,6 +43,12 @@
         "title": "Banken: „Deutschland steht im Mittelpunkt unserer Ambitionen“ – Crédit Agricole kauft Mittelstandsbank IKB",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken-credit-agricole-uebernimmt-deutsche-mittelstandsbank-ikb/100261688.html",
         "published": "Tue, 13 Oct 2026 12:43:14 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: Kursrutsch bei Chip-Aktien – Wall Street schließt mit Verlusten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-chipverkaeufe-bremsen-wall-street-goldman-sachs-aktie-im-plus/100261904.html",
+        "published": "Tue, 13 Oct 2026 11:58:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -115,44 +121,74 @@
         "title": "Geldanlage: Wo VW fast doppelt so viel wert ist wie an der Börse",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-wo-vw-fast-doppelt-so-viel-wert-ist-wie-an-der-boerse/100259998.html",
         "published": "Mon, 12 Oct 2026 16:10:21 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax schließt im Plus – Rheinmetall setzt sich an die Spitze",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-vw-aktie-legt-zu/100261443.html",
-        "published": "Mon, 12 Oct 2026 16:03:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "EPA Proposes 100% Reallocation for Refinery Biofuel Breaks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/epa-confirms-100-reallocation-for-refinery-biofuel-exemptions",
-        "published": "Tue, 13 Oct 2026 15:00:11 GMT"
+        "title": "Major US Power Grids Strain Under Heat During Peak Repair Season",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/us-grids-strain-under-heat-during-peak-repair-season",
+        "published": "Tue, 13 Oct 2026 17:18:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ray Dalio Warns Slump in Treasuries Market Has ‘Long Way to Go’",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/ray-dalio-warns-slump-in-treasuries-market-has-long-way-to-go",
-        "published": "Tue, 13 Oct 2026 16:48:44 GMT"
+        "title": "Fed's Collins Says Rates Will Likely Need to Rise More",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-13/fed-s-collins-says-rates-will-likely-need-to-rise-more-video",
+        "published": "Tue, 13 Oct 2026 21:41:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bond Traders Eclipsed by Equities in Rare Wall Street Reversal",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/bond-traders-eclipsed-by-equities-in-rare-wall-street-reversal",
-        "published": "Tue, 13 Oct 2026 16:43:52 GMT"
+        "title": "Skydance Bonds Extend Losses Amid Warner Bros. Buyout Angst",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/skydance-bonds-extend-losses-amid-warner-bros-buyout-angst",
+        "published": "Tue, 13 Oct 2026 21:19:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "S&P’s Blistering Earnings Momentum Is Getting Hard to Sustain",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/s-p-500-record-rally-meets-risk-of-peaking-earnings-growth",
-        "published": "Tue, 13 Oct 2026 14:39:02 GMT"
+        "title": "Big Take: How India’s Options Market Imploded",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-13/big-take-how-india-s-options-market-imploded-video",
+        "published": "Tue, 13 Oct 2026 21:37:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Chip Selloff Rolls On as Big Bank Earnings Begin: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 12 Oct 2026 22:04:35 GMT"
+        "title": "The Benefit of Free After-School Programs",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-13/opinion-the-benefit-of-free-after-school-programs-video",
+        "published": "Tue, 13 Oct 2026 21:16:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wells Fargo CFO on Earnings, Deals, Consumer Strength",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-13/wells-fargo-cfo-on-earnings-deals-consumer-strength-video",
+        "published": "Tue, 13 Oct 2026 21:12:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "NYC Horse Carriages Set to Be Banned in 2028 After Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/mamdani-and-nyc-council-reach-deal-to-ban-horse-drawn-carriages",
+        "published": "Tue, 13 Oct 2026 19:23:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ancora in Push for UK’s Big Yellow Group to Explore Sale",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/ancora-is-said-to-push-uk-s-big-yellow-group-to-explore-sale",
+        "published": "Tue, 13 Oct 2026 18:18:18 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Aramco Headquarters Hit During Houthi Attack on Saudi Arabia",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia",
+        "published": "Tue, 13 Oct 2026 20:32:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Higher Rates Turbocharge Lending Income for Biggest US Banks",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-13/higher-rates-turbocharge-lending-income-for-biggest-us-banks-mv75ycwg",
+        "published": "Tue, 13 Oct 2026 20:58:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bull Market Has Room to Run, Says Truist's Keith Lerner",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-13/bull-market-has-room-to-run-says-truist-s-keith-lerner-video",
+        "published": "Tue, 13 Oct 2026 20:55:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -162,9 +198,33 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Arms Billionaire Makes $434 Million Push Into Space Industry",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/csg-enters-space-sector-with-9-5-stake-purchase-in-mda-space",
-        "published": "Tue, 13 Oct 2026 05:06:09 GMT"
+        "title": "Stocks Bounce From Lows on Williams’ Rate Remarks: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/stock-market-today-dow-s-p-live-updates",
+        "published": "Mon, 12 Oct 2026 22:04:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Sheinbaum Vows to Buy More From US to Reach Trump Trade Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/sheinbaum-vows-to-buy-more-goods-from-the-us-to-sign-trade-deal",
+        "published": "Tue, 13 Oct 2026 18:34:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "S&P 500 Closes Flat as Bank Earnings Kick Off, Chipmakers Slide",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/s-p-500-futures-little-changed-as-banks-report-chipmakers-fall",
+        "published": "Tue, 13 Oct 2026 12:07:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bumble Surges 56% on $1.3 Billion Take-Private Deal | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-13/bumble-surges-on-buyout-deal-closing-bell-video",
+        "published": "Tue, 13 Oct 2026 20:25:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Microsoft Hits First Record in a Year After $1.4 Trillion Rally",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/microsoft-eyes-first-record-in-nearly-a-year-as-ai-rally-builds",
+        "published": "Tue, 13 Oct 2026 13:56:44 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -174,75 +234,15 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "S&P 500 Slips as Chipmaker Selloff Deepens, Banks Report Results",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/s-p-500-futures-little-changed-as-banks-report-chipmakers-fall",
-        "published": "Tue, 13 Oct 2026 12:07:12 GMT"
+        "title": "Copper Slips as AI Selloff Saps Appetite for Risk Across Markets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/copper-and-aluminum-drop-as-ai-selloff-saps-appetite-for-risk",
+        "published": "Tue, 13 Oct 2026 03:27:21 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Guyana Oil Exports to Top 1 Million Barrels a Day for First Time",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/guyana-oil-exports-to-top-1-million-barrels-a-day-for-first-time",
-        "published": "Tue, 13 Oct 2026 15:49:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Big Banks Deliver Mixed Results to Kick Off Earnings on Wall Street",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-13/bloomberg-surveillance-10-13-2026-video",
-        "published": "Tue, 13 Oct 2026 15:40:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tesla, Xpeng Showcase Autonomous Cars in Paris",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-13/tesla-xpeng-showcase-autonomous-cars-in-paris-video",
-        "published": "Tue, 13 Oct 2026 15:39:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Breaking Down Big Bank Earnings",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-13/breaking-down-big-bank-earnings-video",
-        "published": "Tue, 13 Oct 2026 15:30:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "India-US Trade Talks Heading in Right Direction, Jaishankar Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/india-us-trade-talks-heading-in-right-direction-jaishankar-says",
-        "published": "Tue, 13 Oct 2026 15:29:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "We're Back to Normal Rates, Says Ed Yardeni",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-13/we-re-back-to-normal-rates-says-ed-yardeni-video",
-        "published": "Tue, 13 Oct 2026 15:27:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "DGB Offers Ethan Allen CEO a Non-Board Advisory Role",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/dgb-is-said-to-offer-ethan-allen-ceo-a-non-board-advisory-role",
-        "published": "Tue, 13 Oct 2026 11:00:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "CFTC Staff Told to Retract Analysis of Suspicious Oil Trades",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-13/cftc-staff-told-to-retract-suspicious-oil-trade-analysis-video",
-        "published": "Tue, 13 Oct 2026 15:21:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "LSEG in Talks to Buy Permira-Owned Credit Firm Octus",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/lseg-in-talks-to-buy-permira-owned-credit-firm-octus",
-        "published": "Tue, 13 Oct 2026 12:00:26 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bank Profits Face New Challenges",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-13/bank-profits-face-new-challenges-video",
-        "published": "Tue, 13 Oct 2026 15:09:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Domino's Drops on Sales Growth Miss; Bumble Goes Private | Stock Movers",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-13/domino-s-drops-on-sales-growth-miss-bumble-goes-private-video",
-        "published": "Tue, 13 Oct 2026 15:07:54 GMT"
+        "title": "Chile: AFP sufren pérdidas por apuestas a tasas de EE.UU.",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/chile-afp-sufren-perdidas-por-apuestas-a-tasas-de-ee-uu",
+        "published": "Tue, 13 Oct 2026 19:33:36 GMT"
       }
     ],
     "onvista – News": [
