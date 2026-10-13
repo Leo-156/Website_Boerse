@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-12T20:20:43.377742+00:00",
+  "updated_at": "2026-10-13T02:07:24.813881+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Kryptowährung: Einmalzahlung statt Sparplan – Ist die Strategie beim Bitcoin wirklich besser?",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/bitcoin-einmalzahlung-schlaegt-sparplan-ist-die-strategie-wirklich-besser/100256421.html",
+        "published": "Tue, 13 Oct 2026 02:01:57 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Sind Sie der „Kopf der Mietmafia“, Herr Mucic?",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-sind-sie-der-kopf-der-mietmafia-herr-mucic/100258300.html",
+        "published": "Tue, 13 Oct 2026 02:01:30 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "US-Börsen: US-Börsen schließen uneinheitlich – Ölpreis steigt wieder",
@@ -109,140 +121,128 @@
         "title": "Fintechs: Trade Republic macht jetzt über 750 Millionen Euro Umsatz",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/fintechs-trade-republic-macht-jetzt-ueber-750-millionen-euro-umsatz/100260956.html",
         "published": "Mon, 12 Oct 2026 02:12:13 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Vermögen: So sichern sich Paare ohne Trauschein gegenseitig ab",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-so-sichern-sich-paare-ohne-trauschein-gegenseitig-ab-1/100257225.html",
-        "published": "Mon, 12 Oct 2026 10:36:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "KfW-Kreditmarktausblick: Firmen wollen wieder mehr Kredite – stärkster Anstieg seit Ende 2022",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/kreditmarkt-firmenkredite-legen-so-stark-zu-wie-seit-2022-nicht-mehr/100258264.html",
-        "published": "Sun, 11 Oct 2026 11:30:21 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "S&P 500 Churns Before Earnings as Chip Stocks Fall: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
-        "published": "Sun, 11 Oct 2026 22:09:49 GMT"
+        "title": "Stocks Extend Losses as AI Trade Under Pressure: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/stock-market-today-dow-s-p-live-updates",
+        "published": "Mon, 12 Oct 2026 22:04:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bank Stocks Mired in Correction Into Earnings as Yields Rise",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/bank-stocks-mired-in-correction-as-yields-surge-before-earnings",
-        "published": "Mon, 12 Oct 2026 15:48:33 GMT"
+        "title": "Goldman Says Market Is Underestimating How Far Yuan Can Rise",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/goldman-says-markets-are-underestimating-how-far-yuan-can-rise",
+        "published": "Mon, 12 Oct 2026 23:00:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Indexes That Track Your Favorite NHL, MLB's Team Performance",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-12/indexes-that-track-nhl-mlb-s-team-performance-video",
-        "published": "Mon, 12 Oct 2026 20:08:13 GMT"
+        "title": "Chip Selloff Triggers 6% Korea Rout After CEO’s ‘Casino’ Warning",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/korean-chip-stocks-sink-on-chinese-rival-worry-broadcom-remarks",
+        "published": "Tue, 13 Oct 2026 00:28:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Factors Driving Thematic Investing Story: Global X CEO",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-12/factors-driving-thematic-investing-story-global-x-ceo-video",
-        "published": "Mon, 12 Oct 2026 20:06:27 GMT"
+        "title": "Pakistan Targets Growth of More Than 4% for 2026",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/pakistan-targets-growth-of-more-than-4-for-2026-video",
+        "published": "Mon, 12 Oct 2026 03:54:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Edges Down as Traders Monitor Oil Prices, Fed Rate Outlook",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/gold-edges-up-as-traders-weigh-russia-ukraine-energy-ceasefire",
-        "published": "Mon, 12 Oct 2026 00:38:27 GMT"
+        "title": "Citi on Maneuvering Limited Government Fiscal Space",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/citi-on-maneuvering-limited-government-fiscal-space-video",
+        "published": "Mon, 12 Oct 2026 03:47:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bloomberg Primer - Season 3 Trailer",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-12/bloomberg-primer-season-3-trailer-video",
-        "published": "Mon, 12 Oct 2026 19:52:10 GMT"
+        "title": "Gold Holds Drop as Middle East Fighting Stokes Inflation Fears",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/gold-holds-drop-as-middle-east-fighting-stokes-inflation-fears",
+        "published": "Mon, 12 Oct 2026 23:54:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lockheed Martin Unveils New Patriot for Army Air Defense Contest",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-12/lockheed-unveils-new-patriot-for-air-defense-contest-video",
-        "published": "Mon, 12 Oct 2026 19:40:48 GMT"
+        "title": "BNY's LaRusse Sees Scope for Bond Market Relief Rally",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-13/bny-s-larusse-sees-scope-for-bond-market-relief-rally-video",
+        "published": "Tue, 13 Oct 2026 00:50:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 12",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12",
-        "published": "Sun, 11 Oct 2026 22:08:45 GMT"
+        "title": "Australia Regulator Halts Another Credit Fund Amid Crackdown",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/australia-regulator-halts-another-credit-fund-amid-crackdown",
+        "published": "Tue, 13 Oct 2026 00:40:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Home Equity-Sharing Firm Unison Is Said to Pick Banks for US IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/home-equity-sharing-firm-unison-is-said-to-pick-banks-for-us-ipo",
-        "published": "Mon, 12 Oct 2026 19:37:04 GMT"
+        "title": "RBA Raised Key Rate to Counter Upside Price Risk, Remains Alert",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/rba-raised-key-rate-to-counter-upside-price-risk-remains-alert",
+        "published": "Tue, 13 Oct 2026 00:30:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Houthi Attacks Part of Wider Escalating Conflict, Says Natasha Hall",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-12/houthi-attack-part-of-escalating-conflict-natasha-hall-video",
-        "published": "Mon, 12 Oct 2026 19:10:40 GMT"
+        "title": "Latest Oil Market News and Analysis for Oct. 13",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/latest-oil-market-news-and-analysis-for-oct-13",
+        "published": "Mon, 12 Oct 2026 22:01:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UK Grid Seeks Emergency French Power to Secure Supplies",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/uk-grid-seeks-emergency-french-power-to-secure-supplies",
-        "published": "Mon, 12 Oct 2026 18:53:59 GMT"
+        "title": "Malaysian King Buys Stake in Miner Expanding Into Rare Earths",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/malaysian-king-buys-stake-in-miner-expanding-into-rare-earths",
+        "published": "Tue, 13 Oct 2026 00:24:49 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "JPMorgan, Goldman Curb Exposure on $5 Billion Volta AI Loan Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale",
-        "published": "Mon, 12 Oct 2026 18:30:06 GMT"
+        "title": "Hong Kong Lifeline Buys Cheng Family Time to Save New World",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/hong-kong-lifeline-buys-cheng-family-time-to-save-new-world",
+        "published": "Mon, 12 Oct 2026 23:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Should Not Do Diesel Deal With Russia, Says Republican Mike Lawler",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-12/us-should-not-do-diesel-deal-with-russia-says-lawler-video",
-        "published": "Mon, 12 Oct 2026 18:27:50 GMT"
+        "title": "Singapore Bank Selloff Tests the City-State’s Safe Haven Status",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/singapore-bank-selloff-tests-the-city-state-s-safe-haven-status",
+        "published": "Mon, 12 Oct 2026 23:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ukraine Should Be Free to Strike Russia, Says Trump's Ex-Envoy",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-12/ukraine-should-be-free-to-strike-russia-video",
-        "published": "Mon, 12 Oct 2026 16:17:23 GMT"
+        "title": "Katrina Dudley on AI Spending and ROI",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/katrina-dudley-on-ai-spending-and-roi-video",
+        "published": "Mon, 12 Oct 2026 22:26:44 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Koch, Getty Families Team Up to Take Getty Images Private in Bankruptcy Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/koch-getty-families-team-up-to-take-getty-images-private-in-bankruptcy-deal",
-        "published": "Mon, 12 Oct 2026 18:01:49 GMT"
+        "title": "Albertsons Seeks More Than $9 Billion for Busted Kroger Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/albertsons-seeks-more-than-9-billion-over-busted-kroger-deal",
+        "published": "Mon, 12 Oct 2026 17:00:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Luxury NYC Co-Op Sued Over ‘Commandeered’ Central Park Terrace",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/luxury-nyc-co-op-sued-over-commandeered-central-park-terrace",
-        "published": "Mon, 12 Oct 2026 17:59:11 GMT"
+        "title": "Fmr. Fed Governor Betsy Duke on CPI Amid Bank Results",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/fmr-fed-governor-betsy-duke-on-cpi-amid-bank-results-video",
+        "published": "Mon, 12 Oct 2026 21:27:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wall Street Strategists See Value in Duration After Bond Rout",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/wall-street-strategists-see-value-in-duration-after-bond-rout",
-        "published": "Mon, 12 Oct 2026 17:52:19 GMT"
+        "title": "BlackRock Turns Bullish on Short-Term Bonds, Downgrades Stocks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-12/blackrock-turns-bullish-on-short-term-bonds-downgrades-stocks",
+        "published": "Mon, 12 Oct 2026 21:26:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "LVMH Sales at Key Unit Tumble on Weaker Demand in China",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-12/lvmh-sales-at-key-unit-fall-as-china-woes-hurt-louis-vuitton",
-        "published": "Mon, 12 Oct 2026 15:49:25 GMT"
+        "title": "How China Is Changing AI",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/how-china-is-changing-ai",
+        "published": "Mon, 12 Oct 2026 21:15:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fed’s Hammack Prefers Smaller, Frequent Rate Adjustments",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-12/fed-s-hammack-prefers-smaller-frequent-rate-adjustments-video",
-        "published": "Mon, 12 Oct 2026 17:23:20 GMT"
+        "title": "Why China Generates Too Much Power",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-08/why-china-generates-too-much-power-video",
+        "published": "Thu, 08 Oct 2026 20:01:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Oil Advances on Threats to Supply From Russia to Middle East",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-12/oil-advances-on-threats-to-global-supply-video",
-        "published": "Mon, 12 Oct 2026 17:00:22 GMT"
+        "title": "Why the Houthis Are So Hard to Defeat",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-12/why-the-houthis-are-so-hard-to-defeat-video",
+        "published": "Mon, 12 Oct 2026 21:08:05 GMT"
       }
     ],
     "onvista – News": [
