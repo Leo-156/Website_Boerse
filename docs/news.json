@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-14T00:40:03.548475+00:00",
+  "updated_at": "2026-10-14T05:20:55.091366+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 14. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Wed, 14 Oct 2026 04:24:06 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei und Kospi: Asiatische Börsen legen zu, Ölpreise dämpfen Aufwärtstrend",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-und-kospi-asiatische-boersen-legen-zu-oelpreise-daempfen-aufwaertstrend/100262083.html",
+        "published": "Wed, 14 Oct 2026 04:02:33 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Interview: Blackstone-Europachef Seppala: „Entscheidend ist, in die richtigen Sektoren und Objekte zu investieren“",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-warum-der-blackstone-chef-die-enteignungsdebatte-nicht-fuerchtet/100260420.html",
+        "published": "Wed, 14 Oct 2026 02:12:31 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "US-Großbank: Über 1,2 Milliarden Dollar Strafe für Bank of Amerika",
@@ -100,41 +118,89 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 13. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Tue, 13 Oct 2026 05:00:56 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Kryptowährung: Einmalzahlung statt Sparplan – Ist die Strategie beim Bitcoin wirklich besser?",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/bitcoin-einmalzahlung-schlaegt-sparplan-ist-die-strategie-wirklich-besser/100256421.html",
         "published": "Tue, 13 Oct 2026 02:01:57 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Vonovia-Chef kontert Enteignungspläne – und kündigt Konsequenzen für Berlin an",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/vonovia-chef-sind-sie-der-kopf-der-mietmafia-herr-mucic/100258300.html",
-        "published": "Tue, 13 Oct 2026 09:35:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: US-Börsen schließen uneinheitlich – Ölpreis steigt wieder",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-uneinheitlich-oelpreis-steigt-wieder/100261574.html",
-        "published": "Mon, 12 Oct 2026 20:06:41 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Glencore Opens Above London Close in Australia Trading Debut",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/glencore-set-for-sydney-debut-in-test-of-mining-giant-s-allure",
-        "published": "Tue, 13 Oct 2026 08:31:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Oct. 14",
         "link": "https://www.bloomberg.com/news/articles/2026-10-13/latest-oil-market-news-and-analysis-for-oct-14",
         "published": "Tue, 13 Oct 2026 22:02:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ziemba: No Immediate US Role in Saudi-Houthi Fighting (Video)",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/ziemba-no-immediate-us-role-in-saudi-houthi-fighting-video",
+        "published": "Wed, 14 Oct 2026 05:17:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Rise, Dollar Slips in Runup to US Inflation: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 13 Oct 2026 22:03:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Billionaire Birla Plans $30 Billion Push Undeterred by Crises",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/billionaire-birla-says-investment-calls-becoming-tougher-now",
+        "published": "Tue, 13 Oct 2026 14:55:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "What China's 'Extraordinary' Trade Surplus Means",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/what-china-s-extraordinary-trade-surplus-means-video",
+        "published": "Wed, 14 Oct 2026 04:44:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "'With Canada, There's Trust': Trade Minister Sidhu",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/-with-canada-there-s-trust-trade-minister-sidhu-video",
+        "published": "Wed, 14 Oct 2026 04:43:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hong Kong’s Clearing Bank Gains New Funding Access in Yuan Push",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/hong-kong-s-clearing-bank-gains-new-funding-access-in-yuan-push",
+        "published": "Wed, 14 Oct 2026 04:41:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hillhouse-Backed NOTA Is Said to Target Tokyo IPO in December",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/hillhouse-backed-nota-is-said-to-target-tokyo-ipo-in-december",
+        "published": "Wed, 14 Oct 2026 04:38:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Copper Climbs to Three-Week High on Strike Threat, Fed Comments",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/copper-climbs-to-three-week-high-on-strike-threat-fed-comments",
+        "published": "Wed, 14 Oct 2026 04:37:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BOT Deputy Governor Plans to Normalize Rates",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/bot-deputy-governor-plans-to-normalize-rates-video",
+        "published": "Wed, 14 Oct 2026 04:29:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Barclays India CEO on India as Opportunity",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/barclays-india-ceo-on-india-as-opportunity-video",
+        "published": "Wed, 14 Oct 2026 04:17:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Barclays Plans India Equity Advisory Return After a Decade",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/barclays-plans-india-advisory-return-after-a-decade-as-ipos-boom",
+        "published": "Tue, 13 Oct 2026 12:38:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Stocks Won the Last Decade. What About the Next One?",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-stocks-won-the-last-decade-what-about-the-next-one",
+        "published": "Wed, 14 Oct 2026 04:00:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -144,108 +210,54 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Rise on Fed Rate Signal, Oil Gains: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 13 Oct 2026 22:03:38 GMT"
+        "title": "Saudi Aramco’s New China Refinery Venture Gets First Crude Cargo",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/saudi-aramco-s-new-china-refinery-venture-gets-first-crude-cargo",
+        "published": "Wed, 14 Oct 2026 03:13:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "South Africa Fund Manager Tips Nigerian Stocks Over South Korea",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/south-africa-fund-manager-tips-nigerian-stocks-over-south-korea",
-        "published": "Wed, 14 Oct 2026 00:00:00 GMT"
+        "title": "What Dimon, Solomon Said in Bank Earnings Calls",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/what-dimon-solomon-said-in-bank-earnings-calls-video",
+        "published": "Wed, 14 Oct 2026 03:02:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bank of America Fined More Than $1.2 Billion for Money-Laundering",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-13/bofa-fined-more-than-1-2-billion-for-money-laundering-video",
-        "published": "Tue, 13 Oct 2026 23:58:52 GMT"
+        "title": "US, China in 'Stability Mode': Kevin Rudd",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/us-china-in-stability-mode-kevin-rudd-video",
+        "published": "Wed, 14 Oct 2026 03:00:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Hong Kong’s Low Aggregate Balance Sparks Rate Volatility Concern",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/hong-kong-s-low-aggregate-balance-sparks-rate-volatility-concern",
-        "published": "Tue, 13 Oct 2026 23:48:02 GMT"
+        "title": "Rupee’s Relentless Slide Draws Importers Into RBI Currency Fight",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/rupee-s-relentless-slide-draws-importers-into-rbi-currency-fight",
+        "published": "Wed, 14 Oct 2026 02:43:44 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Aramco Headquarters Hit as Houthi Missiles Strike Saudi Arabia",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia",
-        "published": "Tue, 13 Oct 2026 20:32:12 GMT"
+        "title": "Speculation Over STT Cut Lifts Sentiment for Indian Stocks",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-14/speculation-over-stt-cut-lifts-sentiment-for-indian-stocks",
+        "published": "Wed, 14 Oct 2026 02:30:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Asia’s Coal Appetite Endures as Winter Looms and Supply Tightens",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/asia-s-coal-appetite-endures-as-winter-looms-and-supply-tightens",
-        "published": "Tue, 13 Oct 2026 23:30:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Kiwi Exodus to Australia Hits 13-Year High Ahead of Election",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/kiwi-exodus-to-australia-hits-13-year-high-ahead-of-election",
-        "published": "Tue, 13 Oct 2026 23:08:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "World-Beating China Bonds Can Overcome Paltry Yields, Funds Say",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/world-beating-china-bonds-can-overcome-paltry-yields-funds-say",
-        "published": "Tue, 13 Oct 2026 23:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "DGB Offers Ethan Allen CEO a Non-Board Advisory Role",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/dgb-is-said-to-offer-ethan-allen-ceo-a-non-board-advisory-role",
-        "published": "Tue, 13 Oct 2026 11:00:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "KKR Sees Bond Rout as Opening to Lock in High-Grade Asian Credit",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/kkr-sees-bond-rout-as-opening-to-lock-in-high-grade-asian-credit",
-        "published": "Tue, 13 Oct 2026 22:28:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rio Tinto Maintains Copper Output as Iron Ore Sales Increase",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/rio-tinto-maintains-copper-production-while-iron-ore-sales-rise",
-        "published": "Tue, 13 Oct 2026 21:40:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Palliser Asks Samsung to Issue ADRs to Buy Back Preferred Shares",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/palliser-asks-samsung-to-issue-adrs-to-buy-back-preferred-shares",
-        "published": "Tue, 13 Oct 2026 22:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Major US Power Grids Strain Under Heat During Peak Repair Season",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/us-grids-strain-under-heat-during-peak-repair-season",
-        "published": "Tue, 13 Oct 2026 17:18:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fed's Collins Says Rates Will Likely Need to Rise More",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-13/fed-s-collins-says-rates-will-likely-need-to-rise-more-video",
-        "published": "Tue, 13 Oct 2026 21:41:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Skydance Bonds Extend Losses Amid Warner Bros. Buyout Angst",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/skydance-bonds-extend-losses-amid-warner-bros-buyout-angst",
-        "published": "Tue, 13 Oct 2026 21:19:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Big Take: How India’s Options Market Imploded",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-13/big-take-how-india-s-options-market-imploded-video",
-        "published": "Tue, 13 Oct 2026 21:37:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Citadel Securities’ Rubner Says Retail Traders Return to AI Bets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/citadel-securities-rubner-says-retail-traders-return-to-ai-bets",
-        "published": "Tue, 13 Oct 2026 21:30:00 GMT"
+        "title": "How HSBC Is Pivoting to Indian Growth Opportunities",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/how-hsbc-is-pivoting-to-indian-growth-opportunities-video",
+        "published": "Wed, 14 Oct 2026 02:23:24 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 14.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-14-finanzberichte-heute-14-10-2026-41121301-19-26563767",
+        "published": "Wed, 14 Oct 2026 06:10:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  14.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-14-dividendenalarm-heute-14-10-2026-41121301-19-26563765",
+        "published": "Wed, 14 Oct 2026 06:00:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Biontech verliert sechs Prozent – Leitindex leicht im Minus",
@@ -383,18 +395,6 @@
         "title": "Dax setzt Erholung fort – Ölpreise und China stützen",
         "link": "https://www.onvista.de/news/2026/10-12-dax-setzt-erholung-fort-oelpreise-und-china-stuetzen-0-19-26562963",
         "published": "Mon, 12 Oct 2026 09:53:43 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Einer für alle. Alles in Einem. Hol dir mit nur einem ETF die ganze Welt in dein Depot.",
-        "link": "https://www.comdirect.de/wtr/affiliate?ci=000000000000000BA0000000400050&aid=y&rd=%2Fcms%2Flp%2Fall-world-etf_media.html&tid=s:C;pid:%epid!;cid:%ECid!;(clid)%EDclid!",
-        "published": "Mon, 12 Oct 2026 09:01:32 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Möge das Wachstum mit dir sein. Mit einem ETF in Aktienmärkte weltweit investieren.",
-        "link": "https://www.comdirect.de/wtr/affiliate?ci=000000000000000BA0000000400050&aid=y&rd=%2Fcms%2Flp%2Fall-world-etf_media.html&tid=s:C;pid:%epid!;cid:%ECid!;(clid)%EDclid!",
-        "published": "Mon, 12 Oct 2026 09:01:24 +0200"
       }
     ],
     "Börse Frankfurt – News": [
