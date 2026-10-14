@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-14T10:21:44.069313+00:00",
+  "updated_at": "2026-10-14T15:15:01.228741+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax notiert im Plus – Ölpreis steigt weiter",
+        "title": "Geldanlage: Bis zu 14 Prozent Jahresrendite: Welche Robo-Advisor am besten performen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-diese-robo-advisor-erzielten-2025-die-hoechsten-renditen/100224417.html",
+        "published": "Thu, 15 Oct 2026 13:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax notiert im Plus – Ölpreis schwankt",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-kaum-veraendert-chipwert-groesster-verlierer/100262096.html",
-        "published": "Wed, 14 Oct 2026 10:18:27 GMT"
+        "published": "Wed, 14 Oct 2026 15:02:10 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Euro-Staatsanleihefonds erleben schwächstes Quartal seit 2022",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-euro-staatsanleihefonds-erleben-schwaechstes-quartal-seit-2022/100260017.html",
+        "published": "Wed, 14 Oct 2026 14:56:38 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen notieren uneinheitlich – Inflation und Ölpreis belasten Anlegerstimmung",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-notieren-uneinheitlich-inflation-steigt-unerwartet-stark/100262180.html",
+        "published": "Wed, 14 Oct 2026 14:28:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Bending Spoons: Berkshire investiert weitere 330 Millionen Dollar in Komoot-Mutterkonzern",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-berkshire-investiert-weitere-330-millionen-dollar-in-bending-spoons/100262273.html",
+        "published": "Wed, 14 Oct 2026 14:13:18 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldpolitik: Inflation in den USA springt im September nach oben – Schnelle Reaktion am Anleihemarkt",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-preise-in-den-usa-steigen-im-september-um-37-prozent/100261070.html",
+        "published": "Wed, 14 Oct 2026 14:03:56 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Handel: US-Marktaufseher mussten Insiderhandel-Untersuchung zu Öl-Deals einstellen – auf Geheiß eines leitenden Beraters",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/handel-us-marktaufseher-mussten-insider-untersuchung-zu-oel-deals-einstellen/100262196.html",
+        "published": "Wed, 14 Oct 2026 13:12:14 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: Orlopp erwartet EZB-Genehmigung für Übernahme durch UniCredit",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-orlopp-erwartet-ezb-genehmigung-fuer-uebernahme-durch-unicredit/100262249.html",
+        "published": "Wed, 14 Oct 2026 13:09:19 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: „Auch eine Rentnerin kann 100 Prozent Aktien vertragen“",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-was-anlage-einsteiger-beim-vermoegensaufbau-beachten-sollten/100124450.html",
+        "published": "Wed, 14 Oct 2026 13:09:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -73,179 +121,137 @@
         "title": "Dax aktuell: Dax schließt kaum verändert – Tech-Aktien unter Druck",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-kaum-veraendert-chipwert-groesster-verlierer/100261749.html",
         "published": "Tue, 13 Oct 2026 15:55:33 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Was die Ölhandelsstrategie einer Airline über Ticketpreise verrät",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/oelpreis-was-die-oelhandelsstrategie-einer-airline-ueber-ticketpreise-verraet/100261750.html",
-        "published": "Tue, 13 Oct 2026 15:28:17 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Linke sagt Gespräch kurzfristig ab – Vonovia reagiert deutlich",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-linke-sagt-gespraech-kurzfristig-ab-vonovia-reagiert-deutlich/100261930.html",
-        "published": "Tue, 13 Oct 2026 13:55:17 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Anleihen werden wieder attraktiver: Fondsmanager schichten um",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-anleihen-werden-attraktiver-fondsmanager-schichten-um/100260024.html",
-        "published": "Tue, 13 Oct 2026 13:37:21 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Quartalszahlen: Anleihehandel lässt Zahlen der US-Banken schwächer ausfallen",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/quartalszahlen-anleihehandel-laesst-zahlen-der-us-banken-schwaecher-ausfallen/100261067.html",
-        "published": "Tue, 13 Oct 2026 12:43:39 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: „Deutschland steht im Mittelpunkt unserer Ambitionen“ – Crédit Agricole kauft Mittelstandsbank IKB",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken-credit-agricole-uebernimmt-deutsche-mittelstandsbank-ikb/100261688.html",
-        "published": "Tue, 13 Oct 2026 12:43:14 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Kursrutsch bei Chip-Aktien – Wall Street schließt mit Verlusten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-chipverkaeufe-bremsen-wall-street-goldman-sachs-aktie-im-plus/100261904.html",
-        "published": "Tue, 13 Oct 2026 11:58:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Iran-Krieg: Gaspreis steigt auf den höchsten Stand seit Ende 2022",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/iran-krieg-gaspreis-steigt-auf-den-hoechsten-stand-seit-ende-2022/100261849.html",
-        "published": "Tue, 13 Oct 2026 11:27:41 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geld: Der Millionenerbe, der die Millionen nicht will",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/vermoegen-ein-millionenerbe-der-seine-millionen-nicht-will/100204748.html",
-        "published": "Tue, 13 Oct 2026 10:44:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stocks Edge Higher in Countdown to Inflation: Markets Wrap",
+        "title": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
         "published": "Tue, 13 Oct 2026 22:03:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BHP, Escondida Workers Near Deal to Avert Copper Mine Strike",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/world-s-top-copper-mine-faces-strike-as-wage-talks-break-down",
-        "published": "Wed, 14 Oct 2026 01:05:52 GMT"
+        "title": "Mauritius Extends Curfew for Second Night After Unrest",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/mauritius-extends-curfew-for-second-night-after-unrest",
+        "published": "Wed, 14 Oct 2026 14:49:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Hongkong Land Said to Eye Stake in Tycoon’s Singapore Assets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/hongkong-land-is-said-to-seek-stake-in-tycoon-s-singapore-assets",
-        "published": "Wed, 14 Oct 2026 02:03:03 GMT"
+        "title": "ASML Up on Supply Plans; BlackRock Reports Earnings | Stock Movers",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/asml-up-on-supply-plans-blackrock-reports-earnings-video",
+        "published": "Wed, 14 Oct 2026 14:47:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "To Make GTA VI, Rockstar Had To Remake Itself",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/to-make-gta-vi-rockstar-had-to-remake-itself",
-        "published": "Wed, 14 Oct 2026 10:01:04 GMT"
+        "title": "Washington Lifts Sanctions on Venezuela’s Top Lawmaker",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-lifts-sanctions-on-venezuela-s-top-lawmaker-as-relations-thaw",
+        "published": "Wed, 14 Oct 2026 14:20:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India’s Wealth Fund Eyes $800 Million Data Center Push",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/india-s-wealth-fund-eyes-800-million-data-center-push",
-        "published": "Wed, 14 Oct 2026 09:59:55 GMT"
+        "title": "Fast-Money Quants Are at Odds With Fundamental Stock Investors",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/fast-money-quants-are-at-odds-with-fundamental-stock-investors",
+        "published": "Wed, 14 Oct 2026 12:05:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 14",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/latest-oil-market-news-and-analysis-for-oct-14",
-        "published": "Tue, 13 Oct 2026 22:02:59 GMT"
+        "title": "Bank Stocks Brace for Higher Rates",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/bank-stocks-brace-for-higher-rates",
+        "published": "Wed, 14 Oct 2026 14:23:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Botswana Set as Southern African Hub in Dangote Refinery IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/botswana-tapped-as-southern-african-hub-for-dangote-refinery-ipo",
-        "published": "Wed, 14 Oct 2026 07:54:14 GMT"
+        "title": "UGG Lenders Pick Lazard for Talks Over Fiber Operator’s Debt",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/ugg-lenders-pick-lazard-for-talks-over-fiber-operator-s-debt",
+        "published": "Wed, 14 Oct 2026 14:18:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Firms Eye Malaysia Rare Earths in Push to Cut China Reliance",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-firms-eye-malaysia-rare-earths-in-push-to-cut-china-reliance",
-        "published": "Wed, 14 Oct 2026 09:53:32 GMT"
+        "title": "Resilient Growth Cushions Tech Amid Rising Rates",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/resilient-growth-cushions-tech-amid-rising-rates-video",
+        "published": "Wed, 14 Oct 2026 13:09:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "How Will the World Meet Rising Power Demand?",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/how-will-the-world-meet-rising-power-demand-video",
-        "published": "Wed, 14 Oct 2026 09:39:22 GMT"
+        "title": "India Will Overhaul Examination System, Says Education Minister",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/india-to-overhaul-examination-system-says-pralhad-joshi-video",
+        "published": "Wed, 14 Oct 2026 13:59:28 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Two Power Bills Show Growing US Electricity Price Divide",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/two-power-bills-show-growing-us-electricity-price-divide",
-        "published": "Wed, 14 Oct 2026 09:30:05 GMT"
+        "title": "Zambia Says Some Copper Sales to China to Be Settled in Renminbi",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/zambia-says-some-copper-sales-to-china-to-be-settled-in-renminbi",
+        "published": "Wed, 14 Oct 2026 13:58:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "The Former Theater Director Who Keeps Beating Wall Street",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-14/the-former-theater-director-who-keeps-beating-wall-street",
-        "published": "Wed, 14 Oct 2026 09:27:40 GMT"
+        "title": "Dollar Advances to Highest Since May 2025 on Fed Hike Views",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/dollar-advances-to-highest-since-may-2025-on-fed-hike-views",
+        "published": "Wed, 14 Oct 2026 12:52:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bloomberg NEF on the Future of Global Energy",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/bloomberg-nef-on-the-future-of-global-energy-video",
-        "published": "Wed, 14 Oct 2026 09:24:50 GMT"
+        "title": "Anthropic Investor Day Focuses on Growth",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/anthropic-investor-day-focuses-on-growth-video",
+        "published": "Wed, 14 Oct 2026 13:34:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Rupee’s Relentless Slide Draws Importers Into RBI Currency Fight",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/rupee-s-relentless-slide-draws-importers-into-rbi-currency-fight",
-        "published": "Wed, 14 Oct 2026 02:43:44 GMT"
+        "title": "Allan Gray Sees Nigeria Rally Broader Than Korea’s AI Boom",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/south-africa-fund-manager-tips-nigerian-stocks-over-south-korea",
+        "published": "Wed, 14 Oct 2026 00:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Falls Ahead of US Inflation Print That Could Shift Fed Bets",
+        "title": "Phosphate Giant Seeks Foreign Investors as War Squeezes Finances",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/phosphate-giant-seeks-foreign-investors-as-war-squeezes-finances",
+        "published": "Wed, 14 Oct 2026 13:38:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries Slump as Hot Inflation Lifts Fed Rate-Hike Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-treasuries-slump-as-hot-inflation-lifts-fed-rate-hike-bets",
+        "published": "Wed, 14 Oct 2026 12:44:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Mortgage Rates Reach 7.5%; Home-Buying Slump Hits Sixth Week",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-mortgage-rates-hit-7-5-extending-slump-in-purchase-activity",
+        "published": "Wed, 14 Oct 2026 11:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "CPI ‘Opens the Door More’ to October Fed Hike, Says PGIM’s Sockin",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/cpi-opens-the-door-more-to-october-fed-hike-pgim-video",
+        "published": "Wed, 14 Oct 2026 13:22:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed Weighs More Hikes on Inflation Concerns",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/fed-weighs-more-hikes-on-inflation-concerns-video",
+        "published": "Wed, 14 Oct 2026 13:21:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Slumps as Faster US Inflation Stokes Fed Rate Hike Wagers",
         "link": "https://www.bloomberg.com/news/articles/2026-10-14/gold-steady-as-fed-official-s-remarks-temper-rate-hike-bets",
         "published": "Wed, 14 Oct 2026 00:08:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Turkey Lets Lira Fall Quicker to Avoid Future Devaluation Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/turkey-lets-lira-fall-quicker-to-avoid-future-devaluation-risk",
-        "published": "Wed, 14 Oct 2026 09:15:46 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bearish Bets Dominate Treasuries Before Key Inflation Data",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/bearish-bond-bets-dominate-treasuries-before-key-inflation-data",
-        "published": "Tue, 13 Oct 2026 20:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hillhouse-Backed NOTA Said to Target Tokyo IPO in December",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/hillhouse-backed-nota-is-said-to-target-tokyo-ipo-in-december",
-        "published": "Wed, 14 Oct 2026 04:38:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Global Leaders on Redrawing the Supply Chain Map",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/global-leaders-on-redrawing-the-supply-chain-map-video",
-        "published": "Wed, 14 Oct 2026 08:57:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Kotak Sees $5 Billion Inflows in India Private Debt in Two Years",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/kotak-sees-5-billion-inflows-in-india-private-debt-in-two-years",
-        "published": "Wed, 14 Oct 2026 08:42:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Mercuria Agrees $250 Million Congo Copper Deal With China Miner",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/mercuria-agrees-250-million-congo-copper-deal-with-china-miner",
-        "published": "Wed, 14 Oct 2026 08:33:47 GMT"
+        "title": "Hilton Tashkent Owner TEG Becomes First Uzbek Firm to List in US",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/hilton-tashkent-owner-teg-becomes-first-uzbek-firm-to-list-in-us",
+        "published": "Wed, 14 Oct 2026 13:08:26 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Schlaues Geld kauft Treasuries – Quartalsbilanzen im Check",
+        "link": "https://www.onvista.de/news/2026/10-14-schlaues-geld-kauft-treasuries-quartalsbilanzen-im-check-41122786-19-26564001",
+        "published": "Wed, 14 Oct 2026 13:03:29 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Aufwärtstrend gebrochen – 25.400-Punkte-Marke entscheidet",
@@ -389,12 +395,6 @@
         "title": "Ich sehe beim Bitcoin Chancen bis 97.000 Dollar",
         "link": "https://www.onvista.de/news/2026/10-12-ich-sehe-beim-bitcoin-chancen-bis-97-000-dollar-40338625-19-26563136",
         "published": "Mon, 12 Oct 2026 17:11:15 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Analysten sehen 2,7-Billionen-Lücke bei KI-Umsätzen",
-        "link": "https://www.onvista.de/news/2026/10-12-analysten-sehen-2-7-billionen-luecke-bei-ki-umsaetzen-41122522-19-26562811",
-        "published": "Mon, 12 Oct 2026 14:30:01 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -462,15 +462,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
-        "published": "Wed, 14 Oct 2026 08:59:05 +0200"
+        "title": "Marktbericht: Europa wertvollster Konzern ASML macht KI-Boom möglich",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html",
+        "published": "Wed, 14 Oct 2026 15:14:36 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
         "title": "Marktbericht: DAX startet höher",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
         "published": "Wed, 14 Oct 2026 10:46:15 +0200"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
+        "published": "Wed, 14 Oct 2026 08:59:05 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Nach Berlin-Wahl: Enteignungs-Sorgen belasten Immobilienaktien",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-vonovia-deutsche-wohnen-100.html",
         "published": "Mon, 21 Sep 2026 14:35:12 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Ruhestand: Wie viel Vermögen Rentner wirklich ausgeben können",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/ruhestand-vermoegen-rente-altersvorsorge-100.html",
-        "published": "Sun, 20 Sep 2026 13:59:35 +0200"
       }
     ]
   }
