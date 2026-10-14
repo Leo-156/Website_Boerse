@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-10-14T19:23:27.046139+00:00",
+  "updated_at": "2026-10-14T22:24:36.484139+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Bis zu 14 Prozent Jahresrendite: Welche Robo-Advisor am besten performen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-diese-robo-advisor-erzielten-2025-die-hoechsten-renditen/100224417.html",
-        "published": "Thu, 15 Oct 2026 13:00:00 GMT"
+        "title": "Immobilien: Bis zu 6,7 Prozent mehr – In diesen Metropolen steigen die Mieten besonders stark",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-in-diesen-metropolen-steigen-die-mieten-besonders-stark/100262197.html",
+        "published": "Wed, 14 Oct 2026 22:01:16 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldpolitik: Inflation in den USA springt im September nach oben – schnelle Reaktion am Anleihemarkt",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-preise-in-den-usa-steigen-im-september-um-37-prozent/100261070.html",
+        "published": "Wed, 14 Oct 2026 19:25:46 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -28,21 +34,9 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen notieren uneinheitlich – Inflation und Ölpreis belasten Anlegerstimmung",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-notieren-uneinheitlich-inflation-steigt-unerwartet-stark/100262180.html",
-        "published": "Wed, 14 Oct 2026 14:28:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Bending Spoons: Berkshire investiert weitere 330 Millionen Dollar in Komoot-Mutterkonzern",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-berkshire-investiert-weitere-330-millionen-dollar-in-bending-spoons/100262273.html",
         "published": "Wed, 14 Oct 2026 14:13:18 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldpolitik: Inflation in den USA springt im September nach oben – schnelle Reaktion am Anleihemarkt",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-preise-in-den-usa-steigen-im-september-um-37-prozent/100261070.html",
-        "published": "Wed, 14 Oct 2026 14:03:56 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -61,6 +55,18 @@
         "title": "Geldanlage: „Auch eine Rentnerin kann 100 Prozent Aktien vertragen“",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-was-anlage-einsteiger-beim-vermoegensaufbau-beachten-sollten/100124450.html",
         "published": "Wed, 14 Oct 2026 13:09:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Bis zu 14 Prozent Jahresrendite: Welche Robo-Advisor am besten performen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-diese-robo-advisor-erzielten-2025-die-hoechsten-renditen/100224417.html",
+        "published": "Wed, 14 Oct 2026 13:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen schließen mit Verlusten – Inflation und Ölpreis belasten Anlegerstimmung",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-mit-verlusten-inflation-steigt-unerwartet-stark/100262180.html",
+        "published": "Wed, 14 Oct 2026 11:57:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -115,80 +121,56 @@
         "title": "US-Großbank: Über 1,2 Milliarden Dollar Strafe für Bank of Amerika",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/us-grossbank-ueber-12-milliarden-dollar-strafe-fuer-bank-of-amerika/100262043.html",
         "published": "Tue, 13 Oct 2026 22:58:42 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Übernahme: LSEG verhandelt über Milliarden-Übernahme von Octus",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/uebernahme-lseg-verhandelt-ueber-milliarden-uebernahme-von-octus/100262001.html",
-        "published": "Tue, 13 Oct 2026 16:56:39 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Sanlam’s $1.2 Billion Santam Bet Puts Choices in Focus",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-07/sanlam-s-1-2-billion-santam-bet-puts-capital-choices-in-focus",
-        "published": "Wed, 07 Oct 2026 04:00:00 GMT"
+        "title": "Woman Admits Trying to Scam Wes Edens for $1.2 Billion",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/woman-pleads-guilty-to-trying-to-scam-wes-edens-for-1-2-billion",
+        "published": "Wed, 14 Oct 2026 17:44:54 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Fall on Inflation Woes as Chip Rout Deepens: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 13 Oct 2026 22:03:38 GMT"
+        "title": "Huel CEO on Danone Deal and Expansion to US Retail",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/huel-ceo-on-danone-deal-and-expansion-to-us-retail-video",
+        "published": "Wed, 14 Oct 2026 22:09:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Reese Witherspoon Buys Back Production Firm With Mediawan",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/reese-witherspoon-buys-back-production-firm-video",
-        "published": "Wed, 14 Oct 2026 19:15:43 GMT"
+        "title": "Loop Capital CEO on Expanding Athlete Wealth Platform",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/loop-capital-ceo-on-expanding-athlete-wealth-platform-video",
+        "published": "Wed, 14 Oct 2026 22:05:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Starbucks Says It’s Not Buying Chipotle",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/starbucks-says-it-s-not-buying-chipotle-video",
-        "published": "Wed, 14 Oct 2026 19:07:38 GMT"
+        "title": "Asian Stocks to Fall as Hot CPI Sparks US Selloff: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
+        "published": "Wed, 14 Oct 2026 22:04:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bumble Said to Near $1B Sale to Ithaca",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/bumble-said-to-near-1b-sale-to-ithaca-video",
-        "published": "Wed, 14 Oct 2026 19:02:54 GMT"
+        "title": "S&P 500 Ends Longest Streak of Calm Since 2020 as AI Trade Sinks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/s-p-500-ends-longest-streak-of-calm-since-2020-as-ai-trade-sinks",
+        "published": "Wed, 14 Oct 2026 20:36:21 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Time to Worry About Tomorrow’s Trade War",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-14/time-to-worry-about-tomorrow-s-trade-war",
-        "published": "Wed, 14 Oct 2026 19:00:01 GMT"
+        "title": "Canadian Lender Cash Today Inc. Under Scrutiny as 44,000 Loans Vanish",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/canadian-lender-cash-today-inc-under-scrutiny-as-44-000-loans-vanish",
+        "published": "Wed, 14 Oct 2026 21:29:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BofA Takes US Regulatory Fines Seriously, CEO Moynihan Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/bofa-takes-us-regulatory-fines-seriously-moynihan-says-video",
-        "published": "Wed, 14 Oct 2026 18:42:37 GMT"
+        "title": "Why Inflation Numbers Are Disappointing",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/opinion-why-inflation-numbers-are-disappointing-video",
+        "published": "Wed, 14 Oct 2026 21:20:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Cargo Ship Sinks in Strait of Hormuz After Strike Triggers Fire",
+        "title": "Container Ship Sinks in Strait of Hormuz as Attacks Ramp Up",
         "link": "https://www.bloomberg.com/news/articles/2026-10-14/cargo-ship-sinks-in-strait-of-hormuz-after-strike-triggers-fire",
         "published": "Wed, 14 Oct 2026 18:38:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "CoreWeave’s Bonds Turn Distressed, Drawing ‘Yikes’ From Musk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-bonds-tumble-into-distress-drawing-yikes-from-musk",
-        "published": "Wed, 14 Oct 2026 15:29:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Economy Overshadows GOP Border Success, Says Samara Klar",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/economy-overshadows-gop-border-success-samara-klar-video",
-        "published": "Wed, 14 Oct 2026 18:28:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Goldman Sachs Leads Rivals in Third-Quarter Share Sale Revenue",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/goldman-sachs-leads-rivals-in-third-quarter-share-sale-revenue",
-        "published": "Wed, 14 Oct 2026 18:21:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -198,39 +180,21 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BofA Sheds $22 Billion in Value as Lapses Come to Light",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/bofa-sheds-30-billion-in-value-as-years-of-lapses-come-to-light",
-        "published": "Wed, 14 Oct 2026 15:52:32 GMT"
+        "title": "Oil Gains as Middle East, Russia Hostilities Imperil Flows",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/oil-gains-as-middle-east-russia-risks-imperil-flows-video",
+        "published": "Wed, 14 Oct 2026 20:54:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Woman Pleads Guilty to Trying to Scam Wes Edens for $1.2 Billion",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/woman-pleads-guilty-to-trying-to-scam-wes-edens-for-1-2-billion",
-        "published": "Wed, 14 Oct 2026 17:44:54 GMT"
+        "title": "Stocks Fall on Inflation Woes as Chip Rout Deepens: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 13 Oct 2026 22:03:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Inflation Jolt Raises Stakes for Warsh’s Final Word in Bangkok",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-warsh-to-get-final-word-in-bangkok-as-inflation-roars-back",
-        "published": "Wed, 14 Oct 2026 17:43:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "A elite empresarial busca aproximação com Flávio Bolsonaro",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/elite-empresarial-busca-aproximacao-com-flavio-bolsonaro-video-mv8e67qc",
-        "published": "Wed, 14 Oct 2026 17:36:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "NYC Transit Agency Cuts Bond Refinancing 40% Amid Yield Spike",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/nyc-transit-agency-cuts-bond-refinancing-40-amid-yield-spike",
-        "published": "Wed, 14 Oct 2026 17:24:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Chile’s Sudden Pension Fund Losses Draw Fire From Lawmakers",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/chile-lawmakers-demand-answers-on-pension-fund-swap-losses",
-        "published": "Wed, 14 Oct 2026 17:21:50 GMT"
+        "title": "Gold Slumps as Faster US Inflation Stokes Fed Rate Hike Wagers",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/gold-steady-as-fed-official-s-remarks-temper-rate-hike-bets",
+        "published": "Wed, 14 Oct 2026 00:08:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -240,9 +204,45 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 14",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-13/latest-oil-market-news-and-analysis-for-oct-14",
-        "published": "Tue, 13 Oct 2026 22:02:59 GMT"
+        "title": "Bank of America Slides on $1.21 Billion Fine as Chip Stocks Tumble | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/bofa-slides-on-1-2b-fine-closing-bell-video",
+        "published": "Wed, 14 Oct 2026 20:17:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Russell 2000 Sinks 11% From Peak, Hits Correction as Rates Rise",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/russell-2000-sinks-11-from-peak-hits-correction-as-rates-rise",
+        "published": "Wed, 14 Oct 2026 20:16:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SEC Approves Cboe’s KPI Prediction-Market Bets Via Robinhood",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/sec-approves-cboe-s-kpi-prediction-market-bets-with-robinhood",
+        "published": "Wed, 14 Oct 2026 16:44:57 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries Recover Most of Their Post-CPI Losses as Stocks Fall",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-treasuries-slump-as-hot-inflation-lifts-fed-rate-hike-bets",
+        "published": "Wed, 14 Oct 2026 12:44:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oak Hill, Fortress at CAIS, Bumble Goes Private, Media Moves",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-14/bloomberg-deals-10-14-2026-video",
+        "published": "Wed, 14 Oct 2026 19:41:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Copper Edges Lower After World’s Biggest Mine Averts Strike",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/copper-climbs-to-three-week-high-on-strike-threat-fed-comments",
+        "published": "Wed, 14 Oct 2026 04:37:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BlackRock, Pimco, Sona Tap Counsel Over Virgin Media-Tied Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/blackrock-pimco-sona-tap-counsel-over-virgin-media-tied-deal",
+        "published": "Wed, 14 Oct 2026 19:27:38 GMT"
       }
     ],
     "onvista – News": [
