@@ -1,17 +1,23 @@
 {
-  "updated_at": "2026-10-15T18:29:15.699354+00:00",
+  "updated_at": "2026-10-15T21:36:37.855669+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Banken: EZB genehmigt laut Unicredit Übernahme von Commerzbank-Anteilen",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ezb-genehmigt-lautunicredit-uebernahme-von-commerzbank-anteilen/100262659.html",
-        "published": "Thu, 15 Oct 2026 18:23:59 GMT"
+        "title": "Banken: EZB gibt Unicredit grünes Licht für volle Commerzbank-Übernahme",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ezb-gibt-unicredit-gruenes-licht-fuer-volle-commerzbank-uebernahme/100262659.html",
+        "published": "Thu, 15 Oct 2026 19:41:44 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: Nasdaq verliert durch Abverkauf von Chipwerten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-verliert-durch-abverkauf-von-chipwerten/100262544.html",
+        "title": "Banken: UBS erwägt bei zu strengen Schweizer Regeln offenbar Umzug oder Fusion",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ubs-erwaegt-bei-zu-strengen-regeln-offenbar-umzug-oder-fusion/100262665.html",
+        "published": "Thu, 15 Oct 2026 18:44:35 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dow Jones, S&P 500, Nasdaq: Nasdaq fängt sich zu Handelsende – nach Abverkauf von Chipwerten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-faengt-sich-zu-handelsende-nach-abverkauf-von-chipwerten/100262544.html",
         "published": "Thu, 15 Oct 2026 18:11:01 GMT"
       },
       {
@@ -115,98 +121,68 @@
         "title": "Nikkei, Kospi, Topix: Sorge um KI und US-Inflation – Aktienkurse in Asien stürzen ab",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/sorge-um-ki-und-us-inflationsdaten-asiens-aktienkurse-stuerzen-ab/100262358.html",
         "published": "Thu, 15 Oct 2026 07:28:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Privatbanken: Quirin startet größtes IT-Projekt der Firmengeschichte und greift Neobroker an",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/privatbanken-quirin-startet-groesstes-it-projekt-der-firmengeschichte01/100262206.html",
-        "published": "Thu, 15 Oct 2026 12:24:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Think 5,000 ETFs Is a Lot? Sports Could Add Thousands More",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/think-5-000-etfs-is-a-lot-sports-could-add-thousands-more",
-        "published": "Thu, 15 Oct 2026 18:25:10 GMT"
+        "title": "Porsche CEO With a First Look at Mission S Sports Car",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/porsche-ceo-with-a-first-look-at-mission-s-sports-car-video",
+        "published": "Thu, 15 Oct 2026 21:31:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Mortgage Rates Unchanged at 7.4% as Housing Market Struggles",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-15/us-mortgage-rates-unchanged-as-housing-market-struggles-video",
-        "published": "Thu, 15 Oct 2026 18:23:33 GMT"
+        "title": "Ross Gerber on Tesla Roadster, Potential SpaceX Merger",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/ross-gerber-on-tesla-roadster-potential-spacex-merger-video",
+        "published": "Thu, 15 Oct 2026 21:18:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "S&P 500 Bounces as Traders Buy Non-Chip Stocks: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 14 Oct 2026 22:04:59 GMT"
+        "title": "Gold Rallies as Lower Yields, AI Stock Selloff Fuel Haven Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/gold-holds-loss-as-hot-inflation-lifts-october-rate-hike-bets",
+        "published": "Wed, 14 Oct 2026 23:33:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bond Traders Eclipsed by Equities in a Rare Reversal",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-15/bond-traders-eclipsed-by-equities-in-a-rare-reversal-video",
-        "published": "Thu, 15 Oct 2026 18:10:40 GMT"
+        "title": "IEA Agrees to Release of Outstanding 100 Million Oil Barrels",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/iea-agrees-to-release-of-outstanding-100-million-barrels-of-oil",
+        "published": "Thu, 15 Oct 2026 13:52:09 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Morgan Stanley Leads Fundraise for Texas Refinery, Company Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/morgan-stanley-leads-fundraise-for-texas-refinery-company-says",
-        "published": "Thu, 15 Oct 2026 18:09:11 GMT"
+        "title": "Porsche CEO Leiters on New Luxury Supercar, China and EVs",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/porsche-ceo-leiters-on-new-supercar-china-and-evs-video",
+        "published": "Thu, 15 Oct 2026 21:08:26 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Zelenskyy Orders New Strikes on Russian Refineries",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-15/zelenskyy-orders-new-strikes-on-russian-refineries-video",
-        "published": "Thu, 15 Oct 2026 18:04:32 GMT"
+        "title": "Indonesia’s Emerging Market Status Under Consultation, MSCI Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/indonesia-s-emerging-market-status-under-consultation-msci-says",
+        "published": "Thu, 15 Oct 2026 20:59:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Before US Rate Bets Wiped Out Billions, Warnings Were Ignored in Chile",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/before-us-rate-bets-wiped-out-billions-warnings-were-ignored-in-chile",
-        "published": "Thu, 15 Oct 2026 17:33:34 GMT"
+        "title": "Big Take: What Is the US Economy Trying to Tell Us?",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/big-take-what-is-the-us-economy-trying-to-tell-us-video",
+        "published": "Thu, 15 Oct 2026 20:55:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Pump-and-Dump Crackdown Aimed Abroad Meets Local Protests",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/us-pump-and-dump-crackdown-aimed-abroad-meets-homegrown-protests",
-        "published": "Thu, 15 Oct 2026 13:46:30 GMT"
+        "title": "Rate Volatility Might Shake Fundamentals: Tannuzzo",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/rate-volatility-might-shake-fundamentals-tannuzzo-video",
+        "published": "Thu, 15 Oct 2026 20:43:13 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "KKR-Backed Catalio Seeks $500 Million for AI-Healthcare Deals",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/kkr-backed-catalio-seeks-500-million-for-ai-healthcare-deals",
-        "published": "Thu, 15 Oct 2026 17:25:38 GMT"
+        "title": "Chocolate Demand Roars Back as Cocoa Grindings Beat Forecast",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/europe-cocoa-grindings-post-first-third-quarter-gain-since-2021",
+        "published": "Thu, 15 Oct 2026 07:43:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 15",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/latest-oil-market-news-and-analysis-for-oct-15",
-        "published": "Wed, 14 Oct 2026 22:02:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pentagon Plans to Hold Report on School Strike Past Midterms",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/pentagon-intends-to-hold-iran-school-attack-report-past-midterms",
-        "published": "Thu, 15 Oct 2026 13:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Harvard Fund Soars to Record $68 Billion After 27% Annual Return",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/harvard-fund-soars-to-record-68-billion-after-27-annual-return",
-        "published": "Thu, 15 Oct 2026 17:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bolivia Loosens Gold Export Controls While Ending Purchases",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/bolivia-revamps-gold-export-rules-in-bid-to-attract-dollars",
-        "published": "Thu, 15 Oct 2026 00:21:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Boeing’s Analysts Are All Bullish Despite $100 Oil, FAA Delays",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/boeing-s-analysts-are-all-bullish-despite-100-oil-faa-delays",
-        "published": "Thu, 15 Oct 2026 16:50:40 GMT"
+        "title": "Inflation Pointing for the Fed to Act: Rajappa",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/inflation-pointing-for-the-fed-to-act-rajappa-video",
+        "published": "Thu, 15 Oct 2026 20:50:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -216,33 +192,57 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "VW Wants to Take On Wrangler and Bronco on Their US Home Turf",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-15/vw-wants-to-take-on-wrangler-on-their-us-home-turf-video",
-        "published": "Thu, 15 Oct 2026 16:42:26 GMT"
+        "title": "International Paper Jumps on Potential Multibillion-Dollar Bids | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/international-paper-jumps-on-bids-closing-bell-video",
+        "published": "Thu, 15 Oct 2026 20:47:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Los intentos de Trump para bajar el diésel, y sus límites",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-15/los-intentos-de-trump-para-bajar-el-diesel-video",
-        "published": "Thu, 15 Oct 2026 16:39:15 GMT"
+        "title": "Stock Buyers Step In to Power Wall Street Rebound: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
+        "published": "Wed, 14 Oct 2026 22:04:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dangote Pushes Africa Market Access for IPO With Egypt Visit",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/dangote-pushes-african-market-access-for-ipo-with-egypt-visit",
-        "published": "Thu, 15 Oct 2026 09:45:10 GMT"
+        "title": "Still In Early Innings of AI Issuance: Doyle",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/still-in-early-innings-of-ai-issuance-doyle-video",
+        "published": "Thu, 15 Oct 2026 20:21:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nvidia-Backed AI Biotech Iambic Up 16% After $150 Million IPO",
+        "title": "Dollar Wraps Its Worst Day in Over a Month on AI Risk Concerns",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/dollar-wraps-its-worst-day-in-over-a-month-on-ai-risk-concerns",
+        "published": "Thu, 15 Oct 2026 20:14:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nvidia-Backed Biotech Iambic Up 18% After $150 Million IPO",
         "link": "https://www.bloomberg.com/news/articles/2026-10-15/nvidia-backed-ai-biotech-iambic-up-16-after-150-million-ipo",
         "published": "Thu, 15 Oct 2026 16:31:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India Restores Old Derivatives Settlement After Auction Swings",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/india-s-sebi-said-to-restore-prior-derivatives-settlement-method",
-        "published": "Thu, 15 Oct 2026 11:29:49 GMT"
+        "title": "Latest Oil Market News and Analysis for Oct. 15",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/latest-oil-market-news-and-analysis-for-oct-15",
+        "published": "Wed, 14 Oct 2026 22:02:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wellness Company Hain Celestial Said to Eye Potential Bankruptcy",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/wellness-company-hain-celestial-said-to-eye-potential-bankruptcy",
+        "published": "Thu, 15 Oct 2026 19:51:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Palmer Luckey’s Erebor Hires HSBC Banker for Emerging Markets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/palmer-luckey-s-erebor-hires-hsbc-banker-for-emerging-markets",
+        "published": "Thu, 15 Oct 2026 19:41:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Pesticide Maker FMC Plunges as Weak Demand Spurs Overhaul",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/fmc-plunges-as-weak-demand-forces-pricing-structure-overhaul",
+        "published": "Thu, 15 Oct 2026 12:48:07 GMT"
       }
     ],
     "onvista – News": [
