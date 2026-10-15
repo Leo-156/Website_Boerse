@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:36:37.855669+00:00",
+  "updated_at": "2026-10-15T23:49:41.086735+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,66 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Asian Stocks Set for Gains as Tech Selloff Eases: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates",
+        "published": "Thu, 15 Oct 2026 22:04:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "MSCI Weighs Indonesia Downgrade, Removal From Global Indexes",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/indonesia-s-emerging-market-status-under-consultation-msci-says",
+        "published": "Thu, 15 Oct 2026 20:59:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China’s Plan to Make Yuan a Global Currency Enters Faster Phase",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/china-s-plan-to-make-yuan-a-global-currency-enters-faster-phase",
+        "published": "Thu, 15 Oct 2026 23:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hong Kong’s APEC Comeback Showcases a City Remade by Beijing",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/hong-kong-s-apec-comeback-showcases-a-city-remade-by-beijing",
+        "published": "Thu, 15 Oct 2026 23:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Harvard Fund Hits Record $68 Billion After 27% Annual Return",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/harvard-fund-soars-to-record-68-billion-after-27-annual-return",
+        "published": "Thu, 15 Oct 2026 17:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 16",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/latest-oil-market-news-and-analysis-for-oct-16",
+        "published": "Thu, 15 Oct 2026 22:03:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Texas Senate Race Will Come Down to Turnout, Says Siena's Levy",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/change-is-top-of-mind-for-voters-says-siena-s-don-levy-video",
+        "published": "Thu, 15 Oct 2026 18:41:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Indexing Sports: How Team Stats Become Tradeable Assets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/indexing-sports-how-team-stats-become-tradeable-assets",
+        "published": "Thu, 15 Oct 2026 18:27:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The Investment Lessons Learned from 1873",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/the-investment-lessons-learned-from-1873-video",
+        "published": "Thu, 15 Oct 2026 21:38:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hot US Inflation, Treasury Safe Haven, CoreWeave's Credit Risk",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/real-yield-10-15-2026-video",
+        "published": "Thu, 15 Oct 2026 21:36:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Porsche CEO With a First Look at Mission S Sports Car",
         "link": "https://www.bloomberg.com/news/videos/2026-10-15/porsche-ceo-with-a-first-look-at-mission-s-sports-car-video",
         "published": "Thu, 15 Oct 2026 21:31:35 GMT"
@@ -156,12 +216,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Indonesia’s Emerging Market Status Under Consultation, MSCI Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/indonesia-s-emerging-market-status-under-consultation-msci-says",
-        "published": "Thu, 15 Oct 2026 20:59:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Big Take: What Is the US Economy Trying to Tell Us?",
         "link": "https://www.bloomberg.com/news/videos/2026-10-15/big-take-what-is-the-us-economy-trying-to-tell-us-video",
         "published": "Thu, 15 Oct 2026 20:55:33 GMT"
@@ -189,60 +243,6 @@
         "title": "Muni Bond Rally Sends Yields Down the Most Since April 2025",
         "link": "https://www.bloomberg.com/news/articles/2026-10-15/municipal-bond-rally-sends-yields-down-the-most-since-april-2025",
         "published": "Thu, 15 Oct 2026 14:54:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "International Paper Jumps on Potential Multibillion-Dollar Bids | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-15/international-paper-jumps-on-bids-closing-bell-video",
-        "published": "Thu, 15 Oct 2026 20:47:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stock Buyers Step In to Power Wall Street Rebound: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 14 Oct 2026 22:04:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Still In Early Innings of AI Issuance: Doyle",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-15/still-in-early-innings-of-ai-issuance-doyle-video",
-        "published": "Thu, 15 Oct 2026 20:21:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Dollar Wraps Its Worst Day in Over a Month on AI Risk Concerns",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/dollar-wraps-its-worst-day-in-over-a-month-on-ai-risk-concerns",
-        "published": "Thu, 15 Oct 2026 20:14:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nvidia-Backed Biotech Iambic Up 18% After $150 Million IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/nvidia-backed-ai-biotech-iambic-up-16-after-150-million-ipo",
-        "published": "Thu, 15 Oct 2026 16:31:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 15",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/latest-oil-market-news-and-analysis-for-oct-15",
-        "published": "Wed, 14 Oct 2026 22:02:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wellness Company Hain Celestial Said to Eye Potential Bankruptcy",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/wellness-company-hain-celestial-said-to-eye-potential-bankruptcy",
-        "published": "Thu, 15 Oct 2026 19:51:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Palmer Luckey’s Erebor Hires HSBC Banker for Emerging Markets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/palmer-luckey-s-erebor-hires-hsbc-banker-for-emerging-markets",
-        "published": "Thu, 15 Oct 2026 19:41:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pesticide Maker FMC Plunges as Weak Demand Spurs Overhaul",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/fmc-plunges-as-weak-demand-forces-pricing-structure-overhaul",
-        "published": "Thu, 15 Oct 2026 12:48:07 GMT"
       }
     ],
     "onvista – News": [
