@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-15T00:37:41.114613+00:00",
+  "updated_at": "2026-10-15T05:08:09.787791+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Privatbanken: Quirin startet größtes IT-Projekt der Firmengeschichte und greift Neobroker an",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/privatbanken-quirin-startet-groesstes-it-projekt-der-firmengeschichte/100262206.html",
+        "published": "Thu, 15 Oct 2026 04:09:48 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 15. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Thu, 15 Oct 2026 04:08:05 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Kospi, Topix: Sorge um KI und US-Inflation – Aktienkurse in Asien stürzen ab",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/sorge-um-ki-und-us-inflationsdaten-asiens-aktienkurse-stuerzen-ab/100262358.html",
+        "published": "Thu, 15 Oct 2026 03:34:52 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Das sind die zehn deutschen Städte mit den höchsten Wohnungspreisen und Mieten",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-hier-steigen-die-wohnungspreise-und-mieten-am-staerksten/100170988.html",
+        "published": "Thu, 15 Oct 2026 02:10:20 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Immobilien: Bis zu 6,7 Prozent mehr – In diesen Metropolen steigen die Mieten besonders stark",
@@ -97,50 +121,62 @@
         "title": "Lagarde: EZB greift offenbar nicht am Anleihemarkt ein",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/lagarde-ezb-greift-offenbar-nicht-am-anleihemarkt-ein/100262127.html",
         "published": "Wed, 14 Oct 2026 07:36:42 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 14. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Wed, 14 Oct 2026 04:24:06 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei und Kospi: Asiatische Börsen legen zu, Ölpreise dämpfen Aufwärtstrend",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-und-kospi-asiatische-boersen-legen-zu-oelpreise-daempfen-aufwaertstrend/100262083.html",
-        "published": "Wed, 14 Oct 2026 04:02:33 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Interview: Blackstone-Europachef Seppala: „Entscheidend ist, in die richtigen Sektoren und Objekte zu investieren“",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-warum-der-blackstone-chef-die-enteignungsdebatte-nicht-fuerchtet/100260420.html",
-        "published": "Wed, 14 Oct 2026 02:12:31 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Großbank: Über 1,2 Milliarden Dollar Strafe für Bank of Amerika",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/us-grossbank-ueber-12-milliarden-dollar-strafe-fuer-bank-of-amerika/100262043.html",
-        "published": "Tue, 13 Oct 2026 22:58:42 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Stock Selloff Extends to Asia as Chip Rout Deepens: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 14 Oct 2026 22:04:59 GMT"
+        "title": "Treasury Haven Trade Bounces Back as Stocks Sink, Yields Entice",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/treasuries-extend-gains-as-equities-selloff-dents-risk-sentiment",
+        "published": "Thu, 15 Oct 2026 00:27:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Chip Rout Deepens as Rate Fears Collide With AI Funding Woes",
+        "title": "Kospi Drops 8% as Samsung, SK Hynix Shares Plunge on AI and Rate Fears",
         "link": "https://www.bloomberg.com/news/articles/2026-10-15/chip-stocks-deepen-losses-as-concerns-mount-over-rates-ai-debt",
         "published": "Thu, 15 Oct 2026 00:08:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasuries Extend Gains as Equities Selloff Dents Risk Sentiment",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/treasuries-extend-gains-as-equities-selloff-dents-risk-sentiment",
-        "published": "Thu, 15 Oct 2026 00:27:03 GMT"
+        "title": "Stock Losses Deepen on Chip Rout, Treasuries Rally: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
+        "published": "Wed, 14 Oct 2026 22:04:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ukraine to Resume Russia Oil Refinery Strikes, FT Reports",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/ukraine-to-resume-russia-refinery-strikes-zelenskyy-tells-ft-mv911ocb",
+        "published": "Thu, 15 Oct 2026 04:16:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Copper Falls for Third Day as Strong US Inflation Spurs Selloff",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/copper-falls-for-third-day-as-strong-us-inflation-spurs-selloff",
+        "published": "Thu, 15 Oct 2026 04:57:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Jio Returns for Meta, Alphabet, KKR Crimped by Long Rupee Slide",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/jio-returns-for-meta-alphabet-kkr-crimped-by-long-rupee-slide",
+        "published": "Thu, 15 Oct 2026 04:52:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fairfax’s $6 Billion Bank Deal Signals Zest For India Assets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/fairfax-s-6-billion-bank-deal-signals-zest-for-indian-assets",
+        "published": "Thu, 15 Oct 2026 01:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Sunak Invokes Singapore’s 'Poisonous Shrimp' in Power Debate",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/sunak-invokes-lee-kuan-yew-s-poisonous-shrimp-video",
+        "published": "Thu, 15 Oct 2026 04:46:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Taiwan Dollar, Won Slump as Chip Selloff Hurts Asian Currencies",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/taiwan-dollar-won-slump-as-chip-stock-selloff-hurts-sentiment",
+        "published": "Thu, 15 Oct 2026 02:57:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -150,102 +186,78 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bolivia Revamps Gold Export Rules in Bid to Attract Dollars",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/bolivia-revamps-gold-export-rules-in-bid-to-attract-dollars",
-        "published": "Thu, 15 Oct 2026 00:21:07 GMT"
+        "title": "Canada Minister Anand Says Ties with India Have Improved",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/canada-minister-anand-says-ties-with-india-has-improved-video",
+        "published": "Thu, 15 Oct 2026 04:11:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Holds Loss as Hot Inflation Lifts October Rate-Hike Bets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/gold-holds-loss-as-hot-inflation-lifts-october-rate-hike-bets",
-        "published": "Wed, 14 Oct 2026 23:33:01 GMT"
+        "title": "ECB's Dolenc: Less Action Needed if Markets Tighten",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/ecb-s-dolenc-less-action-needed-if-markets-tighten-video",
+        "published": "Thu, 15 Oct 2026 04:31:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India's NIIF Eyes $800M Data Center Investment",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/india-s-niif-eyes-800m-data-center-investment-video",
-        "published": "Wed, 14 Oct 2026 23:30:43 GMT"
+        "title": "IMF Says Saudi Buffers, Energy Backup Blunt Economic Blow",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/imf-says-saudi-buffers-energy-backup-blunt-economic-blow",
+        "published": "Thu, 15 Oct 2026 04:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China’s Backdoor Bond-Buying Talk Swirls on $600 Billion Buildup",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/china-s-backdoor-bond-buying-talk-swirls-on-600-billion-buildup",
-        "published": "Wed, 14 Oct 2026 23:00:00 GMT"
+        "title": "Korea’s Foreign Bank Scrutiny Intensifies With Bond Sale Delayed",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/korea-s-foreign-bank-scrutiny-intensifies-with-bond-sale-delayed",
+        "published": "Thu, 15 Oct 2026 04:15:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Susan Collins Wasn’t the Check on Trump That Was Needed, Says Poersch",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/susan-collins-wasn-t-the-check-on-trump-says-poersch-video",
-        "published": "Wed, 14 Oct 2026 22:46:35 GMT"
+        "title": "Europe’s $40 Billion Battery Bet Set for Big Winter Payout",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/europe-s-40-billion-battery-bet-set-for-big-winter-payout",
+        "published": "Thu, 15 Oct 2026 04:15:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "777 Partners’ Co-Founder Wander Signals Guilty Plea in Filing",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/777-partners-co-founder-wander-signals-guilty-plea-in-filing",
-        "published": "Wed, 14 Oct 2026 22:36:28 GMT"
+        "title": "India’s IDBI Stake Sale Brings Timely Buffer Against $100 Oil",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/india-s-idbi-stake-sale-brings-timely-buffer-against-100-oil",
+        "published": "Thu, 15 Oct 2026 04:07:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Top Forecaster Says Fed May Hike Rates Half a Point in December",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/top-forecaster-says-fed-may-hike-rates-half-a-point-in-december",
-        "published": "Wed, 14 Oct 2026 22:35:02 GMT"
+        "title": "Introducing: Disclosure Season 2",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/introducing-disclosure-season-2-video",
+        "published": "Thu, 15 Oct 2026 03:49:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Woman Admits Trying to Scam Wes Edens for $1.2 Billion",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/woman-pleads-guilty-to-trying-to-scam-wes-edens-for-1-2-billion",
-        "published": "Wed, 14 Oct 2026 17:44:54 GMT"
+        "title": "Iron Ore Trades Below $90 a Ton for First Time Since 2024",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/iron-ore-trades-below-90-a-ton-for-first-time-since-2024",
+        "published": "Thu, 15 Oct 2026 03:22:28 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "TSMC Results Face High Bar to Calm Global AI Stock Trade Jitters",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/tsmc-results-face-high-bar-to-calm-global-ai-stock-trade-jitters",
-        "published": "Wed, 14 Oct 2026 16:01:00 GMT"
+        "title": "Anthropic Results May Aid IPO But Not AI Trade, Analysts Say",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/anthropic-results-may-aid-ipo-but-not-ai-trade-analysts-say",
+        "published": "Thu, 15 Oct 2026 03:21:25 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Huel CEO on Danone Deal and Expansion to US Retail",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/huel-ceo-on-danone-deal-and-expansion-to-us-retail-video",
-        "published": "Wed, 14 Oct 2026 22:09:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Loop Capital CEO on Expanding Athlete Wealth Platform",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/loop-capital-ceo-on-expanding-athlete-wealth-platform-video",
-        "published": "Wed, 14 Oct 2026 22:05:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P 500 Ends Longest Streak of Calm Since 2020 as AI Trade Sinks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/s-p-500-ends-longest-streak-of-calm-since-2020-as-ai-trade-sinks",
-        "published": "Wed, 14 Oct 2026 20:36:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Canadian Lender Cash Today Inc. Under Scrutiny as 44,000 Loans Vanish",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/canadian-lender-cash-today-inc-under-scrutiny-as-44-000-loans-vanish",
-        "published": "Wed, 14 Oct 2026 21:29:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Why Inflation Numbers Are Disappointing",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-14/opinion-why-inflation-numbers-are-disappointing-video",
-        "published": "Wed, 14 Oct 2026 21:20:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Container Ship Sinks in Strait of Hormuz as Attacks Ramp Up",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/cargo-ship-sinks-in-strait-of-hormuz-after-strike-triggers-fire",
-        "published": "Wed, 14 Oct 2026 18:38:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bitcoin Slides as Wall Street Risk Pullback Tests Bullish Turn",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-14/bitcoin-hits-lower-end-of-trading-range-as-risk-appetite-wanes",
-        "published": "Wed, 14 Oct 2026 18:19:38 GMT"
+        "title": "Indonesia Swaps Out Electricity Chief After Huge Batam Blackout",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/indonesia-swaps-out-electricity-chief-after-huge-batam-blackout",
+        "published": "Thu, 15 Oct 2026 03:18:19 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 15.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-15-finanzberichte-heute-15-10-2026-41121301-19-26564261",
+        "published": "Thu, 15 Oct 2026 06:10:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  15.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-15-dividendenalarm-heute-15-10-2026-41121301-19-26564260",
+        "published": "Thu, 15 Oct 2026 06:00:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Tagesgeld im Oktober 2026: Hier sind aktuell bis zu 4,25 Prozent Zinsen drin",
@@ -383,18 +395,6 @@
         "title": "Nordex: Attraktive Einstiegskurse – eigentlich",
         "link": "https://www.onvista.de/news/2026/10-12-nordex-attraktive-einstiegskurse-eigentlich-40338625-19-26563134",
         "published": "Mon, 12 Oct 2026 17:27:54 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Microsoft: Ich sehe die Aktie schnell bei 570 Dollar",
-        "link": "https://www.onvista.de/news/2026/10-12-microsoft-ich-sehe-die-aktie-schnell-bei-570-dollar-40338625-19-26563148",
-        "published": "Mon, 12 Oct 2026 17:24:49 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Der Rücksetzer bei Meta ist eine Chance",
-        "link": "https://www.onvista.de/news/2026/10-12-der-ruecksetzer-bei-meta-ist-eine-chance-40338625-19-26563143",
-        "published": "Mon, 12 Oct 2026 17:18:27 +0200"
       }
     ],
     "Börse Frankfurt – News": [
