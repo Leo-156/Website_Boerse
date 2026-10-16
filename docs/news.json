@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-16T06:28:15.520061+00:00",
+  "updated_at": "2026-10-16T11:43:23.000876+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax notiert im Plus – Aixtron-Aktie steigt",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-aixtron-aktie-steigt-zweistellig/100262751.html",
+        "published": "Fri, 16 Oct 2026 11:27:11 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Südostasien: MSCI droht Indonesien mit Index-Rauswurf – Börse verliert heftig",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/suedostasien-msci-droht-indonesien-mit-index-rauswurf-boerse-verliert/100262750.html",
+        "published": "Fri, 16 Oct 2026 10:54:49 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Topix, CSI 300: Börse in Japan legt nach Verlusten am Vortag wieder zu",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-boerse-in-japan-legt-nach-verlusten-am-vortag-wieder-zu/100262717.html",
+        "published": "Fri, 16 Oct 2026 09:28:52 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Anleihen: Letzte Rettung EZB: Mit umstrittenen Mitteln gegen eine neue Euro-Krise",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/anleihen-die-umstrittenen-mittel-der-ezb-gegen-eine-neue-euro-krise/100260046.html",
+        "published": "Fri, 16 Oct 2026 09:20:55 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Die Babyboomer verkaufen ihre Immobilien – was das für die Preise heißt",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-babyboomer-verkaufen-immobilien-was-das-fuer-die-preise-heisst/100260073.html",
+        "published": "Fri, 16 Oct 2026 08:00:10 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Versicherung: Sind die Lebensversicherer die Verlierer der Riester-Reform?",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-sind-die-lebensversicherer-die-verlierer-der-riester-reform/100262631.html",
+        "published": "Fri, 16 Oct 2026 06:39:31 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Depot: So funktioniert die Altersvorsorge für Kinder",
@@ -11,7 +47,7 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "US-Notenbank: Fed-Chef Warsh preist „enorme Investitionswelle“ bei KI und gibt Investoren neue Zuversicht",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ki-fed-chef-warsh-preist-enorme-investitionswelle/100262487.html",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/us-inflation-fed-chef-warsh-preist-enorme-investitionswelle/100262487.html",
         "published": "Fri, 16 Oct 2026 05:41:52 GMT"
       },
       {
@@ -19,12 +55,6 @@
         "title": "Börse am 16. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "published": "Fri, 16 Oct 2026 04:19:49 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei, Yen, Hang Seng: Aktien in Asien legen nach deutlichen Verlusten am Vortag wieder zu",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-aktien-in-asien-legen-nach-deutlichen-verlusten-am-vortag-wieder-zu/100262717.html",
-        "published": "Fri, 16 Oct 2026 03:41:29 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -91,161 +121,167 @@
         "title": "EZB-Präsidentin: Bericht: WEF könnte Lagarde Anfang November zur künftigen Chefin küren",
         "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-wef-koennte-lagarde-anfang-november-zur-kuenftigen-chefin-kueren/100262581.html",
         "published": "Thu, 15 Oct 2026 13:59:11 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Aktien: Billionen-Konzerne verlieren mehr als 40 Prozent Kurswert: „KI-Korrektur“ erfasst Börsen weltweit",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/aktien-billionen-konzerne-verlieren-40-prozent-ki-korrektur-erfasst-boersen/100262410.html",
-        "published": "Thu, 15 Oct 2026 13:49:45 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Bonus-Streichungen für Credit-Suisse-Manager waren rechtens",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken-bonus-streichungen-fuer-credit-suisse-manager-waren-rechtens/100262574.html",
-        "published": "Thu, 15 Oct 2026 13:24:33 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte: Stress am Markt für Private Credit ist größer als bislang vermutet",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/maerkte-stress-am-markt-fuer-private-credit-ist-groesser-als-bislang-vermutet/100262490.html",
-        "published": "Thu, 15 Oct 2026 12:55:27 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Bis zu 75 Jahre lang günstiger: Hier sparen Käufer im Umland von Berlin am meisten",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-hier-sparen-kaeufer-im-umland-von-berlin-am-meisten/100260469.html",
-        "published": "Thu, 15 Oct 2026 10:55:58 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Österreichs Justiz ermittelt wegen Untreue-Verdacht gegen Ex-Bankier Meinl",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/ex-bankier-julius-meinl-oesterreichs-justiz-ermittelt-wegen-untreue-verdacht/100262532.html",
-        "published": "Thu, 15 Oct 2026 10:36:05 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Record Foreign Selling in Indonesia Set to Worsen on MSCI Threat",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-outflows-to-worsen-as-msci-mulls-cut-analysts-say",
-        "published": "Fri, 16 Oct 2026 00:43:17 GMT"
+        "title": "Euro Set to End Five-Week Losing Run on Warsh Remarks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/euro-set-to-end-five-week-losing-run-as-warsh-remarks-hit-dollar",
+        "published": "Fri, 16 Oct 2026 09:37:30 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks, Futures Rise as Fed Bets Ease After Warsh: Markets Wrap",
+        "title": "Traders Are Shelling Out Millions to Secure Copper",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-16/traders-are-shelling-out-millions-to-secure-copper",
+        "published": "Fri, 16 Oct 2026 11:41:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nigeria Exchange CEO Sees Dangote IPO Spurring New Listings",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/nigeria-bourse-sees-new-listings-spurred-by-record-dangote-ipo",
+        "published": "Fri, 16 Oct 2026 11:27:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Pimco’s Balls Sees Good Value in Long End of Yield Curve",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-16/pimco-s-balls-sees-good-value-in-long-end-of-yield-curve-video",
+        "published": "Fri, 16 Oct 2026 11:23:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Baltic Block of Russian Grain May Open Black Sea, Latvia Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/baltic-block-of-russian-grain-may-open-black-sea-latvia-says",
+        "published": "Fri, 16 Oct 2026 11:22:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Turkey’s Fast-Growing Corporate Bond Market Grapples With Funds Crisis Fallout",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/turkey-s-fast-growing-corporate-bond-market-grapples-with-funds-crisis-fallout",
+        "published": "Fri, 16 Oct 2026 11:07:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Adobe Analysts Have Never Been So Bearish as AI Fears Mount",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/adobe-analysts-have-never-been-so-bearish-as-ai-fears-mount",
+        "published": "Fri, 16 Oct 2026 11:00:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BC Leans on US to Fund Deficit as Eby Rides Anti-American Mood",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/bc-leans-on-us-to-fund-deficit-as-eby-rides-anti-american-mood",
+        "published": "Fri, 16 Oct 2026 11:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Angola Eyes Panda and Islamic Bonds to Diversify Funding Sources",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/angola-eyes-panda-and-islamic-bonds-to-diversify-funding-sources",
+        "published": "Fri, 16 Oct 2026 10:53:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Rise as Turbulent Week Nears End: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 15 Oct 2026 22:04:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fed's Warsh Says US Facing Massive Investment Surge",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/insight-with-haslinda-amin-10-16-2026-video",
-        "published": "Fri, 16 Oct 2026 05:57:39 GMT"
+        "title": "Trump Won’t Rule Out ‘Mother of All Bombs’ on Iran, Taiwan Tightens Chip Curbs",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-16/the-pulse-10-16-2026-video",
+        "published": "Fri, 16 Oct 2026 10:53:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "FTSE 100 Poised to Underperform as Stocks Rebound - Live",
-        "link": "https://www.bloomberg.com/news/live-blog/2026-10-16/ftse-100-live-updates-pound-bonds-gilts-fed-warsh-boe-bailey-eurozone-inflation-what-s-moving-uk-markets-right-now-markets-today-mvaju0t0",
-        "published": "Fri, 16 Oct 2026 05:50:37 GMT"
+        "title": "CoreWeave Is Testing the Limits of AI Euphoria",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-16/coreweave-is-testing-the-limits-of-ai-euphoria",
+        "published": "Fri, 16 Oct 2026 10:49:09 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Steadies After Warsh Remarks Lower October Rate-Hike Bets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/gold-holds-gains-with-haven-demand-and-lower-yields-in-focus",
-        "published": "Thu, 15 Oct 2026 23:51:46 GMT"
+        "title": "BofA’s Hartnett Sees Investors Avoiding Risk on Fed, Midterms",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/bofa-s-hartnett-sees-investors-avoiding-risk-on-fed-midterms",
+        "published": "Fri, 16 Oct 2026 10:47:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Indonesia Faces MSCI Consultation on Potential Emerging Market Downgrade",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/indonesia-s-emerging-market-status-under-consultation-msci-says",
-        "published": "Thu, 15 Oct 2026 20:59:19 GMT"
+        "title": "Indonesian Stocks Tumble on MSCI Downgrade Warning",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-16/indonesian-stocks-tumble-on-msci-downgrade-warning-video",
+        "published": "Fri, 16 Oct 2026 10:42:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Builds Gas Buffer for Winter as Iran War Heightens Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/china-builds-gas-buffer-for-winter-as-iran-war-heightens-risk",
-        "published": "Fri, 16 Oct 2026 05:25:32 GMT"
+        "title": "Dubai’s DIP to Hold Meetings for UAE’s First Listing Since War",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/dubai-s-dip-to-hold-meetings-for-uae-s-first-listing-since-war",
+        "published": "Fri, 16 Oct 2026 10:30:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India’s Rupee Relief Comes With Disruptions in Financial Markets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/india-s-rupee-rebound-comes-with-growing-strains-in-fx-market",
-        "published": "Fri, 16 Oct 2026 02:58:21 GMT"
+        "title": "Carlyle Buys $7.7 Billion in Consumer Loans as Truist Revamps",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/carlyle-buys-7-7-billion-in-consumer-loans-as-truist-revamps",
+        "published": "Fri, 16 Oct 2026 10:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Delhi Police Tighten Security Ahead of ‘Cockroach’ Rally",
+        "title": "India Police Serve Notice to ‘Cockroach’ Leader to Block Protest",
         "link": "https://www.bloomberg.com/news/articles/2026-10-16/new-delhi-braces-for-fresh-crackdown-as-cockroaches-plan-march",
         "published": "Fri, 16 Oct 2026 01:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Kganyago: SARB Expects S. Africa CPI to Decline in 2027",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/kganyago-sarb-expects-s-africa-cpi-to-decline-in-2027-video",
-        "published": "Fri, 16 Oct 2026 05:17:04 GMT"
+        "title": "China Touts Yuan Assets as Better Bet Amid Global Selloff",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/pboc-s-pan-touts-yuan-assets-to-investors-at-deutsche-bank-event",
+        "published": "Fri, 16 Oct 2026 03:05:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ship-Fuel Squeeze Persists Despite More Hormuz Crude, Vitol Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/ship-fuel-squeeze-persists-despite-more-hormuz-crude-vitol-says",
-        "published": "Fri, 16 Oct 2026 05:10:18 GMT"
+        "title": "Coffee’s Coming Glut May Not Be Enough to Calm Volatile Prices",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/coffee-s-coming-glut-may-not-be-enough-to-calm-volatile-prices",
+        "published": "Fri, 16 Oct 2026 07:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Japan’s Fukoku Mutual Life Counts on Cash to Mitigate Volatility",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/japan-s-fukoku-mutual-life-counts-on-cash-to-mitigate-volatility",
-        "published": "Fri, 16 Oct 2026 05:00:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Michael Palin on the Philippines and China’s Power",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/michael-palin-on-the-philippines-and-china-s-power",
-        "published": "Fri, 16 Oct 2026 05:00:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Metals Rebound as Sentiment Improves After US Inflation Shock",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/metals-rebound-as-sentiment-improves-after-us-inflation-shock",
-        "published": "Fri, 16 Oct 2026 04:58:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "IMF Quite Confident Argentina Able to Meet 2027 Debt Obligations",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/imf-quite-confident-argentina-able-to-meet-2027-debt-obligations",
-        "published": "Fri, 16 Oct 2026 04:56:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Blue Owl: Private Credit Redemptions Are Falling",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/blue-owl-private-credit-redemptions-are-falling-video",
-        "published": "Fri, 16 Oct 2026 04:43:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "South Africa Court Rulings May Lift Confidence, PSG Chief Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/south-africa-court-rulings-may-lift-confidence-psg-chief-says",
-        "published": "Fri, 16 Oct 2026 04:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Indian Software Stocks Set to Beat AI Peers by Most in Decades",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/indian-software-stocks-set-to-beat-ai-peers-by-most-in-decades",
-        "published": "Fri, 16 Oct 2026 02:41:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 16",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/latest-oil-market-news-and-analysis-for-oct-16",
-        "published": "Thu, 15 Oct 2026 22:03:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Chip Selloff Eases as Nvidia CEO Downplays CoreWeave Concerns",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/the-asia-trade-10-16-2026-video",
-        "published": "Fri, 16 Oct 2026 04:15:07 GMT"
+        "title": "US Steel Prices Climb to Four-Year High as Trump’s Tariffs Bite",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/us-steel-prices-climb-to-four-year-high-as-trump-s-tariffs-bite",
+        "published": "Fri, 16 Oct 2026 10:00:00 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Aixtron: Zahlen-Hammer! Rocket Lab verschiebt, ServiceNow mit KI-Neuheit",
+        "link": "https://www.onvista.de/news/2026/10-16-aixtron-zahlen-hammer-und-servicenow-mit-ki-neuheit-40338625-19-26564878",
+        "published": "Fri, 16 Oct 2026 12:58:01 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Bigbank Tagesgeld: 3,90 % Zinsen für vier Monate bis 250.000 €",
+        "link": "https://www.onvista.de/news/2026/10-16-bigbank-tagesgeld-4-15-zinsen-fuer-vier-monate-bis-250-000-41122918-19-26563598",
+        "published": "Fri, 16 Oct 2026 12:05:22 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Kospi-Kursrutsch? US-Banken nach Zahlen? Anthropic-IPO?",
+        "link": "https://www.onvista.de/news/2026/10-16-us-banken-instabil-kospi-index-verlauf-anthropic-vor-ipo-41121301-19-26564390",
+        "published": "Fri, 16 Oct 2026 12:00:01 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Advanzia Bank zahlt 4,10 % aufs Tagesgeld: Drei Monate Zinsgarantie ab 5.000 Euro",
+        "link": "https://www.onvista.de/news/2026/10-16-advanzia-bank-zahlt-4-10-aufs-tagesgeld-drei-monate-zinsgarantie-ab-5-000-euro-41122918-19-26564859",
+        "published": "Fri, 16 Oct 2026 11:58:36 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax auf neuem Monatshoch - welche Marken jetzt zählen",
+        "link": "https://www.onvista.de/news/2026/10-16-dax-auf-neuem-monatshoch-welche-marken-jetzt-zaehlen-41123281-19-26564834",
+        "published": "Fri, 16 Oct 2026 11:04:56 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax startet mit Gewinnen – Rüstungssektor legt zu",
+        "link": "https://www.onvista.de/news/2026/10-16-dax-startet-mit-gewinnen-ruestungssektor-legt-zu-0-19-26564805",
+        "published": "Fri, 16 Oct 2026 09:53:10 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Dax mit Gewinnen erwartet – gute Vorgaben aus Asien",
@@ -359,45 +395,15 @@
         "title": "Aufwärtstrend gebrochen – 25.400-Punkte-Marke entscheidet",
         "link": "https://www.onvista.de/news/2026/10-14-aufwaertstrend-gebrochen-25-400-punkte-marke-entscheidet-41123281-19-26563933",
         "published": "Wed, 14 Oct 2026 11:11:35 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax leicht im Plus – ASML-Aktie steigt nach Zahlen",
-        "link": "https://www.onvista.de/news/2026/10-14-dax-leicht-im-plus-asml-aktie-steigt-nach-zahlen-41121301-19-26563884",
-        "published": "Wed, 14 Oct 2026 10:05:19 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Altersvorsorgedepot",
-        "link": "https://www.onvista.de/anlagethemen/altersvorsorgedepot-26534199",
-        "published": "Wed, 14 Oct 2026 09:09:15 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Trade Republic Altersvorsorgedepot: 0 € Depotkosten, ab 2027 mit bis zu 540 € Zulage",
-        "link": "https://www.onvista.de/news/2026/10-14-trade-republic-altersvorsorgedepot-0-depotkosten-ab-2027-mit-bis-zu-540-zulage-41122918-19-26563852",
-        "published": "Wed, 14 Oct 2026 09:08:42 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Vor US-Inflationsdaten: Dax dürfte im Plus starten",
-        "link": "https://www.onvista.de/news/2026/10-14-vor-us-inflationsdaten-dax-duerfte-im-plus-starten-41121301-19-26563798",
-        "published": "Wed, 14 Oct 2026 08:03:19 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 14.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-14-finanzberichte-heute-14-10-2026-41121301-19-26563767",
-        "published": "Wed, 14 Oct 2026 06:10:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  14.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-14-dividendenalarm-heute-14-10-2026-41121301-19-26563765",
-        "published": "Wed, 14 Oct 2026 06:00:00 +0200"
       }
     ],
     "Börse Frankfurt – News": [
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Gold: ,,US-Inflation als Spielverderber\"",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/gold-us-inflation-als-spielverderber",
+        "published": "Thu, 15 Oct 2026 11:12:28 GMT"
+      },
       {
         "source": "Börse Frankfurt – News",
         "title": "Scale-Marktbericht: Viele neue Mitglieder",
@@ -451,26 +457,26 @@
         "title": "Zertifikate: ''Viel KI, aber auch deutsche Aktien''",
         "link": "https://www.boerse-frankfurt.de/nachrichten/zertifikate-viel-ki-aber-auch-deutsche-aktien",
         "published": "Thu, 08 Oct 2026 07:40:47 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "ETFs: „Nach der Tech-Rally wird Kasse gemacht“",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/etfs-nach-der-tech-rally-wird-kasse-gemacht",
-        "published": "Tue, 06 Oct 2026 08:58:02 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: TSMC gibt sich keine Blöße",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
-        "published": "Thu, 15 Oct 2026 13:56:37 +0200"
+        "title": "Wie Anleger bei ETFs den Überblick behalten",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/etf-geldanlage-kosten-risiken-100.html",
+        "published": "Fri, 16 Oct 2026 13:25:34 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Hoffnung auf Entlastung bei Öl- und Dieselpreisen",
+        "title": "Marktbericht: DAX startet mit Gewinnen",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
-        "published": "Fri, 16 Oct 2026 07:40:56 +0200"
+        "published": "Fri, 16 Oct 2026 10:12:55 +0200"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Marktbericht: TSMC gibt sich keine Blöße",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
+        "published": "Thu, 15 Oct 2026 13:56:37 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Nach einer Studie investieren immer mehr Deutsche in Aktien",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktienmarkt-investieren-dax-ing-bank-marktbericht-100.html",
         "published": "Wed, 23 Sep 2026 14:43:28 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Iran-Krieg und Last-Minute-Trend zehren an TUI-Gewinn",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-tui-100.html",
-        "published": "Tue, 22 Sep 2026 14:00:03 +0200"
       }
     ]
   }
