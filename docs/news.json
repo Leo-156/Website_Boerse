@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-10-16T15:32:55.461171+00:00",
+  "updated_at": "2026-10-16T19:00:16.766467+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen starten uneinheitlich – Ausverkauf bei KI-Aktien geht weiter",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-uneinheitlich-ki-aktien-unter-druck/100262834.html",
-        "published": "Fri, 16 Oct 2026 14:35:00 GMT"
+        "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen verlieren deutlich  – Ausverkauf bei KI-Aktien geht weiter",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-verlieren-deutlich-ki-aktien-unter-druck/100262834.html",
+        "published": "Fri, 16 Oct 2026 18:22:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt im Plus – Rheinmetall-Aktie legt zu",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-plus-rheinmetall-aktie-legt-zu/100262751.html",
+        "published": "Fri, 16 Oct 2026 16:14:36 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -37,12 +43,6 @@
         "title": "Finanzbranche: Deutsche Banken suchen überdurchschnittlich viel Personal",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/offene-stellen-deutsche-banken-suchen-ueberdurchschnittlich-viel-personal/100261592.html",
         "published": "Fri, 16 Oct 2026 12:13:22 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax notiert im Plus – Aixtron-Aktie steigt",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-aixtron-aktie-steigt-zweistellig/100262751.html",
-        "published": "Fri, 16 Oct 2026 12:08:41 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -126,126 +126,132 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Chip Stocks Set for Longest Losing Run Since 2008: Markets Wrap",
+        "title": "Incredibly Hands-Off With Own Finances: Porcelli",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-16/incredibly-hands-off-with-own-finances-porcelli-video",
+        "published": "Fri, 16 Oct 2026 18:56:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Brazilian Asset Manager WHG Expands Its Local Equities Team",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/brazilian-asset-manager-whg-expands-its-local-equities-team",
+        "published": "Fri, 16 Oct 2026 14:15:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Personal Balance Sheet Encouraging Consumption: Porcelli",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-16/personal-balance-sheet-encouraging-consumption-porcelli-video",
+        "published": "Fri, 16 Oct 2026 18:38:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil Tops $110 for First Time Since May as Supply Risk Grows",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/oil-tops-110-for-first-time-since-may-as-supply-risk-grows",
+        "published": "Fri, 16 Oct 2026 18:33:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump Says He Didn’t Order Ukraine Starshield Access Limits",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-16/trump-says-he-didn-t-order-ukraine-starshield-limits-video",
+        "published": "Fri, 16 Oct 2026 18:27:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Paschi Top 10 Investor Goldstone Backs Intesa Takeover Bid",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/paschi-top-10-investor-goldstone-backs-intesa-takeover-bid",
+        "published": "Fri, 16 Oct 2026 16:13:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Bonds Fall as Treasury Is Silent on Long End, Oil Climbs",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/long-term-treasuries-fall-as-dealer-survey-offers-little-signal",
+        "published": "Fri, 16 Oct 2026 16:31:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Metals Rebound as Sentiment Improves After Volatile Week",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/metals-rebound-as-sentiment-improves-after-us-inflation-shock",
+        "published": "Fri, 16 Oct 2026 04:58:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Morocco’s Football Boss Named Finance Minister With Broader Role",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/morocco-s-football-boss-named-finance-minister-with-broader-role",
+        "published": "Fri, 16 Oct 2026 18:02:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Fall on Renewed AI Jitters as Oil Climbs: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 15 Oct 2026 22:04:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bank of America Eyes at Least $6 Billion in High-Grade Bond Deal",
+        "title": "¿Por qué el frenesí de deuda por la IA inquieta a los mercados?",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/-por-que-el-frenesi-de-deuda-por-la-ia-inquieta-a-los-mercados-mvb9bvrd",
+        "published": "Fri, 16 Oct 2026 17:44:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Mortgage Bond Sales Put on Hold as Investors Demand More Yield",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/mortgage-bond-sales-put-on-hold-as-investors-demand-more-yield",
+        "published": "Fri, 16 Oct 2026 17:33:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bank of America Set to Raise $8 Billion in High-Grade Bond Deal",
         "link": "https://www.bloomberg.com/news/articles/2026-10-16/bank-of-america-taps-high-grade-bond-market-after-turbulent-week",
         "published": "Fri, 16 Oct 2026 13:28:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Why Tech’s AI Borrowing Binge Is Rattling Markets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/why-tech-s-ai-borrowing-binge-is-rattling-markets",
-        "published": "Fri, 16 Oct 2026 15:17:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Michael Palin on Still Traveling the World at 83",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/michael-palin-on-still-traveling-the-world-at-83-video",
-        "published": "Fri, 16 Oct 2026 15:10:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Peru Indigenous Group Bids for Part of China-Owned Copper Mine",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/peru-indigenous-group-bids-for-part-of-china-owned-copper-mine",
-        "published": "Fri, 16 Oct 2026 15:03:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Buys More US Soybeans as Purchasing Spree Gathers Pace",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/china-buys-more-us-soybeans-as-purchasing-spree-gathers-pace",
-        "published": "Fri, 16 Oct 2026 09:16:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brasil: euforia por Flávio Bolsonaro oculta crisis de deuda",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/brasil-euforia-por-flavio-bolsonaro-oculta-crisis-de-deuda-mvb38nf8",
-        "published": "Fri, 16 Oct 2026 14:53:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fed Divisions and AI Debt Risks Shape Rate Outlook",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/fed-divisions-and-ai-debt-risks-shape-rate-outlook-video",
-        "published": "Fri, 16 Oct 2026 14:37:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Case for Mamdani-Style Populism",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/the-case-for-mamdani-style-populism-video",
-        "published": "Fri, 16 Oct 2026 14:35:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Stall as Global Stocks Recovery Clips Haven Rally",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/treasuries-slide-as-global-stocks-recovery-clips-haven-rally",
-        "published": "Fri, 16 Oct 2026 09:10:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Netflix Brings in New Executive to Spur Growth",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/netflix-brings-in-new-executive-to-spur-growth-video",
-        "published": "Fri, 16 Oct 2026 14:29:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Exxon Signals Record Refining Earnings as Diesel Prices Soar",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/exxon-signals-knockout-refining-earnings-as-diesel-prices-soar",
-        "published": "Fri, 16 Oct 2026 12:17:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Kimberly-Clark Readies Bond Sale Ahead of Tylenol Maker Purchase",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/kimberly-clark-preps-bond-sale-ahead-of-tylenol-maker-purchase",
-        "published": "Fri, 16 Oct 2026 14:26:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Euro Poised to Halt Five-Week Losing Run After Warsh Remarks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/euro-set-to-end-five-week-losing-run-as-warsh-remarks-hit-dollar",
-        "published": "Fri, 16 Oct 2026 09:37:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Congo Arrests Hundreds of Chinese Miners in Copper Heartland",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/congo-arrests-hundreds-of-chinese-miners-in-copper-heartland",
-        "published": "Fri, 16 Oct 2026 14:01:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P 500 Steady as Warsh Boosts Expectations of Rate Hold",
+        "title": "S&P 500 Slides as Chipmakers Extend Slump on Growing AI Worries",
         "link": "https://www.bloomberg.com/news/articles/2026-10-16/s-p-500-steady-as-warsh-boosts-expectations-of-rate-hold",
         "published": "Fri, 16 Oct 2026 14:01:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Investors Prepare for Data Dump That Will Determine Canada Rate Path",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/investors-prepare-for-data-dump-that-will-determine-canada-rate-path",
-        "published": "Fri, 16 Oct 2026 14:00:40 GMT"
+        "title": "Oaktree’s Deal to Buy A-Cap Insurer Crumbles, Spawning New Talks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/oaktree-s-deal-to-buy-a-cap-insurer-crumbles-spawning-new-talks",
+        "published": "Fri, 16 Oct 2026 17:31:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BOJ’s Ueda ‘Can’t Tolerate’ Underlying Inflation Further Over 2%",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/boj-s-ueda-can-t-tolerate-underlying-inflation-further-over-2",
-        "published": "Fri, 16 Oct 2026 12:22:08 GMT"
+        "title": "Big US Bank Stocks Eye Worst Weekly Losing Streak Since 2008",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/big-us-bank-shares-set-for-worst-weekly-losing-streak-since-2008",
+        "published": "Fri, 16 Oct 2026 17:13:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Russian Fuel Flows Fell in Early October Before Diesel Ban Eased",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/russian-fuel-flows-fell-in-early-october-before-diesel-ban-eased",
-        "published": "Fri, 16 Oct 2026 13:27:37 GMT"
+        "title": "Trump’s ‘Mother Of All Bombs’ Threat Unlikely to Hit Iran’s Buried Nuclear Sites",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/trump-s-moab-threat-vs-iran-would-miss-buried-nuclear-sites",
+        "published": "Fri, 16 Oct 2026 17:27:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Market Euphoria Distracts From Brazil’s Mounting Debt Problem",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/market-euphoria-distracts-from-brazil-s-mounting-debt-problem",
-        "published": "Fri, 16 Oct 2026 13:26:43 GMT"
+        "title": "Cockroach Party Leader Detained Before Delhi Protest",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-16/cockroach-party-leader-detained-before-delhi-protest-video",
+        "published": "Fri, 16 Oct 2026 17:25:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Brazil Judge Orders Meta to Treat Runoff Candidates Equally",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-15/brazil-judge-orders-meta-to-treat-runoff-candidates-equally",
+        "published": "Thu, 15 Oct 2026 23:54:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "EU Carmakers Hail Deal on Emissions That Opens Door to the UK",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/eu-carmakers-hail-deal-on-emissions-that-opens-door-to-the-uk",
+        "published": "Fri, 16 Oct 2026 16:57:58 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax verbucht starken Wochenausklang - Nordex steigt zweistellig",
+        "link": "https://www.onvista.de/news/2026/10-16-dax-verbucht-starken-wochenausklang-nordex-steigt-zweistellig-41121301-19-26564989",
+        "published": "Fri, 16 Oct 2026 17:50:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Charles Schwab: Trotz Umsatzplus bleibt der Ausblick vorsichtig",
@@ -389,12 +395,6 @@
         "title": "Chip-Aktien leiden unter längster Verlustserie seit einem Jahr",
         "link": "https://www.onvista.de/news/2026/10-15-chip-aktien-leiden-unter-laengster-verlustserie-seit-einem-jahr-41121301-19-26564512",
         "published": "Thu, 15 Oct 2026 14:29:09 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "CoreWeave in der Krise – ASML mit Rekord, TSMC gibt nach",
-        "link": "https://www.onvista.de/news/2026/10-15-coreweave-in-der-krise-asml-mit-rekord-tsmc-gibt-nach-40338625-19-26564474",
-        "published": "Thu, 15 Oct 2026 12:59:00 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX startet mit Gewinnen",
+        "title": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
-        "published": "Fri, 16 Oct 2026 10:12:55 +0200"
+        "published": "Fri, 16 Oct 2026 18:22:56 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
