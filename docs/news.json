@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T04:42:29.312166+00:00",
+  "updated_at": "2026-10-17T08:48:01.612109+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,42 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
+        "link": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
+        "published": "Sat, 17 Oct 2026 08:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Lagarde Says Sustainable Finances Key for Economic Stability",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
+        "published": "Sat, 17 Oct 2026 05:40:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Warns Corrupt Officials Can’t Expect a Safe Landing",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-warns-corrupt-officials-can-t-expect-a-safe-landing",
+        "published": "Sat, 17 Oct 2026 05:35:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japan’s Takaichi to Attend APEC in China if Parliament Allows",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows",
+        "published": "Sat, 17 Oct 2026 05:22:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fairfax’s Watsa Bets On IDBI Payoff As India Booms, Report Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/fairfax-s-watsa-bets-on-idbi-payoff-as-india-booms-report-says",
+        "published": "Sat, 17 Oct 2026 04:55:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Halts Sugar Diversion to Ethanol After El Nino Hurts Crops",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-halts-sugar-diversion-to-ethanol-after-el-nino-hurts-crops",
+        "published": "Sat, 17 Oct 2026 04:50:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "China Encourages Cinemas to Add Sports Events and Lottery Sales",
         "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-encourages-cinemas-to-add-sports-events-and-lottery-sales",
         "published": "Sat, 17 Oct 2026 03:38:15 GMT"
@@ -207,42 +243,6 @@
         "title": "Big US Bank Stocks Log Worst Weekly Losing Streak Since 2008",
         "link": "https://www.bloomberg.com/news/articles/2026-10-16/big-us-bank-shares-set-for-worst-weekly-losing-streak-since-2008",
         "published": "Fri, 16 Oct 2026 17:13:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P 500 Suffers Worst Week Since June as AI Fears Hit Chipmakers",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/s-p-500-steady-as-warsh-boosts-expectations-of-rate-hold",
-        "published": "Fri, 16 Oct 2026 14:01:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Anxiety Spreads as AI Rout Meets $110 Oil Shock",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/wall-street-anxiety-spreads-as-ai-rout-meets-110-oil-shock",
-        "published": "Fri, 16 Oct 2026 20:31:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Compass Sues California Home Listing Service Over Rules",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/compass-files-suit-over-california-home-listing-service-rules",
-        "published": "Fri, 16 Oct 2026 19:05:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Coreweave Slides 25% for the Week as AI Credit Concerns Grow | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/coreweave-slides-on-ai-fears-closing-bell-video",
-        "published": "Fri, 16 Oct 2026 20:27:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Peru Indigenous Group Bids for Part of China-Owned Mine",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/peru-indigenous-group-bids-for-part-of-china-owned-copper-mine",
-        "published": "Fri, 16 Oct 2026 15:03:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brent Oil Taps $110 for First Time Since May as Risks Swirl",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/oil-tops-110-for-first-time-since-may-as-supply-risk-grows",
-        "published": "Fri, 16 Oct 2026 18:33:43 GMT"
       }
     ],
     "onvista – News": [
