@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T20:04:36.038723+00:00",
+  "updated_at": "2026-10-17T22:14:36.506688+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,13 +126,19 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Niger Halts Diesel, Petrol Exports to Protect Domestic Supply",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/niger-halts-diesel-petrol-exports-to-protect-domestic-supply",
+        "published": "Sat, 17 Oct 2026 21:44:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
         "link": "https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video",
         "published": "Sat, 17 Oct 2026 16:31:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India Frees ‘Cockroach’ Leader As Voter-List Row Simmers",
+        "title": "India Frees ‘Cockroach’ Leader as Voter-List Row Simmers",
         "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
         "published": "Sat, 17 Oct 2026 02:34:29 GMT"
       },
@@ -237,12 +243,6 @@
         "title": "India Halts Sugar Diversion to Ethanol After El Nino Hurts Crops",
         "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-halts-sugar-diversion-to-ethanol-after-el-nino-hurts-crops",
         "published": "Sat, 17 Oct 2026 04:50:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Encourages Cinemas to Add Sports Events and Lottery Sales",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-encourages-cinemas-to-add-sports-events-and-lottery-sales",
-        "published": "Sat, 17 Oct 2026 03:38:15 GMT"
       }
     ],
     "onvista – News": [
