@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T22:03:11.991021+00:00",
+  "updated_at": "2026-10-17T00:24:58.858799+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,18 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Mexico Says Airlines Can Add US Routes From Mexico City Airports",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/mexico-says-airlines-can-add-us-routes-from-mexico-city-airports",
+        "published": "Fri, 16 Oct 2026 22:11:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Graza CEO on Market Expansion, Consumer Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-16/graza-ceo-on-market-expansion-consumer-outlook-video",
+        "published": "Fri, 16 Oct 2026 22:02:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "TGI Fridays CEO on Company Turnaround, Expansion Plans",
         "link": "https://www.bloomberg.com/news/videos/2026-10-16/tgi-fridays-ceo-on-company-turnaround-expansion-plans-video",
         "published": "Fri, 16 Oct 2026 21:56:54 GMT"
@@ -231,18 +243,6 @@
         "title": "People Losing Out On Home Equity: Brown Harris CEO",
         "link": "https://www.bloomberg.com/news/videos/2026-10-16/people-losing-out-on-home-equity-brown-harris-ceo-video",
         "published": "Fri, 16 Oct 2026 19:27:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bank of America Fights Off Volatility, Sells $8 Billion of Bonds",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/bank-of-america-taps-high-grade-bond-market-after-turbulent-week",
-        "published": "Fri, 16 Oct 2026 13:28:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brazil Judge Orders Meta to Treat Runoff Candidates Equally",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/brazil-judge-orders-meta-to-treat-runoff-candidates-equally",
-        "published": "Thu, 15 Oct 2026 23:54:41 GMT"
       }
     ],
     "onvista – News": [
