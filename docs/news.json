@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T08:48:01.612109+00:00",
+  "updated_at": "2026-10-17T12:30:23.662358+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,15 +126,39 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
-        "link": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
-        "published": "Sat, 17 Oct 2026 08:00:00 GMT"
+        "title": "Rockstar Rebuilt Itself to Make GTA VI",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-17/rockstar-rebuilt-itself-to-make-gta-vi-video",
+        "published": "Sat, 17 Oct 2026 12:15:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lagarde Says Sustainable Finances Key for Economic Stability",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
-        "published": "Sat, 17 Oct 2026 05:40:45 GMT"
+        "title": "Trump Puts New Russia Sanctions on Hold",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-17/trump-puts-new-russia-sanctions-on-hold-video",
+        "published": "Sat, 17 Oct 2026 11:49:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India’s ‘Cockroach’ Protest Leader Released After Voter-List Row",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+        "published": "Sat, 17 Oct 2026 02:34:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stellantis Plans to Hire Hundreds More Engineers in Europe, US",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/stellantis-plans-to-hire-hundreds-more-engineers-in-europe-us",
+        "published": "Sat, 17 Oct 2026 11:08:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil Trader Yaoyao Liu Who Made Billions for Vitol Is Leaving",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/oil-trader-yaoyao-liu-who-made-billions-for-vitol-is-leaving",
+        "published": "Sat, 17 Oct 2026 10:31:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
+        "link": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
+        "published": "Sat, 17 Oct 2026 08:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -180,13 +204,7 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India’s ‘Cockroach’ Protest Leader Faces Court in Voter-List Row",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
-        "published": "Sat, 17 Oct 2026 02:34:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Jio’s $3.2 Billion IPO Tests Ambani Appeal With Young Indians",
+        "title": "Jio’s $3.2 Billion IPO Tests Ambani Appeal With India’s Gen Z",
         "link": "https://www.bloomberg.com/news/articles/2026-10-17/jio-s-3-2-billion-ipo-tests-ambani-appeal-with-young-indians",
         "published": "Sat, 17 Oct 2026 02:30:00 GMT"
       },
@@ -225,24 +243,6 @@
         "title": "Euro Snaps Five-Week Losing Streak With Warsh Remarks",
         "link": "https://www.bloomberg.com/news/articles/2026-10-16/euro-set-to-end-five-week-losing-run-as-warsh-remarks-hit-dollar",
         "published": "Fri, 16 Oct 2026 09:37:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-15/gold-holds-gains-with-haven-demand-and-lower-yields-in-focus",
-        "published": "Thu, 15 Oct 2026 23:51:46 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Dollar Has Worst Week in Month With Warsh Quiet on Rate Path",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/dollar-heads-for-worst-week-in-over-a-month-as-warsh-stays-quiet",
-        "published": "Fri, 16 Oct 2026 16:24:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Big US Bank Stocks Log Worst Weekly Losing Streak Since 2008",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/big-us-bank-shares-set-for-worst-weekly-losing-streak-since-2008",
-        "published": "Fri, 16 Oct 2026 17:13:29 GMT"
       }
     ],
     "onvista – News": [
