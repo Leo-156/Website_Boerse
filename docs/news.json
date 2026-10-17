@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T15:54:59.712824+00:00",
+  "updated_at": "2026-10-17T17:59:09.641898+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,12 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video",
+        "published": "Sat, 17 Oct 2026 16:31:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "India Frees ‘Cockroach’ Leader As Voter-List Row Simmers",
         "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
         "published": "Sat, 17 Oct 2026 02:34:29 GMT"
@@ -237,12 +243,6 @@
         "title": "China Encourages Cinemas to Add Sports Events and Lottery Sales",
         "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-encourages-cinemas-to-add-sports-events-and-lottery-sales",
         "published": "Sat, 17 Oct 2026 03:38:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Indonesia Unveils $117 Million in Fines After MSCI Warning",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-unveils-117-million-in-fines-after-msci-warning",
-        "published": "Fri, 16 Oct 2026 09:40:58 GMT"
       }
     ],
     "onvista – News": [
