@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T00:24:58.858799+00:00",
+  "updated_at": "2026-10-17T04:42:29.312166+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,9 +126,45 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Mexico Says Airlines Can Add US Routes From Mexico City Airports",
+        "title": "China Encourages Cinemas to Add Sports Events and Lottery Sales",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-encourages-cinemas-to-add-sports-events-and-lottery-sales",
+        "published": "Sat, 17 Oct 2026 03:38:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Indonesia Unveils $117 Million in Fines After MSCI Warning",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-unveils-117-million-in-fines-after-msci-warning",
+        "published": "Fri, 16 Oct 2026 09:40:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Vietnam Prime Minister Targets 2027 GDP Growth of at Least 10%",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/vietnam-prime-minister-targets-2027-gdp-growth-of-at-least-10",
+        "published": "Sat, 17 Oct 2026 03:03:57 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India’s ‘Cockroach’ Protest Leader Faces Court in Voter-List Row",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+        "published": "Sat, 17 Oct 2026 02:34:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Jio’s $3.2 Billion IPO Tests Ambani Appeal With Young Indians",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/jio-s-3-2-billion-ipo-tests-ambani-appeal-with-young-indians",
+        "published": "Sat, 17 Oct 2026 02:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Gives Green Light for New Routes from Mexico City Airports",
         "link": "https://www.bloomberg.com/news/articles/2026-10-16/mexico-says-airlines-can-add-us-routes-from-mexico-city-airports",
         "published": "Fri, 16 Oct 2026 22:11:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles",
+        "published": "Sat, 17 Oct 2026 00:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -207,42 +243,6 @@
         "title": "Brent Oil Taps $110 for First Time Since May as Risks Swirl",
         "link": "https://www.bloomberg.com/news/articles/2026-10-16/oil-tops-110-for-first-time-since-may-as-supply-risk-grows",
         "published": "Fri, 16 Oct 2026 18:33:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Bonds Fall as Treasury Is Silent on Long End, Oil Climbs",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/long-term-treasuries-fall-as-dealer-survey-offers-little-signal",
-        "published": "Fri, 16 Oct 2026 16:31:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "\"Farrow and Ball\": The Colours of Money's Must-Read Books",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/farrow-and-ball-the-colours-of-money-s-must-read-books-video",
-        "published": "Fri, 16 Oct 2026 19:50:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Sound Inpatient Nears $1 Billion Private Debt After Pulling Loan",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/sound-inpatient-nears-1-billion-private-debt-after-pulling-loan",
-        "published": "Fri, 16 Oct 2026 19:47:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "American Dream Running Past Us: Freedman",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/american-dream-running-past-us-freedman-video",
-        "published": "Fri, 16 Oct 2026 19:41:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Consumer Is 'Roughed Up,' But Spending, Porcelli Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/consumer-is-roughed-up-but-spending-porcelli-says-video",
-        "published": "Fri, 16 Oct 2026 19:37:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "People Losing Out On Home Equity: Brown Harris CEO",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-16/people-losing-out-on-home-equity-brown-harris-ceo-video",
-        "published": "Fri, 16 Oct 2026 19:27:00 GMT"
       }
     ],
     "onvista – News": [
