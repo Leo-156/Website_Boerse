@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T08:56:47.775306+00:00",
+  "updated_at": "2026-10-18T12:52:35.708320+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,15 +126,33 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Poland Investigates Suspected Violation of Its Airspace",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/poland-investigates-suspected-violation-of-its-airspace",
-        "published": "Sun, 18 Oct 2026 06:52:54 GMT"
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-18/by-the-way-headlines-you-may-have-missed-video",
+        "published": "Sun, 18 Oct 2026 12:33:25 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Kolkata Stampede Leaves At Least 19 Dead, Dozens Injured",
+        "title": "Pope Leo Looks Ahead After Cancer Surgery",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-18/pope-leo-looks-ahead-after-cancer-surgery-video",
+        "published": "Sun, 18 Oct 2026 12:13:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Why Globalization Is Getting Harder to Navigate",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-18/why-globalization-is-getting-harder-to-navigate-video",
+        "published": "Sun, 18 Oct 2026 12:03:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Religious Festivities Turn Deadly, Killing At Least 33",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/kolkata-stampede-leaves-at-least-19-dead-dozens-injured",
         "published": "Sun, 18 Oct 2026 05:23:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Poland Investigates Suspected Violation of Its Airspace",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/poland-investigates-suspected-violation-of-its-airspace",
+        "published": "Sun, 18 Oct 2026 06:52:54 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -225,24 +243,6 @@
         "title": "Can the Fed Fight Inflation Without Hurting Farmers?",
         "link": "https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video",
         "published": "Sat, 17 Oct 2026 14:03:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Freeland Warns US Alliances Are Fraying",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-17/freeland-warns-us-alliances-are-fraying-video",
-        "published": "Sat, 17 Oct 2026 13:39:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Sports Fashion Finds a Growing Female Audience",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-17/sports-fashion-finds-a-growing-female-audience-video",
-        "published": "Sat, 17 Oct 2026 13:17:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "By The Way: Headlines You May Have Missed",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video",
-        "published": "Sat, 17 Oct 2026 12:51:57 GMT"
       }
     ],
     "onvista – News": [
