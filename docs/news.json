@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T00:02:34.133750+00:00",
+  "updated_at": "2026-10-18T04:22:58.589078+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,42 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "China’s Anti-Graft Body Investigates Ex-Guangxi Official Huang",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/china-s-anti-graft-body-investigates-ex-guangxi-official-huang",
+        "published": "Sun, 18 Oct 2026 03:39:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Rail Logs Record 3.71 Billion Trips in First Nine Months",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/china-rail-logs-record-3-71-billion-trips-in-first-nine-months",
+        "published": "Sun, 18 Oct 2026 03:34:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Guyana to Block Vape Product Imports Amid Youth Health Concerns",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/guyana-to-block-vape-product-imports-amid-youth-health-concerns",
+        "published": "Sun, 18 Oct 2026 01:49:34 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Two India ‘Cockroach’ Leaders Set to Be Freed as Protests Spread",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread",
+        "published": "Sun, 18 Oct 2026 01:45:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Venezuela Sees Nearly $76 Billion Oil Investment Over Five Years",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/venezuela-sees-nearly-76-billion-oil-investment-over-five-years",
+        "published": "Sun, 18 Oct 2026 00:48:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Australian Home Auctions Decline as Rate Hikes Dampen Activity",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-17/australian-home-auctions-decline-as-rate-hikes-dampen-activity",
+        "published": "Sat, 17 Oct 2026 23:57:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Avalanche in Chile Kills Three Climbers Amid Rare Snowy Spring",
         "link": "https://www.bloomberg.com/news/articles/2026-10-17/avalanche-in-chile-kills-three-climbers-amid-rare-snowy-spring",
         "published": "Sat, 17 Oct 2026 22:09:20 GMT"
@@ -207,42 +243,6 @@
         "title": "Trump Puts New Russia Sanctions on Hold",
         "link": "https://www.bloomberg.com/news/videos/2026-10-17/trump-puts-new-russia-sanctions-on-hold-video",
         "published": "Sat, 17 Oct 2026 11:49:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stellantis Plans to Hire Hundreds More Engineers in Europe, US",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/stellantis-plans-to-hire-hundreds-more-engineers-in-europe-us",
-        "published": "Sat, 17 Oct 2026 11:08:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Oil Trader Yaoyao Liu Who Made Billions for Vitol Is Leaving",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/oil-trader-yaoyao-liu-who-made-billions-for-vitol-is-leaving",
-        "published": "Sat, 17 Oct 2026 10:31:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
-        "link": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
-        "published": "Sat, 17 Oct 2026 08:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Warns Corrupt Officials Can’t Expect a Safe Landing",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-warns-corrupt-officials-can-t-expect-a-safe-landing",
-        "published": "Sat, 17 Oct 2026 05:35:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Japan’s Takaichi to Attend APEC in China if Parliament Allows",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows",
-        "published": "Sat, 17 Oct 2026 05:22:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fairfax’s Watsa Bets On IDBI Payoff As India Booms, Report Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/fairfax-s-watsa-bets-on-idbi-payoff-as-india-booms-report-says",
-        "published": "Sat, 17 Oct 2026 04:55:30 GMT"
       }
     ],
     "onvista – News": [
