@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T04:22:58.589078+00:00",
+  "updated_at": "2026-10-18T08:56:47.775306+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,24 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Poland Investigates Suspected Violation of Its Airspace",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/poland-investigates-suspected-violation-of-its-airspace",
+        "published": "Sun, 18 Oct 2026 06:52:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Kolkata Stampede Leaves At Least 19 Dead, Dozens Injured",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/kolkata-stampede-leaves-at-least-19-dead-dozens-injured",
+        "published": "Sun, 18 Oct 2026 05:23:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Condemns Japan’s ‘Negative Moves’ Over Yasukuni Shrine",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/china-condemns-japan-s-negative-moves-over-yasukuni-shrine",
+        "published": "Sun, 18 Oct 2026 05:11:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "China’s Anti-Graft Body Investigates Ex-Guangxi Official Huang",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/china-s-anti-graft-body-investigates-ex-guangxi-official-huang",
         "published": "Sun, 18 Oct 2026 03:39:38 GMT"
@@ -225,24 +243,6 @@
         "title": "By The Way: Headlines You May Have Missed",
         "link": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video",
         "published": "Sat, 17 Oct 2026 12:51:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Global Aid Cuts Deepen Humanitarian Strain",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
-        "published": "Sat, 17 Oct 2026 12:44:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rockstar Rebuilt Itself to Make GTA VI",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-17/rockstar-rebuilt-itself-to-make-gta-vi-video",
-        "published": "Sat, 17 Oct 2026 12:15:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump Puts New Russia Sanctions on Hold",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-17/trump-puts-new-russia-sanctions-on-hold-video",
-        "published": "Sat, 17 Oct 2026 11:49:42 GMT"
       }
     ],
     "onvista – News": [
