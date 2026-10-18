@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-18T12:52:35.708320+00:00",
+  "updated_at": "2026-10-18T16:10:39.944104+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Auch der Dax bekommt das KI-Beben zu spüren – aber weniger sichtbar",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte-insight-auch-der-dax-bekommt-das-ki-beben-zu-spueren-aber-weniger-sichtbar/100262546.html",
+        "published": "Sun, 18 Oct 2026 15:06:41 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen verlieren deutlich  – Ausverkauf bei KI-Aktien geht weiter",
@@ -115,20 +121,74 @@
         "title": "Dow Jones, S&P 500, Nasdaq: Nasdaq fängt sich zu Handelsende – nach Abverkauf von Chipwerten",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-faengt-sich-zu-handelsende-nach-abverkauf-von-chipwerten/100262544.html",
         "published": "Thu, 15 Oct 2026 18:11:01 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax trotzt Chip-Ausverkauf – Scout24-Aktie steigt mehr als sieben Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-eroeffnet-im-minus-infineon-rutscht-acht-prozent-ab/100262398.html",
-        "published": "Thu, 15 Oct 2026 16:09:51 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Bookmarked: News Stories On Our Reading List",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-18/bookmarked-news-stories-on-our-reading-list-video",
+        "published": "Sun, 18 Oct 2026 15:17:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Banque du Caire Seeks to Raise Up to $454 Million in Egypt IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/banque-du-caire-seeks-to-raise-up-to-454-million-in-egypt-ipo",
+        "published": "Sun, 18 Oct 2026 14:40:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump’s Latin America Allies Deepen Ties With Washington Lenders",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/trump-s-latin-america-allies-deepen-ties-with-washington-lenders",
+        "published": "Sun, 18 Oct 2026 14:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Rep. Veasey Calls for Scrutiny of Trump Russia Ties",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-18/rep-veasey-calls-for-scrutiny-of-trump-russia-ties-video",
+        "published": "Sun, 18 Oct 2026 14:23:31 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Chicago Tops Travelers’ Favorite US Cities",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-18/chicago-tops-travelers-favorite-us-cities-video",
+        "published": "Sun, 18 Oct 2026 14:08:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Can America Rebuild Trust With Its Allies?",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-18/can-america-rebuild-trust-with-its-allies",
+        "published": "Sun, 18 Oct 2026 14:03:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Option Traders Brace for VIX Surge as AI Jitters Jolt Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market",
+        "published": "Sun, 18 Oct 2026 14:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Rethinking America’s Faith in Innovation",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-18/rethinking-america-s-faith-in-innovation-video",
+        "published": "Sun, 18 Oct 2026 13:57:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "America’s Downtowns Need More Than Offices",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-18/opinion-how-the-office-bust-could-revive-downtowns-video",
+        "published": "Sun, 18 Oct 2026 13:01:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "By The Way: Headlines You May Have Missed",
         "link": "https://www.bloomberg.com/news/videos/2026-10-18/by-the-way-headlines-you-may-have-missed-video",
         "published": "Sun, 18 Oct 2026 12:33:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Election Rallies That Swept Latin America Face Reality Check",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/election-rallies-that-swept-latin-america-face-reality-check",
+        "published": "Sun, 18 Oct 2026 12:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -183,66 +243,6 @@
         "title": "Two India ‘Cockroach’ Leaders Set to Be Freed as Protests Spread",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread",
         "published": "Sun, 18 Oct 2026 01:45:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Venezuela Sees Nearly $76 Billion Oil Investment Over Five Years",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/venezuela-sees-nearly-76-billion-oil-investment-over-five-years",
-        "published": "Sun, 18 Oct 2026 00:48:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Australian Home Auctions Decline as Rate Hikes Dampen Activity",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/australian-home-auctions-decline-as-rate-hikes-dampen-activity",
-        "published": "Sat, 17 Oct 2026 23:57:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Avalanche in Chile Kills Three Climbers Amid Rare Snowy Spring",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/avalanche-in-chile-kills-three-climbers-amid-rare-snowy-spring",
-        "published": "Sat, 17 Oct 2026 22:09:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Niger Halts Diesel, Petrol Exports to Protect Domestic Supply",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/niger-halts-diesel-petrol-exports-to-protect-domestic-supply",
-        "published": "Sat, 17 Oct 2026 21:44:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video",
-        "published": "Sat, 17 Oct 2026 16:31:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "India Frees ‘Cockroach’ Leader as Voter-List Row Simmers",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
-        "published": "Sat, 17 Oct 2026 02:34:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-17/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-        "published": "Sat, 17 Oct 2026 14:35:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
-        "published": "Sat, 17 Oct 2026 14:27:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Northwell CEO Says Health Care Model Must Change",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video",
-        "published": "Sat, 17 Oct 2026 14:03:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Can the Fed Fight Inflation Without Hurting Farmers?",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video",
-        "published": "Sat, 17 Oct 2026 14:03:13 GMT"
       }
     ],
     "onvista – News": [
