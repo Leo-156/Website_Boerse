@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:10:39.944104+00:00",
+  "updated_at": "2026-10-18T18:36:16.566216+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,18 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Zelenskyy Says Trump Is Pushing Ukraine to Capitulate to Russia",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/zelenskyy-says-trump-is-pushing-ukraine-to-capitulate-to-russia",
+        "published": "Sun, 18 Oct 2026 18:21:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Cockroach Leaders Remain in Custody as Release Delayed",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread",
+        "published": "Sun, 18 Oct 2026 01:45:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Bookmarked: News Stories On Our Reading List",
         "link": "https://www.bloomberg.com/news/videos/2026-10-18/bookmarked-news-stories-on-our-reading-list-video",
         "published": "Sun, 18 Oct 2026 15:17:20 GMT"
@@ -231,21 +243,15 @@
         "title": "China Rail Logs Record 3.71 Billion Trips in First Nine Months",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/china-rail-logs-record-3-71-billion-trips-in-first-nine-months",
         "published": "Sun, 18 Oct 2026 03:34:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Guyana to Block Vape Product Imports Amid Youth Health Concerns",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/guyana-to-block-vape-product-imports-amid-youth-health-concerns",
-        "published": "Sun, 18 Oct 2026 01:49:34 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Two India ‘Cockroach’ Leaders Set to Be Freed as Protests Spread",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread",
-        "published": "Sun, 18 Oct 2026 01:45:09 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Korrektur oder Crash? Was der Kursrutsch bei Chip-Aktien bedeutet",
+        "link": "https://www.onvista.de/news/2026/10-18-korrektur-oder-crash-was-der-kursrutsch-bei-chip-aktien-bedeutet-40338625-19-26565308",
+        "published": "Sun, 18 Oct 2026 19:50:01 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Dax verbucht starken Wochenausklang - Nordex steigt zweistellig",
@@ -389,12 +395,6 @@
         "title": "Tagesgeld im Oktober 2026: Hier sind aktuell bis zu 4,25 Prozent Zinsen drin",
         "link": "https://www.onvista.de/news/2026/10-15-tagesgeld-im-oktober-2026-hier-sind-aktuell-bis-zu-4-25-prozent-zinsen-drin-41122918-19-26498067",
         "published": "Thu, 15 Oct 2026 17:35:02 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Chip-Aktien leiden unter längster Verlustserie seit einem Jahr",
-        "link": "https://www.onvista.de/news/2026/10-15-chip-aktien-leiden-unter-laengster-verlustserie-seit-einem-jahr-41121301-19-26564512",
-        "published": "Thu, 15 Oct 2026 14:29:09 +0200"
       }
     ],
     "Börse Frankfurt – News": [
