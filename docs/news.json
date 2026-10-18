@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:00:59.975998+00:00",
+  "updated_at": "2026-10-18T23:05:32.024032+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,42 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "EQT Agrees to Buy Australia’s Cleanaway Waste for $6.5 Billion",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/eqt-agrees-to-buy-australia-s-cleanaway-waste-for-6-5-billion",
+        "published": "Sun, 18 Oct 2026 22:47:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Bounce From Tech Rout, Oil Slips: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
+        "published": "Sun, 18 Oct 2026 22:07:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 19",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19",
+        "published": "Sun, 18 Oct 2026 22:02:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Daiichi Life Offers $4.4 Billion to Buy Rest of Challenger",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/daiichi-life-offers-to-buy-remainder-of-australia-s-challenger",
+        "published": "Sun, 18 Oct 2026 21:14:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "For Three Buffetts, a $150 Billion Puzzle Over Warren’s Riches",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-18/for-three-buffetts-a-150-billion-puzzle-over-warren-s-riches",
+        "published": "Sun, 18 Oct 2026 21:00:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Kioxia Shares Face Headwinds From Margin-Buying Gone Wrong",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/kioxia-shares-face-headwinds-from-margin-buying-gone-wrong",
+        "published": "Sun, 18 Oct 2026 21:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/traders-grow-wary-of-copper-bull-market-with-no-sign-of-tariffs",
         "published": "Sun, 18 Oct 2026 20:00:04 GMT"
@@ -207,42 +243,6 @@
         "title": "By The Way: Headlines You May Have Missed",
         "link": "https://www.bloomberg.com/news/videos/2026-10-18/by-the-way-headlines-you-may-have-missed-video",
         "published": "Sun, 18 Oct 2026 12:33:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Election Rallies That Swept Latin America Face Reality Check",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/election-rallies-that-swept-latin-america-face-reality-check",
-        "published": "Sun, 18 Oct 2026 12:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pope Leo Looks Ahead After Cancer Surgery",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-18/pope-leo-looks-ahead-after-cancer-surgery-video",
-        "published": "Sun, 18 Oct 2026 12:13:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Why Globalization Is Getting Harder to Navigate",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-18/why-globalization-is-getting-harder-to-navigate-video",
-        "published": "Sun, 18 Oct 2026 12:03:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "India Religious Festivities Turn Deadly, Killing At Least 33",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/kolkata-stampede-leaves-at-least-19-dead-dozens-injured",
-        "published": "Sun, 18 Oct 2026 05:23:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Poland Investigates Suspected Violation of Its Airspace",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/poland-investigates-suspected-violation-of-its-airspace",
-        "published": "Sun, 18 Oct 2026 06:52:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Condemns Japan’s ‘Negative Moves’ Over Yasukuni Shrine",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/china-condemns-japan-s-negative-moves-over-yasukuni-shrine",
-        "published": "Sun, 18 Oct 2026 05:11:17 GMT"
       }
     ],
     "onvista – News": [
