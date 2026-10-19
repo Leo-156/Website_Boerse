@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T23:05:32.024032+00:00",
+  "updated_at": "2026-10-19T01:09:26.635743+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,13 +126,13 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "EQT Agrees to Buy Australia’s Cleanaway Waste for $6.5 Billion",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/eqt-agrees-to-buy-australia-s-cleanaway-waste-for-6-5-billion",
-        "published": "Sun, 18 Oct 2026 22:47:16 GMT"
+        "title": "Euro Falls as Russia Risk, France Protests Dent Trader Sentiment",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment",
+        "published": "Sun, 18 Oct 2026 23:17:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Bounce From Tech Rout, Oil Slips: Markets Wrap",
+        "title": "US Stock Futures Bounce After Chip Rout, Oil Slips: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
         "published": "Sun, 18 Oct 2026 22:07:25 GMT"
       },
@@ -141,6 +141,24 @@
         "title": "Latest Oil Market News and Analysis for Oct. 19",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19",
         "published": "Sun, 18 Oct 2026 22:02:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Korean Stocks Fall as DeepSeek Model, Funding Worry Rattle Chips",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips",
+        "published": "Mon, 19 Oct 2026 00:17:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Cleanaway Shares Jump 21% After $6.5 Billion EQT Takeover Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/eqt-agrees-to-buy-australia-s-cleanaway-waste-for-6-5-billion",
+        "published": "Sun, 18 Oct 2026 22:47:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech",
+        "published": "Sun, 18 Oct 2026 23:47:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -225,24 +243,6 @@
         "title": "Option Traders Brace for VIX Surge as AI Jitters Jolt Market",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market",
         "published": "Sun, 18 Oct 2026 14:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rethinking America’s Faith in Innovation",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-18/rethinking-america-s-faith-in-innovation-video",
-        "published": "Sun, 18 Oct 2026 13:57:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "America’s Downtowns Need More Than Offices",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-18/opinion-how-the-office-bust-could-revive-downtowns-video",
-        "published": "Sun, 18 Oct 2026 13:01:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "By The Way: Headlines You May Have Missed",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-18/by-the-way-headlines-you-may-have-missed-video",
-        "published": "Sun, 18 Oct 2026 12:33:25 GMT"
       }
     ],
     "onvista – News": [
