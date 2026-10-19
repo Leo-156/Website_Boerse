@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T19:16:08.700838+00:00",
+  "updated_at": "2026-10-19T22:56:19.242994+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -10,8 +10,8 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: US-Indizes liegen höher – Investoren greifen bei Tech-Werten wieder zu",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-indizes-liegen-hoeher-investoren-greifen-bei-tech-wieder-zu/100263242.html",
+        "title": "Wall Street: US-Indizes schließen höher – Investoren greifen bei Tech-Werten wieder zu",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-indizes-schliessen-hoeher-investoren-greifen-bei-tech-wieder-zu/100263242.html",
         "published": "Mon, 19 Oct 2026 16:18:56 GMT"
       },
       {
@@ -126,99 +126,111 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Edge Higher After Chipmaker Rally: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
+        "published": "Mon, 19 Oct 2026 22:09:31 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 20",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20",
+        "published": "Mon, 19 Oct 2026 22:04:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BOC Surveys Show Rising Inflation Expectations, Passthrough",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/boc-surveys-show-higher-inflation-expectations-passthrough",
+        "published": "Mon, 19 Oct 2026 15:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Traders, Economists Boost Bets on Canada Rate Hike Next Week",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/bank-of-canada-hike-bets-grow-among-economists-traders",
+        "published": "Mon, 19 Oct 2026 19:23:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How the Buffett Kids Will Shape a $150 Billion Legacy",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-19/how-the-buffett-kids-will-shape-a-150-billion-legacy-video",
+        "published": "Mon, 19 Oct 2026 21:35:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Cboe’s Early Session for Single-Stock Options Makes Debut",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/cboe-s-early-session-for-single-stock-options-makes-debut",
+        "published": "Mon, 19 Oct 2026 20:57:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Amazon Rallies as Morgan Stanley Sees Major AI Upside | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-19/amazon-rallies-on-ai-upside-closing-bell-video",
+        "published": "Mon, 19 Oct 2026 20:56:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "New Zealand’s Year-End Inflation Surge Points to More Rate Hikes",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/new-zealand-s-year-end-inflation-surge-points-to-more-rate-hikes",
+        "published": "Mon, 19 Oct 2026 20:50:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Declines as Bond Yields Stay Elevated Despite Oil Drop",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech",
+        "published": "Sun, 18 Oct 2026 23:47:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Citgo Raises Profit Outlook by $2 Billion as Fuel Margins Surge",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/citgo-raises-profit-outlook-by-2-billion-as-fuel-margins-surge",
+        "published": "Mon, 19 Oct 2026 20:14:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bond Sale Tied to Manhattan Office Building Is Latest On Hold",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/bond-sale-tied-to-manhattan-office-building-is-latest-on-hold",
+        "published": "Mon, 19 Oct 2026 20:13:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries Fall as Tech Shares Rebound, Denting Haven Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/treasuries-fall-as-tech-shares-rebound-weakening-haven-demand",
+        "published": "Mon, 19 Oct 2026 16:34:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
         "published": "Sun, 18 Oct 2026 22:07:25 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Natural Gas Futures Fall as Offshore Production Recovers",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-natural-gas-inches-up-on-colder-weather-higher-flows-to-lng",
-        "published": "Mon, 19 Oct 2026 13:39:25 GMT"
+        "title": "Secretary Wright on Diesel Shortage, Gas Prices, Oil Shipping",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-19/sec-wright-on-diesel-shortage-gas-prices-oil-shipping-video",
+        "published": "Mon, 19 Oct 2026 20:00:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Trump Accounts, Bonds Barometer, ‘Dividend Nomads’",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/etf-iq-10-19-2026-video",
-        "published": "Mon, 19 Oct 2026 19:01:57 GMT"
+        "title": "ASX Chief Says Australia Risks Falling Behind Asian Finance Hubs",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/asx-chief-says-australia-risks-falling-behind-asian-finance-hubs",
+        "published": "Mon, 19 Oct 2026 20:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "The World’s Most Profitable Subway",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/the-world-s-most-profitable-subway-video",
-        "published": "Mon, 19 Oct 2026 19:01:02 GMT"
+        "title": "BMO Taps Bapoo as Critical Minerals Head in Florida Push",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/bmo-taps-bapoo-as-critical-minerals-head-in-florida-push",
+        "published": "Mon, 19 Oct 2026 19:59:58 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "The Copper Rally Faces a Tariff Test",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/the-copper-rally-faces-a-tariff-test-video",
-        "published": "Mon, 19 Oct 2026 15:29:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US to Make Some Dark Fleet Ships Legitimate, Wright Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/us-to-make-some-dark-fleet-ships-legitimate-wright-says-video",
-        "published": "Mon, 19 Oct 2026 18:50:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Diversification Will Win Out With Trump Accounts: Bartolini",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/diversification-wins-with-trump-accounts-bartolini-video",
-        "published": "Mon, 19 Oct 2026 18:42:14 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Walmart Looks to Raise $6 Billion From US, Canadian Bond Sales",
+        "title": "Walmart Set to Raise $6.5 Billion From US, Canadian Bond Sales",
         "link": "https://www.bloomberg.com/news/articles/2026-10-19/walmart-sells-us-debt-eyes-canadian-market-as-spending-grows",
         "published": "Mon, 19 Oct 2026 15:36:09 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "‘Dividend Nomads’ Invest Their Way Out of the 9-to-5",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/-dividend-nomads-invest-their-way-out-of-the-9-to-5-video",
-        "published": "Mon, 19 Oct 2026 18:25:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Europe Should Release More Diesel Fuel, Wright Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/europe-should-release-more-diesel-fuel-wright-says-video",
-        "published": "Mon, 19 Oct 2026 18:16:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Seeing Healthy Rotation In Thematic ETFs: Rosenbluth",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/seeing-healthy-rotation-in-thematic-etfs-rosenbluth-video",
-        "published": "Mon, 19 Oct 2026 18:13:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Merz Warns Russia Aims to Destabilize European Continent",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/merz-warns-russia-aims-to-destabilize-european-continent-video",
-        "published": "Mon, 19 Oct 2026 18:08:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump Accounts Helping Financial Literacy: Bartolini",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/trump-accounts-helping-financial-literacy-bartolini-video",
-        "published": "Mon, 19 Oct 2026 18:01:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Autocallable ETFs Give You Buffer, Yield: Rincon",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/autocallable-etfs-give-you-buffer-yield-rincon-video",
-        "published": "Mon, 19 Oct 2026 18:00:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Test Your ETF Knowledge In Our IQ Test",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/test-your-etf-knowledge-in-our-iq-test-video",
-        "published": "Mon, 19 Oct 2026 17:54:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "CoreWeave’s Business Is Sound Despite Debt Fears, JPMorgan Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/coreweave-s-business-is-sound-despite-debt-fears-jpmorgan-says",
-        "published": "Mon, 19 Oct 2026 17:51:27 GMT"
+        "title": "Kimberly-Clark Raises $4.9 Billion for Tylenol Maker Takeover",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/kimberly-clark-offers-bonds-to-help-fund-tylenol-maker-takeover",
+        "published": "Mon, 19 Oct 2026 12:26:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -228,21 +240,9 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Odd Lots: Music Legend David Byrne on Being Rediscovered",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/odd-lots-music-legend-david-byrne-on-being-rediscovered",
-        "published": "Mon, 19 Oct 2026 17:46:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wells Fargo Says Earnings Off to Weak Start as Most Fall Short",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/wells-fargo-says-earnings-off-to-weak-start-as-most-fall-short",
-        "published": "Mon, 19 Oct 2026 17:44:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Airlines Plan 4Q Capacity Growth in Key Markets",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/us-airlines-plan-4q-capacity-growth-in-key-markets-video",
-        "published": "Mon, 19 Oct 2026 17:39:42 GMT"
+        "title": "US Natural Gas Futures Fall as Offshore Production Recovers",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-natural-gas-inches-up-on-colder-weather-higher-flows-to-lng",
+        "published": "Mon, 19 Oct 2026 13:39:25 GMT"
       }
     ],
     "onvista – News": [
