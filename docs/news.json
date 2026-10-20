@@ -1,30 +1,36 @@
 {
-  "updated_at": "2026-10-20T15:43:19.421533+00:00",
+  "updated_at": "2026-10-20T19:35:05.656819+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: US-Indizes steigen trotz KI‑Zweifeln – Ölpreis klettert auf über 110 Dollar",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-steigen-trotz-kizweifeln-oelpreis-ueber-110-dollar/100263530.html",
-        "published": "Tue, 20 Oct 2026 15:22:36 GMT"
+        "title": "Wall Street: US-Börsen notieren im Plus – Ölpreis unter 110 Dollar",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-notieren-im-plus-oelpreis-unter-110-dollar/100263530.html",
+        "published": "Tue, 20 Oct 2026 19:31:09 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax dreht ins Plus – Ölpreis sinkt nach 5-Monatshoch",
+        "title": "Dax aktuell: Dax holt Verluste auf – Bericht sorgt für Kurssprung bei Diagnostik-Aktie",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuelldax-dreht-ins-plus-oelpreis-sinkt-nach-5-monatshoch/100263427.html",
-        "published": "Tue, 20 Oct 2026 15:15:32 GMT"
+        "published": "Tue, 20 Oct 2026 18:02:46 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Energiepreise: Öl fällt, doch Gas ist so teuer wie zuletzt Ende 2022",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/energiepreise-oel-faellt-doch-gas-ist-so-teuer-wie-zuletzt-ende-2022/100263581.html",
+        "published": "Tue, 20 Oct 2026 16:11:13 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Wie Bundesanleihen von der Frankreich-Krise profitieren",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anleihen-wie-bundesanleihen-von-der-frankreich-krise-profitieren/100263278.html",
+        "published": "Tue, 20 Oct 2026 15:45:08 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Rechtsstreit: Russisches Gericht verurteilt RBI-Tochter erneut zu Millionen-Strafe",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/rechtsstreit-russisches-gericht-verurteilt-rbi-tochter-erneut-zu-millionen-strafe/100263680.html",
         "published": "Tue, 20 Oct 2026 14:54:19 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Öl-Preis: Brent steigt auf den höchsten Stand seit fünf Monaten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oel-preis-brent-steigt-auf-den-hoechsten-stand-seit-fuenf-monaten/100263581.html",
-        "published": "Tue, 20 Oct 2026 13:28:16 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -115,98 +121,44 @@
         "title": "Märkte Insight: Sind Anthropic und OpenAI wirklich geeignete Börsenkandidaten?",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/ki-sind-anthropic-und-openai-wirklich-geeignete-boersenkandidaten/100263207.html",
         "published": "Mon, 19 Oct 2026 16:29:47 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: US-Indizes schließen höher – Investoren greifen bei Tech-Werten wieder zu",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-indizes-schliessen-hoeher-investoren-greifen-bei-tech-wieder-zu/100263242.html",
-        "published": "Mon, 19 Oct 2026 16:18:56 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Citadel's Esposito on Bank Partnerships, Fixed Income Growth",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/citadel-s-esposito-on-bank-partners-fixed-income-growth-video",
-        "published": "Tue, 20 Oct 2026 15:30:41 GMT"
+        "title": "Tech Credit Risk Hits Fresh Highs on Fears of Debt Wave to Come",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/tech-credit-risk-hits-fresh-highs-on-fears-of-debt-wave-to-come",
+        "published": "Tue, 20 Oct 2026 19:24:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Citadel Looking to Grow in Fixed Income, Esposito Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/citadel-looking-to-grow-in-fixed-income-esposito-says-video",
-        "published": "Tue, 20 Oct 2026 15:13:22 GMT"
+        "title": "Treasuries Rise as Oil Retreats From Highest Levels in Weeks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/treasuries-rise-as-oil-retreats-from-highest-levels-in-weeks",
+        "published": "Tue, 20 Oct 2026 15:36:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Rise as US-Iran Hopes Trigger Oil Decline: Markets Wrap",
+        "title": "Maybe We Were Wrong About Blockchain",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/maybe-we-were-wrong-about-blockchain",
+        "published": "Tue, 20 Oct 2026 19:16:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "S&P 500 Rises on Earnings Optimism as Oil Declines: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
         "published": "Mon, 19 Oct 2026 22:09:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Halliburton Sees Lasting Growth as Mideast Rebuilds From War",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/halliburton-sees-multi-year-demand-growth-from-energy-disruption",
-        "published": "Tue, 20 Oct 2026 11:35:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Jeanne Sun Favors US Stocks as AI Rally Continues",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/jeanne-sun-favors-us-stocks-as-ai-rally-continues-video",
-        "published": "Tue, 20 Oct 2026 15:11:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "European Gas Prices Slump After Climbing to Four-Year Highs",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/european-gas-prices-rise-above-90-for-first-time-since-2022",
-        "published": "Tue, 20 Oct 2026 11:23:44 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Fears Roar Back, Tech Earnings on Deck",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/ai-fears-roar-back-tech-earnings-on-deck",
-        "published": "Tue, 20 Oct 2026 15:06:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brazil Halts Poultry Shipments to China After Disease Outbreak",
+        "title": "Top Chicken Supplier Brazil Acts to Ease Hit From Virus Outbreak",
         "link": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-halts-poultry-shipments-to-top-buyer-china-after-disease",
         "published": "Tue, 20 Oct 2026 15:05:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Brazil Traders Ramp Up Hedges Ahead of Tight Election Runoff",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-traders-ramp-up-hedges-ahead-of-tight-election-runoff",
-        "published": "Tue, 20 Oct 2026 15:02:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P 500 Rebounds as Big Bank Stocks Climb, SpaceX Results Loom",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/us-futures-slip-as-neocloud-ipo-elice-flops-spacex-results-loom",
-        "published": "Tue, 20 Oct 2026 11:57:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 20",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20",
-        "published": "Mon, 19 Oct 2026 22:04:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "CIBC Sells C$1 Billion Limited Recourse Capital Notes",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/cibc-preps-up-to-c-1-billion-limited-recourse-capital-note-sale",
-        "published": "Mon, 19 Oct 2026 15:26:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Fears Return With Data Center IPO Flop; SpaceX, Netflix Earnings",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/bloomberg-brief-10-20-2026-video",
-        "published": "Tue, 20 Oct 2026 11:47:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Elice Plunges in Trading Debut; General Motors Falls on Forecast | Stock Movers",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/elice-plunges-in-debut-general-motors-falls-on-forecast-video",
-        "published": "Tue, 20 Oct 2026 14:37:38 GMT"
+        "title": "Netflix Needs Blockbusters to Reverse Its $135 Billion Wipeout",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/netflix-needs-blockbusters-to-reverse-its-135-billion-wipeout",
+        "published": "Tue, 20 Oct 2026 08:56:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -216,36 +168,90 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "¿Por qué el frenesí de deuda por la IA inquieta a los mercados?",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/-por-que-el-frenesi-de-deuda-por-ia-inquieta-a-mercados-video",
-        "published": "Tue, 20 Oct 2026 14:26:13 GMT"
+        "title": "Netflix Looks to Bounce Back From $135 Billion Wipeout",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/netflix-looks-to-bounce-back-from-135-billion-wipeout-video",
+        "published": "Tue, 20 Oct 2026 17:09:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Top-Rated Junk Debt Becomes Sweet Spot as Investors Flee Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/top-rated-junk-debt-becomes-sweet-spot-as-investors-flee-risk",
-        "published": "Tue, 20 Oct 2026 14:25:36 GMT"
+        "title": "Brazil Readies China Bond Debut for as Soon as Next Week",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-readies-china-bond-debut-for-as-soon-as-next-week",
+        "published": "Tue, 20 Oct 2026 16:57:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bessent Sees No Spillover From France Bond Market’s Turmoil",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/bessent-sees-no-spillover-from-france-bond-market-s-turmoil",
-        "published": "Tue, 20 Oct 2026 14:08:10 GMT"
+        "title": "GM Slides as CEO Barra Warns of ‘Intensifying’ Challenges",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/gm-slides-as-ceo-barra-warns-of-intensifying-challenges-video",
+        "published": "Tue, 20 Oct 2026 16:47:26 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Senegal Bonds Plunge as Budget Standoff Puts IMF Deal at Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/senegal-eurobonds-fall-as-budget-standoff-puts-imf-deal-at-risk",
-        "published": "Tue, 20 Oct 2026 11:05:42 GMT"
+        "title": "Trader Known for Big Aluminum Bets Is Back With Wager on Copper",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/trader-known-for-big-aluminum-bets-is-back-with-wager-on-copper",
+        "published": "Tue, 20 Oct 2026 16:35:34 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Netflix Needs Blockbusters to Reverse Its $135 Billion Wipeout",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/netflix-needs-blockbusters-to-reverse-its-135-billion-wipeout",
-        "published": "Tue, 20 Oct 2026 08:56:31 GMT"
+        "title": "Albania's Protests Pile Pressure on Edi Rama",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/albania-s-protests-pile-pressure-on-edi-rama-video",
+        "published": "Tue, 20 Oct 2026 16:26:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Wavers as Traders Weigh US-Iran Talks, Fed Rate Path",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path",
+        "published": "Mon, 19 Oct 2026 23:55:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Lithium Miner PLS Markets $700 Million Bond in Expansion Push",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/lithium-miner-pls-markets-700-million-bond-in-expansion-push",
+        "published": "Tue, 20 Oct 2026 16:23:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Carney Spent Oil Windfall on Tax Write-off, Budget Watchdog Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/carney-spent-oil-windfall-on-tax-write-off-budget-watchdog-says",
+        "published": "Tue, 20 Oct 2026 16:21:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Starboard Value CEO Jeff Smith Lays Out Case for Three New Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/starboard-value-ceo-jeff-smith-lays-out-case-for-three-new-bets",
+        "published": "Tue, 20 Oct 2026 16:19:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Canadian Dollar Hits Nearly One-Month High After Alberta Vote",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/canadian-dollar-hits-nearly-one-month-high-after-alberta-vote",
+        "published": "Tue, 20 Oct 2026 16:13:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wells Fargo Indicator Flashes Buy Signal After Stock Turbulence",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/wells-fargo-indicator-flashes-buy-signal-after-stock-turbulence",
+        "published": "Tue, 20 Oct 2026 16:13:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Da MPB ao sertanejo, a música se divide politicamente",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/da-mpb-ao-sertanejo-a-musica-se-divide-politicamente-video",
+        "published": "Tue, 20 Oct 2026 16:12:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/brokers-gear-up-for-compute-futures-ahead-of-regulatory-approval",
+        "published": "Tue, 20 Oct 2026 16:10:12 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax holt Verluste auf - Friedenshoffnung stützt Kurse",
+        "link": "https://www.onvista.de/news/2026/10-20-dax-holt-verluste-auf-friedenshoffnung-stuetzt-kurse-41121301-19-26566230",
+        "published": "Tue, 20 Oct 2026 17:55:01 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Occidental: Hohe Ölpreise stützen das Ziel von 72 Dollar",
@@ -389,12 +395,6 @@
         "title": "Datadog: Das Kursziel steigt trotz schwächerer Nachfrage",
         "link": "https://www.onvista.de/news/2026/10-19-datadog-das-kursziel-steigt-trotz-schwaecherer-nachfrage-40338625-19-26565675",
         "published": "Mon, 19 Oct 2026 16:32:11 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Accenture: Nach dem Kursanstieg ist Vorsicht angebracht",
-        "link": "https://www.onvista.de/news/2026/10-19-accenture-nach-dem-kursanstieg-ist-vorsicht-angebracht-40338625-19-26565672",
-        "published": "Mon, 19 Oct 2026 16:31:41 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: \"Unsicherheitscocktail\" belastet die Aktienbörsen",
+        "title": "Marktbericht: Kurswende am Nachmittag",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
-        "published": "Tue, 20 Oct 2026 10:33:17 +0200"
+        "published": "Tue, 20 Oct 2026 18:37:23 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
