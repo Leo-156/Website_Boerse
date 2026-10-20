@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T22:56:19.242994+00:00",
+  "updated_at": "2026-10-20T01:20:46.032068+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,15 +126,45 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Edge Higher After Chipmaker Rally: Markets Wrap",
+        "title": "Asian Stocks Decline in Break From US Chip Rally: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
         "published": "Mon, 19 Oct 2026 22:09:31 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries Losing Luster as Hedge Tool, Citi Australia CEO Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/treasuries-losing-luster-as-hedge-tool-citi-australia-ceo-says",
+        "published": "Tue, 20 Oct 2026 00:34:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Oct. 20",
         "link": "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20",
         "published": "Mon, 19 Oct 2026 22:04:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "French Protests Taper Off as Officials Admit Failure",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/french-protests-taper-off-as-officials-admit-failure-video",
+        "published": "Tue, 20 Oct 2026 00:00:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path",
+        "published": "Mon, 19 Oct 2026 23:55:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Mynt’s Record IPO Brings a New Heavyweight to Philippine Stocks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/mynt-s-record-ipo-brings-a-new-heavyweight-to-philippine-stocks",
+        "published": "Mon, 19 Oct 2026 23:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Plans to Adopt New Policy Rate That May Lead to Easing",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/china-signals-plan-for-overnight-rate-to-play-bigger-policy-role",
+        "published": "Mon, 19 Oct 2026 08:58:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -213,36 +243,6 @@
         "title": "ASX Chief Says Australia Risks Falling Behind Asian Finance Hubs",
         "link": "https://www.bloomberg.com/news/articles/2026-10-19/asx-chief-says-australia-risks-falling-behind-asian-finance-hubs",
         "published": "Mon, 19 Oct 2026 20:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "BMO Taps Bapoo as Critical Minerals Head in Florida Push",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/bmo-taps-bapoo-as-critical-minerals-head-in-florida-push",
-        "published": "Mon, 19 Oct 2026 19:59:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Walmart Set to Raise $6.5 Billion From US, Canadian Bond Sales",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/walmart-sells-us-debt-eyes-canadian-market-as-spending-grows",
-        "published": "Mon, 19 Oct 2026 15:36:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Kimberly-Clark Raises $4.9 Billion for Tylenol Maker Takeover",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/kimberly-clark-offers-bonds-to-help-fund-tylenol-maker-takeover",
-        "published": "Mon, 19 Oct 2026 12:26:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 19",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19",
-        "published": "Sun, 18 Oct 2026 22:02:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Natural Gas Futures Fall as Offshore Production Recovers",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-natural-gas-inches-up-on-colder-weather-higher-flows-to-lng",
-        "published": "Mon, 19 Oct 2026 13:39:25 GMT"
       }
     ],
     "onvista – News": [
