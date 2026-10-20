@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-20T01:20:46.032068+00:00",
+  "updated_at": "2026-10-20T06:09:08.239000+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Knapp 4,5 Prozent Zinsen: Immobilienkredite so teuer wie seit 2009 nicht mehr",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-immobilienkredite-so-teuer-wie-seit-2009-nicht-mehr/100263422.html",
+        "published": "Tue, 20 Oct 2026 05:34:20 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 20. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Tue, 20 Oct 2026 04:16:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei: Geopolitische Sorgen belasten Börsen in Asien",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-geopolitische-sorgen-belasten-boersen-in-asien/100263408.html",
+        "published": "Tue, 20 Oct 2026 03:25:20 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Märkte Insight: Sind Anthropic und OpenAI wirklich geeignete Börsenkandidaten?",
@@ -23,7 +41,7 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Märkte: Warum europäische Aktien von der KI-Korrektur profitieren können",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-warum-europaeische-aktien-von-der-ki-korrektur-profitieren-koennen/100261327.html",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/maerkte-warum-europaeische-aktien-von-der-ki-korrektur-profitieren-koennen/100261327.html",
         "published": "Mon, 19 Oct 2026 15:58:58 GMT"
       },
       {
@@ -103,50 +121,92 @@
         "title": "Immobilien: Not macht erfinderisch: Unternehmen entdecken die Mitarbeiterwohnung neu",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-die-mitarbeiterwohnung-kehrt-zurueck-aber-nicht-die-arbeitersiedlung/100262829.html",
         "published": "Mon, 19 Oct 2026 09:08:56 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "No title",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/100263202.html",
-        "published": "Mon, 19 Oct 2026 08:13:34 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-wie-der-einstieg-in-etfs-meinen-blick-auf-geld-veraendert-hat/100184984.html",
-        "published": "Mon, 19 Oct 2026 07:33:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 19. Oktober: Fünf Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Mon, 19 Oct 2026 04:42:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Decline in Break From US Chip Rally: Markets Wrap",
+        "title": "Tech Stocks Decline on AI Jitters, Dollar Falls: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
         "published": "Mon, 19 Oct 2026 22:09:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasuries Losing Luster as Hedge Tool, Citi Australia CEO Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/treasuries-losing-luster-as-hedge-tool-citi-australia-ceo-says",
-        "published": "Tue, 20 Oct 2026 00:34:32 GMT"
+        "title": "GCash Parent Mynt Open to Acquisitions After IPO",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/gcash-parent-mynt-open-to-acquisitions-after-ipo-video",
+        "published": "Tue, 20 Oct 2026 05:57:58 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 20",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20",
-        "published": "Mon, 19 Oct 2026 22:04:11 GMT"
+        "title": "FTSE 100 Live: UK Stocks Set to Fall as European Weakness Extends",
+        "link": "https://www.bloomberg.com/news/live-blog/2026-10-20/ftse-100-live-pound-uk-jobs-data-bonds-gilts-ai-stocks-french-protests-what-s-moving-uk-markets-right-now-markets-today",
+        "published": "Tue, 20 Oct 2026 05:47:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "French Protests Taper Off as Officials Admit Failure",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/french-protests-taper-off-as-officials-admit-failure-video",
-        "published": "Tue, 20 Oct 2026 00:00:15 GMT"
+        "title": "Indonesia Stocks Rebound as Questions Persist Over Market Fix",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/indonesia-stocks-rebound-as-authorities-step-up-response-to-msci",
+        "published": "Tue, 20 Oct 2026 02:11:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Saudi Arabia Postpones FII Summit After Houthi Attacks",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/saudi-arabia-postpones-fii-summit-after-houthi-attacks-video",
+        "published": "Tue, 20 Oct 2026 05:29:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "GCash Owner Gains in Debut After Record Philippines IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/mynt-s-record-ipo-brings-a-new-heavyweight-to-philippine-stocks",
+        "published": "Mon, 19 Oct 2026 23:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japanese Investors Buy Most Domestic Government Bonds Since 2009",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/japanese-investors-buy-most-domestic-government-bonds-since-2009",
+        "published": "Tue, 20 Oct 2026 05:13:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Turkey Removes Market Regulator Chief During Fund Crisis",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/turkey-market-regulator-chief-steps-down-during-fund-crisis",
+        "published": "Mon, 19 Oct 2026 14:29:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Shaker: Demand in Mecca Driven by Faith not Cycles",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/shaker-demand-in-mecca-driven-by-faith-not-cycles-video",
+        "published": "Tue, 20 Oct 2026 05:10:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Failed Firmus IPO Triggers Information Gathering by Regulator",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/failed-firmus-ipo-triggers-information-gathering-by-regulator",
+        "published": "Tue, 20 Oct 2026 05:09:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Tightens Federal Access to DeepSeek",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/the-china-show-10-20-2026-video",
+        "published": "Tue, 20 Oct 2026 05:06:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Rory McIlroy on Trump and the Future of Golf",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/rory-mcilroy-on-trump-and-the-future-of-golf",
+        "published": "Tue, 20 Oct 2026 05:00:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japan’s 20-Year Bond Auction Sees Strongest Demand on Record",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/japan-s-20-year-bond-sale-sees-strongest-demand-on-record",
+        "published": "Tue, 20 Oct 2026 03:39:39 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AirAsia Drops as Malaysia Says It Hasn’t Agreed to Financial Aid",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/malaysia-s-anwar-says-no-financial-support-agreed-for-airasia",
+        "published": "Tue, 20 Oct 2026 00:57:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -156,96 +216,54 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Mynt’s Record IPO Brings a New Heavyweight to Philippine Stocks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/mynt-s-record-ipo-brings-a-new-heavyweight-to-philippine-stocks",
-        "published": "Mon, 19 Oct 2026 23:00:00 GMT"
+        "title": "Ares Warns of Australian Private Credit Stress From Rising Rates",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/ares-warns-of-australian-private-credit-stress-from-rising-rates",
+        "published": "Tue, 20 Oct 2026 04:34:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Plans to Adopt New Policy Rate That May Lead to Easing",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/china-signals-plan-for-overnight-rate-to-play-bigger-policy-role",
-        "published": "Mon, 19 Oct 2026 08:58:31 GMT"
+        "title": "Traders on Edge as AI Jitters Continue",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/the-asia-trade-10-20-2026-video",
+        "published": "Tue, 20 Oct 2026 04:31:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BOC Surveys Show Rising Inflation Expectations, Passthrough",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/boc-surveys-show-higher-inflation-expectations-passthrough",
-        "published": "Mon, 19 Oct 2026 15:30:00 GMT"
+        "title": "Latest Oil Market News and Analysis for Oct. 20",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20",
+        "published": "Mon, 19 Oct 2026 22:04:11 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Traders, Economists Boost Bets on Canada Rate Hike Next Week",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/bank-of-canada-hike-bets-grow-among-economists-traders",
-        "published": "Mon, 19 Oct 2026 19:23:07 GMT"
+        "title": "SoftBank Credit Risk Hits 4-Year High on AI Funding Strain",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/softbank-group-credit-risk-hits-4-year-high-on-ai-funding-strain",
+        "published": "Tue, 20 Oct 2026 02:07:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "How the Buffett Kids Will Shape a $150 Billion Legacy",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/how-the-buffett-kids-will-shape-a-150-billion-legacy-video",
-        "published": "Mon, 19 Oct 2026 21:35:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Cboe’s Early Session for Single-Stock Options Makes Debut",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/cboe-s-early-session-for-single-stock-options-makes-debut",
-        "published": "Mon, 19 Oct 2026 20:57:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Amazon Rallies as Morgan Stanley Sees Major AI Upside | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/amazon-rallies-on-ai-upside-closing-bell-video",
-        "published": "Mon, 19 Oct 2026 20:56:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "New Zealand’s Year-End Inflation Surge Points to More Rate Hikes",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/new-zealand-s-year-end-inflation-surge-points-to-more-rate-hikes",
-        "published": "Mon, 19 Oct 2026 20:50:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Declines as Bond Yields Stay Elevated Despite Oil Drop",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech",
-        "published": "Sun, 18 Oct 2026 23:47:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Citgo Raises Profit Outlook by $2 Billion as Fuel Margins Surge",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/citgo-raises-profit-outlook-by-2-billion-as-fuel-margins-surge",
-        "published": "Mon, 19 Oct 2026 20:14:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bond Sale Tied to Manhattan Office Building Is Latest On Hold",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/bond-sale-tied-to-manhattan-office-building-is-latest-on-hold",
-        "published": "Mon, 19 Oct 2026 20:13:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Fall as Tech Shares Rebound, Denting Haven Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/treasuries-fall-as-tech-shares-rebound-weakening-haven-demand",
-        "published": "Mon, 19 Oct 2026 16:34:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
-        "published": "Sun, 18 Oct 2026 22:07:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Secretary Wright on Diesel Shortage, Gas Prices, Oil Shipping",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/sec-wright-on-diesel-shortage-gas-prices-oil-shipping-video",
-        "published": "Mon, 19 Oct 2026 20:00:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "ASX Chief Says Australia Risks Falling Behind Asian Finance Hubs",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/asx-chief-says-australia-risks-falling-behind-asian-finance-hubs",
-        "published": "Mon, 19 Oct 2026 20:00:00 GMT"
+        "title": "Stephen Roach: Xi May Be Using Trump Summits to Buy Time",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/stephen-roach-xi-may-be-using-trump-summits-to-buy-time-video",
+        "published": "Tue, 20 Oct 2026 04:26:08 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax vor Verlusten – Südkoreas Kospi deutlich im Minus",
+        "link": "https://www.onvista.de/news/2026/10-20-dax-vor-verlusten-suedkoreas-kospi-deutlich-im-minus-41121301-19-26565899",
+        "published": "Tue, 20 Oct 2026 08:01:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 20.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-20-finanzberichte-heute-20-10-2026-41121301-19-26565873",
+        "published": "Tue, 20 Oct 2026 06:10:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  20.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-20-dividendenalarm-heute-20-10-2026-41121301-19-26565872",
+        "published": "Tue, 20 Oct 2026 06:00:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Dax verliert jüngste Erholungsgewinne - OHB baut Kursplus aus",
@@ -377,24 +395,6 @@
         "title": "Geschäfts- und Quartalsberichte heute, 19.10.2026",
         "link": "https://www.onvista.de/news/2026/10-19-finanzberichte-heute-19-10-2026-41121301-19-26565407",
         "published": "Mon, 19 Oct 2026 06:10:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  19.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-19-dividendenalarm-heute-19-10-2026-41121301-19-26565406",
-        "published": "Mon, 19 Oct 2026 06:00:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Korrektur oder Crash? Was der Kursrutsch bei Chip-Aktien bedeutet",
-        "link": "https://www.onvista.de/news/2026/10-18-korrektur-oder-crash-was-der-kursrutsch-bei-chip-aktien-bedeutet-40338625-19-26565308",
-        "published": "Sun, 18 Oct 2026 19:50:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax verbucht starken Wochenausklang - Nordex steigt zweistellig",
-        "link": "https://www.onvista.de/news/2026/10-16-dax-verbucht-starken-wochenausklang-nordex-steigt-zweistellig-41121301-19-26564989",
-        "published": "Fri, 16 Oct 2026 17:50:00 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Neue Woche, neue Sorgen",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
-        "published": "Mon, 19 Oct 2026 18:29:58 +0200"
+        "title": "Marktbericht: Anleger warten auf US-Bilanzen",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+        "published": "Tue, 20 Oct 2026 07:35:01 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
