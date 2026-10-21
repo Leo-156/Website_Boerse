@@ -1,18 +1,24 @@
 {
-  "updated_at": "2026-10-21T15:23:39.513399+00:00",
+  "updated_at": "2026-10-21T19:23:24.347857+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax legt fast 500 Punkte zu – bleibt aber auf Richtungssuche",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-dreht-ins-plus-oelpreis-sinkt-nach-fuenf-monats-hoch/100263814.html",
-        "published": "Wed, 21 Oct 2026 14:57:16 GMT"
+        "title": "Wall Street: Techwerte profitieren – Wall Street dreht ins Plus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-dreht-ins-plus/100263972.html",
+        "published": "Wed, 21 Oct 2026 18:15:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: Techwerte profitieren – Wall Street notiert uneinheitlich",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-uneinheitlich/100263972.html",
-        "published": "Wed, 21 Oct 2026 14:43:17 GMT"
+        "title": "Märkte-Insight: Skepsis gegenüber „KI-Gewinnern“: Die Börse unterscheidet jetzt zwei Gruppen von Unternehmen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-wo-anleger-die-grenze-zwischen-ki-gewinnern-und-verlierern-ziehen/100262278.html",
+        "published": "Wed, 21 Oct 2026 16:11:49 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt auf Vierwochenhoch – Bilanzsaison gibt Hoffnung",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-dreht-ins-plus-oelpreis-sinkt-nach-fuenf-monats-hoch/100263814.html",
+        "published": "Wed, 21 Oct 2026 15:59:31 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -115,44 +121,20 @@
         "title": "Rechtsstreit: Russisches Gericht verurteilt RBI-Tochter erneut zu Millionen-Strafe",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/rechtsstreit-russisches-gericht-verurteilt-rbi-tochter-erneut-zu-millionen-strafe/100263680.html",
         "published": "Tue, 20 Oct 2026 14:54:19 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Südkorea: KI-Zulieferer Elice erlebt schlechtestes Börsendebüt der Geschichte",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/elice-ki-zulieferer-erlebt-schlechtestes-boersendebuet-der-geschichte/100263459.html",
-        "published": "Tue, 20 Oct 2026 13:12:52 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "UBS Cuts Zurich Junior Banker Starting Associate Pay by 20,000 Swiss Francs",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/ubs-cuts-zurich-junior-banker-starting-associate-pay-by-20-000-swiss-francs",
-        "published": "Wed, 21 Oct 2026 14:18:11 GMT"
+        "title": "Virginia Wants 6-Year Rate Freeze in NextEra-Dominion Deal",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/virginia-wants-6-yr-rate-freeze-in-nextera-dominion-deal-video",
+        "published": "Wed, 21 Oct 2026 19:09:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Jackdaw Gas Field Gets UK Approval After Years of Debate",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/jackdaw-gas-field-gets-uk-approval-after-years-of-debate-video",
-        "published": "Wed, 21 Oct 2026 15:17:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Italy Buffalo Mozzarella Output Halted by Trucker Protests",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/italy-s-buffalo-mozzarella-production-halted-by-trucker-protests",
-        "published": "Wed, 21 Oct 2026 12:29:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "French Bond Risk Hits 15-Year High as Risk Gauge Climbs",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/french-bond-risk-hits-15-year-high-as-risk-gauge-climbs-video",
-        "published": "Wed, 21 Oct 2026 15:15:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Climbs as SpaceX Results Fuel AI Trade: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 20 Oct 2026 22:05:51 GMT"
+        "title": "Latest Oil Market News and Analysis for Oct. 21",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21",
+        "published": "Tue, 20 Oct 2026 22:04:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -162,90 +144,114 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Beta CEO Details Electric Aircraft Rollout",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/beta-ceo-details-electric-aircraft-rollout-video",
-        "published": "Wed, 21 Oct 2026 15:06:40 GMT"
+        "title": "Stocks Pare Gains as Oil Climbs on US-Iran Worries: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 20 Oct 2026 22:05:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Moody’s Earnings Fall Short of Estimates, Shares Decline",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/moody-s-earnings-fall-short-of-estimates-shares-decline",
-        "published": "Wed, 21 Oct 2026 14:29:33 GMT"
+        "title": "Anthropic, Nscale IPOs Await Amid AI Volatility",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/anthropic-nscale-ipos-await-amid-ai-volatility-video",
+        "published": "Wed, 21 Oct 2026 19:04:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BofA’s Cabana Asks Fed on Rate Hikes ‘Why Wait Now?’",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/bofa-s-cabana-asks-fed-on-rate-hikes-why-wait-now-video",
-        "published": "Wed, 21 Oct 2026 14:21:12 GMT"
+        "title": "JPMorgan’s Turkey Securities Unit Plans to Cease Operations",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/jpmorgan-s-turkey-securities-unit-plans-to-cease-operations",
+        "published": "Wed, 21 Oct 2026 15:36:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Berkshire Stock Hits New High, Moving on From Buffett’s Exit",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/berkshire-stock-hits-new-high-moving-on-from-buffett-s-exit",
-        "published": "Wed, 21 Oct 2026 14:17:53 GMT"
+        "title": "KPC CEO Al-Sabah Says Oil Output Well Over 2M Barrels Daily",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/kpc-ceo-al-sabah-says-oil-output-over-2m-barrels-daily-video",
+        "published": "Wed, 21 Oct 2026 19:00:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Netflix Eyes Sports to Drive Growth",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/netflix-eyes-sports-to-drive-growth-video",
-        "published": "Wed, 21 Oct 2026 14:16:05 GMT"
+        "title": "Potential Tesla, SpaceX Merger, NFL Investments, Inside Activism",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/bloomberg-deals-10-21-2026-video",
+        "published": "Wed, 21 Oct 2026 18:59:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "EQT Warns of Hidden Portfolio Risks",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/eqt-warns-of-hidden-portfolio-risks-video",
-        "published": "Wed, 21 Oct 2026 14:15:26 GMT"
+        "title": "Kuwait Petroleum CEO Says Oil Output Tops 2 Million Barrels a Day",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/kuwait-petroleum-producing-2m-barrels-a-day-ceo-says-video",
+        "published": "Wed, 21 Oct 2026 18:47:30 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lula, Bolsonaro Court Brazil Voters With Free Bus Rides, Cash Back",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/free-bus-rides-cash-back-lula-bolsonaro-court-brazil-voters-ahead-of-election",
-        "published": "Wed, 21 Oct 2026 14:06:17 GMT"
+        "title": "Top Lawyers Discuss 'Bluster', Reality In Proxy Fights",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/top-lawyers-discuss-bluster-reality-in-proxy-fights-video",
+        "published": "Wed, 21 Oct 2026 18:45:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Middle East Oil Flows Near Prewar Levels Defy Hormuz Attacks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/middle-east-oil-flows-near-prewar-levels-defy-hormuz-attacks",
-        "published": "Wed, 21 Oct 2026 13:59:42 GMT"
+        "title": "Waiting For 'Dam To Break' On Exits: HIG CEO Schwartz",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/waiting-for-dam-to-break-on-exits-hig-ceo-schwartz-video",
+        "published": "Wed, 21 Oct 2026 18:34:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "United CEO Kirby Defends Support of a US Wealth Tax",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/united-ceo-kirby-defends-support-of-a-us-wealth-tax-video",
-        "published": "Wed, 21 Oct 2026 13:58:21 GMT"
+        "title": "Ex-Brevan Howard Trader Sued by Quant Who Joined His New Fund",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/ex-brevan-howard-trader-sued-by-quant-who-joined-his-new-fund",
+        "published": "Wed, 21 Oct 2026 18:30:09 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ken Griffin’s New NYC Tower Gets $3.3 Billion Construction Loan",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/ken-griffin-s-new-nyc-tower-gets-3-3-billion-construction-loan",
-        "published": "Wed, 21 Oct 2026 13:55:09 GMT"
+        "title": "Legendary Entertainment Makes Bid for Lionsgate Studios",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/legendary-entertainment-makes-bid-for-lionsgate-studios-video",
+        "published": "Wed, 21 Oct 2026 17:39:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Turkey’s Fund Crisis Hits Brokerages With Three Firms Suspended",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/turkey-shuts-down-three-brokerage-firms-with-ties-to-fund-crisis",
-        "published": "Wed, 21 Oct 2026 08:50:12 GMT"
+        "title": "University of Chicago Professor on What Made the US Economy Thrive",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/odd-lots-what-made-the-us-economy-thrive-video",
+        "published": "Wed, 21 Oct 2026 17:38:30 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Rwanda Pitches Itself as Alternative to Mauritius Hub",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-16/rwanda-finance-hub-takes-aim-at-mauritius-but-needs-more-talent",
-        "published": "Fri, 16 Oct 2026 06:42:12 GMT"
+        "title": "Argentina’s Bond Selloff Blindsides Bulls as Election Fears Grow",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/argentina-s-bond-selloff-blindsides-bulls-as-election-fears-grow",
+        "published": "Wed, 21 Oct 2026 17:28:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "The Treasury Market’s Power Brokers Are Pickier Than Ever",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/the-treasury-market-s-new-power-brokers-are-pickier-than-ever",
-        "published": "Wed, 21 Oct 2026 10:15:00 GMT"
+        "title": "Odd Lots: Why Politics Is Economists’ Blindspot",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/odd-lots-why-politics-is-economists-blindspot",
+        "published": "Wed, 21 Oct 2026 17:23:44 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wheat Hits 14-Week Low as Risk Premiums Ease on Ukraine Talks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/wheat-hits-11-week-low-as-risk-premiums-ease-on-ukraine-talks",
-        "published": "Wed, 21 Oct 2026 04:37:11 GMT"
+        "title": "United Misses Estimates, Squeezed by Soaring Jet Fuel Costs",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/united-misses-estimates-squeezed-by-jet-fuel-costs-video",
+        "published": "Wed, 21 Oct 2026 17:17:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Blackstone, Apollo May Be Allowed to Buy NFL Minority Stakes",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/blackstone-apollo-may-be-allowed-to-buy-nfl-team-stakes-video",
+        "published": "Wed, 21 Oct 2026 16:54:39 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SpaceX Bonds Weaken, Credit Risk Gauge Worsens On Debt Fears",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/spacex-bonds-weaken-credit-risk-gauge-worsens-on-debt-fears",
+        "published": "Wed, 21 Oct 2026 16:43:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Promessas bilionárias marcam reta final de Lula e Flávio Bolsonaro",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/promessas-bilionarias-marcam-reta-final-de-lula-e-flavio-video",
+        "published": "Wed, 21 Oct 2026 16:41:32 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax auf Vierwochenhoch – SpaceX-Aktie beflügelt",
+        "link": "https://www.onvista.de/news/2026/10-21-dax-auf-vierwochenhoch-spacex-aktie-befluegelt-41121301-19-26566878",
+        "published": "Wed, 21 Oct 2026 17:55:14 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Grand City: LEG-Beteiligung treibt die Aktie um 6,7 Prozent",
@@ -389,12 +395,6 @@
         "title": "Niedrige Bewertung bietet Kaufchancen bei Akamai",
         "link": "https://www.onvista.de/news/2026/10-20-niedrige-bewertung-bietet-kaufchancen-bei-akamai-40338625-19-26566172",
         "published": "Tue, 20 Oct 2026 16:36:13 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "3M: Der Amazon-Vertrag lässt das Kursplus schrumpfen",
-        "link": "https://www.onvista.de/news/2026/10-20-3m-der-amazon-vertrag-laesst-das-kursplus-schrumpfen-40338625-19-26566177",
-        "published": "Tue, 20 Oct 2026 16:33:21 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX startet kaum verändert",
+        "title": "Marktbericht: DAX startet dank KI durch",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
-        "published": "Wed, 21 Oct 2026 10:52:33 +0200"
+        "published": "Wed, 21 Oct 2026 19:17:42 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
