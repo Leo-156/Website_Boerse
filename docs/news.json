@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-21T00:53:38.463041+00:00",
+  "updated_at": "2026-10-21T05:24:56.782579+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 21. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Wed, 21 Oct 2026 04:40:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Start-up-Unternehmen: Fintech Flow & Partners will sich in Deutschland etablieren",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/start-up-unternehmen-fintech-flow-partners-will-sich-in-deutschland-etablieren/100263487.html",
+        "published": "Wed, 21 Oct 2026 04:17:43 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Asien: Gute US-Bilanzen beflügeln Börsen in Asien",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-gute-us-bilanzen-befluegeln-boersen-in-asien/100263776.html",
+        "published": "Wed, 21 Oct 2026 03:09:48 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Wie vorsichtige Anleger jetzt 100.000 Euro investieren können",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-wie-vorsichtige-anleger-jetzt-100.000-euro-investieren-koennen/100261817.html",
+        "published": "Wed, 21 Oct 2026 02:03:59 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Wall Street: Dow Jones schließt ein Prozent höher",
@@ -65,8 +89,8 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Immobilien: Das Ende der Verschwiegenheit: Das Family-Office hinter Paulaner öffnet sich für Fremde",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-das-family-office-hinter-paulaner-oeffnet-sich-fuer-fremde/100260371.html",
-        "published": "Tue, 20 Oct 2026 11:04:51 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-das-family-office-hinter-paulaner-oeffnet-sich-fuer-fremde-01/100260371.html",
+        "published": "Wed, 21 Oct 2026 05:14:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -97,50 +121,14 @@
         "title": "Nikkei: Geopolitische Sorgen belasten Börsen in Asien",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-geopolitische-sorgen-belasten-boersen-in-asien/100263408.html",
         "published": "Tue, 20 Oct 2026 08:13:37 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Großbank: UniCredit holt Wertpapier-Geschäft von Societe Generale zurück",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/grossbank-unicredit-holt-wertpapier-geschaeft-von-societe-generale-zurueck/100263465.html",
-        "published": "Tue, 20 Oct 2026 08:05:25 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Knapp 4,5 Prozent Zinsen: Immobilienkredite so teuer wie seit 2009 nicht mehr",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-immobilienkredite-so-teuer-wie-seit-2009-nicht-mehr/100263422.html",
-        "published": "Tue, 20 Oct 2026 05:34:20 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 20. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Tue, 20 Oct 2026 04:16:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Sind Anthropic und OpenAI wirklich geeignete Börsenkandidaten?",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/ki-sind-anthropic-und-openai-wirklich-geeignete-boersenkandidaten/100263207.html",
-        "published": "Mon, 19 Oct 2026 16:29:47 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 20 Oct 2026 22:05:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "CATL’s Slower Profit Growth Fans Fears for China Battery Rivals",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/catl-s-slower-profit-growth-fans-fears-for-china-battery-rivals",
-        "published": "Wed, 21 Oct 2026 00:41:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates",
-        "published": "Wed, 21 Oct 2026 00:13:21 GMT"
+        "title": "Citi's Luet on North Asia, Australia Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/citi-s-luet-on-north-asia-australia-outlook-video",
+        "published": "Wed, 21 Oct 2026 05:15:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -150,102 +138,126 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "South America’s Right-Wing Shift Has Reached Brazil",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/mapping-how-south-america-s-right-wing-shift-has-reached-brazil",
-        "published": "Tue, 06 Oct 2026 16:06:21 GMT"
+        "title": "Citi's Gupte on IPO Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/citi-s-gupte-on-ipo-outlook-video",
+        "published": "Wed, 21 Oct 2026 05:08:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Brazil Election: Bolsonaro Says He’d Work With US, China as President",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-08/brazil-election-bolsonaro-says-he-d-work-with-us-china-as-president",
-        "published": "Thu, 08 Oct 2026 16:27:09 GMT"
+        "title": "Belgian Government Facing Push to Sell 5.7% BNP Paribas Stake",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/belgian-government-facing-push-to-sell-5-7-bnp-paribas-stake",
+        "published": "Wed, 21 Oct 2026 05:05:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latin American Trump Allies Embrace Washington Lenders",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/trump-s-latin-america-allies-deepen-ties-with-washington-lenders",
-        "published": "Sun, 18 Oct 2026 14:30:00 GMT"
+        "title": "Stocks Rise as Earnings Revive AI Trade, Oil Gains: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 20 Oct 2026 22:05:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "AI Stocks Rally After Super Micro Preliminary Sales Bring Relief",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief",
-        "published": "Tue, 20 Oct 2026 22:14:09 GMT"
+        "title": "Wheat Hits 11-Week Low as Risk Premiums Ease on Ukraine Talks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/wheat-hits-11-week-low-as-risk-premiums-ease-on-ukraine-talks",
+        "published": "Wed, 21 Oct 2026 04:37:11 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Netflix Sales Growth to Decline for Fourth Quarter in a Row",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/netflix-forecasts-adds-to-growth-concerns-video",
-        "published": "Tue, 20 Oct 2026 21:58:49 GMT"
+        "title": "Coke's Struggle to Break Into the $500 Billion Global Coffee Market",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/coke-s-struggle-to-break-into-the-500-billion-global-coffee-market",
+        "published": "Wed, 21 Oct 2026 04:31:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Surprising Netflix Is Not Looking at Other Opportunities: Fmr. Content Director",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/-netflix-is-lazy-former-content-dir-on-its-strategy-video",
-        "published": "Tue, 20 Oct 2026 21:36:41 GMT"
+        "title": "Indonesia’s Top Stocks Face Outsized Selling, Says Allspring",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/indonesia-s-top-stocks-face-outsized-selling-says-allspring",
+        "published": "Wed, 21 Oct 2026 04:15:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "United Misses Estimates, Squeezed by Soaring Jet Fuel Costs",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/united-airlines-misses-estimates-squeezed-by-soaring-fuel-costs",
-        "published": "Tue, 20 Oct 2026 20:01:49 GMT"
+        "title": "Merdeka Gold Braves Indonesia Turmoil With $559 Million Offering",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/merdeka-gold-braves-indonesia-turmoil-with-559-million-offering",
+        "published": "Wed, 21 Oct 2026 04:11:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "PGIM’s Bryan McDonnell on 2027 Real Estate Credit Market",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/pgim-s-bryan-mcdonnell-on-2027-real-estate-credit-market-video",
-        "published": "Tue, 20 Oct 2026 21:29:42 GMT"
+        "title": "Nickel Extends Rebound on Prospect of Indonesian Production Cuts",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/nickel-extends-rebound-on-prospect-of-indonesian-production-cuts",
+        "published": "Wed, 21 Oct 2026 04:02:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Climb in Late Hours After SpaceX’s Earnings: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 19 Oct 2026 22:09:31 GMT"
+        "title": "Podcast: Portfolio Reset Why Passive Investing Is Anything But Passive",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/podcast-portfolio-reset-why-passive-investing-is-anything-but-passive",
+        "published": "Wed, 21 Oct 2026 04:00:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Top Chicken Supplier Brazil Acts to Ease Hit From Virus",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-halts-poultry-shipments-to-top-buyer-china-after-disease",
-        "published": "Tue, 20 Oct 2026 15:05:33 GMT"
+        "title": "Macquarie Oil Traders Leave as Bank Restructures Commodity Units",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/macquarie-oil-traders-leave-as-bank-restructures-commodity-units",
+        "published": "Wed, 21 Oct 2026 03:46:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lithium Miner PLS Sells $700 Million Bond in Expansion Push",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/lithium-miner-pls-markets-700-million-bond-in-expansion-push",
-        "published": "Tue, 20 Oct 2026 16:23:37 GMT"
+        "title": "DayOne Said to Weigh Options for US IPO After Data Center Rout",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/dayone-said-to-weigh-options-for-us-ipo-video",
+        "published": "Wed, 21 Oct 2026 03:13:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 20",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20",
-        "published": "Mon, 19 Oct 2026 22:04:11 GMT"
+        "title": "CATL’s Slow Profit Growth Fans Fears for China Battery Peers",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/catl-s-slower-profit-growth-fans-fears-for-china-battery-rivals",
+        "published": "Wed, 21 Oct 2026 00:41:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "S&P 500 Climbs as Big Bank Stocks Rally, SpaceX Results Loom",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/us-futures-slip-as-neocloud-ipo-elice-flops-spacex-results-loom",
-        "published": "Tue, 20 Oct 2026 11:57:42 GMT"
+        "title": "US Eyes India’s Reliance to Refine Venezuelan Oil",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/us-eyes-india-s-reliance-to-refine-venezuelan-oil",
+        "published": "Tue, 20 Oct 2026 15:36:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Brazil Readies China Bond Debut for as Soon as Next Week",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-readies-china-bond-debut-for-as-soon-as-next-week",
-        "published": "Tue, 20 Oct 2026 16:57:12 GMT"
+        "title": "Jio’s Record $3.2 Billion IPO Puts India’s Market Muscle to the Test",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-21/jio-s-record-3-2-billion-ipo-puts-india-s-market-muscle-to-the-test",
+        "published": "Wed, 21 Oct 2026 02:35:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Russian Satellite Raises Space Warfare Fears",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/russian-satellite-raises-space-warfare-fears-video",
-        "published": "Tue, 20 Oct 2026 20:01:03 GMT"
+        "title": "Korean Data Center Firm Elice Jumps by Limit After Debut Slump",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/korean-ai-supplier-elice-jumps-by-daily-limit-after-debut-slump",
+        "published": "Wed, 21 Oct 2026 01:07:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Carney to Unveil Budget Nov 5 as PBO Warns Oil Windfall Gone",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/carney-spent-oil-windfall-on-tax-write-off-budget-watchdog-says",
-        "published": "Tue, 20 Oct 2026 16:21:33 GMT"
+        "title": "EEX in Talks With Australian Power Traders to Offer Futures",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/eex-in-talks-with-australian-power-traders-to-offer-futures",
+        "published": "Wed, 21 Oct 2026 02:26:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Before Tera’s 95% Crash, Punches Were Thrown and Warnings Missed",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/before-tera-s-95-crash-punches-were-thrown-and-warnings-missed",
+        "published": "Wed, 21 Oct 2026 02:00:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Citi's Luet Sees AI Infrastructure Theme Continuing",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/citi-s-luet-sees-ai-infrastructure-theme-continuing-video",
+        "published": "Wed, 21 Oct 2026 00:58:48 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 21.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-21-finanzberichte-heute-21-10-2026-41121301-19-26566453",
+        "published": "Wed, 21 Oct 2026 06:10:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  21.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-21-dividendenalarm-heute-21-10-2026-41121301-19-26566422",
+        "published": "Wed, 21 Oct 2026 06:00:01 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "SpaceX schlägt Erwartungen und weist Milliarden-Gewinn aus",
@@ -383,18 +395,6 @@
         "title": "Dax verliert jüngste Erholungsgewinne - OHB baut Kursplus aus",
         "link": "https://www.onvista.de/news/2026/10-19-dax-verliert-juengste-erholungsgewinne-ohb-baut-kursplus-aus-41121301-19-26565731",
         "published": "Mon, 19 Oct 2026 17:55:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Shopify: Hohe Bewertung begrenzt die Kurschancen",
-        "link": "https://www.onvista.de/news/2026/10-19-shopify-hohe-bewertung-begrenzt-die-kurschancen-40338625-19-26565673",
-        "published": "Mon, 19 Oct 2026 16:44:08 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Netflix: Schwächeres Wachstum belastet die Aktie vor den Zahlen",
-        "link": "https://www.onvista.de/news/2026/10-19-netflix-schwaecheres-wachstum-belastet-die-aktie-vor-den-zahlen-40338625-19-26565676",
-        "published": "Mon, 19 Oct 2026 16:43:38 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Kurswende am Nachmittag",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
-        "published": "Tue, 20 Oct 2026 18:37:23 +0200"
+        "title": "Marktbericht: DAX mit leichten Gewinnen erwartet",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
+        "published": "Wed, 21 Oct 2026 07:21:21 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
