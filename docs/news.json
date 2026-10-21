@@ -1,12 +1,48 @@
 {
-  "updated_at": "2026-10-21T10:20:33.366779+00:00",
+  "updated_at": "2026-10-21T15:23:39.513399+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Aroundtown steigt bei LEG ein – Analysten reagieren überrascht",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-aroundtown-steigt-bei-leg-ein-analysten-reagieren-ueberrascht/100263805.html",
-        "published": "Wed, 21 Oct 2026 09:33:32 GMT"
+        "title": "Dax aktuell: Dax legt fast 500 Punkte zu – bleibt aber auf Richtungssuche",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-dreht-ins-plus-oelpreis-sinkt-nach-fuenf-monats-hoch/100263814.html",
+        "published": "Wed, 21 Oct 2026 14:57:16 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wall Street: Techwerte profitieren – Wall Street notiert uneinheitlich",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-uneinheitlich/100263972.html",
+        "published": "Wed, 21 Oct 2026 14:43:17 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Allianz-Chefstratege: „Anleihen sind wieder eine solide Basis im Portfolio“",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/geldanlage-anleihen-sind-wieder-eine-solide-basis-im-portfolio/100261632.html",
+        "published": "Wed, 21 Oct 2026 14:29:11 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "E-Rechnung: Warum die falsche E-Rechnung Ihrer Lieferanten Ihr Problem wird",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/e-rechnung-warum-die-falsche-e-rechnung-ihrer-lieferanten-ihr-problem-wird/100261830.html",
+        "published": "Wed, 21 Oct 2026 12:51:47 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Deutschlands zweitgrößter Vermieter bekommt umstrittenen Großaktionär",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-deutschlands-zweitgroesster-vermieter-leg-bekommt-neuen-grossaktionaer/100263805.html",
+        "published": "Wed, 21 Oct 2026 11:57:47 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Staatsanleihen: Erstmals seit 2002: Frankreichs Zehn-Jahres-Rendite erreicht fünf Prozent",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/staatsanleihen-erstmals-seit-2002-frankreichs-rendite-erreicht-fuenf-prozent/100263898.html",
+        "published": "Wed, 21 Oct 2026 11:39:42 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Rückversicherung: Münchener Rück verkleinert Vorstand auf zehn Mitglieder",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/rueckversicherung-muenchener-rueck-verkleinert-vorstand-auf-zehn-mitglieder/100263920.html",
+        "published": "Wed, 21 Oct 2026 11:06:33 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -25,12 +61,6 @@
         "title": "Digitalbanken: Massive Störungen im Online-Banking von ING und Revolut – Auch britische Banken betroffen",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-massive-stoerungen-im-online-banking-von-ing-und-revolut/100263510.html",
         "published": "Wed, 21 Oct 2026 07:50:42 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax auf Richtungssuche – Frankreichs Zehn-Jahres-Rendite steigt über fünf Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-dreht-ins-plus-oelpreis-sinkt-nach-fuenf-monats-hoch/100263814.html",
-        "published": "Wed, 21 Oct 2026 07:42:59 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -91,161 +121,209 @@
         "title": "Südkorea: KI-Zulieferer Elice erlebt schlechtestes Börsendebüt der Geschichte",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/elice-ki-zulieferer-erlebt-schlechtestes-boersendebuet-der-geschichte/100263459.html",
         "published": "Tue, 20 Oct 2026 13:12:52 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Bred-Gruppe: Weitere französische Bank drängt nach Deutschland – Banker nennen dafür drei Gründe",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/bred-gruppe-weitere-franzoesische-bank-draengt-nach-deutschland/100261934.html",
-        "published": "Tue, 20 Oct 2026 12:09:54 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Onlinebanking: Großausfall bei Google führt zu Störungen bei Revolut und ING",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/onlinebanking-grossausfall-bei-google-fuehrt-zu-stoerungen-bei-revolut-und-ing/100263580.html",
-        "published": "Tue, 20 Oct 2026 11:54:58 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Finanzaufsicht: Bafin bestraft Investmentbank Nomura wegen Geschäften rund um Commerzbank-Übernahme",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/unicredit-bafin-bestraft-nomura-wegen-geschaeften-rund-um-commerzbank-kauf/100263444.html",
-        "published": "Tue, 20 Oct 2026 11:49:20 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Das Ende der Verschwiegenheit: Das Family-Office hinter Paulaner öffnet sich für Fremde",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-das-family-office-hinter-paulaner-oeffnet-sich-fuer-fremde-01/100260371.html",
-        "published": "Wed, 21 Oct 2026 05:14:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Kryptobroker: Neue Führung, alte Probleme – Bitpanda wird zum Problemfall",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/bitpanda-kryptobroker-ringt-nach-verlusten-und-chefwechsel-um-die-zukunft/100263283.html",
-        "published": "Tue, 20 Oct 2026 10:06:30 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 21",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21",
-        "published": "Tue, 20 Oct 2026 22:04:52 GMT"
+        "title": "UBS Cuts Zurich Junior Banker Starting Associate Pay by 20,000 Swiss Francs",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/ubs-cuts-zurich-junior-banker-starting-associate-pay-by-20-000-swiss-francs",
+        "published": "Wed, 21 Oct 2026 14:18:11 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "French Bond Risk Hits 15-Year High on $110 Crude, Budget Concern",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/french-bond-risk-gauge-nears-160-basis-points-hits-15-year-high",
-        "published": "Wed, 21 Oct 2026 09:18:02 GMT"
+        "title": "Jackdaw Gas Field Gets UK Approval After Years of Debate",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/jackdaw-gas-field-gets-uk-approval-after-years-of-debate-video",
+        "published": "Wed, 21 Oct 2026 15:17:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UK’s Top Port Operator Valued at £10 Billion in Stake Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/uk-s-biggest-port-operator-valued-at-10-billion-in-stake-sale",
-        "published": "Wed, 21 Oct 2026 08:34:22 GMT"
+        "title": "Italy Buffalo Mozzarella Output Halted by Trucker Protests",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/italy-s-buffalo-mozzarella-production-halted-by-trucker-protests",
+        "published": "Wed, 21 Oct 2026 12:29:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Intesa Plans Risk Transfer Deal to Hedge $6 Billion in Credits",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/intesa-plans-risk-transfer-deal-to-hedge-6-billion-in-credits",
-        "published": "Wed, 21 Oct 2026 09:57:52 GMT"
+        "title": "French Bond Risk Hits 15-Year High as Risk Gauge Climbs",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/french-bond-risk-hits-15-year-high-as-risk-gauge-climbs-video",
+        "published": "Wed, 21 Oct 2026 15:15:18 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Climb as SpaceX Results Reignite AI Trade: Markets Wrap",
+        "title": "Nasdaq 100 Climbs as SpaceX Results Fuel AI Trade: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates",
         "published": "Tue, 20 Oct 2026 22:05:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Rubio Says Ukraine Wouldn’t Exist Without US Support",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/rubio-says-ukraine-wouldn-t-exist-without-us-support-video",
-        "published": "Wed, 21 Oct 2026 09:57:01 GMT"
+        "title": "US Futures Climb With SpaceX Results Helping Boost AI Sentiment",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/us-futures-climb-with-spacex-results-helping-boost-ai-sentiment",
+        "published": "Wed, 21 Oct 2026 12:18:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "RBI Turns Away All Bids at Treasury Bill Sale Amid Bond Selloff",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/rbi-turns-away-all-bids-at-treasury-bill-sale-amid-bond-selloff",
-        "published": "Wed, 21 Oct 2026 09:45:01 GMT"
+        "title": "Beta CEO Details Electric Aircraft Rollout",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/beta-ceo-details-electric-aircraft-rollout-video",
+        "published": "Wed, 21 Oct 2026 15:06:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dangote Buys 25% Stake in Kenya Pipeline for $327 Million",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/dangote-buys-25-stake-in-kenya-pipeline-for-327-million",
-        "published": "Wed, 21 Oct 2026 09:40:23 GMT"
+        "title": "Moody’s Earnings Fall Short of Estimates, Shares Decline",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/moody-s-earnings-fall-short-of-estimates-shares-decline",
+        "published": "Wed, 21 Oct 2026 14:29:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Pound Hedging Costs Hit Five-Month High on UK Budget Risks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/pound-hedging-costs-hit-five-month-high-on-uk-budget-risks",
-        "published": "Wed, 21 Oct 2026 09:09:36 GMT"
+        "title": "BofA’s Cabana Asks Fed on Rate Hikes ‘Why Wait Now?’",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/bofa-s-cabana-asks-fed-on-rate-hikes-why-wait-now-video",
+        "published": "Wed, 21 Oct 2026 14:21:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Indian Oil to Trim Term Deals With Gulf Producers For Next Year",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/indian-oil-to-trim-term-deals-with-gulf-producers-for-next-year",
-        "published": "Wed, 21 Oct 2026 09:05:28 GMT"
+        "title": "Berkshire Stock Hits New High, Moving on From Buffett’s Exit",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/berkshire-stock-hits-new-high-moving-on-from-buffett-s-exit",
+        "published": "Wed, 21 Oct 2026 14:17:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Kroger’s Ex-CEO Defends Effort to Close Failed Albertsons Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/kroger-s-ex-ceo-defends-effort-to-close-failed-albertsons-deal",
-        "published": "Wed, 21 Oct 2026 09:00:00 GMT"
+        "title": "Netflix Eyes Sports to Drive Growth",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/netflix-eyes-sports-to-drive-growth-video",
+        "published": "Wed, 21 Oct 2026 14:16:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Carrefour Cuts Profit Forecast on Riots, Looting in France",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/carrefour-lowers-full-year-profit-forecast-on-turmoil-in-france",
-        "published": "Tue, 20 Oct 2026 15:45:24 GMT"
+        "title": "EQT Warns of Hidden Portfolio Risks",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/eqt-warns-of-hidden-portfolio-risks-video",
+        "published": "Wed, 21 Oct 2026 14:15:26 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Indonesia Holds Rates in ‘Policy Mix’ to Support FX and Growth",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/bank-indonesia-holds-rate-as-msci-shock-threatens-rupiah",
-        "published": "Wed, 21 Oct 2026 06:55:59 GMT"
+        "title": "Lula, Bolsonaro Court Brazil Voters With Free Bus Rides, Cash Back",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/free-bus-rides-cash-back-lula-bolsonaro-court-brazil-voters-ahead-of-election",
+        "published": "Wed, 21 Oct 2026 14:06:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Turkey Shuts Down Three Brokerage Firms With Ties to Fund Crisis",
+        "title": "Middle East Oil Flows Near Prewar Levels Defy Hormuz Attacks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/middle-east-oil-flows-near-prewar-levels-defy-hormuz-attacks",
+        "published": "Wed, 21 Oct 2026 13:59:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "United CEO Kirby Defends Support of a US Wealth Tax",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/united-ceo-kirby-defends-support-of-a-us-wealth-tax-video",
+        "published": "Wed, 21 Oct 2026 13:58:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ken Griffin’s New NYC Tower Gets $3.3 Billion Construction Loan",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/ken-griffin-s-new-nyc-tower-gets-3-3-billion-construction-loan",
+        "published": "Wed, 21 Oct 2026 13:55:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Turkey’s Fund Crisis Hits Brokerages With Three Firms Suspended",
         "link": "https://www.bloomberg.com/news/articles/2026-10-21/turkey-shuts-down-three-brokerage-firms-with-ties-to-fund-crisis",
         "published": "Wed, 21 Oct 2026 08:50:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "South Africa Eyes New Fiscal Anchor to Rein in Debt",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/south-africa-eyes-new-fiscal-anchor-to-rein-in-debt-video",
-        "published": "Wed, 21 Oct 2026 08:33:21 GMT"
+        "title": "Rwanda Pitches Itself as Alternative to Mauritius Hub",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-16/rwanda-finance-hub-takes-aim-at-mauritius-but-needs-more-talent",
+        "published": "Fri, 16 Oct 2026 06:42:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates",
-        "published": "Wed, 21 Oct 2026 00:13:21 GMT"
+        "title": "The Treasury Market’s Power Brokers Are Pickier Than Ever",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/the-treasury-market-s-new-power-brokers-are-pickier-than-ever",
+        "published": "Wed, 21 Oct 2026 10:15:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Belgian Government Facing Push to Sell 5.7% BNP Stake",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/belgian-government-facing-push-to-sell-5-7-bnp-paribas-stake",
-        "published": "Wed, 21 Oct 2026 05:05:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Stocks Rally After Super Micro Prelim Sales Bring Relief",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief",
-        "published": "Tue, 20 Oct 2026 22:14:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nickel Rallies Past $16,000 on Prospect of Indonesia Output Cuts",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/nickel-extends-rebound-on-prospect-of-indonesian-production-cuts",
-        "published": "Wed, 21 Oct 2026 04:02:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "James Robinson on What It Looks Like When a State is Failing",
-        "link": "https://www.bloomberg.com/news/audio/2026-10-21/james-robinson-on-what-it-looks-like-when-a-state-is-failing",
-        "published": "Wed, 21 Oct 2026 08:00:00 GMT"
+        "title": "Wheat Hits 14-Week Low as Risk Premiums Ease on Ukraine Talks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/wheat-hits-11-week-low-as-risk-premiums-ease-on-ukraine-talks",
+        "published": "Wed, 21 Oct 2026 04:37:11 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Grand City: LEG-Beteiligung treibt die Aktie um 6,7 Prozent",
+        "link": "https://www.onvista.de/news/2026/10-21-grand-city-leg-beteiligung-treibt-die-aktie-um-6-7-prozent-40338625-19-26566806",
+        "published": "Wed, 21 Oct 2026 16:49:42 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "MBB: Trotz höherer Prognose bleibt Abwarten sinnvoll",
+        "link": "https://www.onvista.de/news/2026/10-21-mbb-trotz-hoeherer-prognose-bleibt-abwarten-sinnvoll-40338625-19-26566808",
+        "published": "Wed, 21 Oct 2026 16:48:15 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "RTX: Die Aktie kann bis auf 220 Dollar steigen",
+        "link": "https://www.onvista.de/news/2026/10-21-rtx-die-aktie-kann-bis-auf-220-dollar-steigen-40338625-19-26566813",
+        "published": "Wed, 21 Oct 2026 16:47:42 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Northrop Grumman: Höhere Gewinnprognose treibt die Aktie",
+        "link": "https://www.onvista.de/news/2026/10-21-northrop-grumman-hoehere-gewinnprognose-treibt-die-aktie-40338625-19-26566812",
+        "published": "Wed, 21 Oct 2026 16:47:05 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "GE Aerospace: Die Aktie bietet nach dem Rückgang Chancen",
+        "link": "https://www.onvista.de/news/2026/10-21-ge-aerospace-die-aktie-bietet-nach-dem-rueckgang-chancen-40338625-19-26566809",
+        "published": "Wed, 21 Oct 2026 16:46:32 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Friedrich Vorwerk: Die Aktie steigt nach Rekordzahlen",
+        "link": "https://www.onvista.de/news/2026/10-21-friedrich-vorwerk-die-aktie-steigt-nach-rekordzahlen-40338625-19-26566807",
+        "published": "Wed, 21 Oct 2026 16:45:57 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Super Micro Computer: Die Risiken bleiben trotz Umsatzsprung hoch",
+        "link": "https://www.onvista.de/news/2026/10-21-super-micro-computer-die-risiken-bleiben-trotz-umsatzsprung-hoch-40338625-19-26566815",
+        "published": "Wed, 21 Oct 2026 16:45:09 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Netflix: Schwächere Werbeprognose belastet die Aktie",
+        "link": "https://www.onvista.de/news/2026/10-21-netflix-schwaechere-werbeprognose-belastet-die-aktie-40338625-19-26566816",
+        "published": "Wed, 21 Oct 2026 16:43:53 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "General Motors: Der Gewinnausblick enttäuscht trotz Umsatzplus",
+        "link": "https://www.onvista.de/news/2026/10-21-general-motors-der-gewinnausblick-enttaeuscht-trotz-umsatzplus-40338625-19-26566811",
+        "published": "Wed, 21 Oct 2026 16:43:11 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Intuitive Surgical: Aktie fällt trotz Rekordgewinn",
+        "link": "https://www.onvista.de/news/2026/10-21-intuitive-surgical-aktie-faellt-trotz-rekordgewinn-40338625-19-26566814",
+        "published": "Wed, 21 Oct 2026 16:42:32 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Spacex: KI-Umsatz wächst rasant, die Bewertung bleibt hoch",
+        "link": "https://www.onvista.de/news/2026/10-21-spacex-ki-umsatz-waechst-rasant-die-bewertung-bleibt-hoch-40338625-19-26566817",
+        "published": "Wed, 21 Oct 2026 16:41:44 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "VW Bank zahlt 3,75 %: Dieses Tagesgeld-Angebot kann sich sehen lassen",
+        "link": "https://www.onvista.de/news/2026/10-21-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
+        "published": "Wed, 21 Oct 2026 13:41:30 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Supermicro überrascht – SpaceX mit KI-Rekorden",
+        "link": "https://www.onvista.de/news/2026/10-21-supermicro-ueberrascht-spacex-mit-ki-rekorden-40338625-19-26566719",
+        "published": "Wed, 21 Oct 2026 12:57:00 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Dax verteidigt Unterstützung - dieser Widerstand ist nun entscheidend",
@@ -317,84 +395,6 @@
         "title": "3M: Der Amazon-Vertrag lässt das Kursplus schrumpfen",
         "link": "https://www.onvista.de/news/2026/10-20-3m-der-amazon-vertrag-laesst-das-kursplus-schrumpfen-40338625-19-26566177",
         "published": "Tue, 20 Oct 2026 16:33:21 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Amazon: Das Kursziel von 350 Dollar ist realistisch",
-        "link": "https://www.onvista.de/news/2026/10-20-amazon-das-kursziel-von-350-dollar-ist-realistisch-40338625-19-26566178",
-        "published": "Tue, 20 Oct 2026 16:32:34 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Cleveland-Cliffs: Über 15 Dollar sind weitere Kursgewinne möglich",
-        "link": "https://www.onvista.de/news/2026/10-20-cleveland-cliffs-ueber-15-dollar-sind-weitere-kursgewinne-moeglich-40338625-19-26566170",
-        "published": "Tue, 20 Oct 2026 16:31:09 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Die Bewertung erhöht das Kursrisiko bei Siemens",
-        "link": "https://www.onvista.de/news/2026/10-20-die-bewertung-erhoeht-das-kursrisiko-bei-siemens-40338625-19-26566169",
-        "published": "Tue, 20 Oct 2026 16:29:04 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Über 55 Euro ergibt sich für BASF ein Kursziel von 64 Euro",
-        "link": "https://www.onvista.de/news/2026/10-20-ueber-55-euro-ergibt-sich-fuer-basf-ein-kursziel-von-64-euro-40338625-19-26566168",
-        "published": "Tue, 20 Oct 2026 16:23:16 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "TAG Immobilien: Polen bietet Chancen auf höhere Gewinne",
-        "link": "https://www.onvista.de/news/2026/10-20-tag-immobilien-polen-bietet-chancen-auf-hoehere-gewinne-40338625-19-26566167",
-        "published": "Tue, 20 Oct 2026 16:22:12 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "4.400 Dollar für Tesla? Das Kursziel ist viel zu optimistisch",
-        "link": "https://www.onvista.de/news/2026/10-20-4-400-dollar-fuer-tesla-das-kursziel-ist-viel-zu-optimistisch-40338625-19-26566174",
-        "published": "Tue, 20 Oct 2026 16:21:19 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Mickrige Margen, aber Fusionsgerüchte: So steht es um Tesla",
-        "link": "https://www.onvista.de/news/2026/10-20-tesla-vor-den-zahlen-warum-der-kurs-2026-so-schwaechelt-41122522-19-26565611",
-        "published": "Tue, 20 Oct 2026 15:00:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Immobilienwerte im Vergleich: Realty Income, Equinix und Co.",
-        "link": "https://www.onvista.de/news/2026/10-20-reits-im-vergleich-realty-income-equinix-und-co-41122786-19-26565921",
-        "published": "Tue, 20 Oct 2026 14:00:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Siemens: ABB-Schock, Amazon mit 40 Prozent Potenzial, 3M mit Mega-Deal",
-        "link": "https://www.onvista.de/news/2026/10-20-siemens-abb-schock-und-amazon-mit-40-prozent-potenzial-40338625-19-26566062",
-        "published": "Tue, 20 Oct 2026 12:58:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax fällt nach Ausbruch zurück – das ist das nächste Ziel",
-        "link": "https://www.onvista.de/news/2026/10-20-dax-faellt-nach-ausbruch-zurueck-das-ist-das-naechste-ziel-41123281-19-26566023",
-        "published": "Tue, 20 Oct 2026 11:08:27 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "So will ich den Chipcrash jetzt nutzen",
-        "link": "https://www.onvista.de/news/2026/10-20-so-will-ich-den-chipcrash-jetzt-nutzen-40338625-19-26566030",
-        "published": "Tue, 20 Oct 2026 11:07:13 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax gibt nach – Siemens fällt auf tiefsten Stand seit Mai",
-        "link": "https://www.onvista.de/news/2026/10-20-dax-gibt-nach-siemens-faellt-auf-tiefsten-stand-seit-mai-0-19-26565978",
-        "published": "Tue, 20 Oct 2026 09:52:58 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax vor Verlusten – Südkoreas Kospi deutlich im Minus",
-        "link": "https://www.onvista.de/news/2026/10-20-dax-vor-verlusten-suedkoreas-kospi-deutlich-im-minus-41121301-19-26565899",
-        "published": "Tue, 20 Oct 2026 08:01:00 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -462,15 +462,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
-        "published": "Tue, 20 Oct 2026 14:15:27 +0200"
+        "title": "Gewinnprognose erhöht: Rekordgewinn für Adidas",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-adidas-100.html",
+        "published": "Wed, 21 Oct 2026 14:31:29 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
         "title": "Marktbericht: DAX startet kaum verändert",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
         "published": "Wed, 21 Oct 2026 10:52:33 +0200"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
+        "published": "Tue, 20 Oct 2026 14:15:27 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Hitzesommer schlägt sich auch an der Börse nieder",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hitzesommer-100.html",
         "published": "Tue, 29 Sep 2026 14:31:39 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Hohe Ethanolpreise: Südzucker erwartet bessere Geschäfte",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-suedzucker-100.html",
-        "published": "Mon, 28 Sep 2026 14:18:56 +0200"
       }
     ]
   }
