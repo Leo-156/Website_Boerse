@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T22:37:56.612401+00:00",
+  "updated_at": "2026-10-21T00:53:38.463041+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,42 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 20 Oct 2026 22:05:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "CATL’s Slower Profit Growth Fans Fears for China Battery Rivals",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/catl-s-slower-profit-growth-fans-fears-for-china-battery-rivals",
+        "published": "Wed, 21 Oct 2026 00:41:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates",
+        "published": "Wed, 21 Oct 2026 00:13:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 21",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21",
+        "published": "Tue, 20 Oct 2026 22:04:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "South America’s Right-Wing Shift Has Reached Brazil",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/mapping-how-south-america-s-right-wing-shift-has-reached-brazil",
+        "published": "Tue, 06 Oct 2026 16:06:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Brazil Election: Bolsonaro Says He’d Work With US, China as President",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-08/brazil-election-bolsonaro-says-he-d-work-with-us-china-as-president",
+        "published": "Thu, 08 Oct 2026 16:27:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Latin American Trump Allies Embrace Washington Lenders",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/trump-s-latin-america-allies-deepen-ties-with-washington-lenders",
         "published": "Sun, 18 Oct 2026 14:30:00 GMT"
@@ -135,12 +171,6 @@
         "title": "AI Stocks Rally After Super Micro Preliminary Sales Bring Relief",
         "link": "https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief",
         "published": "Tue, 20 Oct 2026 22:14:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 21",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21",
-        "published": "Tue, 20 Oct 2026 22:04:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -213,36 +243,6 @@
         "title": "Carney to Unveil Budget Nov 5 as PBO Warns Oil Windfall Gone",
         "link": "https://www.bloomberg.com/news/articles/2026-10-20/carney-spent-oil-windfall-on-tax-write-off-budget-watchdog-says",
         "published": "Tue, 20 Oct 2026 16:21:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Radiology Partners Pulls Loan in Sign of Market Weakness",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/radiology-partners-pulls-loan-in-latest-sign-of-market-weakness",
-        "published": "Tue, 20 Oct 2026 15:35:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Next Big AI Debt Wave Is Pushing Credit Swaps to New Highs",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/tech-credit-risk-hits-fresh-highs-on-fears-of-debt-wave-to-come",
-        "published": "Tue, 20 Oct 2026 19:24:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Rise as Oil Retreats From Highest Levels in Weeks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/treasuries-rise-as-oil-retreats-from-highest-levels-in-weeks",
-        "published": "Tue, 20 Oct 2026 15:36:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Maybe We Were Wrong About Blockchain",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/maybe-we-were-wrong-about-blockchain",
-        "published": "Tue, 20 Oct 2026 19:16:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Netflix Needs Blockbusters to Reverse Its $135 Billion Wipeout",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-20/netflix-needs-blockbusters-to-reverse-its-135-billion-wipeout",
-        "published": "Tue, 20 Oct 2026 08:56:31 GMT"
       }
     ],
     "onvista – News": [
