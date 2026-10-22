@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-22T00:48:28.027207+00:00",
+  "updated_at": "2026-10-22T05:30:56.041992+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Fintechs: Upvest macht Quiron Cunha zum neuen Finanzchef",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/fintechs-upvest-macht-quiron-cunha-zum-neuen-finanzchef/100263976.html",
+        "published": "Thu, 22 Oct 2026 04:50:59 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 22. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Thu, 22 Oct 2026 04:30:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Tokio und Shanghai: Nahost-Sorgen belasten die Börsen in Asien",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/tokio-und-shanghai-nahost-sorgen-belasten-die-boersen-in-asien/100264078.html",
+        "published": "Thu, 22 Oct 2026 03:12:16 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Schifffahrt: Griechische Reeder entdecken die Athener Börse – Finanzplatz gewinnt an Bedeutung",
+        "link": "https://www.handelsblatt.com/finanzen/schifffahrt-griechische-reeder-entdecken-die-athener-boerse/100262646.html",
+        "published": "Thu, 22 Oct 2026 02:08:09 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Wall Street: Techwerte profitieren – Wall Street schließt im Plus",
@@ -22,7 +46,7 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Allianz-Chefstratege: „Anleihen sind wieder eine solide Basis im Portfolio“",
+        "title": "Geldanlage: Allianz-Chefstratege – „Anleihen sind wieder eine solide Basis im Portfolio“",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/geldanlage-anleihen-sind-wieder-eine-solide-basis-im-portfolio/100261632.html",
         "published": "Wed, 21 Oct 2026 14:29:11 GMT"
       },
@@ -76,12 +100,6 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 21. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Wed, 21 Oct 2026 04:40:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Start-up-Unternehmen: Fintech Flow & Partners will sich in Deutschland etablieren",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/start-up-unternehmen-fintech-flow-partners-will-sich-in-deutschland-etablieren/100263487.html",
         "published": "Wed, 21 Oct 2026 04:17:43 GMT"
@@ -103,24 +121,6 @@
         "title": "Dax aktuell: Dax holt Verluste auf – Bericht sorgt für Kurssprung bei Diagnostik-Aktie",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuelldax-dreht-ins-plus-oelpreis-sinkt-nach-5-monatshoch/100263427.html",
         "published": "Tue, 20 Oct 2026 18:02:46 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Energiepreise: Öl fällt, doch Gas ist so teuer wie zuletzt Ende 2022",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/energiepreise-oel-faellt-doch-gas-ist-so-teuer-wie-zuletzt-ende-2022/100263581.html",
-        "published": "Tue, 20 Oct 2026 16:11:13 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Wie Bundesanleihen von der Frankreich-Krise profitieren",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anleihen-wie-bundesanleihen-von-der-frankreich-krise-profitieren/100263278.html",
-        "published": "Tue, 20 Oct 2026 15:45:08 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Rechtsstreit: Russisches Gericht verurteilt RBI-Tochter erneut zu Millionen-Strafe",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/rechtsstreit-russisches-gericht-verurteilt-rbi-tochter-erneut-zu-millionen-strafe/100263680.html",
-        "published": "Tue, 20 Oct 2026 14:54:19 GMT"
       }
     ],
     "Bloomberg – Markets": [
@@ -132,120 +132,132 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China’s Iron Ore Sway May Leave Japan a Price Taker: Woodmac",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/china-s-iron-ore-sway-may-leave-japan-a-price-taker-woodmac",
-        "published": "Thu, 22 Oct 2026 00:30:34 GMT"
+        "title": "Indonesian Stocks Rebound as Sovereign Wealth Fund Shows Support",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/indonesian-stocks-fall-as-concerns-over-msci-s-downgrade-return",
+        "published": "Thu, 22 Oct 2026 02:06:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "ASX to Unveil New Strategy in 2027 as Attia Lays Out Roadmap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/asx-to-unveil-new-strategy-in-2027-as-ceo-attia-lays-out-roadmap",
-        "published": "Wed, 21 Oct 2026 22:40:54 GMT"
+        "title": "Nigeria Seeks Regional-Hub Status With Depositary Receipts",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/nigeria-seeks-regional-hub-status-with-depositary-receipts",
+        "published": "Thu, 22 Oct 2026 05:15:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Stock Rescue May Need More State Buying to Work, BI Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/china-stock-rescue-may-need-more-state-buying-to-work-bi-says",
-        "published": "Thu, 22 Oct 2026 00:15:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Drop After Earnings, Oil Gains: Markets Wrap",
+        "title": "AI Trade Stumbles After Tech Earnings, Oil Gains: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates",
         "published": "Wed, 21 Oct 2026 22:13:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Edges Lower as Traders Weigh Mideast Signals, Fed Rate Path",
+        "title": "Spain’s Seaya Ventures Enters London After Raising €600 Million",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/spain-s-seaya-ventures-enters-london-after-raising-600-million",
+        "published": "Thu, 22 Oct 2026 05:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Stocks Set for Bear Market as Tech Sinks, Policy Hopes Ebb",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/china-stocks-set-for-bear-market-as-ai-trade-policy-hopes-fade",
+        "published": "Thu, 22 Oct 2026 02:51:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Alibaba Shares Post Steepest Drop in Two Months on China Curbs",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/alibaba-shares-post-steepest-drop-in-two-months-on-china-curbs",
+        "published": "Thu, 22 Oct 2026 03:29:46 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Long-End US Yield Hits One-Month Low as AI Fears Fuel Haven Bid",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid",
+        "published": "Thu, 22 Oct 2026 03:46:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Falls as Higher Oil Fuels Inflation Fears Ahead of Fed Meet",
         "link": "https://www.bloomberg.com/news/articles/2026-10-21/gold-edges-lower-as-traders-weigh-mideast-signals-fed-rate-path",
         "published": "Wed, 21 Oct 2026 23:56:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "El Niño Stresses China’s Power Market With Return to Costly Gas",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/el-nino-stresses-china-s-power-market-with-return-to-costly-gas",
-        "published": "Wed, 21 Oct 2026 23:31:23 GMT"
+        "title": "Barclays' Rajadhyaksha on Global Market Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/barclays-rajadhyaksha-on-global-market-outlook-video",
+        "published": "Thu, 22 Oct 2026 03:58:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Pulp Maker Mercer Is Weighing Possible Chapter 11 Bankruptcy",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/pulp-maker-mercer-is-weighing-possible-chapter-11-bankruptcy",
-        "published": "Wed, 21 Oct 2026 23:25:37 GMT"
+        "title": "PGIM's Marcus on APAC Real Estate Investment Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/pgim-s-marcus-on-apac-real-estate-investment-outlook-video",
+        "published": "Thu, 22 Oct 2026 03:55:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UniSuper CIO Is Not A Skeptic on AI",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/unisuper-cio-is-not-a-skeptic-on-ai-video",
-        "published": "Wed, 21 Oct 2026 23:19:30 GMT"
+        "title": "Barclays’ Singh on Asian Equity Markets",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/barclays-singh-on-asian-equity-markets-video",
+        "published": "Thu, 22 Oct 2026 03:44:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Santos Posts Record Quarterly Output on New LNG, Oil Projects",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/santos-posts-record-quarterly-output-on-new-lng-oil-projects",
-        "published": "Wed, 21 Oct 2026 23:09:53 GMT"
+        "title": "Prabowo Says Indonesia Will Not Be Intimidated by MSCI",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/prabowo-says-indonesia-will-not-be-intimidated-by-msci",
+        "published": "Wed, 21 Oct 2026 09:41:54 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Braskem Creditor Bracebridge Starts Involuntary Chapter 11",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/braskem-creditor-bracebridge-starts-involuntary-chapter-11-case",
-        "published": "Wed, 21 Oct 2026 09:00:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "MSCI Pressed by Investors to Justify Drastic Indonesia Warning",
+        "title": "MSCI Pressed by Investors to Justify Stark Indonesia Warning",
         "link": "https://www.bloomberg.com/news/articles/2026-10-21/msci-pressed-by-investors-to-justify-drastic-indonesia-warning",
         "published": "Wed, 21 Oct 2026 23:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Citi Targets Top Spot in China as It Awaits Securities License",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/citi-targets-top-spot-in-china-as-it-awaits-securities-license",
-        "published": "Wed, 21 Oct 2026 23:00:00 GMT"
+        "title": "Copper Declines as Tech-Stock Selloff Dulls Appetite for Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/copper-declines-as-tech-stock-selloff-dulls-appetite-for-risk",
+        "published": "Thu, 22 Oct 2026 03:22:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China’s Petrochemicals Glut Turns to Crunch After Months of War",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/eight-months-of-war-turns-china-petrochemical-glut-into-a-crunch",
-        "published": "Wed, 21 Oct 2026 23:00:00 GMT"
+        "title": "Corn Rises for Second Day on Dip-Buying and Demand Signal",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/corn-rises-for-second-day-on-dip-buying-and-demand-signal",
+        "published": "Thu, 22 Oct 2026 03:15:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fortescue Says Risk to Full-Year Results On China Standoff",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/fortescue-says-risk-to-full-year-sales-as-china-dispute-drags-on",
-        "published": "Wed, 21 Oct 2026 22:32:37 GMT"
+        "title": "How to Retire Rich in India",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/how-to-retire-rich-in-india-video",
+        "published": "Thu, 22 Oct 2026 03:07:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "APA to Build Major Australia Gas Pipeline to Avert Shortfalls",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/apa-to-build-major-australia-gas-pipeline-to-avert-shortfalls",
-        "published": "Wed, 21 Oct 2026 22:23:06 GMT"
+        "title": "Korea Neocloud Firm Elice Tops IPO Price in Second-Day Rally",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/korea-neocloud-firm-elice-tops-ipo-price-in-second-day-rally",
+        "published": "Thu, 22 Oct 2026 02:14:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "EQT Reaches €9.6 Billion Deal for Molecular Testing Firm Qiagen",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/eqt-nears-9-6-billion-deal-for-molecular-testing-firm-qiagen",
-        "published": "Wed, 21 Oct 2026 19:38:02 GMT"
+        "title": "China, Russia Signal Resilient Ties Amid US Moves",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/china-russia-signal-resilient-ties-amid-us-moves-video",
+        "published": "Thu, 22 Oct 2026 02:55:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nextdc Investor UniSuper Says ‘Not That Keen’ on Data Centers",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/nextdc-investor-unisuper-says-not-that-keen-on-data-centers",
-        "published": "Wed, 21 Oct 2026 21:55:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "EEUU se encamina a sus elecciones legislativas más caras",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/eeuu-se-encamina-a-sus-elecciones-legislativas-mas-caras-video",
-        "published": "Wed, 21 Oct 2026 21:53:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Mattel Adds Largest Investor to Board in Bid to ‘Unlock Value’",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/mattel-adds-largest-investor-to-board-in-bid-to-unlock-value",
-        "published": "Wed, 21 Oct 2026 21:49:55 GMT"
+        "title": "BlackRock's Saigal on Bond Markets, Strategy",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/blackrock-s-saigal-on-bond-markets-strategy-video",
+        "published": "Thu, 22 Oct 2026 02:45:41 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 22.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-22-finanzberichte-heute-22-10-2026-41121301-19-26567001",
+        "published": "Thu, 22 Oct 2026 06:10:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  22.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-22-dividendenalarm-heute-22-10-2026-41121301-19-26567000",
+        "published": "Thu, 22 Oct 2026 06:00:01 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Tesla macht überraschend viel Gewinn - Aktie steigt weiter",
@@ -383,18 +395,6 @@
         "title": "SpaceX schlägt Erwartungen und weist Milliarden-Gewinn aus",
         "link": "https://www.onvista.de/news/2026/10-20-spacex-schlaegt-erwartungen-und-weist-milliarden-gewinn-aus-41121763-19-26566317",
         "published": "Tue, 20 Oct 2026 22:32:27 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax holt Verluste auf - Friedenshoffnung stützt Kurse",
-        "link": "https://www.onvista.de/news/2026/10-20-dax-holt-verluste-auf-friedenshoffnung-stuetzt-kurse-41121301-19-26566230",
-        "published": "Tue, 20 Oct 2026 17:55:01 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Occidental: Hohe Ölpreise stützen das Ziel von 72 Dollar",
-        "link": "https://www.onvista.de/news/2026/10-20-occidental-hohe-oelpreise-stuetzen-das-ziel-von-72-dollar-40338625-19-26566173",
-        "published": "Tue, 20 Oct 2026 16:37:52 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX startet dank KI durch",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
-        "published": "Wed, 21 Oct 2026 19:17:42 +0200"
+        "title": "Marktbericht: Tech-Bilanzen schieben den DAX nicht weiter an",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
+        "published": "Thu, 22 Oct 2026 07:24:19 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
