@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-22T19:27:21.199209+00:00",
+  "updated_at": "2026-10-22T22:33:03.386445+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: US-Börsen uneinheitlich – Tech-Werte drücken Nasdaq",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-drueckt-nasdaq-meta-verliert-70-prozent/100264154.html",
-        "published": "Thu, 22 Oct 2026 18:01:37 GMT"
+        "title": "Wall Street: Abverkauf von Tech-Werten belastet Wall Street – Meta verliert sieben Prozent",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-belastet-wall-street-meta-verliert-sieben-prozent/100264154.html",
+        "published": "Thu, 22 Oct 2026 19:28:26 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -126,27 +126,111 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Need Landing Zone For Capex Estimates: Karoui",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/need-landing-zone-for-capex-estimates-karoui-video",
-        "published": "Thu, 22 Oct 2026 19:17:57 GMT"
+        "title": "Australian Growth Likely Slower Than Expected, Chalmers Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/australian-growth-likely-slower-than-expected-on-rates-prices",
+        "published": "Thu, 22 Oct 2026 21:53:30 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "AI Spending Woes, Investors Seek Havens, France Debt Crisis",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/real-yield-10-22-2026-video",
-        "published": "Thu, 22 Oct 2026 18:40:49 GMT"
+        "title": "New York City Bans Horse-Drawn Carriages After Decade-Long Battle",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/nyc-bans-horse-drawn-carriages-after-decade-long-battle-video",
+        "published": "Thu, 22 Oct 2026 22:29:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 22",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/latest-oil-market-news-and-analysis-for-oct-22",
-        "published": "Wed, 21 Oct 2026 22:05:54 GMT"
+        "title": "Latest Oil Market News and Analysis for Oct. 23",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/latest-oil-market-news-and-analysis-for-oct-23",
+        "published": "Thu, 22 Oct 2026 22:08:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Permitting Council Looks to Lame Duck Session to Pass Reform Deal",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/permitting-council-looks-to-lame-duck-to-pass-reforms-video",
-        "published": "Thu, 22 Oct 2026 19:09:34 GMT"
+        "title": "Typhoon Champi Shuts Taiwan’s $5 Trillion Stock Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/typhoon-champi-shuts-taiwan-s-5-trillion-stock-market",
+        "published": "Thu, 22 Oct 2026 13:28:31 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
+        "published": "Thu, 22 Oct 2026 22:05:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BlackRock's Senra on Investment Shifts, Wealth Transfer",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/blackrock-director-on-investment-shifts-wealth-transfer-video",
+        "published": "Wed, 21 Oct 2026 21:26:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Mickey Drexler on Decker Results and Retail Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/mickey-drexler-on-decker-results-and-retail-outlook-video",
+        "published": "Thu, 22 Oct 2026 21:58:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Affirm, Sam’s Club Strike Exclusive Buy Now, Pay Later Deal",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/affirm-sam-s-club-strike-exclusive-bnpl-deal-video",
+        "published": "Thu, 22 Oct 2026 21:53:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Kroger CFO: We Are an Agent for the Consumer",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/kroger-cfo-we-are-an-agent-for-the-consumer-video",
+        "published": "Thu, 22 Oct 2026 21:47:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Huntington Bancshares CEO Stephen Steinour on 3Q Results",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/huntington-bancshares-ceo-stephen-steinour-on-3q-results-video",
+        "published": "Thu, 22 Oct 2026 21:44:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "A Tesla-SpaceX Merger Doesn’t Add Up",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/opinion-a-tesla-spacex-merger-doesn-t-add-up-video",
+        "published": "Thu, 22 Oct 2026 21:30:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "TD Cowen Analyst on Chipotle Downgrade",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/td-cowen-analyst-on-chipotle-downgrade-video",
+        "published": "Thu, 22 Oct 2026 21:29:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Jane Street, HRT Are Spending Billions to Win in AI Era",
+        "link": "https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era",
+        "published": "Thu, 22 Oct 2026 21:00:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Fall as AI Jitters Ease Bets on Fed Hikes: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates",
+        "published": "Wed, 21 Oct 2026 22:13:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Powerful Tibet Earthquake Kills 18 People and Injures 32 Others",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/china-s-tibet-region-struck-by-powerful-magnitude-7-0-earthquake",
+        "published": "Thu, 22 Oct 2026 16:49:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Shopify-Like IPO Successes Becoming Rare in Canada, Nowlan Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/shopify-like-ipo-successes-becoming-rare-in-canada-nowlan-says",
+        "published": "Thu, 22 Oct 2026 20:39:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Moderna, Merck Fall After Melanoma Data Leak",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/moderna-merck-fall-after-melanoma-data-leak-video",
+        "published": "Thu, 22 Oct 2026 20:28:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Yen Jumps as Traders Seek Safety Amid Global Flight From Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/yen-outpaces-peers-as-risk-aversion-rises-flows-in-focus",
+        "published": "Thu, 22 Oct 2026 11:35:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -156,93 +240,9 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "French Buyers Not Ready To Step in Right Now: Kumra",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/french-buyers-not-ready-to-step-in-right-now-kumra-video",
-        "published": "Thu, 22 Oct 2026 18:50:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Slumps Most Since June as Bonds Rally: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 21 Oct 2026 22:13:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "College Hurt by International Student Drop to Drain Endowment",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/college-hurt-by-international-student-drop-to-drain-endowment",
-        "published": "Thu, 22 Oct 2026 18:45:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bessent Hasn't Done Great Job As Salesman: Sherman",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/bessent-hasn-t-done-great-job-as-salesman-sherman-video",
-        "published": "Thu, 22 Oct 2026 18:41:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Texas Developer Seeks $3.5 Billion in Debt Financing for AT&T (T) Headquarters",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/texas-developer-seeks-3-5-billion-in-debt-financing-for-at-t-t-headquarters",
-        "published": "Thu, 22 Oct 2026 14:00:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Russia Looking to Escalate War, Not End it, Romanian Leader Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/russia-looking-to-escalate-war-romanian-leader-says-video",
-        "published": "Thu, 22 Oct 2026 18:35:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "UBS Defeats Ex-Credit Suisse Managing Directors’ Back-Pay Claims",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims",
-        "published": "Thu, 22 Oct 2026 18:22:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "What Happens When Active ETFs Have Exposure to Stocks That Are Shorted",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/what-happens-when-active-etfs-have-exposure-to-stocks-that-are-shorted",
-        "published": "Thu, 22 Oct 2026 18:19:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Traders’ Cost of Hedging Against Big Treasuries Rally Is Soaring",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/traders-cost-of-hedging-against-big-treasuries-rally-is-soaring-mvjv24q7",
-        "published": "Thu, 22 Oct 2026 18:14:46 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "RBC’s New Canada Stock Strategy Chief Sets TSX Target at 38,600",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/rbc-s-new-canada-stock-strategy-chief-sets-tsx-target-at-38-600",
-        "published": "Thu, 22 Oct 2026 18:13:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "New Zealand Cost Crisis Drives Election Vows to Rein In Business",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/new-zealand-cost-crisis-drives-election-vows-to-rein-in-business",
-        "published": "Thu, 22 Oct 2026 18:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Canadian Data Cast Doubt on China-US Bond ‘Conspiracy,’ NBF Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/canadian-data-cast-doubt-on-china-us-bond-conspiracy-nbf-says",
-        "published": "Thu, 22 Oct 2026 18:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Apple Is Wall Street’s Favorite AI Haven as Spending Fears Hit",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/apple-s-cash-flow-machine-makes-it-investors-favorite-ai-hedge",
-        "published": "Thu, 22 Oct 2026 08:45:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Head for Best Day Since August 2025 on Haven Appetite",
+        "title": "Treasuries Surge as Worldwide Worries Spark Rush to Safety",
         "link": "https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid",
         "published": "Thu, 22 Oct 2026 03:46:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brazil Hedging Costs Spike as Election Anxiety Surges",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/brazil-hedging-costs-spike-as-election-anxiety-surges",
-        "published": "Thu, 22 Oct 2026 17:44:41 GMT"
       }
     ],
     "onvista – News": [
