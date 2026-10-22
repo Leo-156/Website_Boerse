@@ -1,18 +1,30 @@
 {
-  "updated_at": "2026-10-22T15:37:14.567942+00:00",
+  "updated_at": "2026-10-22T19:27:21.199209+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: US-Börsen notieren im Minus – Tech-Werte drücken Nasdaq",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-notieren-im-minus-tech-werte-druecken-nasdaq/100264154.html",
-        "published": "Thu, 22 Oct 2026 15:18:24 GMT"
+        "title": "Wall Street: US-Börsen uneinheitlich – Tech-Werte drücken Nasdaq",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-drueckt-nasdaq-meta-verliert-70-prozent/100264154.html",
+        "published": "Thu, 22 Oct 2026 18:01:37 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax gibt Gewinne wieder her – Energie verteuert sich erneut",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gibt-gewinne-her-erneuter-renditeanstieg-in-frankreich/100264123.html",
-        "published": "Thu, 22 Oct 2026 15:14:27 GMT"
+        "title": "Dax aktuell: Dax verliert mehr als 270 Punkte – Ein Unternehmen aus der Energiebranche ist der Verlierer des Tages",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-verliert-mehr-als-270-punkte-und-schliesst-im-minus/100264123.html",
+        "published": "Thu, 22 Oct 2026 15:56:53 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Folgt auf vier gute Börsenjahre auch noch ein fünftes?",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-folgt-auf-vier-gute-boersenjahre-auch-noch-ein-fuenftes/100263893.html",
+        "published": "Thu, 22 Oct 2026 15:34:17 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Musterdepot – Zukunft: KI in der Medizin – welche Aktien jetzt interessant sind",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-ki-in-der-medizin-welche-aktien-jetzt-interessant-sind/100264124.html",
+        "published": "Thu, 22 Oct 2026 15:33:01 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -46,7 +58,7 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Coreweave-Aktie bricht ein – Analysten halten das für ein Missverständnis",
+        "title": "Nasdaq: Coreweave-Aktie bricht ein – Analysten halten das für ein Missverständnis",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-analysten-halten-kurseinbruch-von-coreweave-fuer-ein-missverstaendnis/100264117.html",
         "published": "Thu, 22 Oct 2026 11:50:29 GMT"
       },
@@ -109,32 +121,20 @@
         "title": "Schifffahrt: Griechische Reeder entdecken die Athener Börse – Finanzplatz gewinnt an Bedeutung",
         "link": "https://www.handelsblatt.com/finanzen/schifffahrt-griechische-reeder-entdecken-die-athener-boerse/100262646.html",
         "published": "Thu, 22 Oct 2026 02:08:09 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: Techwerte profitieren – Wall Street schließt im Plus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-boersen-schliessen-fester-spacex-und-super-micro-treiben-tech-aktien-an/100263972.html",
-        "published": "Wed, 21 Oct 2026 16:59:13 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte-Insight: Skepsis gegenüber „KI-Gewinnern“: Die Börse unterscheidet jetzt zwei Gruppen von Unternehmen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-wo-anleger-die-grenze-zwischen-ki-gewinnern-und-verlierern-ziehen/100262278.html",
-        "published": "Wed, 21 Oct 2026 16:11:49 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Houthis Step Up Attacks on Saudi, Sending Oil Higher",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/houthis-step-up-attacks-on-saudi-sending-oil-higher-video",
-        "published": "Thu, 22 Oct 2026 15:22:28 GMT"
+        "title": "Need Landing Zone For Capex Estimates: Karoui",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/need-landing-zone-for-capex-estimates-karoui-video",
+        "published": "Thu, 22 Oct 2026 19:17:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Drop as Risk-Off Views Dominate With Oil Up, Meta Falling",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/us-futures-slip-as-risk-off-sentiment-dominates-with-oil-rising",
-        "published": "Thu, 22 Oct 2026 11:29:09 GMT"
+        "title": "AI Spending Woes, Investors Seek Havens, France Debt Crisis",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/real-yield-10-22-2026-video",
+        "published": "Thu, 22 Oct 2026 18:40:49 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -144,108 +144,120 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasuries Surge as AI Stock Jitters Fuel Haven Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid",
-        "published": "Thu, 22 Oct 2026 03:46:59 GMT"
+        "title": "Permitting Council Looks to Lame Duck Session to Pass Reform Deal",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/permitting-council-looks-to-lame-duck-to-pass-reforms-video",
+        "published": "Thu, 22 Oct 2026 19:09:34 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Falls as Higher Oil Fuels Inflation Fears Ahead of Fed Meet",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/gold-edges-lower-as-traders-weigh-mideast-signals-fed-rate-path",
-        "published": "Wed, 21 Oct 2026 23:56:16 GMT"
+        "title": "Nasdaq 100 Drops 3% as Risk-Off Dominates With Oil Prices Rising",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/us-futures-slip-as-risk-off-sentiment-dominates-with-oil-rising",
+        "published": "Thu, 22 Oct 2026 11:29:09 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Retirement Longevity Risk a Top Factor for Investors",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/retirement-longevity-risk-a-top-factor-for-investors-video",
-        "published": "Thu, 22 Oct 2026 15:03:29 GMT"
+        "title": "French Buyers Not Ready To Step in Right Now: Kumra",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/french-buyers-not-ready-to-step-in-right-now-kumra-video",
+        "published": "Thu, 22 Oct 2026 18:50:54 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Private Credit's Daily Marks Under Fire",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/private-credit-s-daily-marks-under-fire-video",
-        "published": "Thu, 22 Oct 2026 15:00:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Fall as AI, Oil Risks Spur Flight to Bonds: Markets Wrap",
+        "title": "Nasdaq 100 Slumps Most Since June as Bonds Rally: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates",
         "published": "Wed, 21 Oct 2026 22:13:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Spotify Rallies on Subscribers; Hermès falls on China Sales | Stock Movers",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/spotify-up-on-subscribers-hermes-falls-on-china-sales-video",
-        "published": "Thu, 22 Oct 2026 14:54:37 GMT"
+        "title": "College Hurt by International Student Drop to Drain Endowment",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/college-hurt-by-international-student-drop-to-drain-endowment",
+        "published": "Thu, 22 Oct 2026 18:45:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "‘Paralyzed’ US IPO Market Asks If There’s Life After Anthropic",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/-paralyzed-us-ipo-market-asks-if-there-s-life-after-anthropic",
-        "published": "Thu, 22 Oct 2026 14:52:25 GMT"
+        "title": "Bessent Hasn't Done Great Job As Salesman: Sherman",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/bessent-hasn-t-done-great-job-as-salesman-sherman-video",
+        "published": "Thu, 22 Oct 2026 18:41:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Blackstone Profit Drops 9.2% as Higher Rates Curb Dealmaking",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/blackstone-profit-drops-9-2-as-rates-inflation-curb-dealmaking",
-        "published": "Thu, 22 Oct 2026 11:06:46 GMT"
+        "title": "Texas Developer Seeks $3.5 Billion in Debt Financing for AT&T (T) Headquarters",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/texas-developer-seeks-3-5-billion-in-debt-financing-for-at-t-t-headquarters",
+        "published": "Thu, 22 Oct 2026 14:00:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Partners’ EyeCare Set to Close Deal to Repay Debt at Discount",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/partners-eyecare-set-to-close-deal-to-repay-debt-at-discount",
-        "published": "Thu, 22 Oct 2026 14:45:38 GMT"
+        "title": "Russia Looking to Escalate War, Not End it, Romanian Leader Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/russia-looking-to-escalate-war-romanian-leader-says-video",
+        "published": "Thu, 22 Oct 2026 18:35:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Norwegians Leave Gold in Forest as Some Fall for Scam",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/norwegians-leave-gold-in-forest-as-some-fall-for-scam",
-        "published": "Thu, 22 Oct 2026 12:16:20 GMT"
+        "title": "UBS Defeats Ex-Credit Suisse Managing Directors’ Back-Pay Claims",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims",
+        "published": "Thu, 22 Oct 2026 18:22:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Qatar Agrees to Buy US LNG to 2054 as War Upends Supply",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/qatar-agrees-to-buy-us-lng-to-2054-as-war-disrupts-own-supply",
-        "published": "Thu, 22 Oct 2026 13:33:21 GMT"
+        "title": "What Happens When Active ETFs Have Exposure to Stocks That Are Shorted",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/what-happens-when-active-etfs-have-exposure-to-stocks-that-are-shorted",
+        "published": "Thu, 22 Oct 2026 18:19:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Michigan, Ohio Gas Prices Jump After Illinois Refinery Upset",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/us-midwest-pump-prices-poised-for-surge-after-refinery-upset",
-        "published": "Wed, 21 Oct 2026 22:34:44 GMT"
+        "title": "Traders’ Cost of Hedging Against Big Treasuries Rally Is Soaring",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/traders-cost-of-hedging-against-big-treasuries-rally-is-soaring-mvjv24q7",
+        "published": "Thu, 22 Oct 2026 18:14:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "American Airlines Cuts Full-Year Outlook Again as Fuel Costs Climb",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/american-cuts-outlook-again-as-fuel-costs-climb-video",
-        "published": "Thu, 22 Oct 2026 14:28:02 GMT"
+        "title": "RBC’s New Canada Stock Strategy Chief Sets TSX Target at 38,600",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/rbc-s-new-canada-stock-strategy-chief-sets-tsx-target-at-38-600",
+        "published": "Thu, 22 Oct 2026 18:13:18 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Banque du Caire Boosts Size of Egypt’s Biggest IPO in a Decade",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/banque-du-caire-boosts-size-of-egypt-s-biggest-ipo-in-a-decade",
-        "published": "Thu, 22 Oct 2026 13:59:47 GMT"
+        "title": "New Zealand Cost Crisis Drives Election Vows to Rein In Business",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/new-zealand-cost-crisis-drives-election-vows-to-rein-in-business",
+        "published": "Thu, 22 Oct 2026 18:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Irmãos Moreira Salles destoam de empresários e se opõem a Flávio",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/irmaos-moreira-salles-se-opoem-a-flavio-bolsonaro-video",
-        "published": "Thu, 22 Oct 2026 14:23:32 GMT"
+        "title": "Canadian Data Cast Doubt on China-US Bond ‘Conspiracy,’ NBF Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/canadian-data-cast-doubt-on-china-us-bond-conspiracy-nbf-says",
+        "published": "Thu, 22 Oct 2026 18:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "South Africa Must Prioritize Growth, Finance Minister Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/south-africa-must-prioritize-growth-finance-minister-says",
-        "published": "Thu, 22 Oct 2026 14:22:15 GMT"
+        "title": "Apple Is Wall Street’s Favorite AI Haven as Spending Fears Hit",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/apple-s-cash-flow-machine-makes-it-investors-favorite-ai-hedge",
+        "published": "Thu, 22 Oct 2026 08:45:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Copper’s AI Tailwind Faces Supply and Demand Uncertainty",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/copper-s-ai-tailwind-faces-supply-and-demand-uncertainty-video",
-        "published": "Thu, 22 Oct 2026 14:20:16 GMT"
+        "title": "Treasuries Head for Best Day Since August 2025 on Haven Appetite",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid",
+        "published": "Thu, 22 Oct 2026 03:46:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Brazil Hedging Costs Spike as Election Anxiety Surges",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/brazil-hedging-costs-spike-as-election-anxiety-surges",
+        "published": "Thu, 22 Oct 2026 17:44:41 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Tech-Abverkauf: Nasdaq 100 bricht um drei Prozent ein",
+        "link": "https://www.onvista.de/news/2026/10-22-tech-abverkauf-nasdaq-100-bricht-um-drei-prozent-ein-41121301-19-26567453",
+        "published": "Thu, 22 Oct 2026 20:36:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Leitindex verliert: US-Tech-Zahlen und Ölpreis belasten",
+        "link": "https://www.onvista.de/news/2026/10-22-leitindex-verliert-us-tech-zahlen-und-oelpreis-belasten-41121301-19-26567403",
+        "published": "Thu, 22 Oct 2026 17:48:55 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Keine Lust auf SpaceX? Zehn Weltraum-Aktien als Alternative",
@@ -383,18 +395,6 @@
         "title": "VW Bank zahlt 3,75 %: Dieses Tagesgeld-Angebot kann sich sehen lassen",
         "link": "https://www.onvista.de/news/2026/10-21-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
         "published": "Wed, 21 Oct 2026 13:41:30 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Supermicro überrascht – SpaceX mit KI-Rekorden",
-        "link": "https://www.onvista.de/news/2026/10-21-supermicro-ueberrascht-spacex-mit-ki-rekorden-40338625-19-26566719",
-        "published": "Wed, 21 Oct 2026 12:57:00 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax verteidigt Unterstützung - dieser Widerstand ist nun entscheidend",
-        "link": "https://www.onvista.de/news/2026/10-21-dax-verteidigt-unterstuetzung-dieser-widerstand-ist-nun-entscheidend-41123281-19-26566647",
-        "published": "Wed, 21 Oct 2026 11:11:00 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Anleger zweifeln an KI-Rally",
+        "title": "Marktbericht: DAX fällt wieder zurück",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
-        "published": "Thu, 22 Oct 2026 10:39:51 +0200"
+        "published": "Thu, 22 Oct 2026 18:36:57 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
