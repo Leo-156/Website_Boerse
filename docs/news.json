@@ -1,18 +1,48 @@
 {
-  "updated_at": "2026-10-23T10:22:03.078803+00:00",
+  "updated_at": "2026-10-23T15:13:35.061578+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax verliert zeitweise 300 Punkte – und nähert sich 25.000-Punkte-Marke",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-naehert-sich-25.000-punkte-marke/100264417.html",
+        "published": "Fri, 23 Oct 2026 15:08:10 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: American Express streicht 3500 Stellen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-american-express-streicht-3500-stellen/100264576.html",
+        "published": "Fri, 23 Oct 2026 15:07:19 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: „Die nachhaltigste Immobilie ist die, die bereits existiert“",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-die-nachhaltigste-immobilie-ist-die-die-bereits-existiert/100258274.html",
+        "published": "Fri, 23 Oct 2026 14:56:01 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: Wall Street notiert im Minus – Anleiherenditen sinken",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-im-minus-anleiherenditen-sinken/100264495.html",
+        "published": "Fri, 23 Oct 2026 14:51:15 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Euro-Zone: Anleiheinvestoren erhöhen Druck auf Frankreich – jetzt schmiert auch noch die Wirtschaft ab",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/frankreich-anleihen-unter-druck-die-wirtschaft-schmiert-ab/100264444.html",
+        "published": "Fri, 23 Oct 2026 12:08:54 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Rückversicherung: Munich Re hebt nach starkem Quartal die Prognose",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/rueckversicherung-munich-re-hebt-nach-starkem-quartal-die-prognose/100264519.html",
+        "published": "Fri, 23 Oct 2026 11:39:56 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Banken: Verdi ruft zu bundesweiten Warnstreiks bei privaten Banken auf",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-verdi-ruft-zu-bundesweiten-warnstreiks-bei-privaten-banken-auf/100264474.html",
         "published": "Fri, 23 Oct 2026 09:47:29 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax notiert im Minus – Ölpreise steigen wegen neuer Eskalation im Nahen Osten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreise-steigen-wegen-neuer-eskalation/100264417.html",
-        "published": "Fri, 23 Oct 2026 09:02:54 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -28,6 +58,12 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
+        "title": "Wertsteigerung: Was Sie heute sammeln sollten, um später daran zu verdienen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/vermoegen-woran-sie-erkennen-ob-ihr-lieblingsstueck-spaeter-zur-geldanlage-wird/100258537.html",
+        "published": "Fri, 23 Oct 2026 11:31:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
         "title": "Aktie im Blick: Künstliche Intelligenz und ein britischer Deal treiben Zalando-Aktienkurs an",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktie-im-blick-kuenstliche-intelligenz-und-ein-britischer-deal-treiben-zalando-an/100263653.html",
         "published": "Fri, 23 Oct 2026 02:00:00 GMT"
@@ -36,12 +72,6 @@
         "source": "Handelsblatt – Finanzen",
         "title": "Immobilien: Ende des Kapitalpuffers – werden Immobilienkredite günstiger?",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-ende-des-kapitalpuffers-werden-immobilienkredite-guenstiger/100262460.html",
-        "published": "Fri, 23 Oct 2026 02:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wertsteigerung: Was Sie heute sammeln sollten, um später daran zu verdienen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/iphone-fuer-190.000-dollar-woran-sie-die-sammlerstuecke-von-morgen-erkennen/100258537.html",
         "published": "Fri, 23 Oct 2026 02:00:00 GMT"
       },
       {
@@ -91,74 +121,14 @@
         "title": "Nasdaq: Coreweave-Aktie bricht ein – Analysten halten das für ein Missverständnis",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-analysten-halten-kurseinbruch-von-coreweave-fuer-ein-missverstaendnis/100264117.html",
         "published": "Thu, 22 Oct 2026 11:50:29 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geld. Leben. Looman.: Junge Leute wollen für die Rente sparen: Sorry, aber es gibt erst mal Wichtigeres!",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/vermoegen-lohnt-es-sich-wirklich-mit-mitte-20-fuer-die-rente-zu-sparen/100263941.html",
-        "published": "Thu, 22 Oct 2026 10:37:18 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geld: Der Millionenerbe, der die Millionen nicht will",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/reichtum-fuer-welche-zwecke-dieser-millionenerbe-sein-vermoegen-verteilt/100204748.html",
-        "published": "Thu, 22 Oct 2026 09:37:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Aktien: Norwegens Staatsfonds verbucht Milliardenverlust",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/anleihen-norwegens-staatsfonds-verbucht-milliardenverlust-01/100264164.html",
-        "published": "Fri, 23 Oct 2026 05:37:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Generation Z: 80 Prozent wünschen sich ein Eigenheim",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/generation-z-80-prozent-wuenschen-sich-eine-eigene-immobilie/100263873.html",
-        "published": "Thu, 22 Oct 2026 09:30:44 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Friendflation: Warum Geld in Beziehungen relevanter wird",
-        "link": "https://www.handelsblatt.com/finanzen/friendflation-was-tun-wenn-freunde-unterschiedlich-viel-geld-haben/100154689.html",
-        "published": "Thu, 22 Oct 2026 08:35:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Riskiest Bank Securities Lose Luster as Investors Get Picky",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/at1s-easy-money-run-fades-as-banks-pay-up-for-riskiest-debt",
-        "published": "Fri, 23 Oct 2026 10:02:44 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Hovers Near $4,000 an Ounce After Steep Loss in Rocky Week",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility",
-        "published": "Fri, 23 Oct 2026 00:15:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/bitcoin-billionaires-are-racing-to-ride-a-3-000-crypto-boom",
-        "published": "Fri, 23 Oct 2026 10:15:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "De olho nas eleições",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/de-olho-nas-eleicoes-video",
-        "published": "Fri, 23 Oct 2026 10:08:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Election Angst Looms for Stocks and the AI Boom",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/us-election-angst-looms-for-stocks-and-the-ai-boom",
-        "published": "Fri, 23 Oct 2026 10:02:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hedge Funds Log Widest Daily Drawdown Since Covid in Rout",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-log-widest-daily-drawdown-since-covid-in-stock-rout",
-        "published": "Fri, 23 Oct 2026 06:17:21 GMT"
+        "title": "SLB Sees Growth Driven by Middle East Oil Field Recovery",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/slb-sees-growth-driven-by-middle-east-oil-field-recovery",
+        "published": "Fri, 23 Oct 2026 11:27:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -168,57 +138,21 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "JSW Steel’s Profit More Than Triples on Higher Prices",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/jsw-steel-s-profit-more-than-triples-on-higher-prices",
-        "published": "Fri, 23 Oct 2026 10:00:34 GMT"
+        "title": "Wheat Slides for Eighth Week in Longest Losing Streak Since 1997",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/wheat-slides-for-eighth-week-in-longest-losing-streak-since-1997",
+        "published": "Fri, 23 Oct 2026 04:40:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Jane Street, HRT Are Spending Billions to Win in AI Era",
-        "link": "https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era",
-        "published": "Thu, 22 Oct 2026 21:00:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tech Rout Eases With Oil Strength Capping Relief: Markets Wrap",
+        "title": "Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 22 Oct 2026 22:05:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Carrefour’s €2 Billion Stock Plunge Shows Cost of French Unrest",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/carrefour-s-2-billion-stock-plunge-shows-cost-of-french-unrest",
-        "published": "Fri, 23 Oct 2026 09:52:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "BofA’s Hartnett Sees Risk-Off Mood Lasting Until Mid-November",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/bofa-s-hartnett-sees-risk-off-mood-lasting-until-mid-november",
-        "published": "Fri, 23 Oct 2026 09:48:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "French Bond Risk Nears Biggest Weekly Rise as Crisis Deepens",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/french-bond-risk-nears-biggest-weekly-rise-as-crisis-deepens",
-        "published": "Fri, 23 Oct 2026 09:41:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ship With Russian Diesel Signals US Port After Trump-Putin Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/ship-with-russian-diesel-signals-us-port-after-trump-putin-deal",
-        "published": "Fri, 23 Oct 2026 09:40:44 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Retail Deleveraging Sinks India Small Caps Most Since March",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/margin-trade-liquidation-speeds-indian-small-cap-stock-decline",
-        "published": "Fri, 23 Oct 2026 07:04:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI IPOs Stall While Private Markets Heat Up",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/ai-ipos-stall-while-private-markets-heat-up-video",
-        "published": "Fri, 23 Oct 2026 09:24:27 GMT"
+        "title": "Hedge Funds Suffer Widest Daily Drawdown Since Covid",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/hedge-funds-suffer-widest-daily-drawdown-since-covid-video",
+        "published": "Fri, 23 Oct 2026 14:42:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -228,24 +162,108 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Europe’s Luxury Giants Hit Lowest Valuations in a Decade",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/europe-luxury-lvmh-hermes-trade-at-lowest-valuations-decade",
-        "published": "Fri, 23 Oct 2026 05:30:00 GMT"
+        "title": "Jio’s Record IPO Draws Strong Demand, Defying India Market Rout",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/jio-s-record-ipo-draws-strong-demand-defying-india-market-rout",
+        "published": "Fri, 23 Oct 2026 12:03:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Volvo Car CEO on Earnings, China Market, Job Cuts",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/volvo-car-ceo-on-earnings-china-cost-cutting",
-        "published": "Fri, 23 Oct 2026 09:00:37 GMT"
+        "title": "US Consumer Sentiment Slips to Five-Month Low on Inflation",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/us-consumer-sentiment-slips-to-five-month-low-on-inflation-woes",
+        "published": "Fri, 23 Oct 2026 14:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "How Prediction Markets Upstaged Election Polls",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/how-prediction-markets-upstaged-election-polls",
-        "published": "Fri, 23 Oct 2026 09:00:11 GMT"
+        "title": "Brazil Elections: Tight Polls Intensify Race in Final Stretch",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/brazil-elections-tight-polls-intensify-race-in-final-stretch",
+        "published": "Fri, 23 Oct 2026 14:18:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BASF Increases Bid for Chemicals Rival Evonik to Over €11 Billion",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/basf-increases-bid-for-chemicals-rival-evonik-to-over-11-billion",
+        "published": "Fri, 23 Oct 2026 11:15:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "French Buyers Not Ready To Step in Right Now: Kumra",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/french-buyers-not-ready-to-step-in-right-now-kumra-video",
+        "published": "Thu, 22 Oct 2026 18:50:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "French Bond Risk Nears Biggest Weekly Rise as Crisis Deepens",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/french-bond-risk-nears-biggest-weekly-rise-as-crisis-deepens",
+        "published": "Fri, 23 Oct 2026 09:41:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Germany Wants to Stop More Oil Refinery Closures as Costs Mount",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/germany-wants-to-stop-more-oil-refinery-closures-as-costs-mount",
+        "published": "Fri, 23 Oct 2026 13:25:34 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Five Questions for NBCUniversal Entertainment Chairman Donna Langley",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-21/five-questions-for-nbcuniversal-entertainment-chairman-donna-langley",
+        "published": "Wed, 21 Oct 2026 12:00:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Scam Victims Leave Gold in Forest in Growing Norwegian Fraud",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/norwegians-leave-gold-in-forest-as-some-fall-for-scam",
+        "published": "Thu, 22 Oct 2026 12:16:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Armenia’s Largest Lender Ardshinbank Is Said to Weigh London IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/armenia-s-largest-lender-ardshinbank-is-said-to-weigh-london-ipo",
+        "published": "Fri, 23 Oct 2026 12:54:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How Big Law Makes Billions: The Power of Law Firm Leverage",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/how-big-law-firms-use-leverage-to-make-billions-video",
+        "published": "Fri, 23 Oct 2026 12:53:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China’s CMOC Sees Earnings Soar on Copper Rally and More Output",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/china-s-cmoc-sees-earnings-soar-on-copper-rally-and-more-output",
+        "published": "Fri, 23 Oct 2026 12:52:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Copper Trims Weekly Decline as Selloff in AI Stocks Eases",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/copper-heads-for-weekly-loss-as-ai-selloff-hurts-risk-appetite",
+        "published": "Fri, 23 Oct 2026 03:00:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "GM Analysts Say Buy the Dip as Stock Eyes Worst Week Since 2025",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/gm-analysts-say-buy-the-dip-as-stock-eyes-worst-week-since-2025",
+        "published": "Fri, 23 Oct 2026 12:30:00 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Bienchen übernimmt die Führung und Georg dreht das Experten-Duell",
+        "link": "https://www.onvista.de/news/2026/10-23-bienchen-uebernimmt-die-fuehrung-und-georg-dreht-das-experten-duell-41121301-19-26567736",
+        "published": "Fri, 23 Oct 2026 15:42:47 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Mein Depot läuft schlechter als der Weltindex – na und?",
+        "link": "https://www.onvista.de/news/2026/10-23-mein-depot-laeuft-schlechter-als-der-weltindex-na-und-41121763-19-26567515",
+        "published": "Fri, 23 Oct 2026 14:30:01 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Nvidia, Alphabet & Chips – Beginn der Kapitalrotation",
+        "link": "https://www.onvista.de/news/2026/10-23-nvidia-alphabet-chips-beginn-der-kapitalrotation-41122786-19-26567654",
+        "published": "Fri, 23 Oct 2026 12:59:54 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Tesla oder SpaceX? Erwartungen an SAP? Dax-Risiko Frankreich?",
@@ -377,27 +395,15 @@
         "title": "RTX: Die Aktie kann bis auf 220 Dollar steigen",
         "link": "https://www.onvista.de/news/2026/10-21-rtx-die-aktie-kann-bis-auf-220-dollar-steigen-40338625-19-26566813",
         "published": "Wed, 21 Oct 2026 16:47:42 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Northrop Grumman: Höhere Gewinnprognose treibt die Aktie",
-        "link": "https://www.onvista.de/news/2026/10-21-northrop-grumman-hoehere-gewinnprognose-treibt-die-aktie-40338625-19-26566812",
-        "published": "Wed, 21 Oct 2026 16:47:05 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "GE Aerospace: Die Aktie bietet nach dem Rückgang Chancen",
-        "link": "https://www.onvista.de/news/2026/10-21-ge-aerospace-die-aktie-bietet-nach-dem-rueckgang-chancen-40338625-19-26566809",
-        "published": "Wed, 21 Oct 2026 16:46:32 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Friedrich Vorwerk: Die Aktie steigt nach Rekordzahlen",
-        "link": "https://www.onvista.de/news/2026/10-21-friedrich-vorwerk-die-aktie-steigt-nach-rekordzahlen-40338625-19-26566807",
-        "published": "Wed, 21 Oct 2026 16:45:57 +0200"
       }
     ],
     "Börse Frankfurt – News": [
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Anleihen: Frankreich weiter unter Druck",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/anleihen-frankreich-weiter-unter-druck",
+        "published": "Fri, 23 Oct 2026 09:06:33 GMT"
+      },
       {
         "source": "Börse Frankfurt – News",
         "title": "Gold: \"Gefangen\"",
@@ -451,26 +457,26 @@
         "title": "Kryptowährungen: „Bitcoin trotzt dem Gegenwind“",
         "link": "https://www.boerse-frankfurt.de/nachrichten/kryptowaehrungen-bitcoin-trotzt-dem-gegenwind",
         "published": "Thu, 15 Oct 2026 05:48:00 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "ETFs: „Halbleiter weiter im Blick – und Brasiliens Aktien“",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/etfs-halbleiter-weiter-im-blick-und-brasiliens-aktien",
-        "published": "Tue, 13 Oct 2026 11:45:56 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
-        "published": "Fri, 23 Oct 2026 11:13:15 +0200"
+        "title": "Marktbericht: Nasdaq kommt unter die Räder",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html",
+        "published": "Fri, 23 Oct 2026 15:16:51 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
         "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
         "published": "Fri, 23 Oct 2026 10:45:11 +0200"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
+        "published": "Fri, 23 Oct 2026 11:13:15 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Marktbericht: Nikes Schwäche nutzt Konkurrenten wie Adidas",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nike-adidas-dax-100.html",
         "published": "Fri, 02 Oct 2026 14:48:15 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Rüstungskonzern KNDS bekräftigt Börsenpläne",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-boersengaenge-100.html",
-        "published": "Thu, 01 Oct 2026 14:32:53 +0200"
       }
     ]
   }
