@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T22:33:03.386445+00:00",
+  "updated_at": "2026-10-23T00:54:43.929751+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,15 +126,45 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Australian Growth Likely Slower Than Expected, Chalmers Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/australian-growth-likely-slower-than-expected-on-rates-prices",
-        "published": "Thu, 22 Oct 2026 21:53:30 GMT"
+        "title": "Tech Stock Selloff Deepens in Asia, Yen Gains: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
+        "published": "Thu, 22 Oct 2026 22:05:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "New York City Bans Horse-Drawn Carriages After Decade-Long Battle",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/nyc-bans-horse-drawn-carriages-after-decade-long-battle-video",
-        "published": "Thu, 22 Oct 2026 22:29:02 GMT"
+        "title": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/china-ai-model-stocks-150-billion-drop-shows-no-sign-of-easing",
+        "published": "Fri, 23 Oct 2026 00:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nasdaq Drops as Doubts Grow Over AI Spending",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/nasdaq-drops-as-doubts-grow-over-ai-spending-video",
+        "published": "Fri, 23 Oct 2026 00:17:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Zip Shares Slide 50% After Flagging Costs Tied to US Fraud Event",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/zip-shares-slide-50-after-flagging-costs-tied-to-us-fraud-event",
+        "published": "Fri, 23 Oct 2026 00:17:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japan Inflation Rises Above BOJ Target, Backing Rate Hikes",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/japan-inflation-rises-above-boj-target-level-backing-rate-hikes",
+        "published": "Thu, 22 Oct 2026 23:32:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Holds Near Three-Month Low as AI Jitters Fuel Volatility",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility",
+        "published": "Fri, 23 Oct 2026 00:15:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Korean Stocks Drop on Chip Losses After US Selloff, Oil Gains",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/korean-stocks-drop-on-chip-losses-after-us-selloff-oil-gains",
+        "published": "Fri, 23 Oct 2026 00:06:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -144,15 +174,45 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Typhoon Champi Shuts Taiwan’s $5 Trillion Stock Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/typhoon-champi-shuts-taiwan-s-5-trillion-stock-market",
-        "published": "Thu, 22 Oct 2026 13:28:31 GMT"
+        "title": "Yen Jumps as Traders Seek Safety Amid Global Flight From Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/yen-outpaces-peers-as-risk-aversion-rises-flows-in-focus",
+        "published": "Thu, 22 Oct 2026 11:35:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 22 Oct 2026 22:05:06 GMT"
+        "title": "Australia’s Victoria State Approves $700 Million Gas Project",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/australia-s-victoria-state-approves-700-million-gas-project",
+        "published": "Thu, 22 Oct 2026 23:25:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries Surge as Worldwide Worries Spark Rush to Safety",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid",
+        "published": "Thu, 22 Oct 2026 03:46:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Australian Growth Likely Slower Than Expected, Chalmers Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/australian-growth-likely-slower-than-expected-on-rates-prices",
+        "published": "Thu, 22 Oct 2026 21:53:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "What a 35-Hour Train Ride Reveals About Vietnam’s Future",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/what-a-35-hour-train-ride-reveals-about-vietnam-s-future-video",
+        "published": "Thu, 22 Oct 2026 23:00:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "New York City Bans Horse-Drawn Carriages After Decade-Long Battle",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-22/nyc-bans-horse-drawn-carriages-after-decade-long-battle-video",
+        "published": "Thu, 22 Oct 2026 22:29:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Rio Tinto to Spend $1.9 Billion on Australian Bauxite Expansion",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/rio-tinto-to-spend-1-9-billion-on-australian-bauxite-expansion",
+        "published": "Thu, 22 Oct 2026 22:22:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -183,66 +243,6 @@
         "title": "Huntington Bancshares CEO Stephen Steinour on 3Q Results",
         "link": "https://www.bloomberg.com/news/videos/2026-10-22/huntington-bancshares-ceo-stephen-steinour-on-3q-results-video",
         "published": "Thu, 22 Oct 2026 21:44:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "A Tesla-SpaceX Merger Doesn’t Add Up",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/opinion-a-tesla-spacex-merger-doesn-t-add-up-video",
-        "published": "Thu, 22 Oct 2026 21:30:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "TD Cowen Analyst on Chipotle Downgrade",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/td-cowen-analyst-on-chipotle-downgrade-video",
-        "published": "Thu, 22 Oct 2026 21:29:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Jane Street, HRT Are Spending Billions to Win in AI Era",
-        "link": "https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era",
-        "published": "Thu, 22 Oct 2026 21:00:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Fall as AI Jitters Ease Bets on Fed Hikes: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 21 Oct 2026 22:13:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Powerful Tibet Earthquake Kills 18 People and Injures 32 Others",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/china-s-tibet-region-struck-by-powerful-magnitude-7-0-earthquake",
-        "published": "Thu, 22 Oct 2026 16:49:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Shopify-Like IPO Successes Becoming Rare in Canada, Nowlan Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/shopify-like-ipo-successes-becoming-rare-in-canada-nowlan-says",
-        "published": "Thu, 22 Oct 2026 20:39:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Moderna, Merck Fall After Melanoma Data Leak",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/moderna-merck-fall-after-melanoma-data-leak-video",
-        "published": "Thu, 22 Oct 2026 20:28:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Yen Jumps as Traders Seek Safety Amid Global Flight From Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/yen-outpaces-peers-as-risk-aversion-rises-flows-in-focus",
-        "published": "Thu, 22 Oct 2026 11:35:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Drops 3% as Risk-Off Dominates With Oil Prices Rising",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/us-futures-slip-as-risk-off-sentiment-dominates-with-oil-rising",
-        "published": "Thu, 22 Oct 2026 11:29:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Surge as Worldwide Worries Spark Rush to Safety",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid",
-        "published": "Thu, 22 Oct 2026 03:46:59 GMT"
       }
     ],
     "onvista – News": [
