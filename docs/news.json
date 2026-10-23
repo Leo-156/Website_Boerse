@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-23T05:29:01.561942+00:00",
+  "updated_at": "2026-10-23T10:22:03.078803+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: Verdi ruft zu bundesweiten Warnstreiks bei privaten Banken auf",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-verdi-ruft-zu-bundesweiten-warnstreiks-bei-privaten-banken-auf/100264474.html",
+        "published": "Fri, 23 Oct 2026 09:47:29 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax notiert im Minus – Ölpreise steigen wegen neuer Eskalation im Nahen Osten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreise-steigen-wegen-neuer-eskalation/100264417.html",
+        "published": "Fri, 23 Oct 2026 09:02:54 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Börse am 23. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
@@ -58,15 +70,9 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "FIRE: „Wer finanziell unabhängig wird, gerät oft in eine Existenzkrise“",
-        "link": "https://www.handelsblatt.com/finanzen/vorsorge/vermoegen-schon-das-bewusstsein-fuer-geld-als-lebensenergie-aendert-viel/100149007.html",
-        "published": "Thu, 22 Oct 2026 13:15:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Ölpreis: Das Ölparadox: Warum die Preise steigen, obwohl das Angebot wächst",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oelpreis-das-oelparadox-warum-die-preise-steigen-obwohl-das-angebot-waechst/100263331.html",
-        "published": "Thu, 22 Oct 2026 13:12:06 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oelpreis-warum-mehr-oel-die-preise-nicht-sinken-laesst/100263331.html",
+        "published": "Fri, 23 Oct 2026 06:47:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -79,12 +85,6 @@
         "title": "Geldpolitik: Türkische Zentralbank senkt Leitzins nach längerer Pause",
         "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-tuerkische-zentralbank-senkt-leitzins-nach-laengerer-pause/100264256.html",
         "published": "Thu, 22 Oct 2026 12:14:50 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Aktien: Norwegens Staatsfonds verbucht Milliardenverlust",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/anleihen-norwegens-staatsfonds-verbucht-milliardenverlust/100264164.html",
-        "published": "Thu, 22 Oct 2026 12:09:32 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -106,6 +106,12 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
+        "title": "Aktien: Norwegens Staatsfonds verbucht Milliardenverlust",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/anleihen-norwegens-staatsfonds-verbucht-milliardenverlust-01/100264164.html",
+        "published": "Fri, 23 Oct 2026 05:37:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
         "title": "Immobilien: Generation Z: 80 Prozent wünschen sich ein Eigenheim",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/generation-z-80-prozent-wuenschen-sich-eine-eigene-immobilie/100263873.html",
         "published": "Thu, 22 Oct 2026 09:30:44 GMT"
@@ -115,15 +121,45 @@
         "title": "Friendflation: Warum Geld in Beziehungen relevanter wird",
         "link": "https://www.handelsblatt.com/finanzen/friendflation-was-tun-wenn-freunde-unterschiedlich-viel-geld-haben/100154689.html",
         "published": "Thu, 22 Oct 2026 08:35:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Rating 2026: Das sind die besten privaten Krankenversicherungen",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/rating-2026-das-sind-die-besten-privaten-krankenversicherungen/100246774.html",
-        "published": "Thu, 22 Oct 2026 08:00:05 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Riskiest Bank Securities Lose Luster as Investors Get Picky",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/at1s-easy-money-run-fades-as-banks-pay-up-for-riskiest-debt",
+        "published": "Fri, 23 Oct 2026 10:02:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Hovers Near $4,000 an Ounce After Steep Loss in Rocky Week",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility",
+        "published": "Fri, 23 Oct 2026 00:15:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/bitcoin-billionaires-are-racing-to-ride-a-3-000-crypto-boom",
+        "published": "Fri, 23 Oct 2026 10:15:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "De olho nas eleições",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/de-olho-nas-eleicoes-video",
+        "published": "Fri, 23 Oct 2026 10:08:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Election Angst Looms for Stocks and the AI Boom",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/us-election-angst-looms-for-stocks-and-the-ai-boom",
+        "published": "Fri, 23 Oct 2026 10:02:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hedge Funds Log Widest Daily Drawdown Since Covid in Rout",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-log-widest-daily-drawdown-since-covid-in-stock-rout",
+        "published": "Fri, 23 Oct 2026 06:17:21 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Oct. 23",
@@ -132,120 +168,108 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Why Are India’s Truckers Avoiding New Expressways?",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/why-are-india-s-truckers-avoiding-new-expressways-video",
-        "published": "Fri, 23 Oct 2026 05:21:06 GMT"
+        "title": "JSW Steel’s Profit More Than Triples on Higher Prices",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/jsw-steel-s-profit-more-than-triples-on-higher-prices",
+        "published": "Fri, 23 Oct 2026 10:00:34 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Zip Shares Slide After Flagging Costs Tied to US Fraud Event",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/zip-shares-slide-50-after-flagging-costs-tied-to-us-fraud-event",
-        "published": "Fri, 23 Oct 2026 00:17:05 GMT"
+        "title": "Jane Street, HRT Are Spending Billions to Win in AI Era",
+        "link": "https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era",
+        "published": "Thu, 22 Oct 2026 21:00:13 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Holcim Lifts Guidance Again as Strong Demand Drives Profit Beat",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/holcim-lifts-guidance-again-as-strong-demand-drives-profit-beat",
-        "published": "Fri, 23 Oct 2026 05:08:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Global AI Trade Under Pressure, Oil Extends Rally: Markets Wrap",
+        "title": "Tech Rout Eases With Oil Strength Capping Relief: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 22 Oct 2026 22:05:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Tech Selloff Deepens, SK Hynix Scraps Solidigm US IPO Plans",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/the-asia-trade-10-23-2026-video",
-        "published": "Fri, 23 Oct 2026 04:50:36 GMT"
+        "title": "Carrefour’s €2 Billion Stock Plunge Shows Cost of French Unrest",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/carrefour-s-2-billion-stock-plunge-shows-cost-of-french-unrest",
+        "published": "Fri, 23 Oct 2026 09:52:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wheat Slides for Eighth Week in Longest Losing Streak Since 1997",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/wheat-slides-for-eighth-week-in-longest-losing-streak-since-1997",
-        "published": "Fri, 23 Oct 2026 04:40:17 GMT"
+        "title": "BofA’s Hartnett Sees Risk-Off Mood Lasting Until Mid-November",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/bofa-s-hartnett-sees-risk-off-mood-lasting-until-mid-november",
+        "published": "Fri, 23 Oct 2026 09:48:54 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Swiggy Shares Plunge After Losses Mount on Intense Competition",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/swiggy-shares-plunge-after-losses-mount-on-intense-competition",
-        "published": "Fri, 23 Oct 2026 04:37:51 GMT"
+        "title": "French Bond Risk Nears Biggest Weekly Rise as Crisis Deepens",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/french-bond-risk-nears-biggest-weekly-rise-as-crisis-deepens",
+        "published": "Fri, 23 Oct 2026 09:41:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Singapore Exchange’s Loh Plans to Hand Over Reins After Decade",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/singapore-exchange-s-loh-plans-to-hand-over-reins-after-decade",
-        "published": "Fri, 23 Oct 2026 04:30:10 GMT"
+        "title": "Ship With Russian Diesel Signals US Port After Trump-Putin Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/ship-with-russian-diesel-signals-us-port-after-trump-putin-deal",
+        "published": "Fri, 23 Oct 2026 09:40:44 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/china-ai-model-stocks-150-billion-drop-shows-no-sign-of-easing",
-        "published": "Fri, 23 Oct 2026 00:30:00 GMT"
+        "title": "Retail Deleveraging Sinks India Small Caps Most Since March",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/margin-trade-liquidation-speeds-indian-small-cap-stock-decline",
+        "published": "Fri, 23 Oct 2026 07:04:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Blackstone's Early Bet on AI",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/blackstone-s-early-bet-on-ai",
-        "published": "Fri, 23 Oct 2026 04:02:02 GMT"
+        "title": "AI IPOs Stall While Private Markets Heat Up",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/ai-ipos-stall-while-private-markets-heat-up-video",
+        "published": "Fri, 23 Oct 2026 09:24:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Pentagon’s Venezuelan Oil Partner Nabep Adds Rig, Boosts Output",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/pentagon-s-venezuelan-oil-partner-nabep-adds-rig-boosts-output",
-        "published": "Fri, 23 Oct 2026 04:00:05 GMT"
+        "title": "Treasuries’ AI Link Shows Sharp Shift as Haven Trade Returns",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/treasuries-link-to-ai-shows-sharp-shift-as-haven-trade-returns",
+        "published": "Fri, 23 Oct 2026 03:19:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Indonesian Corporate Bond Premia Hit Six-Year High on MSCI Angst",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/indonesian-corporate-bond-premia-hit-six-year-high-on-msci-angst",
-        "published": "Fri, 23 Oct 2026 03:50:21 GMT"
+        "title": "Europe’s Luxury Giants Hit Lowest Valuations in a Decade",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/europe-luxury-lvmh-hermes-trade-at-lowest-valuations-decade",
+        "published": "Fri, 23 Oct 2026 05:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Are AI Data Centers Overvalued?",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-tech-asia-data-centers-10-23-2026-video",
-        "published": "Fri, 23 Oct 2026 03:39:26 GMT"
+        "title": "Volvo Car CEO on Earnings, China Market, Job Cuts",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/volvo-car-ceo-on-earnings-china-cost-cutting",
+        "published": "Fri, 23 Oct 2026 09:00:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Palm Oil Fluctuates as Market Faces Dueling Supply Outlooks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/palm-oil-fluctuates-as-market-faces-dueling-supply-outlooks",
-        "published": "Fri, 23 Oct 2026 03:33:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Stocks Sink Further as State Buying Offers Little Relief",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/china-stocks-sink-deeper-into-bear-market-despite-state-buying",
-        "published": "Fri, 23 Oct 2026 02:13:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rupee Rally Faces Limits From India’s Oil and Dollar Problem",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/rupee-rally-faces-limits-from-india-s-oil-and-dollar-problem",
-        "published": "Fri, 23 Oct 2026 03:23:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Japanese Bonds Rally as Global Tech Rout Fuels Haven Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/yen-hits-one-month-high-as-us-tech-rout-revives-haven-appeal",
-        "published": "Fri, 23 Oct 2026 01:15:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Dips Below $4,000 as Deepening Stock Rout Fuels Volatility",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility",
-        "published": "Fri, 23 Oct 2026 00:15:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Copper Heads for Weekly Loss as AI Selloff Hurts Risk Appetite",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/copper-heads-for-weekly-loss-as-ai-selloff-hurts-risk-appetite",
-        "published": "Fri, 23 Oct 2026 03:00:19 GMT"
+        "title": "How Prediction Markets Upstaged Election Polls",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/how-prediction-markets-upstaged-election-polls",
+        "published": "Fri, 23 Oct 2026 09:00:11 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Tesla oder SpaceX? Erwartungen an SAP? Dax-Risiko Frankreich?",
+        "link": "https://www.onvista.de/news/2026/10-23-tesla-oder-spacex-sap-erwartungen-dax-risiko-frankreich-41121301-19-26567153",
+        "published": "Fri, 23 Oct 2026 12:00:00 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Nach neuem Rutsch: Dienstagstief könnte in den Fokus rücken",
+        "link": "https://www.onvista.de/news/2026/10-23-nach-neuem-rutsch-dienstagstief-koennte-in-den-fokus-ruecken-41123281-19-26567598",
+        "published": "Fri, 23 Oct 2026 11:03:53 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Ölpreise und schwache Nasdaq belasten Dax",
+        "link": "https://www.onvista.de/news/2026/10-23-oelpreise-und-schwache-nasdaq-belasten-dax-41121301-19-26567567",
+        "published": "Fri, 23 Oct 2026 09:45:01 +0200"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Nasdaq-Rutsch dürfte auch den Dax belasten",
+        "link": "https://www.onvista.de/news/2026/10-23-nasdaq-rutsch-duerfte-auch-den-dax-belasten-41121301-19-26567510",
+        "published": "Fri, 23 Oct 2026 08:03:05 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Geschäfts- und Quartalsberichte heute, 23.10.2026",
@@ -371,30 +395,6 @@
         "title": "Friedrich Vorwerk: Die Aktie steigt nach Rekordzahlen",
         "link": "https://www.onvista.de/news/2026/10-21-friedrich-vorwerk-die-aktie-steigt-nach-rekordzahlen-40338625-19-26566807",
         "published": "Wed, 21 Oct 2026 16:45:57 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Super Micro Computer: Die Risiken bleiben trotz Umsatzsprung hoch",
-        "link": "https://www.onvista.de/news/2026/10-21-super-micro-computer-die-risiken-bleiben-trotz-umsatzsprung-hoch-40338625-19-26566815",
-        "published": "Wed, 21 Oct 2026 16:45:09 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Netflix: Schwächere Werbeprognose belastet die Aktie",
-        "link": "https://www.onvista.de/news/2026/10-21-netflix-schwaechere-werbeprognose-belastet-die-aktie-40338625-19-26566816",
-        "published": "Wed, 21 Oct 2026 16:43:53 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "General Motors: Der Gewinnausblick enttäuscht trotz Umsatzplus",
-        "link": "https://www.onvista.de/news/2026/10-21-general-motors-der-gewinnausblick-enttaeuscht-trotz-umsatzplus-40338625-19-26566811",
-        "published": "Wed, 21 Oct 2026 16:43:11 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Intuitive Surgical: Aktie fällt trotz Rekordgewinn",
-        "link": "https://www.onvista.de/news/2026/10-21-intuitive-surgical-aktie-faellt-trotz-rekordgewinn-40338625-19-26566814",
-        "published": "Wed, 21 Oct 2026 16:42:32 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -462,15 +462,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: SAP-Umbau trägt Früchte",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
-        "published": "Thu, 22 Oct 2026 14:10:58 +0200"
+        "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
+        "published": "Fri, 23 Oct 2026 11:13:15 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX fällt wieder zurück",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
-        "published": "Thu, 22 Oct 2026 18:36:57 +0200"
+        "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+        "published": "Fri, 23 Oct 2026 10:45:11 +0200"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Marktbericht: SAP-Umbau trägt Früchte",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
+        "published": "Thu, 22 Oct 2026 14:10:58 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Rüstungskonzern KNDS bekräftigt Börsenpläne",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-boersengaenge-100.html",
         "published": "Thu, 01 Oct 2026 14:32:53 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Commerzbank-Aktie gerät unter Druck",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/schwerpunkt-commerzbank-aktie-uebernahme-unicredit-100.html",
-        "published": "Wed, 30 Sep 2026 13:38:08 +0200"
       }
     ]
   }
