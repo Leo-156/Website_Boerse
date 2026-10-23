@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-10-23T15:13:35.061578+00:00",
+  "updated_at": "2026-10-23T19:11:21.542397+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax verliert zeitweise 300 Punkte – und nähert sich 25.000-Punkte-Marke",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-naehert-sich-25.000-punkte-marke/100264417.html",
-        "published": "Fri, 23 Oct 2026 15:08:10 GMT"
+        "title": "US-Börsen: Wall Street notiert im Minus – Anleiherenditen sinken",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-im-minus-anleiherenditen-sinken/100264495.html",
+        "published": "Fri, 23 Oct 2026 18:44:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt im Minus und hält sich nur knapp über 25.000 Punkten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-nur-knapp-ueber-25.000-punkten/100264417.html",
+        "published": "Fri, 23 Oct 2026 15:59:56 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -19,12 +25,6 @@
         "title": "Immobilien: „Die nachhaltigste Immobilie ist die, die bereits existiert“",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-die-nachhaltigste-immobilie-ist-die-die-bereits-existiert/100258274.html",
         "published": "Fri, 23 Oct 2026 14:56:01 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Wall Street notiert im Minus – Anleiherenditen sinken",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-im-minus-anleiherenditen-sinken/100264495.html",
-        "published": "Fri, 23 Oct 2026 14:51:15 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -126,9 +126,33 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "SLB Sees Growth Driven by Middle East Oil Field Recovery",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/slb-sees-growth-driven-by-middle-east-oil-field-recovery",
-        "published": "Fri, 23 Oct 2026 11:27:35 GMT"
+        "title": "Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
+        "published": "Thu, 22 Oct 2026 22:05:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Municipal Bond Sales Cross $500 Billion Mark at Record Pace",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/municipal-bond-sales-cross-500-billion-mark-at-record-pace",
+        "published": "Fri, 23 Oct 2026 18:57:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "El combustible complica los planes de aerolíneas en Latinoamérica",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/combustible-complica-planes-aerolineas-en-latinoamerica-video",
+        "published": "Fri, 23 Oct 2026 18:55:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Florida Retiree Mega-Complex’s Muni Bond Deal Sees Strong Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/florida-retiree-mega-complex-s-muni-bond-deal-sees-strong-demand",
+        "published": "Fri, 23 Oct 2026 18:26:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Something Is Going on With the Discount Window",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/something-is-going-on-with-the-discount-window",
+        "published": "Fri, 23 Oct 2026 18:16:09 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -138,114 +162,96 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wheat Slides for Eighth Week in Longest Losing Streak Since 1997",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/wheat-slides-for-eighth-week-in-longest-losing-streak-since-1997",
-        "published": "Fri, 23 Oct 2026 04:40:17 GMT"
+        "title": "Repo Market Set for Volatility in Late Clearing Push, CIBC Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/repo-market-set-for-volatility-in-late-clearing-push-cibc-says",
+        "published": "Fri, 23 Oct 2026 17:20:58 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 22 Oct 2026 22:05:06 GMT"
+        "title": "GM Shares Eye Worst Week Since 2023 Amid Wider Autos Selloff",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/gm-analysts-say-buy-the-dip-as-stock-eyes-worst-week-since-2025",
+        "published": "Fri, 23 Oct 2026 12:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Hedge Funds Suffer Widest Daily Drawdown Since Covid",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/hedge-funds-suffer-widest-daily-drawdown-since-covid-video",
-        "published": "Fri, 23 Oct 2026 14:42:06 GMT"
+        "title": "US Consumer Sentiment Slips to Five-Month Low on Inflation",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-consumer-sentiment-slips-to-five-month-low-video",
+        "published": "Fri, 23 Oct 2026 16:20:54 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasuries’ AI Link Shows Sharp Shift as Haven Trade Returns",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/treasuries-link-to-ai-shows-sharp-shift-as-haven-trade-returns",
-        "published": "Fri, 23 Oct 2026 03:19:02 GMT"
+        "title": "Rehab Centers Whose Founder Was Convicted of Fraud Eye Muni Sale",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/rehab-centers-whose-founder-was-convicted-of-fraud-eye-muni-sale",
+        "published": "Fri, 23 Oct 2026 16:16:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Jio’s Record IPO Draws Strong Demand, Defying India Market Rout",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/jio-s-record-ipo-draws-strong-demand-defying-india-market-rout",
-        "published": "Fri, 23 Oct 2026 12:03:47 GMT"
+        "title": "Bolsonaro Trade Faces Reckoning in Too-Close-to-Call Brazil Vote",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/bolsonaro-trade-faces-reckoning-in-too-close-to-call-brazil-vote",
+        "published": "Fri, 23 Oct 2026 11:00:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Consumer Sentiment Slips to Five-Month Low on Inflation",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/us-consumer-sentiment-slips-to-five-month-low-on-inflation-woes",
-        "published": "Fri, 23 Oct 2026 14:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brazil Elections: Tight Polls Intensify Race in Final Stretch",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/brazil-elections-tight-polls-intensify-race-in-final-stretch",
-        "published": "Fri, 23 Oct 2026 14:18:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "BASF Increases Bid for Chemicals Rival Evonik to Over €11 Billion",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/basf-increases-bid-for-chemicals-rival-evonik-to-over-11-billion",
-        "published": "Fri, 23 Oct 2026 11:15:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "French Buyers Not Ready To Step in Right Now: Kumra",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-22/french-buyers-not-ready-to-step-in-right-now-kumra-video",
-        "published": "Thu, 22 Oct 2026 18:50:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "French Bond Risk Nears Biggest Weekly Rise as Crisis Deepens",
+        "title": "French Bond Risk Gauge Rises Another Week as Crisis Deepens",
         "link": "https://www.bloomberg.com/news/articles/2026-10-23/french-bond-risk-nears-biggest-weekly-rise-as-crisis-deepens",
         "published": "Fri, 23 Oct 2026 09:41:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Germany Wants to Stop More Oil Refinery Closures as Costs Mount",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/germany-wants-to-stop-more-oil-refinery-closures-as-costs-mount",
-        "published": "Fri, 23 Oct 2026 13:25:34 GMT"
+        "title": "Rogers Beats But Stock Falls With SpaceX Ambitions in Focus",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/rogers-beats-on-sports-revenue-as-wireless-remains-sluggish",
+        "published": "Fri, 23 Oct 2026 11:27:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Five Questions for NBCUniversal Entertainment Chairman Donna Langley",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-21/five-questions-for-nbcuniversal-entertainment-chairman-donna-langley",
-        "published": "Wed, 21 Oct 2026 12:00:24 GMT"
+        "title": "The Circuit - Season 6 Trailer",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/the-circuit-season-6-trailer-video",
+        "published": "Fri, 23 Oct 2026 15:57:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Scam Victims Leave Gold in Forest in Growing Norwegian Fraud",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/norwegians-leave-gold-in-forest-as-some-fall-for-scam",
-        "published": "Thu, 22 Oct 2026 12:16:20 GMT"
+        "title": "De olho nas eleições",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/de-olho-nas-eleicoes-video-mvl5d8vg",
+        "published": "Fri, 23 Oct 2026 15:51:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Armenia’s Largest Lender Ardshinbank Is Said to Weigh London IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/armenia-s-largest-lender-ardshinbank-is-said-to-weigh-london-ipo",
-        "published": "Fri, 23 Oct 2026 12:54:53 GMT"
+        "title": "European Stocks Fall as China Woes Hit Volvo Car, Gucci",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/european-stocks-fall-as-china-woes-hit-volvo-car-gucci",
+        "published": "Fri, 23 Oct 2026 07:34:28 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "How Big Law Makes Billions: The Power of Law Firm Leverage",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/how-big-law-firms-use-leverage-to-make-billions-video",
-        "published": "Fri, 23 Oct 2026 12:53:58 GMT"
+        "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/ai-fears-push-global-credit-spreads-to-17-month-high-video",
+        "published": "Fri, 23 Oct 2026 15:37:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China’s CMOC Sees Earnings Soar on Copper Rally and More Output",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/china-s-cmoc-sees-earnings-soar-on-copper-rally-and-more-output",
-        "published": "Fri, 23 Oct 2026 12:52:15 GMT"
+        "title": "Stocks Continue to Sell Off as Rising Oil Prices Keep Lid on Treasuries",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-surveillance-10-23-2026-video",
+        "published": "Fri, 23 Oct 2026 15:35:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Copper Trims Weekly Decline as Selloff in AI Stocks Eases",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/copper-heads-for-weekly-loss-as-ai-selloff-hurts-risk-appetite",
-        "published": "Fri, 23 Oct 2026 03:00:19 GMT"
+        "title": "Decker Outdoor Tumbles on Guidance; Amex to Cut Workforce | Stock Movers",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/decker-outdoor-down-on-guidance-amex-to-cut-workforce-video",
+        "published": "Fri, 23 Oct 2026 15:29:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "GM Analysts Say Buy the Dip as Stock Eyes Worst Week Since 2025",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/gm-analysts-say-buy-the-dip-as-stock-eyes-worst-week-since-2025",
-        "published": "Fri, 23 Oct 2026 12:30:00 GMT"
+        "title": "CFTC Takes Oil Trading Oversight ‘Very Seriously,’ Selig Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/cftc-takes-very-seriously-oil-trading-oversight-selig-says",
+        "published": "Fri, 23 Oct 2026 15:26:38 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Leitindex gibt nach – Telekom verliert Vortagesgewinne",
+        "link": "https://www.onvista.de/news/2026/10-23-leitindex-gibt-nach-telekom-verliert-vortagesgewinne-41121301-19-26567784",
+        "published": "Fri, 23 Oct 2026 17:45:57 +0200"
+      },
       {
         "source": "onvista – News",
         "title": "Bienchen übernimmt die Führung und Georg dreht das Experten-Duell",
@@ -389,12 +395,6 @@
         "title": "MBB: Trotz höherer Prognose bleibt Abwarten sinnvoll",
         "link": "https://www.onvista.de/news/2026/10-21-mbb-trotz-hoeherer-prognose-bleibt-abwarten-sinnvoll-40338625-19-26566808",
         "published": "Wed, 21 Oct 2026 16:48:15 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "RTX: Die Aktie kann bis auf 220 Dollar steigen",
-        "link": "https://www.onvista.de/news/2026/10-21-rtx-die-aktie-kann-bis-auf-220-dollar-steigen-40338625-19-26566813",
-        "published": "Wed, 21 Oct 2026 16:47:42 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
+        "title": "Marktbericht: DAX-Anleger meiden das Risiko",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
-        "published": "Fri, 23 Oct 2026 10:45:11 +0200"
+        "published": "Fri, 23 Oct 2026 18:38:57 +0200"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
