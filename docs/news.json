@@ -1,11 +1,17 @@
 {
-  "updated_at": "2026-10-23T19:11:21.542397+00:00",
+  "updated_at": "2026-10-23T22:05:24.110902+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Wall Street notiert im Minus – Anleiherenditen sinken",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-im-minus-anleiherenditen-sinken/100264495.html",
+        "title": "Staatsfinanzen: Frankreichs Schuldenkrise verschärft sich – Moody’s hält Kreditrating trotzdem stabil",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/frankreich-moodys-haelt-kreditrating-trotz-schuldenkrise-stabil/100264304.html",
+        "published": "Fri, 23 Oct 2026 21:48:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: Dow Jones verliert mehr als 600 Punkte – Anleiherenditen sinken",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-dow-jones-verliert-mehr-als-600-punkte-anleiherenditen-sinken/100264495.html",
         "published": "Fri, 23 Oct 2026 18:44:00 GMT"
       },
       {
@@ -115,20 +121,116 @@
         "title": "Geldpolitik: Türkische Zentralbank senkt Leitzins nach längerer Pause",
         "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-tuerkische-zentralbank-senkt-leitzins-nach-laengerer-pause/100264256.html",
         "published": "Thu, 22 Oct 2026 12:14:50 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nasdaq: Coreweave-Aktie bricht ein – Analysten halten das für ein Missverständnis",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-analysten-halten-kurseinbruch-von-coreweave-fuer-ein-missverstaendnis/100264117.html",
-        "published": "Thu, 22 Oct 2026 11:50:29 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "US Family Annual Healthcare Plan Now Costs More Than $28K",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-family-healthcare-plan-now-costs-more-than-28k-video",
+        "published": "Fri, 23 Oct 2026 21:58:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The Circuit - Season 6 Trailer",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/the-circuit-season-6-trailer-video",
+        "published": "Fri, 23 Oct 2026 15:57:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Cidade do Pará rebelada contra política ambiental abraça Flávio",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/cidade-do-para-abraca-flavio-video",
+        "published": "Fri, 23 Oct 2026 21:51:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Robin Wigglesworth on the Importance of Curiosity",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/robin-wigglesworth-on-the-importance-of-curiosity-video",
+        "published": "Fri, 23 Oct 2026 21:39:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "National Wealth Tax Could Work: Tilson",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/national-wealth-tax-could-work-tilson-video",
+        "published": "Fri, 23 Oct 2026 21:34:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "San Diego to Leave Muni Bond Group After SEC Oversight Concerns",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/san-diego-to-leave-muni-bond-group-after-sec-oversight-concerns",
+        "published": "Fri, 23 Oct 2026 21:29:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Chipmakers Post Longest Weekly Drop Since November",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/chipmakers-post-longest-weekly-drop-since-november-video",
+        "published": "Fri, 23 Oct 2026 20:57:57 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hedge Funds Are Record Short Natural Gas on Mild Winter Outlook",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-are-record-short-natural-gas-on-mild-winter-outlook",
+        "published": "Fri, 23 Oct 2026 20:54:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bolsonaro Trade Faces Reckoning in Too-Close-to-Call Brazil Vote",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/bolsonaro-trade-faces-reckoning-in-too-close-to-call-brazil-vote",
+        "published": "Fri, 23 Oct 2026 11:00:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "NYSE Options Exchange Trading Halted by ‘Technical Issue’",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/nyse-options-exchange-trading-halted-by-technical-issue",
+        "published": "Fri, 23 Oct 2026 15:16:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-trade-stumbles-again-as-investors-rediscover-treasury-haven",
+        "published": "Fri, 23 Oct 2026 20:32:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SpaceX Shakes Up Telecom Stocks | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/spacex-shakes-up-telecom-stocks-closing-bell-video",
+        "published": "Fri, 23 Oct 2026 20:21:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "GM Shares Suffer Worst Week Since 2023 Amid Wider Autos Selloff",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/gm-analysts-say-buy-the-dip-as-stock-eyes-worst-week-since-2025",
+        "published": "Fri, 23 Oct 2026 12:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 22 Oct 2026 22:05:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oncologists Cheer Melanoma Data",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/oncologists-cheer-melanoma-data-video",
+        "published": "Fri, 23 Oct 2026 19:58:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hedge Funds Lift Bearish Euro Bets to Most Since 2020: CFTC",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-lift-bearish-euro-bets-to-most-since-2020-cftc",
+        "published": "Fri, 23 Oct 2026 19:49:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 23",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-22/latest-oil-market-news-and-analysis-for-oct-23",
+        "published": "Thu, 22 Oct 2026 22:08:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries’ AI Link Shows Sharp Shift as Haven Trade Returns",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/treasuries-link-to-ai-shows-sharp-shift-as-haven-trade-returns",
+        "published": "Fri, 23 Oct 2026 03:19:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -141,108 +243,6 @@
         "title": "El combustible complica los planes de aerolíneas en Latinoamérica",
         "link": "https://www.bloomberg.com/news/videos/2026-10-23/combustible-complica-planes-aerolineas-en-latinoamerica-video",
         "published": "Fri, 23 Oct 2026 18:55:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Florida Retiree Mega-Complex’s Muni Bond Deal Sees Strong Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/florida-retiree-mega-complex-s-muni-bond-deal-sees-strong-demand",
-        "published": "Fri, 23 Oct 2026 18:26:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Something Is Going on With the Discount Window",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/something-is-going-on-with-the-discount-window",
-        "published": "Fri, 23 Oct 2026 18:16:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 23",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/latest-oil-market-news-and-analysis-for-oct-23",
-        "published": "Thu, 22 Oct 2026 22:08:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Repo Market Set for Volatility in Late Clearing Push, CIBC Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/repo-market-set-for-volatility-in-late-clearing-push-cibc-says",
-        "published": "Fri, 23 Oct 2026 17:20:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "GM Shares Eye Worst Week Since 2023 Amid Wider Autos Selloff",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/gm-analysts-say-buy-the-dip-as-stock-eyes-worst-week-since-2025",
-        "published": "Fri, 23 Oct 2026 12:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Consumer Sentiment Slips to Five-Month Low on Inflation",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-consumer-sentiment-slips-to-five-month-low-video",
-        "published": "Fri, 23 Oct 2026 16:20:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rehab Centers Whose Founder Was Convicted of Fraud Eye Muni Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/rehab-centers-whose-founder-was-convicted-of-fraud-eye-muni-sale",
-        "published": "Fri, 23 Oct 2026 16:16:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bolsonaro Trade Faces Reckoning in Too-Close-to-Call Brazil Vote",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/bolsonaro-trade-faces-reckoning-in-too-close-to-call-brazil-vote",
-        "published": "Fri, 23 Oct 2026 11:00:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "French Bond Risk Gauge Rises Another Week as Crisis Deepens",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/french-bond-risk-nears-biggest-weekly-rise-as-crisis-deepens",
-        "published": "Fri, 23 Oct 2026 09:41:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rogers Beats But Stock Falls With SpaceX Ambitions in Focus",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/rogers-beats-on-sports-revenue-as-wireless-remains-sluggish",
-        "published": "Fri, 23 Oct 2026 11:27:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Circuit - Season 6 Trailer",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/the-circuit-season-6-trailer-video",
-        "published": "Fri, 23 Oct 2026 15:57:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "De olho nas eleições",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/de-olho-nas-eleicoes-video-mvl5d8vg",
-        "published": "Fri, 23 Oct 2026 15:51:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "European Stocks Fall as China Woes Hit Volvo Car, Gucci",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/european-stocks-fall-as-china-woes-hit-volvo-car-gucci",
-        "published": "Fri, 23 Oct 2026 07:34:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/ai-fears-push-global-credit-spreads-to-17-month-high-video",
-        "published": "Fri, 23 Oct 2026 15:37:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Continue to Sell Off as Rising Oil Prices Keep Lid on Treasuries",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-surveillance-10-23-2026-video",
-        "published": "Fri, 23 Oct 2026 15:35:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Decker Outdoor Tumbles on Guidance; Amex to Cut Workforce | Stock Movers",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/decker-outdoor-down-on-guidance-amex-to-cut-workforce-video",
-        "published": "Fri, 23 Oct 2026 15:29:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "CFTC Takes Oil Trading Oversight ‘Very Seriously,’ Selig Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/cftc-takes-very-seriously-oil-trading-oversight-selig-says",
-        "published": "Fri, 23 Oct 2026 15:26:38 GMT"
       }
     ],
     "onvista – News": [
