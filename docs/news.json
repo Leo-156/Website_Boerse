@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-24T13:24:51.214304+00:00",
+  "updated_at": "2026-10-24T16:43:30.981634+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Wo KI in der Hausverwaltung wirklich hilft – und wann sie teuer wird",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-ki-vermietern-wirklich-hilft-und-wo-sie-zum-risiko-wird/100262229.html",
+        "published": "Sat, 24 Oct 2026 14:00:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Immobilien: Diese Orte sind für Pendler im Kölner Umland besonders attraktiv",
@@ -115,15 +121,75 @@
         "title": "Musterdepot – Zukunft: KI in der Medizin – welche Aktien jetzt interessant sind",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-ki-in-der-medizin-welche-aktien-jetzt-interessant-sind/100264124.html",
         "published": "Thu, 22 Oct 2026 15:33:01 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Ölpreis: Das Ölparadox: Warum die Preise steigen, obwohl das Angebot wächst",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oelpreis-warum-mehr-oel-die-preise-nicht-sinken-laesst/100263331.html",
-        "published": "Fri, 23 Oct 2026 06:47:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "French Protestors Dispersed with Gas as Tensions Rise",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video",
+        "published": "Sat, 24 Oct 2026 16:31:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/-total-meltdown-in-riskiest-debt-unnerves-market-credit-weekly",
+        "published": "Sat, 24 Oct 2026 15:21:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Metals Traders Reap Bonanza With Another Year of Record Profits",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/metals-traders-reap-bonanza-with-another-year-of-record-profits",
+        "published": "Sat, 24 Oct 2026 14:45:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The Real Medical Detective Who Inspired Sherlock Holmes",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/the-real-medical-detective-who-inspired-sherlock-holmes-video",
+        "published": "Sat, 24 Oct 2026 14:36:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Venezuela to Restart a Crucial Power Plant With China’s Help",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/venezuela-to-restart-a-crucial-power-plant-with-china-s-help",
+        "published": "Sat, 24 Oct 2026 14:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Dalmore Said to Express Interest in Cinven-Owned UK Supplier JLA",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/dalmore-said-to-express-interest-in-cinven-owned-uk-supplier-jla",
+        "published": "Sat, 24 Oct 2026 14:08:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How This County Made the Data Center Boom Pay Off",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/how-this-county-made-the-data-center-boom-pay-off-video",
+        "published": "Sat, 24 Oct 2026 14:03:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Indonesia Begins Trimming Pipeline Gas Exports to Singapore",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore",
+        "published": "Sat, 24 Oct 2026 07:48:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Inside Gershkovich’s 16 Months in Russian Prisons",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/inside-gershkovich-s-16-months-in-russian-prisons-video",
+        "published": "Sat, 24 Oct 2026 13:53:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/by-the-way-headlines-you-may-have-missed-video",
+        "published": "Sat, 24 Oct 2026 13:38:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "HR Navigates AI and a Changing Workplace",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/hr-navigates-ai-and-a-changing-workplace-video",
+        "published": "Sat, 24 Oct 2026 13:29:52 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Persistent Oil Prices Threaten Inflation Outlook",
@@ -168,12 +234,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Indonesia Begins Trimming Pipeline Gas Exports to Singapore",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore",
-        "published": "Sat, 24 Oct 2026 07:48:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Mauritius Carrier Looks at Narrow-Body Jets in Fleet Overhaul",
         "link": "https://www.bloomberg.com/news/articles/2026-10-24/mauritius-carrier-looks-at-narrow-body-jets-in-fleet-overhaul",
         "published": "Sat, 24 Oct 2026 08:59:12 GMT"
@@ -183,66 +243,6 @@
         "title": "Odd Lots: How to Run a Restaurant For Three Decades (Podcast)",
         "link": "https://www.bloomberg.com/news/audio/2026-10-24/odd-lots-how-to-run-a-restaurant-for-three-decades-podcast",
         "published": "Sat, 24 Oct 2026 08:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Swiss Stocks Are Becoming a Haven From AI Fears Roiling Markets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/swiss-stocks-are-becoming-a-haven-from-ai-fears-roiling-markets",
-        "published": "Sat, 24 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US LNG Project Developer Funded by Russia’s Novatek, FT Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/us-lng-project-developer-funded-by-russia-s-novatek-ft-says",
-        "published": "Sat, 24 Oct 2026 04:24:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "India Regulator Orders Options Trainer Avadhut Sathe to Refund INR 5.46B",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/india-regulator-orders-options-trainer-avadhut-sathe-to-refund-inr-5-46b",
-        "published": "Sat, 24 Oct 2026 03:54:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Singapore Expands Haze Investigation to 10 Locally Based Firms",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/singapore-expands-haze-investigation-to-10-locally-based-firms",
-        "published": "Sat, 24 Oct 2026 03:20:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/iran-plots-houthi-attacks-spurred-us-depature-orders-in-mideast",
-        "published": "Sat, 24 Oct 2026 02:43:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Growth, Value Stocks Set for Reshuffle as S&P Adopts New Rules",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules",
-        "published": "Sat, 24 Oct 2026 00:12:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wealth Tax Debate, Midterm Investing, AI Anxiety",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-money-10-23-2026-video",
-        "published": "Fri, 23 Oct 2026 22:47:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Andrew Brandt on MLB Salary Cap Fight as World Series Begins",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/andrew-brandt-on-mlb-salary-cap-as-world-series-begins-video",
-        "published": "Fri, 23 Oct 2026 22:09:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How Valterra's Forging the Future of Platinum | Chief Financial Officer",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-15/how-valterra-s-forging-the-future-of-platinum-video",
-        "published": "Thu, 15 Oct 2026 01:30:10 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "'Notes on Being a Man', 'The Invisible Hand'",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/-notes-on-being-a-man-the-invisible-hand-video",
-        "published": "Fri, 23 Oct 2026 22:05:12 GMT"
       }
     ],
     "onvista – News": [
