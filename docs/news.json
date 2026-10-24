@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-24T09:18:17.146334+00:00",
+  "updated_at": "2026-10-24T13:24:51.214304+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Diese Orte sind für Pendler im Kölner Umland besonders attraktiv",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-diese-orte-sind-fuer-pendler-im-koelner-umland-besonders-attraktiv/100260822.html",
+        "published": "Sat, 24 Oct 2026 11:56:44 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Interview: Star-Investor Howard Marks: „Wir müssen uns auf dauerhaft höhere Kapitalkosten einstellen“",
@@ -115,15 +121,57 @@
         "title": "Ölpreis: Das Ölparadox: Warum die Preise steigen, obwohl das Angebot wächst",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oelpreis-warum-mehr-oel-die-preise-nicht-sinken-laesst/100263331.html",
         "published": "Fri, 23 Oct 2026 06:47:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Barclays streicht 5000 Stellen – trotz Gewinnplus",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-barclays-streicht-5000-stellen-trotz-gewinnplus/100264135.html",
-        "published": "Thu, 22 Oct 2026 12:41:20 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Persistent Oil Prices Threaten Inflation Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/persistent-oil-prices-threaten-inflation-outlook-video",
+        "published": "Sat, 24 Oct 2026 13:19:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Russian Diesel Deal Confronts Legal Uncertainty",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/russian-diesel-deal-confronts-legal-uncertainty-video",
+        "published": "Sat, 24 Oct 2026 12:55:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "France Faces New Protests After Week of Violence",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/france-faces-new-protests-after-week-of-violence-video",
+        "published": "Sat, 24 Oct 2026 12:23:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gershkovich Says Putin Seeks His Terms, Not a Deal",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/gershkovich-says-putin-seeks-his-terms-not-a-deal-video",
+        "published": "Sat, 24 Oct 2026 11:54:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil Markets Brace for Renewed Iran Fighting",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/oil-markets-brace-for-renewed-iran-fighting-video",
+        "published": "Sat, 24 Oct 2026 11:39:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Kenya Records Second Ebola Death as Uganda Restricts Transit",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
+        "published": "Sat, 24 Oct 2026 04:41:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Barclays ‘House of Fixed Income’ Pins Future Growth on Equities",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/barclays-house-of-fixed-income-pins-future-growth-on-equities",
+        "published": "Sat, 24 Oct 2026 11:02:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Indonesia Begins Trimming Pipeline Gas Exports to Singapore",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore",
+        "published": "Sat, 24 Oct 2026 07:48:56 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Mauritius Carrier Looks at Narrow-Body Jets in Fleet Overhaul",
@@ -138,12 +186,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Indonesia Begins Trimming Pipeline Gas Exports to Singapore",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore",
-        "published": "Sat, 24 Oct 2026 07:48:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Swiss Stocks Are Becoming a Haven From AI Fears Roiling Markets",
         "link": "https://www.bloomberg.com/news/articles/2026-10-24/swiss-stocks-are-becoming-a-haven-from-ai-fears-roiling-markets",
         "published": "Sat, 24 Oct 2026 07:00:00 GMT"
@@ -153,12 +195,6 @@
         "title": "US LNG Project Developer Funded by Russia’s Novatek, FT Says",
         "link": "https://www.bloomberg.com/news/articles/2026-10-24/us-lng-project-developer-funded-by-russia-s-novatek-ft-says",
         "published": "Sat, 24 Oct 2026 04:24:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Kenya Records Second Ebola Death, a Close Relative of First Case",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
-        "published": "Sat, 24 Oct 2026 04:41:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -207,42 +243,6 @@
         "title": "'Notes on Being a Man', 'The Invisible Hand'",
         "link": "https://www.bloomberg.com/news/videos/2026-10-23/-notes-on-being-a-man-the-invisible-hand-video",
         "published": "Fri, 23 Oct 2026 22:05:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Family Annual Healthcare Plan Now Costs More Than $28K",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-family-healthcare-plan-now-costs-more-than-28k-video",
-        "published": "Fri, 23 Oct 2026 21:58:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/data-centers-face-downgrade-risk-amid-local-pushback-s-p-says",
-        "published": "Fri, 23 Oct 2026 21:56:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Circuit - Season 6 Trailer",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/the-circuit-season-6-trailer-video",
-        "published": "Fri, 23 Oct 2026 15:57:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Cidade do Pará rebelada contra política ambiental abraça Flávio",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/cidade-do-para-abraca-flavio-video",
-        "published": "Fri, 23 Oct 2026 21:51:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Robin Wigglesworth on the Importance of Curiosity",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/robin-wigglesworth-on-the-importance-of-curiosity-video",
-        "published": "Fri, 23 Oct 2026 21:39:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "National Wealth Tax Could Work: Tilson",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/national-wealth-tax-could-work-tilson-video",
-        "published": "Fri, 23 Oct 2026 21:34:51 GMT"
       }
     ],
     "onvista – News": [
