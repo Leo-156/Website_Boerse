@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T00:36:08.314693+00:00",
+  "updated_at": "2026-10-24T04:59:48.303607+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,36 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Kenya Records Second Ebola Death, a Close Relative of First Case",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
+        "published": "Sat, 24 Oct 2026 04:41:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US LNG Project Developer Funded by Russia’s Novatek, FT Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/us-lng-project-developer-funded-by-russia-s-novatek-ft-says",
+        "published": "Sat, 24 Oct 2026 04:24:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Regulator Orders Options Trainer Avadhut Sathe to Refund INR 5.46B",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/india-regulator-orders-options-trainer-avadhut-sathe-to-refund-inr-5-46b",
+        "published": "Sat, 24 Oct 2026 03:54:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Singapore Expands Haze Investigation to 10 Locally Based Firms",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/singapore-expands-haze-investigation-to-10-locally-based-firms",
+        "published": "Sat, 24 Oct 2026 03:20:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/iran-plots-houthi-attacks-spurred-us-depature-orders-in-mideast",
+        "published": "Sat, 24 Oct 2026 02:43:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Growth, Value Stocks Set for Reshuffle as S&P Adopts New Rules",
         "link": "https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules",
         "published": "Sat, 24 Oct 2026 00:12:59 GMT"
@@ -213,36 +243,6 @@
         "title": "Bolsonaro Trade Faces Reckoning in Too-Close-to-Call Brazil Vote",
         "link": "https://www.bloomberg.com/news/articles/2026-10-23/bolsonaro-trade-faces-reckoning-in-too-close-to-call-brazil-vote",
         "published": "Fri, 23 Oct 2026 11:00:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "NYSE Options Exchange Trading Halted by ‘Technical Issue’",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/nyse-options-exchange-trading-halted-by-technical-issue",
-        "published": "Fri, 23 Oct 2026 15:16:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-trade-stumbles-again-as-investors-rediscover-treasury-haven",
-        "published": "Fri, 23 Oct 2026 20:32:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "SpaceX Shakes Up Telecom Stocks | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/spacex-shakes-up-telecom-stocks-closing-bell-video",
-        "published": "Fri, 23 Oct 2026 20:21:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "GM Shares Suffer Worst Week Since 2023 Amid Wider Autos Selloff",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/gm-analysts-say-buy-the-dip-as-stock-eyes-worst-week-since-2025",
-        "published": "Fri, 23 Oct 2026 12:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 22 Oct 2026 22:05:06 GMT"
       }
     ],
     "onvista – News": [
