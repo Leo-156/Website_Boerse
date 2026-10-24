@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-24T04:59:48.303607+00:00",
+  "updated_at": "2026-10-24T09:18:17.146334+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Interview: Star-Investor Howard Marks: „Wir müssen uns auf dauerhaft höhere Kapitalkosten einstellen“",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/star-investor-howard-marks-die-heutigen-zinsen-sind-vernuenftig/100261329.html",
+        "published": "Sat, 24 Oct 2026 07:07:17 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Staatsfinanzen: Frankreichs Schuldenkrise verschärft sich – Moody’s hält Kreditrating trotzdem stabil",
@@ -115,26 +121,44 @@
         "title": "Banken: Barclays streicht 5000 Stellen – trotz Gewinnplus",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-barclays-streicht-5000-stellen-trotz-gewinnplus/100264135.html",
         "published": "Thu, 22 Oct 2026 12:41:20 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldpolitik: Türkische Zentralbank senkt Leitzins nach längerer Pause",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-tuerkische-zentralbank-senkt-leitzins-nach-laengerer-pause/100264256.html",
-        "published": "Thu, 22 Oct 2026 12:14:50 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Kenya Records Second Ebola Death, a Close Relative of First Case",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
-        "published": "Sat, 24 Oct 2026 04:41:29 GMT"
+        "title": "Mauritius Carrier Looks at Narrow-Body Jets in Fleet Overhaul",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/mauritius-carrier-looks-at-narrow-body-jets-in-fleet-overhaul",
+        "published": "Sat, 24 Oct 2026 08:59:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Odd Lots: How to Run a Restaurant For Three Decades (Podcast)",
+        "link": "https://www.bloomberg.com/news/audio/2026-10-24/odd-lots-how-to-run-a-restaurant-for-three-decades-podcast",
+        "published": "Sat, 24 Oct 2026 08:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Indonesia Begins Trimming Pipeline Gas Exports to Singapore",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore",
+        "published": "Sat, 24 Oct 2026 07:48:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Swiss Stocks Are Becoming a Haven From AI Fears Roiling Markets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/swiss-stocks-are-becoming-a-haven-from-ai-fears-roiling-markets",
+        "published": "Sat, 24 Oct 2026 07:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
         "title": "US LNG Project Developer Funded by Russia’s Novatek, FT Says",
         "link": "https://www.bloomberg.com/news/articles/2026-10-24/us-lng-project-developer-funded-by-russia-s-novatek-ft-says",
         "published": "Sat, 24 Oct 2026 04:24:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Kenya Records Second Ebola Death, a Close Relative of First Case",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
+        "published": "Sat, 24 Oct 2026 04:41:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -219,30 +243,6 @@
         "title": "National Wealth Tax Could Work: Tilson",
         "link": "https://www.bloomberg.com/news/videos/2026-10-23/national-wealth-tax-could-work-tilson-video",
         "published": "Fri, 23 Oct 2026 21:34:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "San Diego to Leave Muni Bond Group After SEC Oversight Concerns",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/san-diego-to-leave-muni-bond-group-after-sec-oversight-concerns",
-        "published": "Fri, 23 Oct 2026 21:29:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Chipmakers Post Longest Weekly Drop Since November",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/chipmakers-post-longest-weekly-drop-since-november-video",
-        "published": "Fri, 23 Oct 2026 20:57:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hedge Funds Are Record Short Natural Gas on Mild Winter Outlook",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-are-record-short-natural-gas-on-mild-winter-outlook",
-        "published": "Fri, 23 Oct 2026 20:54:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bolsonaro Trade Faces Reckoning in Too-Close-to-Call Brazil Vote",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/bolsonaro-trade-faces-reckoning-in-too-close-to-call-brazil-vote",
-        "published": "Fri, 23 Oct 2026 11:00:04 GMT"
       }
     ],
     "onvista – News": [
