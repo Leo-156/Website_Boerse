@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T22:05:24.110902+00:00",
+  "updated_at": "2026-10-24T00:36:08.314693+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,9 +126,45 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Growth, Value Stocks Set for Reshuffle as S&P Adopts New Rules",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules",
+        "published": "Sat, 24 Oct 2026 00:12:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wealth Tax Debate, Midterm Investing, AI Anxiety",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-money-10-23-2026-video",
+        "published": "Fri, 23 Oct 2026 22:47:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Andrew Brandt on MLB Salary Cap Fight as World Series Begins",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/andrew-brandt-on-mlb-salary-cap-as-world-series-begins-video",
+        "published": "Fri, 23 Oct 2026 22:09:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How Valterra's Forging the Future of Platinum | Chief Financial Officer",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-15/how-valterra-s-forging-the-future-of-platinum-video",
+        "published": "Thu, 15 Oct 2026 01:30:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "'Notes on Being a Man', 'The Invisible Hand'",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-23/-notes-on-being-a-man-the-invisible-hand-video",
+        "published": "Fri, 23 Oct 2026 22:05:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "US Family Annual Healthcare Plan Now Costs More Than $28K",
         "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-family-healthcare-plan-now-costs-more-than-28k-video",
         "published": "Fri, 23 Oct 2026 21:58:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/data-centers-face-downgrade-risk-amid-local-pushback-s-p-says",
+        "published": "Fri, 23 Oct 2026 21:56:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -207,42 +243,6 @@
         "title": "Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 22 Oct 2026 22:05:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Oncologists Cheer Melanoma Data",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/oncologists-cheer-melanoma-data-video",
-        "published": "Fri, 23 Oct 2026 19:58:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hedge Funds Lift Bearish Euro Bets to Most Since 2020: CFTC",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-lift-bearish-euro-bets-to-most-since-2020-cftc",
-        "published": "Fri, 23 Oct 2026 19:49:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 23",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-22/latest-oil-market-news-and-analysis-for-oct-23",
-        "published": "Thu, 22 Oct 2026 22:08:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries’ AI Link Shows Sharp Shift as Haven Trade Returns",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/treasuries-link-to-ai-shows-sharp-shift-as-haven-trade-returns",
-        "published": "Fri, 23 Oct 2026 03:19:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Municipal Bond Sales Cross $500 Billion Mark at Record Pace",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/municipal-bond-sales-cross-500-billion-mark-at-record-pace",
-        "published": "Fri, 23 Oct 2026 18:57:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "El combustible complica los planes de aerolíneas en Latinoamérica",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-23/combustible-complica-planes-aerolineas-en-latinoamerica-video",
-        "published": "Fri, 23 Oct 2026 18:55:32 GMT"
       }
     ],
     "onvista – News": [
