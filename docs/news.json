@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T16:43:30.981634+00:00",
+  "updated_at": "2026-10-24T19:00:15.681207+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,9 +126,21 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "French Protestors Dispersed with Gas as Tensions Rise",
+        "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth",
+        "published": "Sat, 24 Oct 2026 17:05:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "French Protesters Dispersed with Gas as Tensions Rise",
         "link": "https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video",
         "published": "Sat, 24 Oct 2026 16:31:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "New Middle East Threats, Russian Diesel Coming to US",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-24/bloomberg-this-weekend-10-24-2026-video",
+        "published": "Sat, 24 Oct 2026 15:57:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -231,18 +243,6 @@
         "title": "Barclays ‘House of Fixed Income’ Pins Future Growth on Equities",
         "link": "https://www.bloomberg.com/news/articles/2026-10-24/barclays-house-of-fixed-income-pins-future-growth-on-equities",
         "published": "Sat, 24 Oct 2026 11:02:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Mauritius Carrier Looks at Narrow-Body Jets in Fleet Overhaul",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/mauritius-carrier-looks-at-narrow-body-jets-in-fleet-overhaul",
-        "published": "Sat, 24 Oct 2026 08:59:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Odd Lots: How to Run a Restaurant For Three Decades (Podcast)",
-        "link": "https://www.bloomberg.com/news/audio/2026-10-24/odd-lots-how-to-run-a-restaurant-for-three-decades-podcast",
-        "published": "Sat, 24 Oct 2026 08:00:00 GMT"
       }
     ],
     "onvista – News": [
@@ -320,7 +320,7 @@
       },
       {
         "source": "onvista – News",
-        "title": "Keine Lust auf SpaceX? Zehn Weltraum-Aktien als Alternative",
+        "title": "Zehn Weltraum-Aktien, die du vielleicht nicht kennst",
         "link": "https://www.onvista.de/news/2026/10-22-keine-lust-auf-spacex-zehn-weltraum-aktien-als-alternative-41122522-19-26567254",
         "published": "Thu, 22 Oct 2026 16:40:00 +0200"
       },
