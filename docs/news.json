@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T21:21:31.265732+00:00",
+  "updated_at": "2026-10-25T23:21:47.512301+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,24 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Climb as Crude Oil Price Dips: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
+        "published": "Sun, 25 Oct 2026 22:09:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 26",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26",
+        "published": "Sun, 25 Oct 2026 22:04:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Senegal Premier Raises Constitutional Option in Budget Standoff",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/senegal-premier-raises-constitutional-option-in-budget-standoff",
+        "published": "Sun, 25 Oct 2026 21:26:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "BYD’s Korea Expansion Challenges Hyundai Dominance on Home Turf",
         "link": "https://www.bloomberg.com/news/articles/2026-10-25/byd-s-korea-expansion-challenges-hyundai-dominance-on-home-turf",
         "published": "Sun, 25 Oct 2026 21:00:00 GMT"
@@ -225,24 +243,6 @@
         "title": "BC Left-Wing Leader Loses to Conservatives in Vote He Called",
         "link": "https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
         "published": "Sun, 25 Oct 2026 04:08:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Singapore’s Wong Vows More Support for Workers, Energy Security",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/singapore-s-wong-vows-more-support-for-workers-energy-security",
-        "published": "Sun, 25 Oct 2026 05:40:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Indonesia Begins Trimming Pipeline Gas Exports to Singapore",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore",
-        "published": "Sat, 24 Oct 2026 07:48:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Singapore Expands Haze Inquiries to 10 Locally Based Firms",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/singapore-expands-haze-investigation-to-10-locally-based-firms",
-        "published": "Sat, 24 Oct 2026 03:20:42 GMT"
       }
     ],
     "onvista – News": [
