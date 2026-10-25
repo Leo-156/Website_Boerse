@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T06:48:21.713790+00:00",
+  "updated_at": "2026-10-25T12:08:34.279384+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,36 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "IndiGo, Air India to Shift Some Flights to New Mumbai Airport",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/indigo-air-india-to-shift-some-flights-to-new-mumbai-airport",
+        "published": "Sun, 25 Oct 2026 11:20:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/french-bond-rout-puts-crisis-at-heart-of-ecb-succession-endgame",
+        "published": "Sun, 25 Oct 2026 10:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Brookfield to Open Doha Office to Deepen Its Middle East Reach",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/brookfield-to-open-doha-office-to-deepen-its-middle-east-reach",
+        "published": "Sun, 25 Oct 2026 08:47:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-cuts-kospi-12-month-target-by-25-as-ai-trade-unravels",
+        "published": "Sun, 25 Oct 2026 07:44:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BC Left-Wing Leader Loses to Conservatives in Vote He Called",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
+        "published": "Sun, 25 Oct 2026 04:08:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Singapore’s Wong Vows More Support for Workers, Energy Security",
         "link": "https://www.bloomberg.com/news/articles/2026-10-25/singapore-s-wong-vows-more-support-for-workers-energy-security",
         "published": "Sun, 25 Oct 2026 05:40:56 GMT"
@@ -135,12 +165,6 @@
         "title": "Indonesia Begins Trimming Pipeline Gas Exports to Singapore",
         "link": "https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore",
         "published": "Sat, 24 Oct 2026 07:48:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "BC’s Left-Wing Leader Loses to Conservatives in Vote He Called",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
-        "published": "Sun, 25 Oct 2026 04:08:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -219,30 +243,6 @@
         "title": "Inside Gershkovich’s 16 Months in Russian Prisons",
         "link": "https://www.bloomberg.com/news/videos/2026-10-24/inside-gershkovich-s-16-months-in-russian-prisons-video",
         "published": "Sat, 24 Oct 2026 13:53:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "By The Way: Headlines You May Have Missed",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-24/by-the-way-headlines-you-may-have-missed-video",
-        "published": "Sat, 24 Oct 2026 13:38:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "HR Navigates AI and a Changing Workplace",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-24/hr-navigates-ai-and-a-changing-workplace-video",
-        "published": "Sat, 24 Oct 2026 13:29:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Persistent Oil Prices Threaten Inflation Outlook",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-24/persistent-oil-prices-threaten-inflation-outlook-video",
-        "published": "Sat, 24 Oct 2026 13:19:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Russian Diesel Deal Confronts Legal Uncertainty",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-24/russian-diesel-deal-confronts-legal-uncertainty-video",
-        "published": "Sat, 24 Oct 2026 12:55:03 GMT"
       }
     ],
     "onvista – News": [
