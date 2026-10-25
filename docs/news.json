@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-25T12:08:34.279384+00:00",
+  "updated_at": "2026-10-25T16:07:20.054818+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Welcher Welt-ETF ist der beste? Die Antwort dürfte Anleger überraschen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-welcher-welt-etf-ist-der-beste-die-antwort-duerfte-ueberraschen/100263472.html",
+        "published": "Sun, 25 Oct 2026 15:02:26 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Der Goldpreis hängt jetzt vom Ölpreis ab",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-der-goldpreis-haengt-jetzt-vom-oelpreis-ab/100264148.html",
+        "published": "Sun, 25 Oct 2026 13:21:43 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Immobilien: Wo KI in der Hausverwaltung wirklich hilft – und wann sie teuer wird",
@@ -109,21 +121,69 @@
         "title": "Dax aktuell: Dax verliert mehr als 270 Punkte – Ein Unternehmen aus der Energiebranche ist der Verlierer des Tages",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-verliert-mehr-als-270-punkte-und-schliesst-im-minus/100264123.html",
         "published": "Thu, 22 Oct 2026 15:56:53 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Folgt auf vier gute Börsenjahre auch noch ein fünftes?",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-folgt-auf-vier-gute-boersenjahre-auch-noch-ein-fuenftes/100263893.html",
-        "published": "Thu, 22 Oct 2026 15:34:17 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Musterdepot – Zukunft: KI in der Medizin – welche Aktien jetzt interessant sind",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-ki-in-der-medizin-welche-aktien-jetzt-interessant-sind/100264124.html",
-        "published": "Thu, 22 Oct 2026 15:33:01 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Inside The Two Argentinas Under Javier Milei",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-25/inside-the-two-argentinas-under-javier-milei-video",
+        "published": "Sun, 25 Oct 2026 14:04:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Zero-Day Option Traders Are Betting Against Big S&P 500 Swings",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/zero-day-option-traders-are-betting-against-big-s-p-500-swings",
+        "published": "Sun, 25 Oct 2026 14:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Halloween Candy Prices Reflect Cocoa’s Wild Ride",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-25/halloween-candy-prices-reflect-cocoa-s-wild-ride-video",
+        "published": "Sun, 25 Oct 2026 13:55:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed Looks Set to Pause After September Rate Hike",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-25/fed-looks-set-to-pause-after-september-rate-hike-video",
+        "published": "Sun, 25 Oct 2026 13:48:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Rubio Plans Trilateral Negotiations Over Ukraine, Johnson Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/rubio-plans-trilateral-negotiations-over-ukraine-johnson-says",
+        "published": "Sun, 25 Oct 2026 13:43:34 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback",
+        "published": "Sun, 25 Oct 2026 02:02:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "What’s Happening in EM: Bond Investors Turn to Developing World",
+        "link": "https://www.bloomberg.com/news/audio/2026-10-25/what-s-happening-in-em-bond-investors-turn-to-developing-world",
+        "published": "Sun, 25 Oct 2026 12:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow",
+        "published": "Sun, 25 Oct 2026 12:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-25/by-the-way-headlines-you-may-have-missed-video",
+        "published": "Sun, 25 Oct 2026 12:26:39 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Brookfield to Open Doha Office to Deepen Middle East Reach",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/brookfield-to-open-doha-office-to-deepen-its-middle-east-reach",
+        "published": "Sun, 25 Oct 2026 08:47:01 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "IndiGo, Air India to Shift Some Flights to New Mumbai Airport",
@@ -135,12 +195,6 @@
         "title": "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
         "link": "https://www.bloomberg.com/news/articles/2026-10-25/french-bond-rout-puts-crisis-at-heart-of-ecb-succession-endgame",
         "published": "Sun, 25 Oct 2026 10:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brookfield to Open Doha Office to Deepen Its Middle East Reach",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/brookfield-to-open-doha-office-to-deepen-its-middle-east-reach",
-        "published": "Sun, 25 Oct 2026 08:47:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -168,12 +222,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback",
-        "published": "Sun, 25 Oct 2026 02:02:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Singapore Expands Haze Inquiries to 10 Locally Based Firms",
         "link": "https://www.bloomberg.com/news/articles/2026-10-24/singapore-expands-haze-investigation-to-10-locally-based-firms",
         "published": "Sat, 24 Oct 2026 03:20:42 GMT"
@@ -195,54 +243,6 @@
         "title": "French Protesters Dispersed with Gas as Tensions Rise",
         "link": "https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video",
         "published": "Sat, 24 Oct 2026 16:31:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "New Middle East Threats, Russian Diesel Coming to US",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-24/bloomberg-this-weekend-10-24-2026-video",
-        "published": "Sat, 24 Oct 2026 15:57:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/-total-meltdown-in-riskiest-debt-unnerves-market-credit-weekly",
-        "published": "Sat, 24 Oct 2026 15:21:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Metals Traders Reap Bonanza With Another Year of Record Profits",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/metals-traders-reap-bonanza-with-another-year-of-record-profits",
-        "published": "Sat, 24 Oct 2026 14:45:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Real Medical Detective Who Inspired Sherlock Holmes",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-24/the-real-medical-detective-who-inspired-sherlock-holmes-video",
-        "published": "Sat, 24 Oct 2026 14:36:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Venezuela to Restart a Crucial Power Plant With China’s Help",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/venezuela-to-restart-a-crucial-power-plant-with-china-s-help",
-        "published": "Sat, 24 Oct 2026 14:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Dalmore Said to Express Interest in Cinven-Owned UK Supplier JLA",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/dalmore-said-to-express-interest-in-cinven-owned-uk-supplier-jla",
-        "published": "Sat, 24 Oct 2026 14:08:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How This County Made the Data Center Boom Pay Off",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-24/how-this-county-made-the-data-center-boom-pay-off-video",
-        "published": "Sat, 24 Oct 2026 14:03:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Inside Gershkovich’s 16 Months in Russian Prisons",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-24/inside-gershkovich-s-16-months-in-russian-prisons-video",
-        "published": "Sat, 24 Oct 2026 13:53:29 GMT"
       }
     ],
     "onvista – News": [
