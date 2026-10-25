@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T18:58:22.815507+00:00",
+  "updated_at": "2026-10-25T21:21:31.265732+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,9 +126,9 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Bon Secours Nears $6B Takeover of Surgery Partners: FT",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/bon-secours-nears-6b-takeover-of-surgery-partners-ft",
-        "published": "Sun, 25 Oct 2026 18:24:56 GMT"
+        "title": "BYD’s Korea Expansion Challenges Hyundai Dominance on Home Turf",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/byd-s-korea-expansion-challenges-hyundai-dominance-on-home-turf",
+        "published": "Sun, 25 Oct 2026 21:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -180,14 +180,14 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "What’s Happening in EM: Bond Investors Turn to Developing World",
-        "link": "https://www.bloomberg.com/news/audio/2026-10-25/what-s-happening-in-em-bond-investors-turn-to-developing-world",
+        "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow",
         "published": "Sun, 25 Oct 2026 12:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow",
+        "title": "What’s Happening in EM: Bond Investors Turn to Developing World",
+        "link": "https://www.bloomberg.com/news/audio/2026-10-25/what-s-happening-in-em-bond-investors-turn-to-developing-world",
         "published": "Sun, 25 Oct 2026 12:30:00 GMT"
       },
       {
@@ -246,6 +246,12 @@
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "So lässt sich die Angst am Markt optimal nutzen",
+        "link": "https://www.onvista.de/news/2026/10-25-so-laesst-sich-die-angst-am-markt-optimal-nutzen-40338625-19-26568016",
+        "published": "Sun, 25 Oct 2026 19:59:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Leitindex gibt nach – Telekom verliert Vortagesgewinne",
@@ -389,12 +395,6 @@
         "title": "Grand City: LEG-Beteiligung treibt die Aktie um 6,7 Prozent",
         "link": "https://www.onvista.de/news/2026/10-21-grand-city-leg-beteiligung-treibt-die-aktie-um-6-7-prozent-40338625-19-26566806",
         "published": "Wed, 21 Oct 2026 16:49:42 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "MBB: Trotz höherer Prognose bleibt Abwarten sinnvoll",
-        "link": "https://www.onvista.de/news/2026/10-21-mbb-trotz-hoeherer-prognose-bleibt-abwarten-sinnvoll-40338625-19-26566808",
-        "published": "Wed, 21 Oct 2026 16:48:15 +0200"
       }
     ],
     "Börse Frankfurt – News": [
