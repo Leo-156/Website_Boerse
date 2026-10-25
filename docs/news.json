@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-25T16:07:20.054818+00:00",
+  "updated_at": "2026-10-25T18:58:22.815507+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wagniskapital: Revolut bietet Kunden jetzt Investments in junge Start-ups an",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/wagniskapital-revolut-bietet-kunden-jetzt-investments-in-junge-start-ups-an/100264587.html",
+        "published": "Sun, 25 Oct 2026 17:00:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Geldanlage: Welcher Welt-ETF ist der beste? Die Antwort dürfte Anleger überraschen",
@@ -115,15 +121,27 @@
         "title": "Wall Street: Abverkauf von Tech-Werten belastet Wall Street – Meta verliert sieben Prozent",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-belastet-wall-street-meta-verliert-sieben-prozent/100264154.html",
         "published": "Thu, 22 Oct 2026 19:28:26 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax verliert mehr als 270 Punkte – Ein Unternehmen aus der Energiebranche ist der Verlierer des Tages",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-verliert-mehr-als-270-punkte-und-schliesst-im-minus/100264123.html",
-        "published": "Thu, 22 Oct 2026 15:56:53 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bon Secours Nears $6B Takeover of Surgery Partners: FT",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/bon-secours-nears-6b-takeover-of-surgery-partners-ft",
+        "published": "Sun, 25 Oct 2026 18:24:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "De olho nas eleições",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-25/de-olho-nas-eleicoes-video-mvo4e3rz",
+        "published": "Sun, 25 Oct 2026 17:47:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "9 Days to Midterm Elections, Big Tech Earnings",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-25/bloomberg-this-weekend-10-25-2026-video",
+        "published": "Sun, 25 Oct 2026 15:42:35 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Inside The Two Argentinas Under Javier Milei",
@@ -225,24 +243,6 @@
         "title": "Singapore Expands Haze Inquiries to 10 Locally Based Firms",
         "link": "https://www.bloomberg.com/news/articles/2026-10-24/singapore-expands-haze-investigation-to-10-locally-based-firms",
         "published": "Sat, 24 Oct 2026 03:20:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Saudi Arabia Suggests Riyadh Airport May Reopen on Sunday",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-24/saudi-arabia-suggests-riyadh-airport-may-reopen-on-sunday",
-        "published": "Sat, 24 Oct 2026 21:27:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-24/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth",
-        "published": "Sat, 24 Oct 2026 17:05:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "French Protesters Dispersed with Gas as Tensions Rise",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video",
-        "published": "Sat, 24 Oct 2026 16:31:00 GMT"
       }
     ],
     "onvista – News": [
