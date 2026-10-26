@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-26T01:22:32.792017+00:00",
+  "updated_at": "2026-10-26T06:28:01.855610+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 26. Oktober: Vier Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-vier-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Mon, 26 Oct 2026 05:13:08 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Yen, Hang Seng: Asiens Börsen geben nach – Tech-Werte belasten und Ölpreis sinkt",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-asiens-boersen-geben-nach-tech-werte-belasten-und-oelpreis-sinkt/100264841.html",
+        "published": "Mon, 26 Oct 2026 04:30:57 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Wagniskapital: Revolut bietet Kunden jetzt Investments in junge Start-ups an",
@@ -17,8 +29,8 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Geldanlage: Der Goldpreis hängt jetzt vom Ölpreis ab",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-der-goldpreis-haengt-jetzt-vom-oelpreis-ab/100264148.html",
-        "published": "Sun, 25 Oct 2026 13:21:43 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-der-goldpreis-haengt-jetzt-vom-oelpreis-ab-01/100264148.html",
+        "published": "Mon, 26 Oct 2026 06:19:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -88,12 +100,6 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 23. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Fri, 23 Oct 2026 04:19:25 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Märkte Asien: Asiens Börsen geben nach – Tech-Ausverkauf und Zinssorgen belasten",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-asiens-boersen-geben-nach-tech-ausverkauf-und-zinssorgen-belasten/100264400.html",
         "published": "Fri, 23 Oct 2026 03:51:47 GMT"
@@ -115,62 +121,56 @@
         "title": "Immobilien: Ende des Kapitalpuffers – werden Immobilienkredite günstiger?",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-ende-des-kapitalpuffers-werden-immobilienkredite-guenstiger/100262460.html",
         "published": "Fri, 23 Oct 2026 02:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: Abverkauf von Tech-Werten belastet Wall Street – Meta verliert sieben Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-belastet-wall-street-meta-verliert-sieben-prozent/100264154.html",
-        "published": "Thu, 22 Oct 2026 19:28:26 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Singapore PM Vows More Support for Workers, Energy Security",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/singapore-s-wong-vows-more-support-for-workers-energy-security",
-        "published": "Sun, 25 Oct 2026 05:40:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "France Avoids Rerun of Looting With Tough Security",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-26/france-avoids-rerun-of-looting-with-tough-security-video",
-        "published": "Mon, 26 Oct 2026 00:55:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Under Pressure Before Earnings, Oil Dips: Markets Wrap",
+        "title": "Stocks Edge Up With Treasuries, Crude Oil Declines: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
         "published": "Sun, 25 Oct 2026 22:09:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Western Sydney Airport Opens With Uncertain Prospects",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-26/western-sydney-airport-opens-with-uncertain-prospects-video",
-        "published": "Mon, 26 Oct 2026 00:33:38 GMT"
+        "title": "Ken Griffin’s Citadel Securities to Expand India Office",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/ken-griffin-s-citadel-securities-to-expand-india-office",
+        "published": "Mon, 26 Oct 2026 05:39:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Steadies After Weekly Drop as Focus Shifts to Fed Meeting",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/gold-steadies-after-weekly-drop-as-focus-shifts-to-fed-meeting",
-        "published": "Sun, 25 Oct 2026 23:23:38 GMT"
+        "title": "IGU's Ydreos on Energy Demand Driven by Data Centers",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/igu-s-ydreos-on-energy-demand-driven-by-data-centers-video",
+        "published": "Mon, 26 Oct 2026 05:38:48 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Slow AI Buildout Could Be Inflationary: Natixis' Herrero",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-26/slow-ai-buildout-could-be-inflationary-natixis-herrero-video",
-        "published": "Mon, 26 Oct 2026 00:17:35 GMT"
+        "title": "Moonshot's Latest AI Upgrade Takes on Top-Tier US Models",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/the-china-show-10-26-26-video",
+        "published": "Mon, 26 Oct 2026 05:37:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ingenia Soars on Fresh $1.6 Billion Takeover Bid From AVID",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/ingenia-soars-on-fresh-1-6-billion-takeover-bid-from-avid",
-        "published": "Mon, 26 Oct 2026 00:14:27 GMT"
+        "title": "JPMorgan's Travis Spence on China's Active ETF Market",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/jpmorgan-s-travis-spence-on-china-s-active-etf-market-video",
+        "published": "Mon, 26 Oct 2026 05:36:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Mexico’s Electoral Chief Is Resigning After Graft Probe Opened",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/mexico-s-electoral-chief-is-resigning-after-graft-probe-opened",
-        "published": "Mon, 26 Oct 2026 00:03:14 GMT"
+        "title": "Markets Brace After Lula's Surprise Comeback Win In Brazil Elections",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/insight-with-haslinda-amin-10-6-2026-video",
+        "published": "Mon, 26 Oct 2026 05:20:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "(USD:UGX) Shilling Freefall Has Uganda Tapping Meager Reserve War-Chest",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/-usd-ugx-shilling-freefall-has-uganda-tapping-meager-reserve-war-chest",
+        "published": "Mon, 26 Oct 2026 05:15:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Blackstone-Backed ASK Hires Ex-Motilal Executive as Mutual Fund Chief",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/blackstone-backed-ask-hires-ex-motilal-executive-as-mutual-fund-chief",
+        "published": "Mon, 26 Oct 2026 05:13:39 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -180,72 +180,84 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Goldman Says Yen Becoming Better Hedge Against AI Market Shock",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-says-yen-becoming-better-hedge-against-ai-market-shock",
-        "published": "Sun, 25 Oct 2026 23:22:52 GMT"
+        "title": "Soybeans Hit Two-Month Low as Lula Win Lifts China Trade Outlook",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/soybeans-hit-2-month-low-as-lula-s-win-lifts-china-trade-outlook",
+        "published": "Mon, 26 Oct 2026 03:18:39 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Baht to Rebound on Inflows Into Nation’s Bonds, Analysts Say",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/baht-to-rebound-on-inflows-into-nation-s-bonds-analysts-say",
-        "published": "Sun, 25 Oct 2026 23:00:00 GMT"
+        "title": "Trump Says Decision Nearing on Iran: Deal or ‘Finish It Off’",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/trump-says-decision-nearing-on-iran-video",
+        "published": "Mon, 26 Oct 2026 04:32:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Senegal Premier Raises Constitutional Option in Budget Standoff",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/senegal-premier-raises-constitutional-option-in-budget-standoff",
-        "published": "Sun, 25 Oct 2026 21:26:30 GMT"
+        "title": "Australian Regulator Warns Higher Market Risks May Hit Liquidity",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/australian-regulator-warns-higher-market-risks-may-hit-liquidity",
+        "published": "Mon, 26 Oct 2026 04:31:48 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BYD’s Korea Expansion Challenges Hyundai Dominance on Home Turf",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/byd-s-korea-expansion-challenges-hyundai-dominance-on-home-turf",
-        "published": "Sun, 25 Oct 2026 21:00:00 GMT"
+        "title": "China National Team ETFs Draw Most Inflows Since Trade War Rout",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/china-national-team-etfs-draw-most-inflows-since-trade-war-rout",
+        "published": "Mon, 26 Oct 2026 04:14:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "De olho nas eleições",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-25/de-olho-nas-eleicoes-video-mvo4e3rz",
-        "published": "Sun, 25 Oct 2026 17:47:06 GMT"
+        "title": "Morgan Stanley Sees Further China Stock Downside Before Bottom",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/morgan-stanley-sees-further-china-stock-downside-before-bottom",
+        "published": "Mon, 26 Oct 2026 04:03:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "9 Days to Midterm Elections, Big Tech Earnings",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-25/bloomberg-this-weekend-10-25-2026-video",
-        "published": "Sun, 25 Oct 2026 15:42:35 GMT"
+        "title": "EM Stocks Fall Before Key Earnings, Brazil in Focus as Lula Wins",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/em-stocks-fall-before-key-earnings-brazil-in-focus-as-lula-wins",
+        "published": "Mon, 26 Oct 2026 03:53:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Inside The Two Argentinas Under Javier Milei",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-25/inside-the-two-argentinas-under-javier-milei-video",
-        "published": "Sun, 25 Oct 2026 14:04:15 GMT"
+        "title": "Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/copper-extends-drop-as-ai-stocks-weigh-ahead-of-fed-meeting",
+        "published": "Mon, 26 Oct 2026 03:52:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Zero-Day Option Traders Are Betting Against Big S&P 500 Swings",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/zero-day-option-traders-are-betting-against-big-s-p-500-swings",
-        "published": "Sun, 25 Oct 2026 14:00:00 GMT"
+        "title": "Lula Wins Brazil's Presidential Election, Real Futures, Japan ETF Slide",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/the-asia-trade-10-26-2026-video",
+        "published": "Mon, 26 Oct 2026 03:51:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Halloween Candy Prices Reflect Cocoa’s Wild Ride",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-25/halloween-candy-prices-reflect-cocoa-s-wild-ride-video",
-        "published": "Sun, 25 Oct 2026 13:55:22 GMT"
+        "title": "France Avoids Rerun of Looting With Tough Security",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/france-avoids-rerun-of-looting-with-tough-security-video",
+        "published": "Mon, 26 Oct 2026 00:55:28 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fed Looks Set to Pause After September Rate Hike",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-25/fed-looks-set-to-pause-after-september-rate-hike-video",
-        "published": "Sun, 25 Oct 2026 13:48:02 GMT"
+        "title": "Investors Flee India Small-Caps as Margin Calls Come Knocking",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-26/investors-flee-india-small-caps-as-margin-calls-come-knocking",
+        "published": "Mon, 26 Oct 2026 02:30:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Rubio Plans Trilateral Negotiations Over Ukraine, Johnson Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/rubio-plans-trilateral-negotiations-over-ukraine-johnson-says",
-        "published": "Sun, 25 Oct 2026 13:43:34 GMT"
+        "title": "Lula reeleito",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/lula-reeleito-video",
+        "published": "Mon, 26 Oct 2026 02:29:00 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 26.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-26-finanzberichte-heute-26-10-2026-41121301-19-26568213",
+        "published": "Mon, 26 Oct 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  26.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-26-dividendenalarm-heute-26-10-2026-41121301-19-26568210",
+        "published": "Mon, 26 Oct 2026 06:00:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "So lässt sich die Angst am Markt optimal nutzen",
@@ -383,18 +395,6 @@
         "title": "Meta toppt Erwartungen, Aktie springt an",
         "link": "https://www.onvista.de/news/2026/10-21-meta-toppt-erwartungen-aktie-springt-an-41121301-19-26566915",
         "published": "Wed, 21 Oct 2026 22:14:48 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax auf Vierwochenhoch – SpaceX-Aktie beflügelt",
-        "link": "https://www.onvista.de/news/2026/10-21-dax-auf-vierwochenhoch-spacex-aktie-befluegelt-41121301-19-26566878",
-        "published": "Wed, 21 Oct 2026 17:55:14 +0200"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Grand City: LEG-Beteiligung treibt die Aktie um 6,7 Prozent",
-        "link": "https://www.onvista.de/news/2026/10-21-grand-city-leg-beteiligung-treibt-die-aktie-um-6-7-prozent-40338625-19-26566806",
-        "published": "Wed, 21 Oct 2026 16:49:42 +0200"
       }
     ],
     "Börse Frankfurt – News": [
