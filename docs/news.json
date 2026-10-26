@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:21:47.512301+00:00",
+  "updated_at": "2026-10-26T01:22:32.792017+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,15 +126,69 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Climb as Crude Oil Price Dips: Markets Wrap",
+        "title": "Singapore PM Vows More Support for Workers, Energy Security",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/singapore-s-wong-vows-more-support-for-workers-energy-security",
+        "published": "Sun, 25 Oct 2026 05:40:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "France Avoids Rerun of Looting With Tough Security",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/france-avoids-rerun-of-looting-with-tough-security-video",
+        "published": "Mon, 26 Oct 2026 00:55:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Under Pressure Before Earnings, Oil Dips: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
         "published": "Sun, 25 Oct 2026 22:09:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Western Sydney Airport Opens With Uncertain Prospects",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/western-sydney-airport-opens-with-uncertain-prospects-video",
+        "published": "Mon, 26 Oct 2026 00:33:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Steadies After Weekly Drop as Focus Shifts to Fed Meeting",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/gold-steadies-after-weekly-drop-as-focus-shifts-to-fed-meeting",
+        "published": "Sun, 25 Oct 2026 23:23:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Slow AI Buildout Could Be Inflationary: Natixis' Herrero",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/slow-ai-buildout-could-be-inflationary-natixis-herrero-video",
+        "published": "Mon, 26 Oct 2026 00:17:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ingenia Soars on Fresh $1.6 Billion Takeover Bid From AVID",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/ingenia-soars-on-fresh-1-6-billion-takeover-bid-from-avid",
+        "published": "Mon, 26 Oct 2026 00:14:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Mexico’s Electoral Chief Is Resigning After Graft Probe Opened",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/mexico-s-electoral-chief-is-resigning-after-graft-probe-opened",
+        "published": "Mon, 26 Oct 2026 00:03:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Oct. 26",
         "link": "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26",
         "published": "Sun, 25 Oct 2026 22:04:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Goldman Says Yen Becoming Better Hedge Against AI Market Shock",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-says-yen-becoming-better-hedge-against-ai-market-shock",
+        "published": "Sun, 25 Oct 2026 23:22:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Baht to Rebound on Inflows Into Nation’s Bonds, Analysts Say",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-25/baht-to-rebound-on-inflows-into-nation-s-bonds-analysts-say",
+        "published": "Sun, 25 Oct 2026 23:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -189,60 +243,6 @@
         "title": "Rubio Plans Trilateral Negotiations Over Ukraine, Johnson Says",
         "link": "https://www.bloomberg.com/news/articles/2026-10-25/rubio-plans-trilateral-negotiations-over-ukraine-johnson-says",
         "published": "Sun, 25 Oct 2026 13:43:34 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback",
-        "published": "Sun, 25 Oct 2026 02:02:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow",
-        "published": "Sun, 25 Oct 2026 12:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "What’s Happening in EM: Bond Investors Turn to Developing World",
-        "link": "https://www.bloomberg.com/news/audio/2026-10-25/what-s-happening-in-em-bond-investors-turn-to-developing-world",
-        "published": "Sun, 25 Oct 2026 12:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "By The Way: Headlines You May Have Missed",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-25/by-the-way-headlines-you-may-have-missed-video",
-        "published": "Sun, 25 Oct 2026 12:26:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brookfield to Open Doha Office to Deepen Middle East Reach",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/brookfield-to-open-doha-office-to-deepen-its-middle-east-reach",
-        "published": "Sun, 25 Oct 2026 08:47:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "IndiGo, Air India to Shift Some Flights to New Mumbai Airport",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/indigo-air-india-to-shift-some-flights-to-new-mumbai-airport",
-        "published": "Sun, 25 Oct 2026 11:20:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/french-bond-rout-puts-crisis-at-heart-of-ecb-succession-endgame",
-        "published": "Sun, 25 Oct 2026 10:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-cuts-kospi-12-month-target-by-25-as-ai-trade-unravels",
-        "published": "Sun, 25 Oct 2026 07:44:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "BC Left-Wing Leader Loses to Conservatives in Vote He Called",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
-        "published": "Sun, 25 Oct 2026 04:08:12 GMT"
       }
     ],
     "onvista – News": [
