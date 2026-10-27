@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T23:11:28.201436+00:00",
+  "updated_at": "2026-10-27T02:01:15.867976+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,21 +126,45 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Tech Rally Extends to Asia on Anthropic, Oil Falls: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
+        "published": "Mon, 26 Oct 2026 22:03:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asian Chip Stocks Rise as Anthropic IPO Filing Rekindles AI Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/asian-chip-stocks-rise-as-anthropic-ipo-filing-rekindles-ai-bets",
+        "published": "Tue, 27 Oct 2026 01:00:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Universal Music Discussed Going Private With Buyout Firms",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/universal-music-group-discussed-going-private-with-buyout-firms",
+        "published": "Mon, 26 Oct 2026 20:46:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Oct. 27",
         "link": "https://www.bloomberg.com/news/articles/2026-10-26/latest-oil-market-news-and-analysis-for-oct-27",
         "published": "Mon, 26 Oct 2026 22:03:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dave Lee: Anthropic Brings ‘Anti-Sell’ Strategy to Its IPO",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-26/dave-lee-anthropic-brings-anti-sell-strategy-to-ipo-video",
-        "published": "Mon, 26 Oct 2026 22:26:18 GMT"
+        "title": "Gold Steadies Near $4,000 as Traders Prepare for Fed Rate Call",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/gold-steadies-above-4-000-with-fed-rate-decision-in-focus",
+        "published": "Mon, 26 Oct 2026 23:20:28 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 26 Oct 2026 22:03:56 GMT"
+        "title": "Indonesia’s Rupiah Defense Seen Needing a Rate-Hike Turbocharge",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/indonesia-s-rupiah-defense-seen-needing-a-rate-hike-turbocharge",
+        "published": "Mon, 26 Oct 2026 23:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Dave Lee: Anthropic Brings ‘Anti-Sell’ Strategy to Its IPO",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/dave-lee-anthropic-brings-anti-sell-strategy-to-ipo-video",
+        "published": "Mon, 26 Oct 2026 22:26:18 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -219,30 +243,6 @@
         "title": "Como os mercados reagiram após a vitória do Lula",
         "link": "https://www.bloomberg.com/news/videos/2026-10-26/como-os-mercados-reagiram-apos-a-vitoria-do-lula-video",
         "published": "Mon, 26 Oct 2026 20:49:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Universal Music Group Discussed Going Private With Buyout Firms",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/universal-music-group-discussed-going-private-with-buyout-firms",
-        "published": "Mon, 26 Oct 2026 20:46:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Lula Upset Jolts Brazil Markets, Emerging Assets Sink",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/em-stocks-fall-before-key-earnings-brazil-in-focus-as-lula-wins",
-        "published": "Mon, 26 Oct 2026 03:53:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Whirlpool Plunges After Cutting Outlook For Third Time This Year",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/whirlpool-plunges-after-cutting-outlook-for-third-time-this-year",
-        "published": "Mon, 26 Oct 2026 20:43:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Test Your ETF Knowledge In Our IQ Test",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-26/test-your-etf-knowledge-in-our-iq-test-video",
-        "published": "Mon, 26 Oct 2026 20:27:33 GMT"
       }
     ],
     "onvista – News": [
