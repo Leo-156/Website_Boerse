@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-27T02:01:15.867976+00:00",
+  "updated_at": "2026-10-27T07:44:30.094531+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 27. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Tue, 27 Oct 2026 05:21:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Aktien: Kospi und Nikkei springen hoch – KI-Pläne stärken Asiens Börsen",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/aktien-kospi-und-nikkei-springen-hoch-ki-plaene-staerken-asiens-boersen/100265142.html",
+        "published": "Tue, 27 Oct 2026 04:52:24 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Boom ohne Ende? Altersvorsorgedepot dürfte Nachfrage nach aktiven ETFs treiben",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-altersvorsorgedepot-duerfte-nachfrage-nach-aktiven-etfs-treiben/100263369.html",
+        "published": "Tue, 27 Oct 2026 03:00:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Grundbesitz Europa: „Persönliche Belastung für Anleger möglich“: DWS schränkt Rücknahme bei Immobilienfonds ein",
@@ -17,7 +35,7 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "US-Börsen: Wall Street schließt im Plus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-im-plus/100264955.html",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-anthropic-staerkt-die-stimmung-wall-street-schliesst-im-plus/100264955.html",
         "published": "Mon, 26 Oct 2026 19:25:00 GMT"
       },
       {
@@ -103,44 +121,26 @@
         "title": "Nikkei, Yen, Hang Seng: Asiens Börsen geben etwa nach – Tech-Werte belasten und Ölpreis sinkt",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-asiens-boersen-geben-etwa-nach-tech-werte-belasten-und-oelpreis-sinkt/100264841.html",
         "published": "Mon, 26 Oct 2026 09:00:25 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 26. Oktober: Vier Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-vier-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Mon, 26 Oct 2026 05:13:08 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wagniskapital: Revolut bietet Kunden jetzt Investments in junge Start-ups an",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/geldanlage-revolut-ermoeglicht-kunden-jetzt-investitionen-in-junge-start-ups/100264587.html",
-        "published": "Mon, 26 Oct 2026 08:37:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Welcher Welt-ETF ist der beste? Die Antwort dürfte Anleger überraschen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-welcher-welt-etf-ist-die-beste-wahl-fuer-anleger/100263472.html",
-        "published": "Mon, 26 Oct 2026 08:03:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Tech Rally Extends to Asia on Anthropic, Oil Falls: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 26 Oct 2026 22:03:56 GMT"
+        "title": "Dangote Refinery IPO Set for Record on African, Global Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/dangote-refinery-ipo-set-for-record-on-african-global-demand",
+        "published": "Tue, 27 Oct 2026 07:34:18 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Chip Stocks Rise as Anthropic IPO Filing Rekindles AI Bets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/asian-chip-stocks-rise-as-anthropic-ipo-filing-rekindles-ai-bets",
-        "published": "Tue, 27 Oct 2026 01:00:52 GMT"
+        "title": "HSBC Earnings: Profit Jump and $1 Billion Buyback Fall Short of Investors Hopes",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-27/hsbc-earnings-profit-jump-and-1-billion-buyback-fall-short-of-investors-hopes",
+        "published": "Tue, 27 Oct 2026 07:31:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Universal Music Discussed Going Private With Buyout Firms",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/universal-music-group-discussed-going-private-with-buyout-firms",
-        "published": "Mon, 26 Oct 2026 20:46:36 GMT"
+        "title": "HSBC Reports Profit Miss, Announces Buyback",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-27/hsbc-reports-profit-miss-announces-buyback-video",
+        "published": "Tue, 27 Oct 2026 07:29:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -150,102 +150,120 @@
       },
       {
         "source": "Bloomberg – Markets",
+        "title": "French Banks to Face Investor Scrutiny Over Risks from Turmoil",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/french-banks-to-face-investor-scrutiny-over-risks-from-turmoil",
+        "published": "Tue, 27 Oct 2026 07:15:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Indonesia 10-Year Yield at Four-Year High on MSCI Risk, Oil",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/indonesia-10-year-yield-at-four-year-high-on-msci-risk-oil",
+        "published": "Tue, 27 Oct 2026 06:52:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AI Trade Bounces Back as Anthropic IPO Eases Funding Jitters",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/asian-chip-stocks-rise-as-anthropic-ipo-filing-rekindles-ai-bets",
+        "published": "Tue, 27 Oct 2026 01:00:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Advance on AI Trade, Nasdaq Futures Slip: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
+        "published": "Mon, 26 Oct 2026 22:03:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "FTSE 100 Live: UK Stocks Set to Fall as HSBC Profit Falls Short",
+        "link": "https://www.bloomberg.com/news/live-blog/2026-10-27/ftse-100-live-updates-hsbc-anthropic-ai-stocks-pound-gilts-bond-healey-budget-what-s-moving-uk-markets-right-now-markets-today",
+        "published": "Tue, 27 Oct 2026 06:44:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Bonds Rally As Gloom Deepens Over Stocks",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-27/the-china-show-12-27-26-video",
+        "published": "Tue, 27 Oct 2026 06:38:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Le Pen’s Rise Spurs Rush for French Renewable Contracts",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/le-pen-s-rise-spurs-rush-for-french-renewable-contracts",
+        "published": "Tue, 27 Oct 2026 06:15:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Anthropic IPO Reignites AI Trade in Asia",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-27/insight-with-haslinda-amin-10-27-2026-video",
+        "published": "Tue, 27 Oct 2026 06:12:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How China Is Setting the Pace on Nuclear Power",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-27/how-china-is-setting-the-pace-on-nuclear-power-video",
+        "published": "Tue, 27 Oct 2026 06:08:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "JSW Steel's Jayant Acharya on India Steel Demand",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-27/jsw-steel-s-jayant-acharya-on-india-steel-demand-video",
+        "published": "Tue, 27 Oct 2026 06:03:26 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trading Platform Rocked by Japan Hack, $50 Million Ransom",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/japan-s-katayama-vows-to-address-cyber-attack-on-fx-with-urgency",
+        "published": "Mon, 26 Oct 2026 23:57:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Samsung Life’s Record Bond Shows High-Grade Grit in Turmoil",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/samsung-life-insurance-south-korea-coupon-note-debt-dollar-bond-sale",
+        "published": "Tue, 27 Oct 2026 03:26:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Dubai Firm’s $543 Million IPO Covered Within Minutes Despite War",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/dubai-investments-pjsc-dip-543-million-first-uae-listing-2026",
+        "published": "Tue, 27 Oct 2026 04:36:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Gold Steadies Near $4,000 as Traders Prepare for Fed Rate Call",
         "link": "https://www.bloomberg.com/news/articles/2026-10-26/gold-steadies-above-4-000-with-fed-rate-decision-in-focus",
         "published": "Mon, 26 Oct 2026 23:20:28 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Indonesia’s Rupiah Defense Seen Needing a Rate-Hike Turbocharge",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/indonesia-s-rupiah-defense-seen-needing-a-rate-hike-turbocharge",
-        "published": "Mon, 26 Oct 2026 23:30:00 GMT"
+        "title": "Anthropic IPO: Who Can Subscribe and What Are the Risks?",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-27/anthropic-ipo-who-can-subscribe-and-what-are-the-risks-video",
+        "published": "Tue, 27 Oct 2026 05:12:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dave Lee: Anthropic Brings ‘Anti-Sell’ Strategy to Its IPO",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-26/dave-lee-anthropic-brings-anti-sell-strategy-to-ipo-video",
-        "published": "Mon, 26 Oct 2026 22:26:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Anthropic Mum on Investment Grade as It Warns of More Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-remains-mum-on-investment-grade-as-it-flags-more-debt",
-        "published": "Mon, 26 Oct 2026 20:56:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Duke’s Mayo CEO: Our Room for Growth Is Substantial",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-26/duke-s-mayo-ceo-our-room-for-growth-is-substantial-video",
-        "published": "Mon, 26 Oct 2026 21:48:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Funding Drives US High-Grade Bond Sales to Annual Record",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/ai-funding-needs-drive-us-high-grade-bond-sales-to-annual-record",
-        "published": "Mon, 26 Oct 2026 19:13:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pimco Scoops Up $4 Billion of Massive SpaceX AI Debt Package",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/pimco-scoops-up-4-billion-of-massive-spacex-ai-debt-package",
-        "published": "Mon, 26 Oct 2026 21:43:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Jennifer Garner on Expanding Reach of Once Upon a Farm",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-26/jennifer-garner-on-expanding-reach-of-once-upon-a-farm-video",
-        "published": "Mon, 26 Oct 2026 21:29:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Colombia Sells $5.2 Billion in New Bonds Amid Fiscal Strain",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/colombia-to-sell-new-dollar-bonds-amid-fiscal-pressures",
-        "published": "Mon, 26 Oct 2026 13:31:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nucor Profit Beats Estimates as Higher Steel Prices Lift Results",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/nucor-profit-beats-estimates-as-higher-steel-prices-lift-results",
-        "published": "Mon, 26 Oct 2026 21:09:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Blackstone Data-Center Operator QTS Seeks $800 Million in Private Placement Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-26/blackstone-data-center-operator-qts-seeks-800-million-in-private-placement-debt",
-        "published": "Mon, 26 Oct 2026 21:01:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Schwab CEO Says It's Easy to Find Top Talent in Texas",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-26/schwab-ceo-says-they-keep-finding-top-talent-in-texas-video",
-        "published": "Mon, 26 Oct 2026 21:01:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Week | High Stakes Summit, New Zealand's Brain Drain, Stablecoin Adoption, Bubbly Water",
-        "link": "https://www.bloomberg.com/news/videos/2026-05-08/wall-street-week-high-stakes-summit-talent-troubles-video",
-        "published": "Fri, 08 May 2026 23:14:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Week | Rerouting Global Trade, Private Equity Tested, Realizing Cuba’s Potential",
-        "link": "https://www.bloomberg.com/news/videos/2026-08-14/wall-street-week-rerouting-trade-private-equity-test-video",
-        "published": "Fri, 14 Aug 2026 23:14:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "We Support Zuckerberg's Vision: Cassidy",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-26/we-support-zuckerberg-s-vision-cassidy-video",
-        "published": "Mon, 26 Oct 2026 20:51:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Como os mercados reagiram após a vitória do Lula",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-26/como-os-mercados-reagiram-apos-a-vitoria-do-lula-video",
-        "published": "Mon, 26 Oct 2026 20:49:30 GMT"
+        "title": "Pandora Bets on Vietnam With New $150 Million Factory",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-27/pandora-bets-on-vietnam-with-new-150-million-factory",
+        "published": "Tue, 27 Oct 2026 05:04:48 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax gibt leicht nach – Fokus auf Fed und Berichtssaison",
+        "link": "https://www.onvista.de/news/2026/10-27-dax-gibt-leicht-nach-fokus-auf-fed-und-berichtssaison-41121301-19-26568682",
+        "published": "Tue, 27 Oct 2026 07:58:32 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 27.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-27-finanzberichte-heute-27-10-2026-41121301-19-26568650",
+        "published": "Tue, 27 Oct 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  27.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-27-dividendenalarm-heute-27-10-2026-41121301-19-26568644",
+        "published": "Tue, 27 Oct 2026 06:00:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Dax steigt deutlich - Konjunkturhoffnungen stützen",
@@ -377,24 +395,6 @@
         "title": "Geschäfts- und Quartalsberichte heute, 26.10.2026",
         "link": "https://www.onvista.de/news/2026/10-26-finanzberichte-heute-26-10-2026-41121301-19-26568213",
         "published": "Mon, 26 Oct 2026 06:10:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  26.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-26-dividendenalarm-heute-26-10-2026-41121301-19-26568210",
-        "published": "Mon, 26 Oct 2026 06:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "So lässt sich die Angst am Markt optimal nutzen",
-        "link": "https://www.onvista.de/news/2026/10-25-so-laesst-sich-die-angst-am-markt-optimal-nutzen-40338625-19-26568016",
-        "published": "Sun, 25 Oct 2026 19:59:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Leitindex gibt nach – Telekom verliert Vortagesgewinne",
-        "link": "https://www.onvista.de/news/2026/10-23-leitindex-gibt-nach-telekom-verliert-vortagesgewinne-41121301-19-26567784",
-        "published": "Fri, 23 Oct 2026 17:45:57 +0200"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Klare Gewinne zum Wochenstart",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
-        "published": "Mon, 26 Oct 2026 18:05:23 +0100"
+        "title": "Marktbericht: Zurückhaltung nach starkem Wochenstart",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
+        "published": "Tue, 27 Oct 2026 07:30:15 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
