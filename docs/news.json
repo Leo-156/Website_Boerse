@@ -1,24 +1,54 @@
 {
-  "updated_at": "2026-10-28T14:10:44.034695+00:00",
+  "updated_at": "2026-10-28T19:30:46.477641+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Anleger an der Wall Street vor Fed-Entscheid zurückhaltend – Ölpreise ziehen an",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-anleger-vor-fed-entscheid-zurueckhaltend/100265527.html",
-        "published": "Wed, 28 Oct 2026 13:35:09 GMT"
+        "title": "Geldpolitik: Fed hält Zinsen unverändert – weniger Zinsentscheidungen ab 2027",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-fed-haelt-zinsen-unveraendert-weniger-zinsentscheidungen-ab-2027/100264521.html",
+        "published": "Wed, 28 Oct 2026 18:03:35 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Zinsentscheid: Inflation trifft Schuldenkrise: Für die EZB ist die Lage heikel wie lange nicht mehr",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-inflation-trifft-schuldenkrise-heikle-lage-fuer-die-notenbank/100262258.html",
+        "published": "Wed, 28 Oct 2026 17:09:18 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Energie: Europäischer Gaspreis steigt auf mehr als 100 Euro – kalter Winter könnte Preise weiter steigen lassen",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/energie-europaeischer-gaspreis-steigt-auf-mehr-als-100-euro/100265601.html",
+        "published": "Wed, 28 Oct 2026 16:59:40 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt leicht im Plus – aber eine Aktie stürzt um fast zehn Prozent ab",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-plus-symrise-verliert-fast-zehn-prozent/100265482.html",
+        "published": "Wed, 28 Oct 2026 16:55:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Versicherung: Welche Autoversicherungen bei Akkuschäden zahlen und die Extrakosten übernehmen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-welche-autoversicherungen-bei-akkuschaeden-zahlen/100246776.html",
+        "published": "Wed, 28 Oct 2026 16:06:18 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Interview: „Juristisch betreten wir bei einer Vergesellschaftung von Wohneigentum komplettes Neuland“",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-vergesellschaftung-juristisch-betreten-wir-komplettes-neuland/100264133.html",
+        "published": "Wed, 28 Oct 2026 15:54:42 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: Anleger an der Wall Street auch nach Fed-Entscheid zurückhaltend – Ölpreise ziehen an",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-anleger-halten-sich-auch-nach-zinsentscheid-der-fed-zurueck/100265527.html",
+        "published": "Wed, 28 Oct 2026 15:25:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Parlamentswahl: Israels Leitindex fällt um drei Prozent – auch Währung unter Druck",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/parlamentswahl-israels-leitindex-faellt-um-drei-prozent-waehrung-unter-druck/100265623.html",
         "published": "Wed, 28 Oct 2026 13:27:57 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Anleger halten sich inmitten der Bilanzsaison zurück – Symrise verliert zehn Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-anleger-halten-sich-inmitten-der-bilanzsaison-zurueck/100265482.html",
-        "published": "Wed, 28 Oct 2026 12:58:08 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -91,62 +121,26 @@
         "title": "US-Börsen: US-Börsen schließen durchmischt – Boeing-Aktie verliert zweistellig",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-usboersen-ueberwiegend-im-plus-boeing-aktie-verliert-zweistellig/100265281.html",
         "published": "Tue, 27 Oct 2026 17:07:01 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "„S-Neo“: Sparkassen übertreffen mit neuem Wertpapier-Depot-Angebot eigenes Ziel",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/broker-neues-wertpapier-depot-s-neo-der-sparkassen-uebertrifft-eigenes-ziel/100264982.html",
-        "published": "Wed, 28 Oct 2026 06:48:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax schließt im Plus – Autoaktie gegen den Trend größter Verlierer",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-plus-mercedes-aktie-verlierer-des-tages/100265163.html",
-        "published": "Tue, 27 Oct 2026 17:00:50 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Das lange Warten auf die KI-Rendite",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-das-lange-warten-auf-die-ki-rendite/100265170.html",
-        "published": "Tue, 27 Oct 2026 16:30:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "KI: Anthropic dreht die Börsenstimmung – dafür gibt es drei Gründe",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/ki-anthropic-dreht-die-boersenstimmung-dafuer-gibt-es-drei-gruende-01/100265184.html",
-        "published": "Wed, 28 Oct 2026 06:12:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Aktien: Vorbild USA: Deutsche Börse startet Handel mit Dax-Aktien rund um die Uhr",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-deutsche-boerse-startet-handel-mit-dax-aktien-rund-um-die-uhr/100264972.html",
-        "published": "Tue, 27 Oct 2026 14:15:51 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Investors Jolted by Lula Win Search for Bottom After Brazil Rout",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/investors-jolted-by-lula-win-search-for-bottom-after-brazil-rout",
-        "published": "Wed, 28 Oct 2026 14:00:59 GMT"
+        "title": "Petroperu Chair Eyes Rare Profit, Investors for Minority Stake",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/petroperu-chair-eyes-rare-profit-investors-for-minority-stake",
+        "published": "Wed, 28 Oct 2026 19:19:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/trian-offers-to-take-wendy-s-private-in-all-cash-deal-video",
-        "published": "Wed, 28 Oct 2026 13:57:21 GMT"
+        "title": "Chickens Are Coming Home to Roost in Credit",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/chickens-are-coming-home-to-roost-in-credit",
+        "published": "Wed, 28 Oct 2026 19:16:44 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks, Bonds, Dollar Churn Before Fed Decision: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 27 Oct 2026 22:09:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Landlocked Botswana Looks to Secure Fuel From Nigeria to Oman",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/landlocked-botswana-looks-to-secure-fuel-from-nigeria-to-oman",
-        "published": "Wed, 28 Oct 2026 13:51:12 GMT"
+        "title": "Boeing Rout a Win For Skeptics Who Rejected Wall Street Optimism",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/boeing-rout-a-win-for-skeptics-who-rejected-wall-street-optimism",
+        "published": "Wed, 28 Oct 2026 17:00:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -156,39 +150,57 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Sandoz Warns EU May Scrap Antibiotic Protection",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/sandoz-warns-eu-may-scrap-antibiotic-protection-risking-plant",
-        "published": "Wed, 28 Oct 2026 09:34:29 GMT"
+        "title": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-telekom-is-said-to-hit-brakes-on-giant-t-mobile-merger",
+        "published": "Wed, 28 Oct 2026 18:59:25 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "GE Vernova to Pay $9 Billion for Grid Supplier Trench Group",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/ge-vernova-agrees-to-pay-9-billion-to-acquire-trench-group",
-        "published": "Wed, 28 Oct 2026 10:16:16 GMT"
+        "title": "Stocks Drift After Fed Decision as Oracle Surges: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 27 Oct 2026 22:09:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "World Bank Raises Commodity Price Outlook Citing War and El Niño",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/world-bank-raises-commodity-price-outlook-citing-war-and-el-nino",
-        "published": "Wed, 28 Oct 2026 13:30:00 GMT"
+        "title": "Fed's Warsh Says Monetary 'Medicine' Starting to Work",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/fed-s-warsh-says-monetary-medicine-starting-to-work-video",
+        "published": "Wed, 28 Oct 2026 18:57:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UK’s Healey Offers Help to Homes Facing Soaring Energy Bills",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/healey-to-scrap-uk-s-standing-charges-on-gas-bills",
-        "published": "Wed, 28 Oct 2026 07:07:13 GMT"
+        "title": "Fed Will Raise Rates in December, Clarida Predicts",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/fed-will-raise-rates-in-december-clarida-predicts-video",
+        "published": "Wed, 28 Oct 2026 18:41:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ethiopia Takes Delivery of Russia Fighter Jets Ahead of Schedule",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/ethiopia-takes-delivery-of-russia-fighter-jets-ahead-of-schedule",
-        "published": "Wed, 28 Oct 2026 13:17:59 GMT"
+        "title": "Chris Wright Says Diesel Exports From Arabian Gulf Likely to Increase",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/diesel-from-arabian-gulf-likely-to-increase-wright-video",
+        "published": "Wed, 28 Oct 2026 18:38:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Former Fed President Harker Says Policy Is Not Restrictive",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/former-fed-president-harker-policy-is-not-restrictive-video",
-        "published": "Wed, 28 Oct 2026 12:39:27 GMT"
+        "title": "Gold Holds Losses After Fed Keeps Rates Steady With Two Dissents",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
+        "published": "Tue, 27 Oct 2026 23:36:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/fed-leaves-rates-unchanged-cook-and-hammack-dissent-video",
+        "published": "Wed, 28 Oct 2026 18:19:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Boston Tower Owner Buys It Again at 68% Discount After Default",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/boston-office-tower-sells-for-546-million-discount-at-auction",
+        "published": "Wed, 28 Oct 2026 16:45:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bolsonaro huye a Miami y desata ola de memes en Brasil",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/bolsonaro-huye-a-miami-y-desata-ola-de-memes-en-brasil-video",
+        "published": "Wed, 28 Oct 2026 17:58:58 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -198,54 +210,126 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Kalshi CEO Eyes Guardrails After Studies Detail Customer Losses",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/kalshi-ceo-eyes-guardrails-after-studies-detail-customer-losses",
-        "published": "Wed, 28 Oct 2026 12:35:22 GMT"
+        "title": "Goldman’s Mericle Says December Hike Looms",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/goldman-s-mericle-says-december-hike-looms-video",
+        "published": "Wed, 28 Oct 2026 17:41:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ambani Magic Captivates India Once More With Blockbuster Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/ambani-magic-captivates-india-once-more-with-blockbuster-deal",
-        "published": "Wed, 28 Oct 2026 12:08:19 GMT"
+        "title": "Star Hedge Fund Trader Lemssouguer’s Woes at Arini Roil European Junk Bonds",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/star-hedge-fund-trader-lemssouguer-s-woes-at-arini-roil-european-junk-bonds",
+        "published": "Wed, 28 Oct 2026 17:38:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lula Feels the Heat From Brazil’s Solar Boom",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/lula-feels-the-heat-from-brazil-s-solar-boom",
-        "published": "Wed, 28 Oct 2026 12:08:07 GMT"
+        "title": "How Extreme Wealth Is Remaking the South",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-20/how-extreme-wealth-is-remaking-the-south-video",
+        "published": "Tue, 20 Oct 2026 08:30:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Inside America's Prediction Market Boom",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/inside-america-s-prediction-market-boom",
-        "published": "Wed, 28 Oct 2026 12:01:05 GMT"
+        "title": "DFW’s $12 Billion Transformation",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/dfw-s-12-billion-transformation-video",
+        "published": "Wed, 28 Oct 2026 17:26:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Aftermath of Spanish Train Crash Near Madrid",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/aftermath-of-spanish-train-crash-near-madrid-video",
-        "published": "Wed, 28 Oct 2026 11:59:01 GMT"
+        "title": "Anthropic Is Said to Plan UK Share Offering Via RetailBook",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-is-said-to-plan-uk-share-offering-via-retailbook",
+        "published": "Wed, 28 Oct 2026 17:24:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Saudi Arabia’s Oil Exports Are Booming Despite Wave of Attacks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/saudi-oil-exports-near-wartime-high-as-houthis-mount-attacks",
-        "published": "Wed, 28 Oct 2026 11:44:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fed Communication Has Gotten Confusing, Economist Sahm Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/fed-communication-has-gotten-confusing-economist-sahm-video",
-        "published": "Wed, 28 Oct 2026 11:27:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trans-Oil Bonds Drop as Agricultural Firm Delays Audited Results",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/trans-oil-bonds-drop-as-agricultural-firm-delays-audited-results",
-        "published": "Wed, 28 Oct 2026 11:26:50 GMT"
+        "title": "Spanish Train Crash Kills at Least 68 People South of Madrid",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/spanish-train-crash-kills-at-least-64-people-south-of-madrid",
+        "published": "Wed, 28 Oct 2026 17:05:53 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Fed belässt Leitzins bei 3,75 bis 4,00 Prozent",
+        "link": "https://www.onvista.de/news/2026/10-28-fed-belaesst-leitzins-bei-3-75-bis-4-00-prozent-41121301-19-26569525",
+        "published": "Wed, 28 Oct 2026 19:03:20 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax auf Erholungskurs – Deutsche Bank auf Rekordkurs",
+        "link": "https://www.onvista.de/news/2026/10-28-dax-auf-erholungskurs-deutsche-bank-auf-rekordkurs-41121301-19-26569484",
+        "published": "Wed, 28 Oct 2026 17:49:23 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Visa: Schwächeres Wachstum spricht für sinkende Kurse",
+        "link": "https://www.onvista.de/news/2026/10-28-visa-schwaecheres-wachstum-spricht-fuer-sinkende-kurse-40338625-19-26569422",
+        "published": "Wed, 28 Oct 2026 15:58:17 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Seagate: Die günstige Bewertung bietet großes Kurspotenzial",
+        "link": "https://www.onvista.de/news/2026/10-28-seagate-die-guenstige-bewertung-bietet-grosses-kurspotenzial-40338625-19-26569423",
+        "published": "Wed, 28 Oct 2026 15:57:41 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Sofi: Starke Zahlen sprechen für Kurse bis 20 Dollar",
+        "link": "https://www.onvista.de/news/2026/10-28-sofi-starke-zahlen-sprechen-fuer-kurse-bis-20-dollar-40338625-19-26569418",
+        "published": "Wed, 28 Oct 2026 15:57:23 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Deutsche Bank: Starke Gewinne sprechen für weitere Kursanstiege",
+        "link": "https://www.onvista.de/news/2026/10-28-deutsche-bank-starke-gewinne-sprechen-fuer-weitere-kursanstiege-40338625-19-26569416",
+        "published": "Wed, 28 Oct 2026 15:57:06 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Symrise: Der schwächere Ausblick rechtfertigt den Kursrutsch",
+        "link": "https://www.onvista.de/news/2026/10-28-symrise-der-schwaechere-ausblick-rechtfertigt-den-kursrutsch-40338625-19-26569411",
+        "published": "Wed, 28 Oct 2026 15:56:28 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Corning: Die Aktie fällt trotz kräftigen Wachstums",
+        "link": "https://www.onvista.de/news/2026/10-28-corning-die-aktie-faellt-trotz-kraeftigen-wachstums-40338625-19-26569421",
+        "published": "Wed, 28 Oct 2026 15:55:44 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Robinhood: Der Krypto-Einbruch belastet Umsatz und Gewinn",
+        "link": "https://www.onvista.de/news/2026/10-28-robinhood-der-krypto-einbruch-belastet-umsatz-und-gewinn-40338625-19-26569424",
+        "published": "Wed, 28 Oct 2026 15:55:08 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "UPS: Sinkende Margen sprechen für Zurückhaltung",
+        "link": "https://www.onvista.de/news/2026/10-28-ups-sinkende-margen-sprechen-fuer-zurueckhaltung-40338625-19-26569417",
+        "published": "Wed, 28 Oct 2026 15:54:44 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Mercedes-Benz: Die gesenkte Prognose mahnt zur Vorsicht",
+        "link": "https://www.onvista.de/news/2026/10-28-mercedes-benz-die-gesenkte-prognose-mahnt-zur-vorsicht-40338625-19-26569412",
+        "published": "Wed, 28 Oct 2026 15:54:18 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "SK Hynix: Langfristverträge stützen das Ziel von 1.200 Euro",
+        "link": "https://www.onvista.de/news/2026/10-28-sk-hynix-langfristvertraege-stuetzen-das-ziel-von-1-200-euro-40338625-19-26569431",
+        "published": "Wed, 28 Oct 2026 15:50:46 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Für das Cashflow-Ziel braucht BASF ein starkes Schlussquartal",
+        "link": "https://www.onvista.de/news/2026/10-28-fuer-das-cashflow-ziel-braucht-basf-ein-starkes-schlussquartal-40338625-19-26569413",
+        "published": "Wed, 28 Oct 2026 15:49:04 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Coca-Cola wirtschaftet stark, doch die Bewertung bleibt zu hoch",
+        "link": "https://www.onvista.de/news/2026/10-28-coca-cola-wirtschaftet-stark-doch-die-bewertung-bleibt-zu-hoch-40338625-19-26569420",
+        "published": "Wed, 28 Oct 2026 15:44:24 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Fünf deutsche Aktien, die alle Kriterien erfüllen",
@@ -311,90 +395,6 @@
         "title": "Rambus: Rekordumsatz verbessert die Chancen auf 130 Dollar",
         "link": "https://www.onvista.de/news/2026/10-27-rambus-rekordumsatz-verbessert-die-chancen-auf-130-dollar-40338625-19-26568971",
         "published": "Tue, 27 Oct 2026 16:36:38 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Cadence: Höhere Prognosen sprechen für steigende Kurse",
-        "link": "https://www.onvista.de/news/2026/10-27-cadence-hoehere-prognosen-sprechen-fuer-steigende-kurse-40338625-19-26568978",
-        "published": "Tue, 27 Oct 2026 16:36:14 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Tesla: Das Kursziel von 450 Dollar ist realistisch",
-        "link": "https://www.onvista.de/news/2026/10-27-tesla-das-kursziel-von-450-dollar-ist-realistisch-40338625-19-26568979",
-        "published": "Tue, 27 Oct 2026 16:32:59 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Broadcom: Hohe Garantien erhöhen das Finanzierungsrisiko",
-        "link": "https://www.onvista.de/news/2026/10-27-broadcom-hohe-garantien-erhoehen-das-finanzierungsrisiko-40338625-19-26568980",
-        "published": "Tue, 27 Oct 2026 16:32:05 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Tagesgeld im Oktober 2026: Hier sind aktuell bis zu 4,25 Prozent Zinsen drin",
-        "link": "https://www.onvista.de/news/2026/10-27-tagesgeld-im-oktober-2026-hier-sind-aktuell-bis-zu-4-25-prozent-zinsen-drin-41122918-19-26498067",
-        "published": "Tue, 27 Oct 2026 16:06:27 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Porsche: Der Gewinn steigt, die Aktie bleibt riskant",
-        "link": "https://www.onvista.de/news/2026/10-27-porsche-der-gewinn-steigt-die-aktie-bleibt-riskant-40338625-19-26568967",
-        "published": "Tue, 27 Oct 2026 16:04:15 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Amkor: Der schwache Ausblick spricht für Vorsicht",
-        "link": "https://www.onvista.de/news/2026/10-27-amkor-der-schwache-ausblick-spricht-fuer-vorsicht-40338625-19-26568970",
-        "published": "Tue, 27 Oct 2026 16:03:21 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Meta: Neue Aktien könnten den Kurs weiter belasten",
-        "link": "https://www.onvista.de/news/2026/10-27-meta-neue-aktien-koennten-den-kurs-weiter-belasten-40338625-19-26568981",
-        "published": "Tue, 27 Oct 2026 16:02:17 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Warum Verizon trotz besserer Ergebnisse fällt",
-        "link": "https://www.onvista.de/news/2026/10-27-warum-verizon-trotz-besserer-ergebnisse-faellt-40338625-19-26568969",
-        "published": "Tue, 27 Oct 2026 16:01:20 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Anthropics Wachstum verspricht hohe Börsennachfrage",
-        "link": "https://www.onvista.de/news/2026/10-27-anthropics-wachstum-verspricht-hohe-boersennachfrage-40338625-19-26568982",
-        "published": "Tue, 27 Oct 2026 15:59:29 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Goldman senkt Kospi-Kursziel massiv, sieht aber trotzdem Potenzial",
-        "link": "https://www.onvista.de/news/2026/10-27-goldman-senkt-kospi-kursziel-massiv-sieht-aber-trotzdem-potenzial-41122522-19-26568895",
-        "published": "Tue, 27 Oct 2026 14:23:24 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Anthropic-IPO: Diese Konzerne verdienen am Hype mit",
-        "link": "https://www.onvista.de/news/2026/10-27-anthropic-ipo-diese-konzerne-verdienen-am-hype-mit-41122786-19-26568739",
-        "published": "Tue, 27 Oct 2026 14:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Anthropic mit Mega-IPO, Meta: Nvidia steigt ein, Porsche mit Gewinnwende?",
-        "link": "https://www.onvista.de/news/2026/10-27-anthropic-mit-mega-ipo-meta-nvidia-steigt-ein-porsche-mit-gewinnwende-40338625-19-26568882",
-        "published": "Tue, 27 Oct 2026 12:58:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax testet Ausbruch – Wichtige Hürden im Weg",
-        "link": "https://www.onvista.de/news/2026/10-27-dax-testet-ausbruch-wichtige-huerden-im-weg-41123281-19-26568820",
-        "published": "Tue, 27 Oct 2026 11:01:20 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax startet schwächer – Porsche nach Zahlen gefragt",
-        "link": "https://www.onvista.de/news/2026/10-27-dax-startet-schwaecher-porsche-nach-zahlen-gefragt-0-19-26568778",
-        "published": "Tue, 27 Oct 2026 09:56:56 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX noch unentschieden",
+        "title": "Marktbericht: Der DAX behauptet sich",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
-        "published": "Wed, 28 Oct 2026 10:36:36 +0100"
+        "published": "Wed, 28 Oct 2026 18:38:51 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
