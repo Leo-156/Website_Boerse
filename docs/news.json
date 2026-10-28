@@ -1,30 +1,72 @@
 {
-  "updated_at": "2026-10-28T07:25:29.658696+00:00",
+  "updated_at": "2026-10-28T14:10:44.034695+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: Anleger an der Wall Street vor Fed-Entscheid zurückhaltend – Ölpreise ziehen an",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-anleger-vor-fed-entscheid-zurueckhaltend/100265527.html",
+        "published": "Wed, 28 Oct 2026 13:35:09 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Parlamentswahl: Israels Leitindex fällt um drei Prozent – auch Währung unter Druck",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/parlamentswahl-israels-leitindex-faellt-um-drei-prozent-waehrung-unter-druck/100265623.html",
+        "published": "Wed, 28 Oct 2026 13:27:57 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Anleger halten sich inmitten der Bilanzsaison zurück – Symrise verliert zehn Prozent",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-anleger-halten-sich-inmitten-der-bilanzsaison-zurueck/100265482.html",
+        "published": "Wed, 28 Oct 2026 12:58:08 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Landesbank: „Nachhaltig erschüttert“: Helaba senkt Gewinnprognose erneut – Große Probleme in Washington",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/landesbank-helaba-senkt-prognose-erneut-probleme-mit-bueroimmobilien/100263579.html",
+        "published": "Wed, 28 Oct 2026 12:54:49 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Milliardenbetrug: Letzte Frist für die Verteidiger im Wirecard-Prozess",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/milliardenbetrug-letzte-frist-fuer-die-verteidiger-im-wirecard-prozess/100265613.html",
+        "published": "Wed, 28 Oct 2026 12:35:40 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Schweizer Großbank: „Reisepass reicht heute nicht mehr aus“: Wegzugsdebatte überlagert positive UBS-Zahlen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/ubs-wegzugsdebatte-ueberlagert-positive-quartalszahlen-der-grossbank/100265319.html",
+        "published": "Wed, 28 Oct 2026 12:35:13 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse: Pharma, Tech, Auto – wie wirken sich die US-Midterms auf die Kurse aus?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-tech-auto-pharma-wie-wirken-sich-die-midterms-auf-die-kurse-aus/100263704.html",
+        "published": "Wed, 28 Oct 2026 12:27:29 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Quartalszahlen: Deutsche Bank erzielt Milliardengewinn und übertrifft Erwartungen – Aktie an der Dax-Spitze",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-deutsche-bank-uebertrifft-erwartungen-aktie-steigt-deutlich/100263571.html",
+        "published": "Wed, 28 Oct 2026 09:31:25 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Pier Carlo Padoan: Unicredit-Verwaltungsratschef geht im kommenden Jahr",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/pier-carlo-padoan-unicredit-verwaltungsratschef-geht-im-kommenden-jahr/100265509.html",
+        "published": "Wed, 28 Oct 2026 08:54:42 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
         "title": "Französische Großbank: BNP Paribas übertrifft Gewinnerwartungen – Milliarden-Aktienrückkauf",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/bnp-paribas-franzoesische-grossbank-uebertrifft-gewinnerwartungen/100265057.html",
-        "published": "Wed, 28 Oct 2026 07:04:55 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/bnp-paribas-trotz-frankreich-sorgen-grossbank-uebertrifft-gewinnerwartungen/100265057.html",
+        "published": "Wed, 28 Oct 2026 08:05:30 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Fondsanbieter: ﻿DWS sammelt so viel Anlegergeld ein wie noch nie – Gewinn enttäuscht trotzdem",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/dws-fondsanbieter-sammelt-so-viel-anlegergeld-ein-wie-noch-nie/100263367.html",
-        "published": "Wed, 28 Oct 2026 06:30:50 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "UBS: Schweizer Großbank steigert Ergebnis im dritten Quartal",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/ubs-schweizer-grossbank-steigert-ergebnis-im-dritten-quartal/100265319.html",
-        "published": "Wed, 28 Oct 2026 06:23:29 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Bank: Deutsche Bank erzielt Milliardengewinn im dritten Quartal",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/deutsche-bank-deutschlands-groesstes-geldhaus-erzielt-milliardengewinn/100263571.html",
-        "published": "Wed, 28 Oct 2026 06:16:59 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/fonds-dws-sammelt-so-viel-anlegergeld-ein-wie-noch-nie/100263367.html",
+        "published": "Wed, 28 Oct 2026 07:59:59 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -37,12 +79,6 @@
         "title": "Nikkei, Kospi, Topix: Asiens Börsen profitieren von KI-Optimismus",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kospi-topix-asiens-boersen-profitieren-von-ki-optimismus/100265450.html",
         "published": "Wed, 28 Oct 2026 04:54:59 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Invest: Morgan-Stanley-Stratege: „Die Gewinne können nicht immer so stark wachsen“",
-        "link": "https://www.handelsblatt.com/finanzen/invest-morgan-stanley-stratege-die-gewinne-koennen-nicht-immer-so-stark-wachsen/100221419.html",
-        "published": "Wed, 28 Oct 2026 04:07:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -85,167 +121,155 @@
         "title": "Aktien: Vorbild USA: Deutsche Börse startet Handel mit Dax-Aktien rund um die Uhr",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-deutsche-boerse-startet-handel-mit-dax-aktien-rund-um-die-uhr/100264972.html",
         "published": "Tue, 27 Oct 2026 14:15:51 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Europäische Finanzinstitute: Gut verdienen in der Krise: Analysten kurz vor Beginn der Banken-Berichtssaison überraschend optimistisch",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-gut-verdienen-in-der-krise-europas-banken-legen-zahlen-vor/100261595.html",
-        "published": "Tue, 27 Oct 2026 14:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Goldman Sachs legt überraschend große Position bei LEG offen",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-goldman-sachs-legt-ueberraschend-grosse-position-bei-leg-offen/100265283.html",
-        "published": "Tue, 27 Oct 2026 13:14:09 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "EZB: Firmen und Immobilienkäufer kommen schwerer an neue Darlehen",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-firmen-im-euro-raum-kommen-schwerer-an-neue-darlehen/100263314.html",
-        "published": "Tue, 27 Oct 2026 11:18:24 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: So entsteht ein ETF-Portfolio, das wenig Arbeit macht",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-mit-wenigen-etfs-zu-mehr-rendite/100263502.html",
-        "published": "Tue, 27 Oct 2026 10:45:33 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Vermögen: Risiko Pflegeheim – wann Sie für Ihre Eltern zahlen müssen",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-wann-kinder-fuer-die-pflegekosten-ihrer-eltern-aufkommen-muessen/100246311.html",
-        "published": "Tue, 27 Oct 2026 10:43:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Private Equity: Advent sammelt Rekordsumme von 30 Milliarden Dollar für neuen Fonds ein",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/private-equity-advent-sammelt-rekordsumme-von-30-milliarden-dollar-fuer-neuen-fonds-ein/100264989.html",
-        "published": "Tue, 27 Oct 2026 10:39:02 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Deutsche Bank’s Debt Traders Beat Their Wall Street Peers",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-bank-s-fixed-income-trading-meets-estimate-in-quarter",
-        "published": "Wed, 28 Oct 2026 06:01:50 GMT"
+        "title": "Investors Jolted by Lula Win Search for Bottom After Brazil Rout",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/investors-jolted-by-lula-win-search-for-bottom-after-brazil-rout",
+        "published": "Wed, 28 Oct 2026 14:00:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Remy Cointreau Beats Estimates on Strong China Cognac Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/remy-cointreau-beats-estimates-on-strong-china-cognac-demand",
-        "published": "Wed, 28 Oct 2026 06:29:36 GMT"
+        "title": "Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/trian-offers-to-take-wendy-s-private-in-all-cash-deal-video",
+        "published": "Wed, 28 Oct 2026 13:57:21 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Anthropic IPO Shutout Sends Asia’s Investors Into Proxy Bets",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-ipo-shutout-sends-asia-s-investors-into-proxy-bets",
-        "published": "Wed, 28 Oct 2026 07:07:46 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Healey to Scrap UK’s Standing Charges on Gas Bills",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/healey-to-scrap-uk-s-standing-charges-on-gas-bills",
-        "published": "Wed, 28 Oct 2026 07:07:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "RBNZ Governor Says Further Rate Increases Highly Likely",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/rbnz-governor-says-further-rate-increases-highly-likely-video",
-        "published": "Wed, 28 Oct 2026 07:07:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Princeton Digital Sees Strong Asia Data Center Demand",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/princeton-digital-sees-strong-asia-data-center-demand-video",
-        "published": "Wed, 28 Oct 2026 07:06:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "UBS CEO Ermotti on Earnings, Cost Savings, Capital Return",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/ubs-ceo-ermotti-on-earnings-cost-savings-us-and-asia-video",
-        "published": "Wed, 28 Oct 2026 07:01:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tech Stocks Rally After Hynix Earnings, Oil Gains: Markets Wrap",
+        "title": "Stocks, Bonds, Dollar Churn Before Fed Decision: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
         "published": "Tue, 27 Oct 2026 22:09:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "AI Trade Rebounds, Jio Valuation in Focus",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/insight-with-haslinda-amin-10-28-2026-video",
-        "published": "Wed, 28 Oct 2026 06:55:57 GMT"
+        "title": "Landlocked Botswana Looks to Secure Fuel From Nigeria to Oman",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/landlocked-botswana-looks-to-secure-fuel-from-nigeria-to-oman",
+        "published": "Wed, 28 Oct 2026 13:51:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Heineken Volumes Beat Estimates in Early Boost for New CEO",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/heineken-volumes-beat-estimates-in-early-boost-for-new-ceo",
-        "published": "Wed, 28 Oct 2026 06:12:36 GMT"
+        "title": "Peltz’s Trian Offers $1.4 Billion to Take Wendy’s Private",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/peltz-s-trian-offers-1-4-billion-for-wendy-s-wsj-reports",
+        "published": "Wed, 28 Oct 2026 12:29:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BNP’s CIB Chairman Says European Clients Becoming More Active",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/bnp-s-cib-chairman-says-european-clients-becoming-more-active",
-        "published": "Wed, 28 Oct 2026 06:46:12 GMT"
+        "title": "Sandoz Warns EU May Scrap Antibiotic Protection",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/sandoz-warns-eu-may-scrap-antibiotic-protection-risking-plant",
+        "published": "Wed, 28 Oct 2026 09:34:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "SK Hynix Profit Beat Adds Fuel to AI Rebound Trade",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/the-asia-trade-10-28-2026-video",
-        "published": "Wed, 28 Oct 2026 06:43:56 GMT"
+        "title": "GE Vernova to Pay $9 Billion for Grid Supplier Trench Group",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/ge-vernova-agrees-to-pay-9-billion-to-acquire-trench-group",
+        "published": "Wed, 28 Oct 2026 10:16:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Slips to Near $4,000 as Focus Turns to Fed Rate Decision",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
-        "published": "Tue, 27 Oct 2026 23:36:58 GMT"
+        "title": "World Bank Raises Commodity Price Outlook Citing War and El Niño",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/world-bank-raises-commodity-price-outlook-citing-war-and-el-nino",
+        "published": "Wed, 28 Oct 2026 13:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Danone Sales Rise on Higher Prices, Medical Nutrition Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/danone-sales-rise-on-higher-prices-medical-nutrition-demand",
-        "published": "Wed, 28 Oct 2026 06:31:15 GMT"
+        "title": "UK’s Healey Offers Help to Homes Facing Soaring Energy Bills",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/healey-to-scrap-uk-s-standing-charges-on-gas-bills",
+        "published": "Wed, 28 Oct 2026 07:07:13 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Refiners Tap African, Brazilian Oil as Freight Rates Fall",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/china-refiners-tap-african-brazilian-oil-as-freight-rates-fall",
-        "published": "Wed, 28 Oct 2026 06:20:19 GMT"
+        "title": "Ethiopia Takes Delivery of Russia Fighter Jets Ahead of Schedule",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/ethiopia-takes-delivery-of-russia-fighter-jets-ahead-of-schedule",
+        "published": "Wed, 28 Oct 2026 13:17:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Asia Rate Calls Are Blindsiding Markets and There’s More to Come",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/asia-rate-calls-are-blindsiding-markets-and-there-s-more-to-come",
-        "published": "Wed, 28 Oct 2026 06:15:42 GMT"
+        "title": "Former Fed President Harker Says Policy Is Not Restrictive",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/former-fed-president-harker-policy-is-not-restrictive-video",
+        "published": "Wed, 28 Oct 2026 12:39:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "JPMorgan Private Bank’s Tang Sees More Downside Risk for Gold",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/jpmorgan-private-bank-s-tang-sees-more-downside-risk-for-gold",
-        "published": "Wed, 28 Oct 2026 06:06:49 GMT"
+        "title": "Latest Oil Market News and Analysis for Oct. 28",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
+        "published": "Tue, 27 Oct 2026 22:04:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Weaker Euro Boosts European Exporters as Earnings Season Peaks",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/weaker-euro-boosts-european-exporters-as-earnings-season-peaks",
-        "published": "Wed, 28 Oct 2026 05:49:00 GMT"
+        "title": "Kalshi CEO Eyes Guardrails After Studies Detail Customer Losses",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/kalshi-ceo-eyes-guardrails-after-studies-detail-customer-losses",
+        "published": "Wed, 28 Oct 2026 12:35:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ambani Sheds Tears as Billionaire Clan Celebrates Jio Debut Pop",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/ambani-sheds-tears-as-india-s-richest-family-hails-jio-debut-pop",
-        "published": "Wed, 28 Oct 2026 05:42:25 GMT"
+        "title": "Ambani Magic Captivates India Once More With Blockbuster Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/ambani-magic-captivates-india-once-more-with-blockbuster-deal",
+        "published": "Wed, 28 Oct 2026 12:08:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Copper Wavers Near Two-Week High as Traders Look to Fed Meeting",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/copper-wavers-near-two-week-high-as-traders-look-to-fed-meeting",
-        "published": "Wed, 28 Oct 2026 05:26:09 GMT"
+        "title": "Lula Feels the Heat From Brazil’s Solar Boom",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/lula-feels-the-heat-from-brazil-s-solar-boom",
+        "published": "Wed, 28 Oct 2026 12:08:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Inside America's Prediction Market Boom",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/inside-america-s-prediction-market-boom",
+        "published": "Wed, 28 Oct 2026 12:01:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Aftermath of Spanish Train Crash Near Madrid",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/aftermath-of-spanish-train-crash-near-madrid-video",
+        "published": "Wed, 28 Oct 2026 11:59:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Saudi Arabia’s Oil Exports Are Booming Despite Wave of Attacks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/saudi-oil-exports-near-wartime-high-as-houthis-mount-attacks",
+        "published": "Wed, 28 Oct 2026 11:44:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed Communication Has Gotten Confusing, Economist Sahm Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/fed-communication-has-gotten-confusing-economist-sahm-video",
+        "published": "Wed, 28 Oct 2026 11:27:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trans-Oil Bonds Drop as Agricultural Firm Delays Audited Results",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/trans-oil-bonds-drop-as-agricultural-firm-delays-audited-results",
+        "published": "Wed, 28 Oct 2026 11:26:50 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Fünf deutsche Aktien, die alle Kriterien erfüllen",
+        "link": "https://www.onvista.de/news/2026/10-28-fuenf-deutsche-aktien-die-alle-kriterien-erfuellen-41121763-19-26566192",
+        "published": "Wed, 28 Oct 2026 13:41:54 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Deutsche Bank mit Rekordzahlen – SK Hynix glänzt",
+        "link": "https://www.onvista.de/news/2026/10-28-deutsche-bank-mit-rekordzahlen-sk-hynix-glaenzt-40338625-19-26569357",
+        "published": "Wed, 28 Oct 2026 12:57:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax im Aufwärtstrend: Hier kommt der nächste Widerstand",
+        "link": "https://www.onvista.de/news/2026/10-28-dax-im-aufwaertstrend-hier-kommt-der-naechste-widerstand-41123281-19-26569298",
+        "published": "Wed, 28 Oct 2026 11:00:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax sinkt minimal - Großer Verlust bei Symrise",
+        "link": "https://www.onvista.de/news/2026/10-28-dax-sinkt-minimal-grosser-verlust-bei-symrise-41121301-19-26569244",
+        "published": "Wed, 28 Oct 2026 10:00:01 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Dax etwas schwächer erwartet - Flut an Quartalszahlen",
@@ -371,33 +395,27 @@
         "title": "Dax startet schwächer – Porsche nach Zahlen gefragt",
         "link": "https://www.onvista.de/news/2026/10-27-dax-startet-schwaecher-porsche-nach-zahlen-gefragt-0-19-26568778",
         "published": "Tue, 27 Oct 2026 09:56:56 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax gibt leicht nach – Fokus auf Fed und Berichtssaison",
-        "link": "https://www.onvista.de/news/2026/10-27-dax-gibt-leicht-nach-fokus-auf-fed-und-berichtssaison-41121301-19-26568682",
-        "published": "Tue, 27 Oct 2026 07:58:32 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 27.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-27-finanzberichte-heute-27-10-2026-41121301-19-26568650",
-        "published": "Tue, 27 Oct 2026 06:10:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  27.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-27-dividendenalarm-heute-27-10-2026-41121301-19-26568644",
-        "published": "Tue, 27 Oct 2026 06:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax steigt deutlich - Konjunkturhoffnungen stützen",
-        "link": "https://www.onvista.de/news/2026/10-26-dax-steigt-deutlich-konjunkturhoffnungen-stuetzen-41121301-19-26568503",
-        "published": "Mon, 26 Oct 2026 17:55:00 +0100"
       }
     ],
     "Börse Frankfurt – News": [
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "tk accelis neu im Prime Standard der Frankfurter Wertpapierbörse",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/tk-accelis-neu-im-prime-standard-der-frankfurter-wertpapierboerse",
+        "published": "Wed, 28 Oct 2026 10:08:14 GMT"
+      },
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Deutsche Börse führt 24/7-Handel für DAX 40-Aktien auf 360X ein",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/deutsche-boerse-fuehrt-24-7-handel-fuer-dax-40-aktien-auf-360x-ein",
+        "published": "Wed, 28 Oct 2026 09:06:42 GMT"
+      },
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Zwölf neue ETFs und ETNs",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/elf-neue-etfs-und-etns",
+        "published": "Tue, 27 Oct 2026 14:08:56 GMT"
+      },
       {
         "source": "Börse Frankfurt – News",
         "title": "ETFs: „KI-Zweifel und Brasilien-Ausverkauf“",
@@ -439,38 +457,26 @@
         "title": "ETFs: „Sorge vor Ende des KI-Booms“",
         "link": "https://www.boerse-frankfurt.de/nachrichten/etfs-sorge-vor-ende-des-ki-booms",
         "published": "Tue, 20 Oct 2026 11:34:23 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Neunzehn neue ETFs und ETNs",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/neunzehn-neue-etfs-und-etns",
-        "published": "Tue, 20 Oct 2026 09:54:53 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Wochenausblick: Quartalsberichte „nächster Härtetest“",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/wochenausblick-quartalsberichte-naechster-haertetest",
-        "published": "Mon, 19 Oct 2026 07:28:19 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Anleihen: „Stimmung am Rentenmarkt kann sich schnell drehen“",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/anleihen-stimmung-am-rentenmarkt-kann-sich-schnell-drehen",
-        "published": "Fri, 16 Oct 2026 10:27:42 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
-        "published": "Tue, 27 Oct 2026 15:12:19 +0100"
+        "title": "Marktbericht: Deutsche Bank will \"europäischer Champion\" werden",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-deutsche-bank-100.html",
+        "published": "Wed, 28 Oct 2026 15:05:32 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Viel Rückenwind für den DAX",
+        "title": "Marktbericht: DAX noch unentschieden",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
-        "published": "Wed, 28 Oct 2026 07:36:24 +0100"
+        "published": "Wed, 28 Oct 2026 10:36:36 +0100"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
+        "published": "Tue, 27 Oct 2026 15:12:19 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Marktbericht: Porsche zieht die Reißleine",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/porsche-mittags-mb-100.html",
         "published": "Wed, 07 Oct 2026 14:23:36 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Sorgen um Geld: Frauen fühlen sich finanziell unsicherer",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzen-frauen-sicherheit-unsicher-100.html",
-        "published": "Wed, 07 Oct 2026 09:14:12 +0200"
       }
     ]
   }
