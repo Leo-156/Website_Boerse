@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-10-28T19:30:46.477641+00:00",
+  "updated_at": "2026-10-28T23:29:56.718664+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Geldpolitik: Fed hält Zinsen unverändert – weniger Zinsentscheidungen ab 2027",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-fed-haelt-zinsen-unveraendert-weniger-zinsentscheidungen-ab-2027/100264521.html",
-        "published": "Wed, 28 Oct 2026 18:03:35 GMT"
+        "title": "Geldpolitik: Fed lässt Zinsen unverändert – weniger Zinsentscheidungen ab 2027",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-fed-laesst-zinsen-unveraendert-weniger-zinsentscheidungen-ab-2027/100264521.html",
+        "published": "Wed, 28 Oct 2026 21:22:16 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: US-Börsen schließen leicht im Plus – Anleger halten sich trotz Fed-Zinsentscheid zurück",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-leicht-im-plus-anleger-halten-sich-zurueck/100265527.html",
+        "published": "Wed, 28 Oct 2026 20:11:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -37,12 +43,6 @@
         "title": "Interview: „Juristisch betreten wir bei einer Vergesellschaftung von Wohneigentum komplettes Neuland“",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-vergesellschaftung-juristisch-betreten-wir-komplettes-neuland/100264133.html",
         "published": "Wed, 28 Oct 2026 15:54:42 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Anleger an der Wall Street auch nach Fed-Entscheid zurückhaltend – Ölpreise ziehen an",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-anleger-halten-sich-auch-nach-zinsentscheid-der-fed-zurueck/100265527.html",
-        "published": "Wed, 28 Oct 2026 15:25:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -126,6 +126,84 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+        "published": "Wed, 28 Oct 2026 22:11:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
+        "published": "Wed, 28 Oct 2026 22:05:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Petrobras Pumps at Record as Iran War Upends Oil Markets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/petrobras-pumps-at-record-as-iran-war-upends-oil-markets",
+        "published": "Wed, 28 Oct 2026 23:06:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Sprouts Sinks After Outlook Cut on Cyclospora, Consumer Woes",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/sprouts-slashes-outlook-after-cyclospora-outbreak-hit-sales",
+        "published": "Wed, 28 Oct 2026 21:24:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed mantiene tasas sin dar muchas pistas sobre diciembre",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/fed-mantiene-tasas-sin-dar-muchas-pistas-sobre-diciembre-video",
+        "published": "Wed, 28 Oct 2026 21:32:57 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed Officials Left Interest Rates Unchanged",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/bloomberg-surveillance-the-fed-decides-10-27-2026-video",
+        "published": "Wed, 28 Oct 2026 21:15:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 28",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
+        "published": "Tue, 27 Oct 2026 22:04:57 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Lula's Brazil Election Win Deepens Latin America Stock Fund Collapse",
+        "link": "https://www.bloomberg.com/news/features/2026-10-28/lula-s-brazil-election-win-deepens-latin-america-stock-fund-collapse",
+        "published": "Wed, 28 Oct 2026 21:00:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Edge Higher After Fed as Oracle Surges 11%: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 27 Oct 2026 22:09:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Investors Jolted by Lula Win Seek Bottom After Brazil Rout",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/investors-jolted-by-lula-win-search-for-bottom-after-brazil-rout",
+        "published": "Wed, 28 Oct 2026 14:00:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The Fed Will Deliver Price Stability, Warsh Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/the-fed-will-deliver-price-stability-warsh-says-video",
+        "published": "Wed, 28 Oct 2026 20:28:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Global Bond Sales Shatter Record, Fueled by AI Borrowing Binge",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/global-bond-sales-shatter-record-fueled-by-ai-borrowing-binge",
+        "published": "Wed, 28 Oct 2026 20:17:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Cuts Losses as Fed Pauses and Stays Silent on Future Hikes",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
+        "published": "Tue, 27 Oct 2026 23:36:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Petroperu Chair Eyes Rare Profit, Investors for Minority Stake",
         "link": "https://www.bloomberg.com/news/articles/2026-10-28/petroperu-chair-eyes-rare-profit-investors-for-minority-stake",
         "published": "Wed, 28 Oct 2026 19:19:43 GMT"
@@ -150,18 +228,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-telekom-is-said-to-hit-brakes-on-giant-t-mobile-merger",
-        "published": "Wed, 28 Oct 2026 18:59:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Drift After Fed Decision as Oracle Surges: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 27 Oct 2026 22:09:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Fed's Warsh Says Monetary 'Medicine' Starting to Work",
         "link": "https://www.bloomberg.com/news/videos/2026-10-28/fed-s-warsh-says-monetary-medicine-starting-to-work-video",
         "published": "Wed, 28 Oct 2026 18:57:02 GMT"
@@ -177,75 +243,21 @@
         "title": "Chris Wright Says Diesel Exports From Arabian Gulf Likely to Increase",
         "link": "https://www.bloomberg.com/news/videos/2026-10-28/diesel-from-arabian-gulf-likely-to-increase-wright-video",
         "published": "Wed, 28 Oct 2026 18:38:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Holds Losses After Fed Keeps Rates Steady With Two Dissents",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
-        "published": "Tue, 27 Oct 2026 23:36:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/fed-leaves-rates-unchanged-cook-and-hammack-dissent-video",
-        "published": "Wed, 28 Oct 2026 18:19:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Boston Tower Owner Buys It Again at 68% Discount After Default",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/boston-office-tower-sells-for-546-million-discount-at-auction",
-        "published": "Wed, 28 Oct 2026 16:45:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bolsonaro huye a Miami y desata ola de memes en Brasil",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/bolsonaro-huye-a-miami-y-desata-ola-de-memes-en-brasil-video",
-        "published": "Wed, 28 Oct 2026 17:58:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 28",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
-        "published": "Tue, 27 Oct 2026 22:04:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Goldman’s Mericle Says December Hike Looms",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/goldman-s-mericle-says-december-hike-looms-video",
-        "published": "Wed, 28 Oct 2026 17:41:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Star Hedge Fund Trader Lemssouguer’s Woes at Arini Roil European Junk Bonds",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/star-hedge-fund-trader-lemssouguer-s-woes-at-arini-roil-european-junk-bonds",
-        "published": "Wed, 28 Oct 2026 17:38:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How Extreme Wealth Is Remaking the South",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-20/how-extreme-wealth-is-remaking-the-south-video",
-        "published": "Tue, 20 Oct 2026 08:30:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "DFW’s $12 Billion Transformation",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/dfw-s-12-billion-transformation-video",
-        "published": "Wed, 28 Oct 2026 17:26:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Anthropic Is Said to Plan UK Share Offering Via RetailBook",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-is-said-to-plan-uk-share-offering-via-retailbook",
-        "published": "Wed, 28 Oct 2026 17:24:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Spanish Train Crash Kills at Least 68 People South of Madrid",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/spanish-train-crash-kills-at-least-64-people-south-of-madrid",
-        "published": "Wed, 28 Oct 2026 17:05:53 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "KI-Megadeal? Marvell will offenbar Lumentum kaufen",
+        "link": "https://www.onvista.de/news/2026/10-28-ki-megadeal-marvell-will-offenbar-lumentum-kaufen-41121301-19-26569574",
+        "published": "Thu, 29 Oct 2026 00:03:34 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Hyperscaler-Zahlen: Microsoft glänzt, Alphabet sackt ab",
+        "link": "https://www.onvista.de/news/2026/10-28-hyperscaler-zahlen-microsoft-glaenzt-alphabet-sackt-ab-41121301-19-26569458",
+        "published": "Wed, 28 Oct 2026 21:20:01 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Fed belässt Leitzins bei 3,75 bis 4,00 Prozent",
@@ -383,18 +395,6 @@
         "title": "Celestica: Das starke Wachstum macht die Aktie attraktiv",
         "link": "https://www.onvista.de/news/2026/10-27-celestica-das-starke-wachstum-macht-die-aktie-attraktiv-40338625-19-26568977",
         "published": "Tue, 27 Oct 2026 16:59:11 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Cancom: Aktie fällt nach gesenkter Umsatzprognose",
-        "link": "https://www.onvista.de/news/2026/10-27-cancom-aktie-faellt-nach-gesenkter-umsatzprognose-40338625-19-26568966",
-        "published": "Tue, 27 Oct 2026 16:37:14 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Rambus: Rekordumsatz verbessert die Chancen auf 130 Dollar",
-        "link": "https://www.onvista.de/news/2026/10-27-rambus-rekordumsatz-verbessert-die-chancen-auf-130-dollar-40338625-19-26568971",
-        "published": "Tue, 27 Oct 2026 16:36:38 +0100"
       }
     ],
     "Börse Frankfurt – News": [
