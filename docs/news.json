@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-28T01:43:52.805891+00:00",
+  "updated_at": "2026-10-28T07:25:29.658696+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Französische Großbank: BNP Paribas übertrifft Gewinnerwartungen – Milliarden-Aktienrückkauf",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/bnp-paribas-franzoesische-grossbank-uebertrifft-gewinnerwartungen/100265057.html",
+        "published": "Wed, 28 Oct 2026 07:04:55 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Fondsanbieter: ﻿DWS sammelt so viel Anlegergeld ein wie noch nie – Gewinn enttäuscht trotzdem",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/dws-fondsanbieter-sammelt-so-viel-anlegergeld-ein-wie-noch-nie/100263367.html",
+        "published": "Wed, 28 Oct 2026 06:30:50 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "UBS: Schweizer Großbank steigert Ergebnis im dritten Quartal",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/ubs-schweizer-grossbank-steigert-ergebnis-im-dritten-quartal/100265319.html",
+        "published": "Wed, 28 Oct 2026 06:23:29 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Bank: Deutsche Bank erzielt Milliardengewinn im dritten Quartal",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/deutsche-bank-deutschlands-groesstes-geldhaus-erzielt-milliardengewinn/100263571.html",
+        "published": "Wed, 28 Oct 2026 06:16:59 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 28. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Wed, 28 Oct 2026 05:38:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Kospi, Topix: Asiens Börsen profitieren von KI-Optimismus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kospi-topix-asiens-boersen-profitieren-von-ki-optimismus/100265450.html",
+        "published": "Wed, 28 Oct 2026 04:54:59 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Invest: Morgan-Stanley-Stratege: „Die Gewinne können nicht immer so stark wachsen“",
+        "link": "https://www.handelsblatt.com/finanzen/invest-morgan-stanley-stratege-die-gewinne-koennen-nicht-immer-so-stark-wachsen/100221419.html",
+        "published": "Wed, 28 Oct 2026 04:07:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Banken: EZB gibt Intesa Sanpaolo grünes Licht für MPS-Übernahme",
@@ -17,8 +59,8 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "„S-Neo“: Sparkassen übertreffen mit neuem Wertpapier-Depot-Angebot eigenes Ziel",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/broker-sparkassen-uebertreffen-mit-s-neo-wertpapier-depots-eigenes-ziel/100264982.html",
-        "published": "Tue, 27 Oct 2026 17:01:03 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/broker-neues-wertpapier-depot-s-neo-der-sparkassen-uebertrifft-eigenes-ziel/100264982.html",
+        "published": "Wed, 28 Oct 2026 06:48:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -35,8 +77,8 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "KI: Anthropic dreht die Börsenstimmung – dafür gibt es drei Gründe",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/ki-anthropic-dreht-die-boersenstimmung-dafuer-gibt-es-drei-gruende/100265184.html",
-        "published": "Tue, 27 Oct 2026 16:01:03 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/ki-anthropic-dreht-die-boersenstimmung-dafuer-gibt-es-drei-gruende-01/100265184.html",
+        "published": "Wed, 28 Oct 2026 06:12:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -79,173 +121,149 @@
         "title": "Private Equity: Advent sammelt Rekordsumme von 30 Milliarden Dollar für neuen Fonds ein",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/private-equity-advent-sammelt-rekordsumme-von-30-milliarden-dollar-fuer-neuen-fonds-ein/100264989.html",
         "published": "Tue, 27 Oct 2026 10:39:02 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-gutverdiener-mit-neubauwohnungen-steuern-sparen-koennen/100193212.html",
-        "published": "Tue, 27 Oct 2026 10:07:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Versicherung: Welche Autoversicherungen bei Akkuschäden zahlen und die Extrakosten übernehmen",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-welche-autoversicherungen-bei-akkuschaeden-zahlen/100246776.html",
-        "published": "Tue, 27 Oct 2026 09:25:34 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Personal: BayernLB-Chef Winkelmeier geht vorzeitig im September 2027",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/personal-bayernlb-chef-winkelmeier-geht-vorzeitig-im-september-2027/100265219.html",
-        "published": "Tue, 27 Oct 2026 09:10:23 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Steuererklärung: Bonus bekommen? So sparen Prämierte auch noch Steuern",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuererklaerung-so-holen-sie-aus-ihrer-bonuszahlung-mehr-netto-heraus/100003952.html",
-        "published": "Tue, 27 Oct 2026 09:01:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Anthropic-IPO sorgt für Euphorie – Diese KI-Aktien empfehlen Analysten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-euphorie-um-anthropic-diese-ki-aktien-empfehlen-analysten/100263467.html",
-        "published": "Tue, 27 Oct 2026 07:45:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 27. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Tue, 27 Oct 2026 05:21:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Aktien: Kospi und Nikkei springen hoch – KI-Pläne stärken Asiens Börsen",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/aktien-kospi-und-nikkei-springen-hoch-ki-plaene-staerken-asiens-boersen/100265142.html",
-        "published": "Tue, 27 Oct 2026 04:52:24 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand",
-        "published": "Tue, 27 Oct 2026 08:42:00 GMT"
+        "title": "Deutsche Bank’s Debt Traders Beat Their Wall Street Peers",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-bank-s-fixed-income-trading-meets-estimate-in-quarter",
+        "published": "Wed, 28 Oct 2026 06:01:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Super-Strong Metal’s Surge Has Freeport Dusting Off Growth Plans",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/super-strong-metal-s-surge-has-freeport-dusting-off-growth-plans",
-        "published": "Wed, 28 Oct 2026 01:28:25 GMT"
+        "title": "Remy Cointreau Beats Estimates on Strong China Cognac Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/remy-cointreau-beats-estimates-on-strong-china-cognac-demand",
+        "published": "Wed, 28 Oct 2026 06:29:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 28",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
-        "published": "Tue, 27 Oct 2026 22:04:57 GMT"
+        "title": "Anthropic IPO Shutout Sends Asia’s Investors Into Proxy Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-ipo-shutout-sends-asia-s-investors-into-proxy-bets",
+        "published": "Wed, 28 Oct 2026 07:07:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Malaysian Palm Oil Glut Swamps Storage in Top-Growing State",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/malaysian-palm-oil-glut-swamps-storage-in-top-producing-state",
-        "published": "Tue, 27 Oct 2026 09:10:39 GMT"
+        "title": "Healey to Scrap UK’s Standing Charges on Gas Bills",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/healey-to-scrap-uk-s-standing-charges-on-gas-bills",
+        "published": "Wed, 28 Oct 2026 07:07:13 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Rise, Treasuries Steady Before Fed: Markets Wrap",
+        "title": "RBNZ Governor Says Further Rate Increases Highly Likely",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/rbnz-governor-says-further-rate-increases-highly-likely-video",
+        "published": "Wed, 28 Oct 2026 07:07:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Princeton Digital Sees Strong Asia Data Center Demand",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/princeton-digital-sees-strong-asia-data-center-demand-video",
+        "published": "Wed, 28 Oct 2026 07:06:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "UBS CEO Ermotti on Earnings, Cost Savings, Capital Return",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/ubs-ceo-ermotti-on-earnings-cost-savings-us-and-asia-video",
+        "published": "Wed, 28 Oct 2026 07:01:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Tech Stocks Rally After Hynix Earnings, Oil Gains: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
         "published": "Tue, 27 Oct 2026 22:09:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Robert Kaplan: Fed Can Wait Before Hiking Rates",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/robert-kaplan-fed-can-wait-before-hiking-rates-video",
-        "published": "Wed, 28 Oct 2026 00:49:45 GMT"
+        "title": "AI Trade Rebounds, Jio Valuation in Focus",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/insight-with-haslinda-amin-10-28-2026-video",
+        "published": "Wed, 28 Oct 2026 06:55:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-said-to-pick-jpmorgan-to-lead-ipo-s-us-retail-offering",
-        "published": "Wed, 28 Oct 2026 00:32:33 GMT"
+        "title": "Heineken Volumes Beat Estimates in Early Boost for New CEO",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/heineken-volumes-beat-estimates-in-early-boost-for-new-ceo",
+        "published": "Wed, 28 Oct 2026 06:12:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Holds Above $4,000 as Traders Look to Fed Rate Decision",
+        "title": "BNP’s CIB Chairman Says European Clients Becoming More Active",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/bnp-s-cib-chairman-says-european-clients-becoming-more-active",
+        "published": "Wed, 28 Oct 2026 06:46:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SK Hynix Profit Beat Adds Fuel to AI Rebound Trade",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-28/the-asia-trade-10-28-2026-video",
+        "published": "Wed, 28 Oct 2026 06:43:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Slips to Near $4,000 as Focus Turns to Fed Rate Decision",
         "link": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
         "published": "Tue, 27 Oct 2026 23:36:58 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India Jewelers Hold Off Gold Buying, Betting Prices Will Drop",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/india-jewelers-hold-off-gold-buying-betting-prices-will-drop",
-        "published": "Wed, 28 Oct 2026 00:21:27 GMT"
+        "title": "Danone Sales Rise on Higher Prices, Medical Nutrition Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/danone-sales-rise-on-higher-prices-medical-nutrition-demand",
+        "published": "Wed, 28 Oct 2026 06:31:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "SK Hynix Posts Record Profit Amid AI Rush",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/sk-hynix-posts-record-profit-amid-ai-rush-video",
-        "published": "Wed, 28 Oct 2026 00:18:39 GMT"
+        "title": "China Refiners Tap African, Brazilian Oil as Freight Rates Fall",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/china-refiners-tap-african-brazilian-oil-as-freight-rates-fall",
+        "published": "Wed, 28 Oct 2026 06:20:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Stock Premium Over Hong Kong Widens on State Intervention",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/china-stock-premium-over-hong-kong-widens-on-state-intervention",
-        "published": "Tue, 27 Oct 2026 23:49:37 GMT"
+        "title": "Asia Rate Calls Are Blindsiding Markets and There’s More to Come",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/asia-rate-calls-are-blindsiding-markets-and-there-s-more-to-come",
+        "published": "Wed, 28 Oct 2026 06:15:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fed Seen Holding Rates With Nod to December: Decision-Day Guide",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/fed-seen-holding-rates-with-nod-to-december-decision-day-guide",
-        "published": "Tue, 27 Oct 2026 23:00:00 GMT"
+        "title": "JPMorgan Private Bank’s Tang Sees More Downside Risk for Gold",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/jpmorgan-private-bank-s-tang-sees-more-downside-risk-for-gold",
+        "published": "Wed, 28 Oct 2026 06:06:49 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dongshan Precision Set to Debut After $1.3 Billion HK Listing",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/dongshan-precision-set-to-debut-after-1-3-billion-hk-listing",
-        "published": "Tue, 27 Oct 2026 23:00:00 GMT"
+        "title": "Weaker Euro Boosts European Exporters as Earnings Season Peaks",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/weaker-euro-boosts-european-exporters-as-earnings-season-peaks",
+        "published": "Wed, 28 Oct 2026 05:49:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dallas Mavericks CEO on Team Investment and New Stadium",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-27/dallas-mavericks-ceo-on-team-investment-and-new-stadium-video",
-        "published": "Tue, 27 Oct 2026 21:45:26 GMT"
+        "title": "Ambani Sheds Tears as Billionaire Clan Celebrates Jio Debut Pop",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/ambani-sheds-tears-as-india-s-richest-family-hails-jio-debut-pop",
+        "published": "Wed, 28 Oct 2026 05:42:25 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Prediction Market Betting Stretches Past Sports",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-27/prediction-market-betting-stretches-past-sports-video",
-        "published": "Tue, 27 Oct 2026 21:44:26 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wells Fargo, UBS & Citi on Servicing the Texas Wealthy",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-27/wells-fargo-ubs-citi-on-servicing-the-texas-wealthy-video",
-        "published": "Tue, 27 Oct 2026 21:42:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nasdaq Texas & Walmart Discuss Corp Listing Strategies",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-27/nasdaq-texas-walmart-discuss-corp-listing-strategies-video",
-        "published": "Tue, 27 Oct 2026 21:42:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "JPM's Agather & Herbst on Texas Wealth Wave",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-27/jpm-s-agather-herbst-on-texas-wealth-wave-video",
-        "published": "Tue, 27 Oct 2026 21:36:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Montage Intl. CEO: Future Bookings Are Higher Into 2027",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-27/montage-intl-ceo-future-bookings-are-higher-into-2027-video",
-        "published": "Tue, 27 Oct 2026 21:31:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Banks Eye $21 Billion Bonds for Broadcom Chip-Financing Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/banks-eye-21-billion-of-bonds-for-broadcom-chip-financing-deal",
-        "published": "Tue, 27 Oct 2026 20:09:29 GMT"
+        "title": "Copper Wavers Near Two-Week High as Traders Look to Fed Meeting",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/copper-wavers-near-two-week-high-as-traders-look-to-fed-meeting",
+        "published": "Wed, 28 Oct 2026 05:26:09 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax etwas schwächer erwartet - Flut an Quartalszahlen",
+        "link": "https://www.onvista.de/news/2026/10-28-dax-etwas-schwaecher-erwartet-flut-an-quartalszahlen-41121301-19-26569155",
+        "published": "Wed, 28 Oct 2026 08:06:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 28.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-28-finanzberichte-heute-28-10-2026-41121301-19-26569122",
+        "published": "Wed, 28 Oct 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  28.10.2026",
+        "link": "https://www.onvista.de/news/2026/10-28-dividendenalarm-heute-28-10-2026-41121301-19-26569116",
+        "published": "Wed, 28 Oct 2026 06:00:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Dax-Erholung geht weiter - Suss-Aktie dämmt Verlust ein",
@@ -377,24 +395,6 @@
         "title": "Dax steigt deutlich - Konjunkturhoffnungen stützen",
         "link": "https://www.onvista.de/news/2026/10-26-dax-steigt-deutlich-konjunkturhoffnungen-stuetzen-41121301-19-26568503",
         "published": "Mon, 26 Oct 2026 17:55:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Volkswagen: Audis Werksplan verschärft den Spardruck",
-        "link": "https://www.onvista.de/news/2026/10-26-volkswagen-audis-werksplan-verschaerft-den-spardruck-40338625-19-26568451",
-        "published": "Mon, 26 Oct 2026 16:18:24 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Flatexdegiro: Nach 42 Prozent Kursverlust steigt die Aktie deutlich",
-        "link": "https://www.onvista.de/news/2026/10-26-flatexdegiro-nach-42-prozent-kursverlust-steigt-die-aktie-deutlich-40338625-19-26568449",
-        "published": "Mon, 26 Oct 2026 16:17:36 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Atoss: Die höhere Marge spricht für weitere Kursgewinne",
-        "link": "https://www.onvista.de/news/2026/10-26-atoss-die-hoehere-marge-spricht-fuer-weitere-kursgewinne-40338625-19-26568448",
-        "published": "Mon, 26 Oct 2026 16:16:46 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX kann weiter zulegen",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
-        "published": "Tue, 27 Oct 2026 18:18:35 +0100"
+        "title": "Marktbericht: Viel Rückenwind für den DAX",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
+        "published": "Wed, 28 Oct 2026 07:36:24 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
