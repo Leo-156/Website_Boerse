@@ -1,18 +1,48 @@
 {
-  "updated_at": "2026-10-29T15:39:43.460061+00:00",
+  "updated_at": "2026-10-29T20:33:52.474393+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Geldpolitik: EZB lässt Leitzins trotz hoher Inflation vorerst bei 2,5 Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-notenbank-steuert-auf-dritte-zinserhoehung-im-dezember-zu/100265320.html",
-        "published": "Thu, 29 Oct 2026 15:35:25 GMT"
+        "title": "US-Börsen: Wall Street notiert im Minus – Alphabet verliert zweistellig",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-im-minus-alphabet-verliert-zweistellig/100265906.html",
+        "published": "Thu, 29 Oct 2026 18:56:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax gewinnt deutlich hinzu – und überschreitet 26.000-Punkte-Marke",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gewinnt-deutlich-hinzu-und-ueberschreitet-26.000-punkte-marke/100265822.html",
-        "published": "Thu, 29 Oct 2026 15:23:18 GMT"
+        "title": "Italien: Aktionäre von Bank Monte dei Paschi stoppen Abwehrplan gegen Intesa-Übernahme",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/italien-aktionaere-von-bank-monte-dei-paschi-stoppen-abwehrplan-gegen-intesa/100265366.html",
+        "published": "Thu, 29 Oct 2026 17:24:41 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax legt deutlich zu und schließt über 26.000-Punkten – Konsum-Aktie gewinnt fast sechs Prozent",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gewinnt-deutlich-hinzu-und-schliesst-ueber-26.000-punkte-marke/100265822.html",
+        "published": "Thu, 29 Oct 2026 16:59:50 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Steht der Dax kurz vor einer Jahresendrally?",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-steht-der-dax-kurz-vor-einer-jahresendrally/100265172.html",
+        "published": "Thu, 29 Oct 2026 16:57:13 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Kreditkartenaffäre: Wende in „Operation Chargeback“: Gericht zerpflückt Anklage und hebt Haftbefehle auf",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kreditkartenaffaere-wende-in-operation-chargeback-gericht-zerpflueckt-anklage/100265824.html",
+        "published": "Thu, 29 Oct 2026 16:47:50 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldpolitik: „Die Richtung ist ziemlich klar“ – EZB steuert auf dritte Zinserhöhung im Dezember zu",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-notenbank-steuert-auf-dritte-zinserhoehung-im-dezember-zu/100265320.html",
+        "published": "Thu, 29 Oct 2026 16:24:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Musterdepot: Der KI-Boom zeigt, warum Nachhaltigkeit für Investoren relevant bleibt﻿",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-nachhaltigkeit/100264126.html",
+        "published": "Thu, 29 Oct 2026 16:17:40 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -31,18 +61,6 @@
         "title": "Geldpolitik: „Ich will frei sprechen können“: Das sagt EZB-Präsidentin Lagarde zu ihrem vorzeitigen Abschied",
         "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-das-sagt-ezb-praesidentin-lagarde-zu-ihrem-vorzeitigen-abschied/100265926.html",
         "published": "Thu, 29 Oct 2026 14:42:33 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Wall Street notiert im Minus – Alphabet verliert zweistellig",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-im-minus-alphabet-verliert-zweistellig/100265906.html",
-        "published": "Thu, 29 Oct 2026 14:24:38 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Kreditkartenaffäre: Wende in „Operation Chargeback“: Gericht zerpflückt Anklage",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kreditkartenaffaere-wende-in-operation-chargeback-gericht-zerpflueckt-anklage/100265824.html",
-        "published": "Thu, 29 Oct 2026 13:43:11 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -103,149 +121,197 @@
         "title": "Börse am 29. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "published": "Thu, 29 Oct 2026 05:22:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: Warum sich Anleger mit weniger Wachstum zufriedengeben müssen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/wall-street-warum-sich-anleger-mit-weniger-wachstum-zufriedengeben-muessen/100265278.html",
-        "published": "Thu, 29 Oct 2026 03:12:26 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Deep Read: Showdown im italienischen Bankenpoker – Intesa Sanpaolo greift nach der ältesten Bank der Welt",
-        "link": "https://www.handelsblatt.com/finanzen/italien-intesa-sanpaolo-greift-nach-der-aeltesten-bank-der-welt01/100263246.html",
-        "published": "Thu, 29 Oct 2026 13:28:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldpolitik: Fed lässt Zinsen unverändert – weniger Zinsentscheidungen ab 2027",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-fed-laesst-zinsen-unveraendert-weniger-zinsentscheidungen-ab-2027/100264521.html",
-        "published": "Wed, 28 Oct 2026 21:22:16 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "VF Corp CEO on 2Q, Vans Recovery and Affordable Luxury",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-29/vf-corp-ceo-on-2q-vans-recovery-and-affordable-luxury-video",
-        "published": "Thu, 29 Oct 2026 15:31:02 GMT"
+        "title": "US Farm Firms Signal More Murky Times With Soaring Costs",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/america-s-farm-firms-signal-more-murky-times-with-soaring-costs",
+        "published": "Thu, 29 Oct 2026 17:32:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fed’s Path to a Repo-Based Framework Faces a Familiar Roadblock",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/fed-s-path-to-a-repo-based-framework-faces-a-familiar-roadblock",
-        "published": "Thu, 29 Oct 2026 15:26:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Makes First Inquiry for US Wheat Since Trump-Xi Summit",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/china-makes-first-inquiry-for-us-wheat-since-trump-xi-summit",
-        "published": "Thu, 29 Oct 2026 15:21:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Applebee’s Owner Adopts Poison Pill to Fend off Hostile Takeover",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/applebee-s-owner-adopts-poison-pill-to-fend-off-hostile-takeover",
-        "published": "Thu, 29 Oct 2026 15:21:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Paschi Investors Deal Crushing Blow to CEO in Win for Intesa",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/monte-paschi-investors-reject-banco-bpm-bid-in-win-for-intesa",
-        "published": "Thu, 29 Oct 2026 14:43:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Google Debt-Risk Gauge Rises as Earnings Revive AI Debt Jitters",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/google-debt-risk-gauge-rises-as-earnings-revive-ai-debt-jitters",
-        "published": "Thu, 29 Oct 2026 15:02:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fed Can’t Beat Inflation Without Market Pain, Says Dawson",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-29/fed-can-t-tighten-without-market-pain-says-dawson-video",
-        "published": "Thu, 29 Oct 2026 15:00:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Falls 1.5% as AI Trade Shows New Cracks: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 28 Oct 2026 22:11:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Polymarket Investigating Suspicious Trades on Israeli Election",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-investigating-suspicious-trades-on-israeli-election",
-        "published": "Thu, 29 Oct 2026 14:57:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "GFL Sets Nov. 9 Date for Offers as Talks Enter Final Stretch",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/gfl-bidders-said-to-be-given-nov-9-deadline-for-final-offers",
-        "published": "Wed, 28 Oct 2026 20:12:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "NHL’s Billionaire Samueli Family Strikes $100 Million-Plus Deal for Anaheim Museum",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-29/samueli-family-strikes-deal-to-build-new-anaheim-museum-video",
-        "published": "Thu, 29 Oct 2026 14:44:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Oil Slides as Traders Weigh Signs of Tentative Iran Diplomacy",
+        "title": "Oil Wavers on Conflicting Reports of US Military Moves in Iran",
         "link": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
         "published": "Wed, 28 Oct 2026 22:05:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ajuste en Bolivia entusiasma a inversionistas y golpea al país",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-29/ajuste-en-bolivia-entusiasma-a-inversionistas-y-golpea-al-pais",
-        "published": "Thu, 29 Oct 2026 14:23:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Eli Lilly Shares Surge on Raised Sales Forecast",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-29/eli-lilly-shares-surge-on-raised-sales-forecast-video",
-        "published": "Thu, 29 Oct 2026 14:12:14 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "BofA Macro Traders Avoid Big Bets After Volatile Market Shakeout",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/bofa-macro-traders-avoid-big-bets-after-volatile-market-shakeout",
-        "published": "Thu, 29 Oct 2026 14:07:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Reaching 2% Inflation Will Be Challenging for the Fed, Feroli Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-29/reaching-2-inflation-will-be-challenging-feroli-says-video",
-        "published": "Thu, 29 Oct 2026 14:05:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Stocks Fall as Alphabet Sales Miss Revives AI Fears",
+        "title": "Tech Stocks Slide as Alphabet’s Record Plunge Revives AI Fears",
         "link": "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears",
         "published": "Thu, 29 Oct 2026 11:09:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-s-ailing-stock-needs-booming-cloud-growth-to-revive-rally",
-        "published": "Thu, 29 Oct 2026 11:30:01 GMT"
+        "title": "Issuers Come to Market When Window Opens: CreditSights' Cisar",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-29/issuers-come-to-market-when-window-opens-cisar-video",
+        "published": "Thu, 29 Oct 2026 20:27:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Cyfrowy Polsat Pledges to Resume Dividends, Cut Debt in Strategic Reset",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/cyfrowy-polsat-pledges-to-resume-dividends-cut-debt-in-strategic-reset",
-        "published": "Thu, 29 Oct 2026 11:56:16 GMT"
+        "title": "Stock Rotation Hits AI Winners on Spending Worries: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+        "published": "Wed, 28 Oct 2026 22:11:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "ECB Holds Rates as Lagarde Announces Early Resignation",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-29/ecb-holds-rates-as-lagarde-announces-early-resignation-video",
-        "published": "Thu, 29 Oct 2026 13:27:04 GMT"
+        "title": "Polymarket Investigates Suspicious Trades on Israel Election",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-investigating-suspicious-trades-on-israeli-election",
+        "published": "Thu, 29 Oct 2026 14:57:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Lagarde Quits ECB Early, French Debt: Global Return",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-29/lagarde-quits-ecb-early-french-debt-global-return-video",
+        "published": "Thu, 29 Oct 2026 20:13:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Safe Haven Demand Will Persist: Larosiliere",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-29/safe-haven-demand-will-persist-larosiliere-video",
+        "published": "Thu, 29 Oct 2026 20:12:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Economy Grows Most in a Year on Strong Spending, Investment",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-29/us-economy-grows-most-in-a-year-on-spending-investment-video",
+        "published": "Thu, 29 Oct 2026 20:10:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Credit Swaps For Tech Companies Reach Records Amid Supply Fears",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/google-debt-risk-gauge-rises-as-earnings-revive-ai-debt-jitters",
+        "published": "Thu, 29 Oct 2026 15:02:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ares CEO Says It’s Avoiding Backing AI Chips, Citing Complexity",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/ares-ceo-says-it-s-avoiding-backing-ai-chips-citing-complexity",
+        "published": "Thu, 29 Oct 2026 19:38:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Tokenization Gives Illiquid Funds a 24/7 Trading Twist",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-29/tokenization-gives-illiquid-funds-a-24-7-trading-twist",
+        "published": "Thu, 29 Oct 2026 19:34:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Venezuela’s Rodríguez Vows to Hold Election; Machado Asks When",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/venezuelan-leader-commits-to-elections-ahead-of-machado-speech",
+        "published": "Thu, 29 Oct 2026 16:27:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Warsh’s ‘Forward Silence’ Risks Bigger Treasury Market Swings",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/warsh-s-forward-silence-risks-bigger-treasury-market-swings",
+        "published": "Thu, 29 Oct 2026 19:23:34 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AI Creating New Pathways to Engage Clients, Says Schwab CEO",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-29/ai-creating-new-pathways-to-engage-clients-schwab-ceo-video",
+        "published": "Thu, 29 Oct 2026 19:18:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Canadian Dollar Poised for Best Month Since April After BOC Hike",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/canadian-dollar-poised-for-best-month-since-april-after-boc-hike",
+        "published": "Thu, 29 Oct 2026 19:10:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The Fearsome Rise of the Haunted Attraction",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-29/the-fearsome-rise-of-the-haunted-attraction",
+        "published": "Thu, 29 Oct 2026 16:42:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Maybe Wall Street Has Never Been ‘AI-Pilled’",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-29/maybe-wall-street-has-never-been-ai-pilled",
+        "published": "Thu, 29 Oct 2026 18:37:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Lenders Seek to Sell Debt of Rovensa as Firm Burns Cash",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/lenders-seek-to-sell-debt-of-rovensa-as-firm-burns-through-cash",
+        "published": "Thu, 29 Oct 2026 17:15:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Investors Buy Rogers (RCI), BCE, Telus Stocks After Canada Telecom Selloff",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/investors-buy-rogers-rci-bce-telus-stocks-after-canada-telecom-selloff",
+        "published": "Thu, 29 Oct 2026 11:38:07 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax steigt über 26.000 Punkte – EZB-Leitzins bleibt stabil",
+        "link": "https://www.onvista.de/news/2026/10-29-dax-steigt-ueber-26-000-punkte-ezb-leitzins-bleibt-stabil-41121301-19-26570069",
+        "published": "Thu, 29 Oct 2026 17:47:49 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Aixtron: Der Auftragseingang steigt um 122 Prozent",
+        "link": "https://www.onvista.de/news/2026/10-29-aixtron-der-auftragseingang-steigt-um-122-prozent-40338625-19-26570008",
+        "published": "Thu, 29 Oct 2026 16:45:58 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "KLA: Starkes Wachstum macht die Aktie wieder zum Kauf",
+        "link": "https://www.onvista.de/news/2026/10-29-kla-starkes-wachstum-macht-die-aktie-wieder-zum-kauf-40338625-19-26570021",
+        "published": "Thu, 29 Oct 2026 16:45:34 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Marvell: Übernahmepläne machen die Aktie unattraktiver",
+        "link": "https://www.onvista.de/news/2026/10-29-marvell-uebernahmeplaene-machen-die-aktie-unattraktiver-40338625-19-26570016",
+        "published": "Thu, 29 Oct 2026 16:44:54 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Vertiv: Starkes Wachstum rechtfertigt höhere Kurse",
+        "link": "https://www.onvista.de/news/2026/10-29-vertiv-starkes-wachstum-rechtfertigt-hoehere-kurse-40338625-19-26570015",
+        "published": "Thu, 29 Oct 2026 16:44:28 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Volkswagen: Trotz Milliardenverlust steigt die Aktie",
+        "link": "https://www.onvista.de/news/2026/10-29-volkswagen-trotz-milliardenverlust-steigt-die-aktie-40338625-19-26570010",
+        "published": "Thu, 29 Oct 2026 16:43:53 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Microsoft: Starkes Azure-Wachstum stützt die Aktie",
+        "link": "https://www.onvista.de/news/2026/10-29-microsoft-starkes-azure-wachstum-stuetzt-die-aktie-40338625-19-26570023",
+        "published": "Thu, 29 Oct 2026 16:43:17 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "GE Vernova: Starke Aufträge machen tiefere Kurse attraktiv",
+        "link": "https://www.onvista.de/news/2026/10-29-ge-vernova-starke-auftraege-machen-tiefere-kurse-attraktiv-40338625-19-26570014",
+        "published": "Thu, 29 Oct 2026 16:42:47 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Samsung: Starke Gewinne machen den Kursrutsch überzogen",
+        "link": "https://www.onvista.de/news/2026/10-29-samsung-starke-gewinne-machen-den-kursrutsch-ueberzogen-40338625-19-26570013",
+        "published": "Thu, 29 Oct 2026 16:42:27 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Oracle: Aktie steigt nach neuer Finanzplanung um elf Prozent",
+        "link": "https://www.onvista.de/news/2026/10-29-oracle-aktie-steigt-nach-neuer-finanzplanung-um-elf-prozent-40338625-19-26570017",
+        "published": "Thu, 29 Oct 2026 16:41:49 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Servicenow: Der Kursrutsch eröffnet Chancen bei 120 Dollar",
+        "link": "https://www.onvista.de/news/2026/10-29-servicenow-der-kursrutsch-eroeffnet-chancen-bei-120-dollar-40338625-19-26570020",
+        "published": "Thu, 29 Oct 2026 16:40:20 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Alphabet: Gewinneinbruch kostet vorbörslich elf Prozent",
@@ -329,72 +395,6 @@
         "title": "Visa: Schwächeres Wachstum spricht für sinkende Kurse",
         "link": "https://www.onvista.de/news/2026/10-28-visa-schwaecheres-wachstum-spricht-fuer-sinkende-kurse-40338625-19-26569422",
         "published": "Wed, 28 Oct 2026 15:58:17 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Seagate: Die günstige Bewertung bietet großes Kurspotenzial",
-        "link": "https://www.onvista.de/news/2026/10-28-seagate-die-guenstige-bewertung-bietet-grosses-kurspotenzial-40338625-19-26569423",
-        "published": "Wed, 28 Oct 2026 15:57:41 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Sofi: Starke Zahlen sprechen für Kurse bis 20 Dollar",
-        "link": "https://www.onvista.de/news/2026/10-28-sofi-starke-zahlen-sprechen-fuer-kurse-bis-20-dollar-40338625-19-26569418",
-        "published": "Wed, 28 Oct 2026 15:57:23 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Deutsche Bank: Starke Gewinne sprechen für weitere Kursanstiege",
-        "link": "https://www.onvista.de/news/2026/10-28-deutsche-bank-starke-gewinne-sprechen-fuer-weitere-kursanstiege-40338625-19-26569416",
-        "published": "Wed, 28 Oct 2026 15:57:06 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Symrise: Der schwächere Ausblick rechtfertigt den Kursrutsch",
-        "link": "https://www.onvista.de/news/2026/10-28-symrise-der-schwaechere-ausblick-rechtfertigt-den-kursrutsch-40338625-19-26569411",
-        "published": "Wed, 28 Oct 2026 15:56:28 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Corning: Die Aktie fällt trotz kräftigen Wachstums",
-        "link": "https://www.onvista.de/news/2026/10-28-corning-die-aktie-faellt-trotz-kraeftigen-wachstums-40338625-19-26569421",
-        "published": "Wed, 28 Oct 2026 15:55:44 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Robinhood: Der Krypto-Einbruch belastet Umsatz und Gewinn",
-        "link": "https://www.onvista.de/news/2026/10-28-robinhood-der-krypto-einbruch-belastet-umsatz-und-gewinn-40338625-19-26569424",
-        "published": "Wed, 28 Oct 2026 15:55:08 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "UPS: Sinkende Margen sprechen für Zurückhaltung",
-        "link": "https://www.onvista.de/news/2026/10-28-ups-sinkende-margen-sprechen-fuer-zurueckhaltung-40338625-19-26569417",
-        "published": "Wed, 28 Oct 2026 15:54:44 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Mercedes-Benz: Die gesenkte Prognose mahnt zur Vorsicht",
-        "link": "https://www.onvista.de/news/2026/10-28-mercedes-benz-die-gesenkte-prognose-mahnt-zur-vorsicht-40338625-19-26569412",
-        "published": "Wed, 28 Oct 2026 15:54:18 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "SK Hynix: Langfristverträge stützen das Ziel von 1.200 Euro",
-        "link": "https://www.onvista.de/news/2026/10-28-sk-hynix-langfristvertraege-stuetzen-das-ziel-von-1-200-euro-40338625-19-26569431",
-        "published": "Wed, 28 Oct 2026 15:50:46 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Für das Cashflow-Ziel braucht BASF ein starkes Schlussquartal",
-        "link": "https://www.onvista.de/news/2026/10-28-fuer-das-cashflow-ziel-braucht-basf-ein-starkes-schlussquartal-40338625-19-26569413",
-        "published": "Wed, 28 Oct 2026 15:49:04 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Coca-Cola wirtschaftet stark, doch die Bewertung bleibt zu hoch",
-        "link": "https://www.onvista.de/news/2026/10-28-coca-cola-wirtschaftet-stark-doch-die-bewertung-bleibt-zu-hoch-40338625-19-26569420",
-        "published": "Wed, 28 Oct 2026 15:44:24 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX trotz VW-Bilanz im grünen Bereich",
+        "title": "Marktbericht: DAX setzt Klettertour fort",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
-        "published": "Thu, 29 Oct 2026 11:16:25 +0100"
+        "published": "Thu, 29 Oct 2026 18:32:38 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
