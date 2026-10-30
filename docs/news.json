@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-30T12:45:41.020008+00:00",
+  "updated_at": "2026-10-30T18:16:45.771893+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: „Eine perfekte Woche wird schwierig“ – Dax baut Minus aus und kämpft nach Gewinnserie um 26.000-Punkte-Marke",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-und-kaempft-um-26.000-punkte-marke/100266086.html",
-        "published": "Fri, 30 Oct 2026 12:11:31 GMT"
+        "title": "Dax aktuell: Dax schließt im Minus – und reißt die 26.000-Punkte-Marke",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-und-reisst-die-26.000-punkte-marke/100266086.html",
+        "published": "Fri, 30 Oct 2026 17:39:48 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: „Absolut brutale Woche“ für Tech-Investoren – Nasdaq rutscht ab, Intel verliert über 30 Prozent",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-rutscht-ab-intel-aktie-verliert-30-prozent/100266181.html",
+        "published": "Fri, 30 Oct 2026 16:22:21 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Tech-Aktien: „Die Ära der ‚Magnificent Seven‘ scheint vorbei“ – 700 Milliarden Dollar an Börsenwert vernichtet",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/tech-aktien-die-aera-der-magnificent-seven-scheint-vorbei/100266107.html",
+        "published": "Fri, 30 Oct 2026 16:09:34 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Kommentar: Investoren müssen sich auf eine völlig veränderte EZB einstellen",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/kommentar-investoren-muessen-sich-auf-eine-voellig-veraenderte-ezb-einstellen/100266096.html",
+        "published": "Fri, 30 Oct 2026 15:10:20 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Commerzbank: Unicredit-Chef Orcel bittet deutschen Mittelstand um Vertrauen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/commerzbank-unicredit-chef-orcel-bittet-deutschen-mittelstand-um-vertrauen/100266202.html",
+        "published": "Fri, 30 Oct 2026 15:09:50 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Kryptobörse: Größter Krypto-Diebstahl aller Zeiten – Binance meldet Hackerangriff﻿",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-kryptoboerse-meldet-hackerangriff-bitcoin-verliert-deutlich/100266046.html",
+        "published": "Fri, 30 Oct 2026 14:50:24 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: „Die Branche produziert Datenmengen, nutzt sie aber meist isoliert“",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-branche-produziert-datenmengen-nutzt-sie-aber-meist-isoliert/100256141.html",
+        "published": "Fri, 30 Oct 2026 14:20:58 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Aufenthaltsrecht: Niedrige Steuern, hohe Lebensqualität – Diese Länder sind attraktiv für Auswanderer",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/vermoegen-in-diesen-laendern-koennen-auswanderer-steuerlich-profitieren/100133033.html",
+        "published": "Fri, 30 Oct 2026 13:33:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Preise: Zwei-Prozent-Ziel der EZB rückt in weite Ferne: Deutsche Bank befürchtet 2027 3,4 Prozent Inflation",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-tankrabatt-sorgt-fuer-entlastung-aber-nur-bis-dezember/100262259.html",
+        "published": "Fri, 30 Oct 2026 13:01:27 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -19,12 +67,6 @@
         "title": "Digitalisierung: Telekom und Telefonica werden Dienstleister für Digital-Euro",
         "link": "https://www.handelsblatt.com/finanzen/geldpolitik/digitalisierung-telekom-und-telefonica-werden-dienstleister-fuer-digital-euro/100266168.html",
         "published": "Fri, 30 Oct 2026 11:55:42 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Kryptobörse: Größter Krypto-Diebstahl aller Zeiten? Binance meldet Hackerangriff﻿",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-kryptoboerse-meldet-hackerangriff-bitcoin-auf-sechs-wochen-tief/100266046.html",
-        "published": "Fri, 30 Oct 2026 10:52:33 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -70,155 +112,47 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
+        "title": "Börse im Blick: Quartalszahlen aus zwei mutmaßlich unattraktiven Branchen überraschen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-quartalszahlen-aus-zwei-mutmasslich-unattraktiven-branchen-ueberraschen/100265551.html",
+        "published": "Fri, 30 Oct 2026 13:07:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
         "title": "Geldanlage: So investiert die Rolex-Familie ihr Vermögen",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-investiert-die-rolex-familie-ihr-vermoegen-01/100247042.html",
         "published": "Fri, 30 Oct 2026 10:25:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse im Blick: Quartalszahlen aus zwei mutmaßlich unattraktiven Branchen überraschen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-zahlen-aus-zwei-mutmasslich-unattraktiven-branchen-ueberraschen/100265551.html",
-        "published": "Fri, 30 Oct 2026 03:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Massiver Kursrutsch von Alphabet: Google-Konzern verliert 500 Milliarden Dollar Börsenwert",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-alphabet-kursrutsch-vernichtet-500-milliarden-dollar-boersenwert/100265906.html",
-        "published": "Thu, 29 Oct 2026 20:58:20 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Italien: Aktionäre von Bank Monte dei Paschi stoppen Abwehrplan gegen Intesa-Übernahme",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/italien-aktionaere-von-bank-monte-dei-paschi-stoppen-abwehrplan-gegen-intesa/100265366.html",
-        "published": "Thu, 29 Oct 2026 17:24:41 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax legt deutlich zu und schließt über 26.000-Punkten – Konsum-Aktie gewinnt fast sechs Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gewinnt-deutlich-hinzu-und-schliesst-ueber-26.000-punkte-marke/100265822.html",
-        "published": "Thu, 29 Oct 2026 16:59:50 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Steht der Dax kurz vor einer Jahresendrally?",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-steht-der-dax-kurz-vor-einer-jahresendrally/100265172.html",
-        "published": "Thu, 29 Oct 2026 16:57:13 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Kreditkartenaffäre: Wende in „Operation Chargeback“: Gericht zerpflückt Anklage und hebt Haftbefehle auf",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kreditkartenaffaere-wende-in-operation-chargeback-gericht-zerpflueckt-anklage/100265824.html",
-        "published": "Thu, 29 Oct 2026 16:47:50 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldpolitik: „Die Richtung ist ziemlich klar“ – EZB steuert auf dritte Zinserhöhung im Dezember zu",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-notenbank-steuert-auf-dritte-zinserhoehung-im-dezember-zu/100265320.html",
-        "published": "Thu, 29 Oct 2026 16:24:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Musterdepot: Der KI-Boom zeigt, warum Nachhaltigkeit für Investoren relevant bleibt﻿",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-nachhaltigkeit/100264126.html",
-        "published": "Thu, 29 Oct 2026 16:17:40 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "US Employment Cost Growth Stable, Stays Below Inflation",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/us-employment-cost-growth-holds-steady-stays-below-inflation",
-        "published": "Fri, 30 Oct 2026 12:32:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tech Rout Deepens as Earnings Stoke AI Reckoning: Markets Wrap",
+        "title": "Nasdaq 100 Sinks 4%, Gets Close to Correction Zone: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 29 Oct 2026 22:07:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Las políticas económicas de Milei dividen a Argentina en dos",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/politicas-economicas-de-milei-dividen-a-argentina-en-dos-video",
-        "published": "Fri, 30 Oct 2026 12:30:27 GMT"
+        "title": "Air Canada Shares Sink Amid Jet Fuel Costs, Lower Profit Outlook",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs",
+        "published": "Thu, 29 Oct 2026 21:03:30 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Exxon Increases Stake in Mozambique Gas Project",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-increases-stake-in-mozambique-gas-project-via-eni-swap",
-        "published": "Fri, 30 Oct 2026 10:31:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Copper-Overcounting Case Spurs More Codelco Staff Dismissals",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/codelco-dismisses-eight-staff-as-copper-output-scandal-widens",
-        "published": "Fri, 30 Oct 2026 02:00:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Big Oil Scores $56 Billion Windfall on War-Driven Refining Spike",
+        "title": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices",
         "link": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes",
         "published": "Fri, 30 Oct 2026 10:30:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Natural Gas Drillers Scale Up as Demand Grows",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-30/us-natural-gas-drillers-scale-up-as-demand-grows",
-        "published": "Fri, 30 Oct 2026 12:10:31 GMT"
+        "title": "Bessemer Trust CEO: Constructive on Markets",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/bessemer-trust-ceo-constructive-on-markets-video",
+        "published": "Fri, 30 Oct 2026 17:12:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Tech Rout Deepens as Earnings Stoke AI Fears",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/the-opening-trade-10-30-2026-video",
-        "published": "Fri, 30 Oct 2026 11:57:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Slips Below $4,000 on Hot Inflation, Tech-Stock Rout",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
-        "published": "Thu, 29 Oct 2026 23:32:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Weil Gotshal Private Equity Partner Blakey to Jump to Simpson",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/weil-gotshal-private-equity-partner-blakey-to-jump-to-simpson",
-        "published": "Fri, 30 Oct 2026 11:33:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 30",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
-        "published": "Thu, 29 Oct 2026 22:02:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Central Asia’s Top Growing Economy Plans Yuan Bond in 2027",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/central-asia-s-fastest-growing-economy-plans-yuan-bond-in-2027",
-        "published": "Fri, 30 Oct 2026 06:33:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "ECB Warns of Slow Approvals if Banks Don’t Keep SRTs Simple",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-warns-of-slow-srt-approvals-if-banks-don-t-keep-them-simple",
-        "published": "Fri, 30 Oct 2026 10:10:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "UK Yields Slide Most Since May as Cautious Budget Boosts Bonds",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/uk-wins-back-bond-investors-with-dose-of-fiscal-restraint",
-        "published": "Fri, 30 Oct 2026 08:48:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Five Questions for YouTube Star Mark Rober",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/five-questions-for-youtube-star-mark-rober",
-        "published": "Fri, 30 Oct 2026 11:00:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Policy Fears Grip Stock, Bond Traders With Midterms Days Away",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/ai-policy-fears-grip-stock-bond-traders-with-midterms-days-away",
-        "published": "Fri, 30 Oct 2026 11:00:00 GMT"
+        "title": "Barclays, Fidera Seek Payout From Failed UAE Payments Firm",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-23/barclays-fidera-seek-payout-from-bankrupt-uae-remittances-firm",
+        "published": "Fri, 23 Oct 2026 11:36:13 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -228,29 +162,101 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dollar’s Rate-Fueled Gain Seen Surviving US Midterm Gridlock",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/dollar-s-rate-fueled-rally-set-to-ride-out-us-midterm-gridlock",
-        "published": "Fri, 30 Oct 2026 00:35:03 GMT"
+        "title": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/big-oil-scores-56b-windfall-on-spiking-fuel-prices-video",
+        "published": "Fri, 30 Oct 2026 16:31:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Euro Set For Worst Month Versus Pound Since 2022 on French Woes",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/euro-set-for-worst-month-versus-pound-since-2022-on-french-woes",
-        "published": "Fri, 30 Oct 2026 10:53:51 GMT"
+        "title": "Fed’s Musalem Says More Rate Hikes Needed Soon to Tame Inflation",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-musalem-says-more-rate-hikes-needed-soon-to-tame-inflation",
+        "published": "Fri, 30 Oct 2026 16:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Copper Declines as Tech Selloff, Oil Rally Dent Risk Appetite",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/copper-declines-as-tech-selloff-oil-rally-dent-risk-appetite",
-        "published": "Fri, 30 Oct 2026 03:31:51 GMT"
+        "title": "Come See Lina Khan at Odd Lots LIVE on 12/9 in NYC",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-30/come-see-lina-khan-at-odd-lots-live-on-12-9-in-nyc",
+        "published": "Fri, 30 Oct 2026 16:13:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Brasília em Off: O que Lula entendeu das urnas",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/brasilia-em-off-o-que-lula-entendeu-das-urnas-video",
+        "published": "Fri, 30 Oct 2026 16:03:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Fall After Amazon and Intel Deal Another Blow to AI Trade",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-surveillance-10-30-2026-video",
+        "published": "Fri, 30 Oct 2026 15:55:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gilead-Backed Aspen Neuroscience Shares Decline 2% After US IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/gilead-backed-aspen-neuroscience-shares-decline-2-after-us-ipo",
+        "published": "Fri, 30 Oct 2026 15:53:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Activist Investor Bergeron Says Ethan Allen CEO Needs to Go",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/bergeron-says-ethan-allen-ceo-needs-to-go-video",
+        "published": "Fri, 30 Oct 2026 15:51:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fondos de Brasil sufren fuertes pérdidas tras victoria de Lula",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/fondos-de-brasil-sufren-fuertes-perdidas-tras-victoria-de-lula",
+        "published": "Fri, 30 Oct 2026 15:50:18 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries Head for Monthly Gain as Tech Giants Stumble",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/treasuries-extend-rally-with-global-peers-on-tech-stock-selloff",
+        "published": "Fri, 30 Oct 2026 01:13:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Oct. 30",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
+        "published": "Thu, 29 Oct 2026 22:02:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Dermatology Biotech Bambusa Slides 7% After $168.9 Million IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
+        "published": "Fri, 30 Oct 2026 15:37:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Credit Market’s Most Trusted Hedges Are Breaking in AI Era",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/ai-debt-drives-wedge-between-corporate-bonds-and-credit-hedges",
+        "published": "Fri, 30 Oct 2026 14:25:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BP Profit Hits 18-Year High as Oil Refining Margins Surge",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/bp-profit-surges-as-refining-windfall-aids-o-neill-turnaround",
+        "published": "Fri, 30 Oct 2026 07:08:11 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Starbucks Could Become a Multi-Brand Company, CEO Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/starbucks-could-become-a-multi-brand-company-ceo-says-video",
+        "published": "Fri, 30 Oct 2026 15:29:15 GMT"
       }
     ],
     "onvista – News": [
       {
         "source": "onvista – News",
-        "title": "Speicher-Boom und Windkraft: Was zwei Festzins-Anleihen ab 7,0 % p.a. bieten!",
-        "link": "https://www.onvista.de/news/2026/10-30-speicher-boom-und-windkraft-was-zwei-festzins-anleihen-ab-7-0-p-a-bieten-0-19-26570385",
-        "published": "Fri, 30 Oct 2026 13:43:22 +0100"
+        "title": "Dax schwächelt nach Gewinnserie - Gold sinkt auf 52-Wochen-Tief",
+        "link": "https://www.onvista.de/news/2026/10-30-dax-schwaechelt-nach-gewinnserie-gold-sinkt-auf-52-wochen-tief-41121301-19-26570552",
+        "published": "Fri, 30 Oct 2026 17:55:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Nasdaq 100 rutscht wegen Amazon und Intel um 2,6 Prozent ab",
+        "link": "https://www.onvista.de/news/2026/10-30-nasdaq-100-rutscht-wegen-amazon-und-intel-um-2-6-prozent-ab-41121301-19-26570481",
+        "published": "Fri, 30 Oct 2026 14:54:26 +0100"
       },
       {
         "source": "onvista – News",
@@ -389,12 +395,6 @@
         "title": "Dax überwindet letzte Hürde vor einem Anstieg auf 26.000 Punkte",
         "link": "https://www.onvista.de/news/2026/10-29-dax-ueberwindet-letzte-huerde-vor-einem-anstieg-auf-26-000-punkte-41123281-19-26569831",
         "published": "Thu, 29 Oct 2026 10:55:01 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax setzt Erholung schwungvoll fort - Vonovia auf Mehrjahres-Tief",
-        "link": "https://www.onvista.de/news/2026/10-29-dax-setzt-erholung-schwungvoll-fort-vonovia-auf-mehrjahres-tief-41121301-19-26569790",
-        "published": "Thu, 29 Oct 2026 10:00:01 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -462,15 +462,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Warum Autoreparaturen immer teurer werden",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-autoreparaturen-100.html",
-        "published": "Thu, 29 Oct 2026 14:14:08 +0100"
+        "title": "Marktbericht: Zweifel am KI-Boom wachsen",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
+        "published": "Fri, 30 Oct 2026 14:44:00 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX steuert auf großes Wochenplus zu",
+        "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
-        "published": "Fri, 30 Oct 2026 10:25:43 +0100"
+        "published": "Fri, 30 Oct 2026 18:22:12 +0100"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Marktbericht: Warum Autoreparaturen immer teurer werden",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-autoreparaturen-100.html",
+        "published": "Thu, 29 Oct 2026 14:14:08 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Kann es die Berichtssaison richten?",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-berichtssaison-q3-100.html",
         "published": "Tue, 13 Oct 2026 14:39:48 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Elon Musk kauft US-Mobilfunklizenzen",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/telekom-starlink-mittags-mb-100.html",
-        "published": "Fri, 09 Oct 2026 13:40:49 +0200"
       }
     ]
   }
