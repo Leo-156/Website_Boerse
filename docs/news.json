@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-30T18:16:45.771893+00:00",
+  "updated_at": "2026-10-30T22:30:12.218017+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: „Absolut brutale Woche“ für Tech-Investoren – Nasdaq rutscht ab, Intel verliert rund 29 Prozent",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-100-auf-talfahrt-intel-aktie-verliert-29-prozent/100266181.html",
+        "published": "Fri, 30 Oct 2026 19:57:39 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Dax aktuell: Dax schließt im Minus – und reißt die 26.000-Punkte-Marke",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-und-reisst-die-26.000-punkte-marke/100266086.html",
         "published": "Fri, 30 Oct 2026 17:39:48 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: „Absolut brutale Woche“ für Tech-Investoren – Nasdaq rutscht ab, Intel verliert über 30 Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-rutscht-ab-intel-aktie-verliert-30-prozent/100266181.html",
-        "published": "Fri, 30 Oct 2026 16:22:21 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -126,93 +126,105 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Sinks 4%, Gets Close to Correction Zone: Markets Wrap",
+        "title": "Chocolate Price Spook Families for Halloween",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video",
+        "published": "Fri, 30 Oct 2026 22:21:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Crypto Hack Reignites Regulatory Debate",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
+        "published": "Fri, 30 Oct 2026 22:08:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/lonnie-ali-marc-rosen-on-new-muhammad-ali-amazon-show-video",
+        "published": "Fri, 30 Oct 2026 22:05:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bloomberg Screentime: Streaming, AI & Creators",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
+        "published": "Fri, 30 Oct 2026 22:05:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "PacSun CEO: Brands Mean a Lot to Young People Today",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/pacsun-ceo-brands-mean-a-lot-to-young-people-today-video",
+        "published": "Fri, 30 Oct 2026 22:01:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "New Balance CEO Joe Preston on NYC Marathon Partnership",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/new-balance-ceo-joe-preston-on-nyc-marathon-partnership-video",
+        "published": "Fri, 30 Oct 2026 21:59:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ice Cube on Big3 League: In a Great Position To Scale",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/ice-cube-on-big3-league-in-a-great-position-to-scale-video",
+        "published": "Fri, 30 Oct 2026 21:55:31 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Burger King US President on Sales Turnaround",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/burger-king-us-president-on-sales-turnaround-video",
+        "published": "Fri, 30 Oct 2026 21:51:18 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Investor Looks to Bid on Club Pilates-Owner Xponential",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/investor-said-to-look-to-bid-on-club-pilates-owner-xponential",
+        "published": "Fri, 30 Oct 2026 13:58:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 29 Oct 2026 22:07:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Air Canada Shares Sink Amid Jet Fuel Costs, Lower Profit Outlook",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs",
-        "published": "Thu, 29 Oct 2026 21:03:30 GMT"
+        "title": "Rich Steinmeier on a Career in Management",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/rich-steinmeier-on-a-career-in-management-video",
+        "published": "Fri, 30 Oct 2026 21:21:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes",
-        "published": "Fri, 30 Oct 2026 10:30:22 GMT"
+        "title": "The Future of Financial Advice: Masters in Business with Rich Steinmeier",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-30/masters-in-business-with-rich-steinmeier-video",
+        "published": "Fri, 30 Oct 2026 21:14:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bessemer Trust CEO: Constructive on Markets",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/bessemer-trust-ceo-constructive-on-markets-video",
-        "published": "Fri, 30 Oct 2026 17:12:57 GMT"
+        "title": "Brazil Summons Argentine Envoy Over Role in Bolsonaro’s Escape",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/brazil-summons-argentine-envoy-over-role-in-bolsonaro-s-escape",
+        "published": "Fri, 30 Oct 2026 20:59:39 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Barclays, Fidera Seek Payout From Failed UAE Payments Firm",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-23/barclays-fidera-seek-payout-from-bankrupt-uae-remittances-firm",
-        "published": "Fri, 23 Oct 2026 11:36:13 GMT"
+        "title": "Wall Street Boom to Cut New York State Budget Deficit in Half",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-boom-to-cut-new-york-state-budget-deficit-in-half",
+        "published": "Fri, 30 Oct 2026 20:55:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "UK Debt Chief Sees Volatility Driving Demand for Short Gilts",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/uk-debt-chief-sees-volatility-driving-demand-for-short-gilts",
-        "published": "Fri, 30 Oct 2026 10:56:57 GMT"
+        "title": "Brazil Hedge Funds Reel as Losses Reach 24% After Lula Shock",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-in-brazil-reel-as-losses-reach-24-after-lula-shock",
+        "published": "Fri, 30 Oct 2026 14:29:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/big-oil-scores-56b-windfall-on-spiking-fuel-prices-video",
-        "published": "Fri, 30 Oct 2026 16:31:51 GMT"
+        "title": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-boost-natural-gas-short-positions-to-most-on-record",
+        "published": "Fri, 30 Oct 2026 20:40:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fed’s Musalem Says More Rate Hikes Needed Soon to Tame Inflation",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-musalem-says-more-rate-hikes-needed-soon-to-tame-inflation",
-        "published": "Fri, 30 Oct 2026 16:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Come See Lina Khan at Odd Lots LIVE on 12/9 in NYC",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-10-30/come-see-lina-khan-at-odd-lots-live-on-12-9-in-nyc",
-        "published": "Fri, 30 Oct 2026 16:13:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brasília em Off: O que Lula entendeu das urnas",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/brasilia-em-off-o-que-lula-entendeu-das-urnas-video",
-        "published": "Fri, 30 Oct 2026 16:03:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Fall After Amazon and Intel Deal Another Blow to AI Trade",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-surveillance-10-30-2026-video",
-        "published": "Fri, 30 Oct 2026 15:55:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gilead-Backed Aspen Neuroscience Shares Decline 2% After US IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/gilead-backed-aspen-neuroscience-shares-decline-2-after-us-ipo",
-        "published": "Fri, 30 Oct 2026 15:53:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Activist Investor Bergeron Says Ethan Allen CEO Needs to Go",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/bergeron-says-ethan-allen-ceo-needs-to-go-video",
-        "published": "Fri, 30 Oct 2026 15:51:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fondos de Brasil sufren fuertes pérdidas tras victoria de Lula",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/fondos-de-brasil-sufren-fuertes-perdidas-tras-victoria-de-lula",
-        "published": "Fri, 30 Oct 2026 15:50:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Head for Monthly Gain as Tech Giants Stumble",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/treasuries-extend-rally-with-global-peers-on-tech-stock-selloff",
-        "published": "Fri, 30 Oct 2026 01:13:42 GMT"
+        "title": "Wall Street Turns Ruthless as Earnings Misses Fuel Deep Selloffs",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-turns-ruthless-as-earnings-misses-fuel-deep-selloffs",
+        "published": "Fri, 30 Oct 2026 12:30:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -222,27 +234,15 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dermatology Biotech Bambusa Slides 7% After $168.9 Million IPO",
+        "title": "AI Dip-Buyers Gored as Selling Spasm Caps Third Week of Losses",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses",
+        "published": "Fri, 30 Oct 2026 20:30:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Dermatology Biotech Bambusa Dips 6.3% After $168.9 Million IPO",
         "link": "https://www.bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
         "published": "Fri, 30 Oct 2026 15:37:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Credit Market’s Most Trusted Hedges Are Breaking in AI Era",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/ai-debt-drives-wedge-between-corporate-bonds-and-credit-hedges",
-        "published": "Fri, 30 Oct 2026 14:25:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "BP Profit Hits 18-Year High as Oil Refining Margins Surge",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/bp-profit-surges-as-refining-windfall-aids-o-neill-turnaround",
-        "published": "Fri, 30 Oct 2026 07:08:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Starbucks Could Become a Multi-Brand Company, CEO Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/starbucks-could-become-a-multi-brand-company-ceo-says-video",
-        "published": "Fri, 30 Oct 2026 15:29:15 GMT"
       }
     ],
     "onvista – News": [
