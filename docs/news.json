@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T01:47:00.577737+00:00",
+  "updated_at": "2026-10-31T07:35:13.195461+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,42 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Swiss Firms Plan Investment Boost in China Drug, Finance Sectors",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/swiss-firms-plan-investment-boost-in-china-drug-finance-sectors",
+        "published": "Sat, 31 Oct 2026 07:04:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Saw 496 Million Escape Poverty Since 2011, World Bank Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/india-496-million-escape-poverty-since-2011-world-bank",
+        "published": "Sat, 31 Oct 2026 06:44:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
+        "published": "Sat, 31 Oct 2026 04:50:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue",
+        "published": "Sat, 31 Oct 2026 02:32:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Rubio and Brazil Foreign Minister to Meet After Election Tension",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-meet-brazil-foreign-minister-mauro-vieira-luiz-inacio-lula-flavio-bolsonaro-trump",
+        "published": "Sat, 31 Oct 2026 02:13:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Australian PM Set to Visit Beijing After APEC Meeting, SCMP Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/australia-pm-anthony-albanese-xi-jinping-visit-beijing-apec-meeting",
+        "published": "Sat, 31 Oct 2026 01:27:39 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 29 Oct 2026 22:07:56 GMT"
@@ -207,42 +243,6 @@
         "title": "Wall Street Boom to Cut New York State Budget Deficit in Half",
         "link": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-boom-to-cut-new-york-state-budget-deficit-in-half",
         "published": "Fri, 30 Oct 2026 20:55:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brazil Hedge Funds Reel as Losses Reach 24% After Lula Shock",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-in-brazil-reel-as-losses-reach-24-after-lula-shock",
-        "published": "Fri, 30 Oct 2026 14:29:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-boost-natural-gas-short-positions-to-most-on-record",
-        "published": "Fri, 30 Oct 2026 20:40:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Turns Ruthless as Earnings Misses Fuel Deep Selloffs",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-turns-ruthless-as-earnings-misses-fuel-deep-selloffs",
-        "published": "Fri, 30 Oct 2026 12:30:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Oct. 30",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
-        "published": "Thu, 29 Oct 2026 22:02:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Dip-Buyers Gored as Selling Spasm Caps Third Week of Losses",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses",
-        "published": "Fri, 30 Oct 2026 20:30:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Dermatology Biotech Bambusa Dips 6.3% After $168.9 Million IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
-        "published": "Fri, 30 Oct 2026 15:37:00 GMT"
       }
     ],
     "onvista – News": [
