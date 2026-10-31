@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T22:30:12.218017+00:00",
+  "updated_at": "2026-10-31T01:47:00.577737+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,12 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+        "published": "Thu, 29 Oct 2026 22:07:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Chocolate Price Spook Families for Halloween",
         "link": "https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video",
         "published": "Fri, 30 Oct 2026 22:21:45 GMT"
@@ -177,12 +183,6 @@
         "title": "Investor Looks to Bid on Club Pilates-Owner Xponential",
         "link": "https://www.bloomberg.com/news/articles/2026-10-30/investor-said-to-look-to-bid-on-club-pilates-owner-xponential",
         "published": "Fri, 30 Oct 2026 13:58:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 29 Oct 2026 22:07:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
