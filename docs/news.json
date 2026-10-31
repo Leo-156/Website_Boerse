@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-31T07:35:13.195461+00:00",
+  "updated_at": "2026-10-31T13:51:46.626276+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Haussanierung – diese Maßnahmen bringen den größten Effekt",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-haussanierung-diese-massnahmen-bringen-den-groessten-effekt/100263443.html",
+        "published": "Sat, 31 Oct 2026 09:31:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "US-Börsen: „Absolut brutale Woche“ für Tech-Investoren – Nasdaq rutscht ab, Intel verliert rund 29 Prozent",
@@ -106,12 +112,6 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Haussanierung – diese Maßnahmen bringen den größten Effekt",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-haussanierung-diese-massnahmen-bringen-den-groessten-effekt/100263443.html",
-        "published": "Fri, 30 Oct 2026 03:09:01 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Börse im Blick: Quartalszahlen aus zwei mutmaßlich unattraktiven Branchen überraschen",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-quartalszahlen-aus-zwei-mutmasslich-unattraktiven-branchen-ueberraschen/100265551.html",
         "published": "Fri, 30 Oct 2026 13:07:00 GMT"
@@ -126,39 +126,57 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Swiss Firms Plan Investment Boost in China Drug, Finance Sectors",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/swiss-firms-plan-investment-boost-in-china-drug-finance-sectors",
-        "published": "Sat, 31 Oct 2026 07:04:10 GMT"
+        "title": "Haunted Attractions Help Revive Neighborhoods",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-31/haunted-attractions-help-revive-neighborhoods-video",
+        "published": "Sat, 31 Oct 2026 13:34:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India Saw 496 Million Escape Poverty Since 2011, World Bank Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/india-496-million-escape-poverty-since-2011-world-bank",
-        "published": "Sat, 31 Oct 2026 06:44:15 GMT"
+        "title": "EU Foreign Policy Chief Warns Against Normalizing Russia",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-31/eu-foreign-policy-chief-warns-against-normalizing-russia-video",
+        "published": "Sat, 31 Oct 2026 13:15:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
-        "published": "Sat, 31 Oct 2026 04:50:00 GMT"
+        "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
+        "published": "Sat, 31 Oct 2026 13:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue",
-        "published": "Sat, 31 Oct 2026 02:32:32 GMT"
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-31/by-the-way-headlines-you-may-have-missed-video",
+        "published": "Sat, 31 Oct 2026 12:50:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Rubio and Brazil Foreign Minister to Meet After Election Tension",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-meet-brazil-foreign-minister-mauro-vieira-luiz-inacio-lula-flavio-bolsonaro-trump",
-        "published": "Sat, 31 Oct 2026 02:13:04 GMT"
+        "title": "Senegal Lawmakers Reject Budget Again, Putting IMF Deal at Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/senegal-lawmakers-reject-budget-again-putting-imf-deal-at-risk",
+        "published": "Sat, 31 Oct 2026 12:27:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Australian PM Set to Visit Beijing After APEC Meeting, SCMP Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/australia-pm-anthony-albanese-xi-jinping-visit-beijing-apec-meeting",
-        "published": "Sat, 31 Oct 2026 01:27:39 GMT"
+        "title": "Russia Extends Ban on Most Diesel Exports Through January",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/russia-extends-ban-on-most-diesel-exports-through-january",
+        "published": "Sat, 31 Oct 2026 12:13:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Norwegian Firm Has $100 Million Riding on Mercuria’s Baltic Case",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/norwegian-firm-has-100-million-riding-on-mercuria-s-baltic-case",
+        "published": "Sat, 31 Oct 2026 11:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AI Policy Risks Loom Over Stock, Bond Traders Ahead of Midterms",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-30/ai-policy-fears-grip-stock-bond-traders-with-midterms-days-away",
+        "published": "Fri, 30 Oct 2026 11:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Angola Plans to Cut Fuel Subsidies Without Price Increases",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/angola-plans-to-cut-fuel-subsidies-without-price-increases",
+        "published": "Sat, 31 Oct 2026 09:39:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -225,24 +243,6 @@
         "title": "Rich Steinmeier on a Career in Management",
         "link": "https://www.bloomberg.com/news/videos/2026-10-30/rich-steinmeier-on-a-career-in-management-video",
         "published": "Fri, 30 Oct 2026 21:21:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Future of Financial Advice: Masters in Business with Rich Steinmeier",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/masters-in-business-with-rich-steinmeier-video",
-        "published": "Fri, 30 Oct 2026 21:14:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brazil Summons Argentine Envoy Over Role in Bolsonaro’s Escape",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/brazil-summons-argentine-envoy-over-role-in-bolsonaro-s-escape",
-        "published": "Fri, 30 Oct 2026 20:59:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Boom to Cut New York State Budget Deficit in Half",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-boom-to-cut-new-york-state-budget-deficit-in-half",
-        "published": "Fri, 30 Oct 2026 20:55:32 GMT"
       }
     ],
     "onvista – News": [
@@ -462,15 +462,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Zweifel am KI-Boom wachsen",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
-        "published": "Fri, 30 Oct 2026 14:44:00 +0100"
+        "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
+        "published": "Sat, 31 Oct 2026 08:45:19 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
         "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
         "published": "Fri, 30 Oct 2026 18:22:12 +0100"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Marktbericht: Zweifel am KI-Boom wachsen",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
+        "published": "Fri, 30 Oct 2026 14:44:00 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
         "published": "Wed, 14 Oct 2026 08:59:05 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Kann es die Berichtssaison richten?",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-berichtssaison-q3-100.html",
-        "published": "Tue, 13 Oct 2026 14:39:48 +0200"
       }
     ]
   }
