@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T20:58:21.147975+00:00",
+  "updated_at": "2026-10-31T23:54:53.658307+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,18 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Turkey Appoints New Top Market Regulator in Fund Crisis Response",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response",
+        "published": "Sat, 31 Oct 2026 21:50:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Rubio Defends Russian G20 Presence Despite Criticism From Allies",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-defends-russian-g20-presence-despite-criticism-from-allies",
+        "published": "Sat, 31 Oct 2026 20:41:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Senegal Lawmakers Reject Budget Again, Risking IMF Deal",
         "link": "https://www.bloomberg.com/news/articles/2026-10-31/senegal-lawmakers-reject-budget-again-putting-imf-deal-at-risk",
         "published": "Sat, 31 Oct 2026 12:27:56 GMT"
@@ -213,36 +225,6 @@
         "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 29 Oct 2026 22:07:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Chocolate Price Spook Families for Halloween",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video",
-        "published": "Fri, 30 Oct 2026 22:21:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Crypto Hack Reignites Regulatory Debate",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
-        "published": "Fri, 30 Oct 2026 22:08:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/lonnie-ali-marc-rosen-on-new-muhammad-ali-amazon-show-video",
-        "published": "Fri, 30 Oct 2026 22:05:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bloomberg Screentime: Streaming, AI & Creators",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
-        "published": "Fri, 30 Oct 2026 22:05:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "PacSun CEO: Brands Mean a Lot to Young People Today",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/pacsun-ceo-brands-mean-a-lot-to-young-people-today-video",
-        "published": "Fri, 30 Oct 2026 22:01:02 GMT"
       }
     ],
     "onvista – News": [
