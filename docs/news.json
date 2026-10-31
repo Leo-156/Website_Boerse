@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-31T13:51:46.626276+00:00",
+  "updated_at": "2026-10-31T17:59:31.046137+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Ferienimmobilien: Rente unter Palmen – Wo in Griechenland der Alterswohnsitz noch erschwinglich ist",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-rente-unter-palmen-lohnt-sich-griechenland-als-alterswohnsitz/100264811.html",
+        "published": "Sat, 31 Oct 2026 14:57:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Immobilien: Haussanierung – diese Maßnahmen bringen den größten Effekt",
@@ -115,15 +121,45 @@
         "title": "Börse im Blick: Quartalszahlen aus zwei mutmaßlich unattraktiven Branchen überraschen",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-quartalszahlen-aus-zwei-mutmasslich-unattraktiven-branchen-ueberraschen/100265551.html",
         "published": "Fri, 30 Oct 2026 13:07:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: So investiert die Rolex-Familie ihr Vermögen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-investiert-die-rolex-familie-ihr-vermoegen-01/100247042.html",
-        "published": "Fri, 30 Oct 2026 10:25:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Senegal Lawmakers Reject Budget Again, Risking IMF Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/senegal-lawmakers-reject-budget-again-putting-imf-deal-at-risk",
+        "published": "Sat, 31 Oct 2026 12:27:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Final Countdown to Midterm Elections, Tech Stocks Tank",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video",
+        "published": "Sat, 31 Oct 2026 16:13:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-31/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+        "published": "Sat, 31 Oct 2026 15:22:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates",
+        "published": "Sat, 31 Oct 2026 15:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes",
+        "published": "Sat, 31 Oct 2026 14:11:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stadiums Rethink the Women’s Restroom",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-31/stadiums-rethink-the-women-s-restroom-video",
+        "published": "Sat, 31 Oct 2026 13:48:28 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Haunted Attractions Help Revive Neighborhoods",
@@ -147,12 +183,6 @@
         "title": "By The Way: Headlines You May Have Missed",
         "link": "https://www.bloomberg.com/news/videos/2026-10-31/by-the-way-headlines-you-may-have-missed-video",
         "published": "Sat, 31 Oct 2026 12:50:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Senegal Lawmakers Reject Budget Again, Putting IMF Deal at Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/senegal-lawmakers-reject-budget-again-putting-imf-deal-at-risk",
-        "published": "Sat, 31 Oct 2026 12:27:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -213,36 +243,6 @@
         "title": "PacSun CEO: Brands Mean a Lot to Young People Today",
         "link": "https://www.bloomberg.com/news/videos/2026-10-30/pacsun-ceo-brands-mean-a-lot-to-young-people-today-video",
         "published": "Fri, 30 Oct 2026 22:01:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "New Balance CEO Joe Preston on NYC Marathon Partnership",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/new-balance-ceo-joe-preston-on-nyc-marathon-partnership-video",
-        "published": "Fri, 30 Oct 2026 21:59:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ice Cube on Big3 League: In a Great Position To Scale",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/ice-cube-on-big3-league-in-a-great-position-to-scale-video",
-        "published": "Fri, 30 Oct 2026 21:55:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Burger King US President on Sales Turnaround",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/burger-king-us-president-on-sales-turnaround-video",
-        "published": "Fri, 30 Oct 2026 21:51:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Investor Looks to Bid on Club Pilates-Owner Xponential",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/investor-said-to-look-to-bid-on-club-pilates-owner-xponential",
-        "published": "Fri, 30 Oct 2026 13:58:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rich Steinmeier on a Career in Management",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-30/rich-steinmeier-on-a-career-in-management-video",
-        "published": "Fri, 30 Oct 2026 21:21:38 GMT"
       }
     ],
     "onvista – News": [
