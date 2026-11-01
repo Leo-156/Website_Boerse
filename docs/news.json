@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-01T02:41:56.865424+00:00",
+  "updated_at": "2026-11-01T09:42:27.163440+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Japans Nebenwerte werden interessant – drei Fonds können davon profitieren",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-japans-nebenwerte-werden-interessant/100261909.html",
+        "published": "Sun, 01 Nov 2026 08:05:43 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Hackerangriff: FBI: Nordkoreanische Hacker stecken hinter milliardenschwerem Krypto-Diebstahl",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-fbi-nordkorea-hinter-milliardenschwerem-krypto-diebstahl/100266403.html",
+        "published": "Sun, 01 Nov 2026 06:33:08 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Ferienimmobilien: Rente unter Palmen – Wo in Griechenland der Alterswohnsitz noch erschwinglich ist",
@@ -109,44 +121,38 @@
         "title": "Konjunktur und Märkte: Wie steht es um die US‑Wirtschaft? Drei Grafiken zeigen Warnsignale",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-wie-geht-es-der-us-wirtschaft-drei-charts-zeigen-warnsignale/100261981.html",
         "published": "Fri, 30 Oct 2026 03:16:18 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Speckgürtel Frankfurt – hier lohnt sich der Kauf für Pendler noch",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-umland-frankfurt-hier-lohnt-sich-der-kauf-fuer-pendler-noch/100262240.html",
-        "published": "Fri, 30 Oct 2026 03:11:59 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse im Blick: Quartalszahlen aus zwei mutmaßlich unattraktiven Branchen überraschen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-quartalszahlen-aus-zwei-mutmasslich-unattraktiven-branchen-ueberraschen/100265551.html",
-        "published": "Fri, 30 Oct 2026 13:07:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
-        "published": "Sun, 01 Nov 2026 00:00:00 GMT"
+        "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
+        "published": "Sun, 01 Nov 2026 09:23:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Turkey Appoints New Top Market Regulator in Fund Crisis Response",
+        "title": "OPEC+ Set to Stick With Plan for Steady Quotas, Delegates Say",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say",
+        "published": "Sun, 01 Nov 2026 09:19:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Turkey Picks Tax Chief to Lead Markets Board After Fund Rout",
         "link": "https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response",
         "published": "Sat, 31 Oct 2026 21:50:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Rubio Defends Russian G20 Presence Despite Criticism From Allies",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-defends-russian-g20-presence-despite-criticism-from-allies",
-        "published": "Sat, 31 Oct 2026 20:41:04 GMT"
+        "title": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
+        "published": "Sun, 01 Nov 2026 05:14:49 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Senegal Lawmakers Reject Budget Again, Risking IMF Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/senegal-lawmakers-reject-budget-again-putting-imf-deal-at-risk",
-        "published": "Sat, 31 Oct 2026 12:27:56 GMT"
+        "title": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
+        "published": "Sun, 01 Nov 2026 00:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -159,18 +165,6 @@
         "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
         "link": "https://www.bloomberg.com/news/videos/2026-10-31/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
         "published": "Sat, 31 Oct 2026 15:22:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates",
-        "published": "Sat, 31 Oct 2026 15:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes",
-        "published": "Sat, 31 Oct 2026 14:11:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -219,12 +213,6 @@
         "title": "AI Policy Risks Loom Over Stock, Bond Traders Ahead of Midterms",
         "link": "https://www.bloomberg.com/news/articles/2026-10-30/ai-policy-fears-grip-stock-bond-traders-with-midterms-days-away",
         "published": "Fri, 30 Oct 2026 11:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Angola Plans to Cut Fuel Subsidies Without Price Increases",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/angola-plans-to-cut-fuel-subsidies-without-price-increases",
-        "published": "Sat, 31 Oct 2026 09:39:45 GMT"
       }
     ],
     "onvista – News": [
