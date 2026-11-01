@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:54:53.658307+00:00",
+  "updated_at": "2026-11-01T02:41:56.865424+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,12 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
+        "published": "Sun, 01 Nov 2026 00:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Turkey Appoints New Top Market Regulator in Fund Crisis Response",
         "link": "https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response",
         "published": "Sat, 31 Oct 2026 21:50:23 GMT"
@@ -219,12 +225,6 @@
         "title": "Angola Plans to Cut Fuel Subsidies Without Price Increases",
         "link": "https://www.bloomberg.com/news/articles/2026-10-31/angola-plans-to-cut-fuel-subsidies-without-price-increases",
         "published": "Sat, 31 Oct 2026 09:39:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 29 Oct 2026 22:07:56 GMT"
       }
     ],
     "onvista – News": [
