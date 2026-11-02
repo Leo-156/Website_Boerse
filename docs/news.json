@@ -1,18 +1,90 @@
 {
-  "updated_at": "2026-11-02T10:06:38.278623+00:00",
+  "updated_at": "2026-11-02T20:19:09.791890+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: Wall Street uneinheitlich – steht der nächste Absturz bevor?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-uneinheitlich-steht-der-naechste-absturz-bevor/100266673.html",
+        "published": "Mon, 02 Nov 2026 19:10:51 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt im Plus – Öl- und Gaspreise geben nach",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-plus-oel-und-gaspreise-fallen/100266531.html",
+        "published": "Mon, 02 Nov 2026 17:14:58 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Ein politisches Patt in den USA wäre für Anleger eine gute Nachricht",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-ein-politisches-patt-in-den-usa-waere-fuer-anleger-eine-gute-nachricht/100266185.html",
+        "published": "Mon, 02 Nov 2026 17:04:57 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Cum-Ex-Steuerskandal: Bundesgerichtshof bestätigt Haftstrafe für Fondsmanager",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/cum-ex-steuerskandal-bgh-bestaetigt-haftstrafe-fuer-fondsmanager/100266682.html",
+        "published": "Mon, 02 Nov 2026 16:17:43 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Neobroker: Digitalbank Nordnet stellt Pläne für den deutschen Markt vor",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/digitalbank-nordnet-stellt-plaene-fuer-den-deutschen-markt-vor/100266160.html",
+        "published": "Mon, 02 Nov 2026 16:12:37 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Bessere Aussichten: Strategen erwarten langfristig höhere Erträge für viele Anlagen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-aktien-anleihen-gold-welche-ertraege-langfristig-drin-sind/100261979.html",
+        "published": "Mon, 02 Nov 2026 15:36:14 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: So entsteht ein ETF-Portfolio, das wenig Arbeit macht",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-koennen-sie-mit-wenigen-etfs-langfristig-investieren/100263502.html",
+        "published": "Mon, 02 Nov 2026 14:55:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax-Sentiment: Die Börsenstimmung steigt, doch es fehlt das Geld für neue Käufe",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/dax-die-boersenstimmung-steigt-doch-es-fehlt-das-geld-fuer-neue-kaeufe/100266183.html",
+        "published": "Mon, 02 Nov 2026 14:31:23 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Aktien, Anleihen, ETFs, Optionen: So klappt es mit dem Nebenverdienst ohne Arbeit",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-was-passives-einkommen-leisten-kann-und-was-nicht/100188789.html",
+        "published": "Mon, 02 Nov 2026 13:54:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Binance: Warum Nordkoreas Hacker der Kryptobranche immer einen Schritt voraus sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/warum-nordkoreas-hacker-der-kryptobranche-immer-einen-schritt-voraus-sind/100266555.html",
+        "published": "Mon, 02 Nov 2026 12:21:19 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: „Erfahrener Investor“ übernimmt insolventes Frankfurter Luxushotel",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-insolventes-luxushotel-hat-eine-neue-eigentuemerin/100266556.html",
+        "published": "Mon, 02 Nov 2026 12:16:31 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Kryptobörse: Kunden ziehen nach Hackerangriff Milliarden bei Binance ab",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/binance-kunden-ziehen-nach-hackerangriff-milliarden-ab/100266622.html",
+        "published": "Mon, 02 Nov 2026 11:38:15 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-diese-zehn-dinge-habe-ich-als-einsteiger-ueber-etfs-gelernt/100184984.html",
+        "published": "Mon, 02 Nov 2026 11:04:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Ranking 2026: Geldanlage: Das sind die besten Robo-Advisor",
         "link": "https://www.handelsblatt.com/finanzen/ranking-2026-das-sind-die-besten-robo-advisor/100246778.html",
         "published": "Mon, 02 Nov 2026 10:02:15 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax öffnet unverändert – Nervosität vor den US-Midterms",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-leicht-im-plus-nervositaet-vor-den-us-midterms/100266531.html",
-        "published": "Mon, 02 Nov 2026 10:00:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -46,143 +118,23 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Analyse: Anteilseigner wenden sich von der Commerzbank ab – „Der Investment Case ist kaputt“",
+        "title": "Analyse: „Der Investment Case ist kaputt“: Aktionäre wenden sich von Commerzbank ab",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/commerzbank-anteilseigner-wenden-sich-ab-der-investment-case-ist-kaputt/100263991.html",
         "published": "Mon, 02 Nov 2026 03:00:20 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Bringen schwache Schuldner auch künftig Extra-Renditen für Junkbond-Fonds?",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-wie-riskant-sind-schwache-schuldner-kuenftig-fuer-junkbond-fonds/100265026.html",
-        "published": "Sun, 01 Nov 2026 15:03:26 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: „Am begehrtesten ist die klassische Burg mit Mauern und Turm“",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-am-begehrtesten-ist-die-klassische-burg-mit-mauern-und-turm-01/100264319.html",
-        "published": "Mon, 02 Nov 2026 06:35:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Öl, Anleihen und Aktien: So schauen asiatische Profianleger auf die bevorstehenden US‑Midterms",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-so-schauen-profianleger-auf-die-bevorstehenden-usmidterms/100266440.html",
-        "published": "Sun, 01 Nov 2026 14:38:52 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Vergesellschaftung? So reagieren jetzt Investoren und Vermieter",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-vergesellschaftung-so-reagieren-investoren-und-vermieter/100265175.html",
-        "published": "Mon, 02 Nov 2026 06:36:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Markt: Mehr Rendite, mehr Pleiten: Steigende Zinsen werden zum neuen Stresstest für Private Credit",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/zinsanstieg-auswirkungen-auf-private-credit-und-schuldner/100263351.html",
-        "published": "Sun, 01 Nov 2026 12:20:32 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Japans Nebenwerte werden interessant – drei Fonds können davon profitieren",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-japans-nebenwerte-werden-interessant/100261909.html",
-        "published": "Sun, 01 Nov 2026 08:05:43 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Ferienimmobilien: Rente unter Palmen – Wo in Griechenland der Alterswohnsitz noch erschwinglich ist",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/rente-warum-sich-viele-deutsche-griechenland-als-alterswohnsitz-wuenschen/100264811.html",
-        "published": "Mon, 02 Nov 2026 09:57:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Haussanierung – diese Maßnahmen bringen den größten Effekt",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-haussanierung-diese-massnahmen-bringen-den-groessten-effekt/100263443.html",
-        "published": "Sat, 31 Oct 2026 09:31:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: „Absolut brutale Woche“ für Tech-Investoren – Nasdaq rutscht ab, Intel verliert rund 29 Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-100-auf-talfahrt-intel-aktie-verliert-29-prozent/100266181.html",
-        "published": "Fri, 30 Oct 2026 19:57:39 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax schließt im Minus – und reißt die 26.000-Punkte-Marke",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-und-reisst-die-26.000-punkte-marke/100266086.html",
-        "published": "Fri, 30 Oct 2026 17:39:48 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Tech-Aktien: „Die Ära der ‚Magnificent Seven‘ scheint vorbei“ – 700 Milliarden Dollar an Börsenwert vernichtet",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/tech-aktien-ist-die-aera-der-magnificent-seven-vorbei/100266107.html",
-        "published": "Mon, 02 Nov 2026 08:02:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Kommentar: Investoren müssen sich auf eine völlig veränderte EZB einstellen",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/kommentar-investoren-muessen-sich-auf-eine-voellig-veraenderte-ezb-einstellen/100266096.html",
-        "published": "Fri, 30 Oct 2026 15:10:20 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Rise as Oil Slump Buoys Sentiment: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
-        "published": "Sun, 01 Nov 2026 21:28:04 GMT"
+        "title": "AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
+        "published": "Mon, 02 Nov 2026 18:48:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Spotify Investor Creandum Raises $750M Fund",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-02/spotify-investor-creandum-raises-750m-fund-video",
-        "published": "Mon, 02 Nov 2026 09:25:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Midterms & AI Strain: The Global Trader’s Guide",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-02/insight-with-haslinda-amin-11-2-2026-video",
-        "published": "Mon, 02 Nov 2026 09:22:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China’s Gen Z Dons Spooky Stock Market Costumes for Halloween",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/china-s-gen-z-dons-spooky-stock-market-costumes-for-halloween",
-        "published": "Mon, 02 Nov 2026 09:20:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "What Are Structured Notes And Why the Market for Them Is Booming",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/what-are-structured-notes-and-why-the-market-for-them-is-booming",
-        "published": "Mon, 02 Nov 2026 09:00:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Odd Lots: The Structured Notes Market Is Booming (Podcast)",
-        "link": "https://www.bloomberg.com/news/audio/2026-11-02/odd-lots-the-structured-notes-market-is-booming-podcast",
-        "published": "Mon, 02 Nov 2026 09:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Chinese Stock Selloff Halts on Expectation of Support Measures",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
-        "published": "Sun, 01 Nov 2026 10:08:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Alphabet Tests Bond Market’s AI Faith With Second Euro Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
-        "published": "Mon, 02 Nov 2026 07:17:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "German Protests Erupt in Violence",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-02/german-protests-erupt-in-violence-video",
-        "published": "Mon, 02 Nov 2026 08:35:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "This Bounce in Stocks Appears Premature: Market Analysis",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-02/this-bounce-in-stocks-appears-premature-3-minutes-mliv-video",
-        "published": "Mon, 02 Nov 2026 08:26:04 GMT"
+        "title": "US Tech Stocks Hover Near Correction on Middle East Tensions",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
+        "published": "Mon, 02 Nov 2026 13:08:30 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -192,60 +144,210 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nordic Investment Bank Mulls SRTs After Adding Defense Focus",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/nordic-investment-bank-mulls-srts-after-adding-defense-focus",
-        "published": "Mon, 02 Nov 2026 08:15:07 GMT"
+        "title": "Buyers Circle Mark Walter’s F1 Team as He Offloads Sports Assets",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/buyers-circle-mark-walter-s-f1-team-as-he-offloads-sports-assets",
+        "published": "Mon, 02 Nov 2026 20:02:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ryanair Initiates Cost Drive to Offset $2 Billion Fuel Surge",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/ryanair-initiates-cost-drive-to-offset-2-billion-jet-fuel-surge",
-        "published": "Mon, 02 Nov 2026 06:00:00 GMT"
+        "title": "US Natural Gas Falls With Oil as Hope for Iran Talks Reemerges",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
+        "published": "Mon, 02 Nov 2026 15:08:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "South Africa’s Low-Key Municipal Polls Hold Risk for Markets",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/south-africa-s-low-key-municipal-polls-pose-risks-for-investors",
-        "published": "Mon, 02 Nov 2026 05:00:00 GMT"
+        "title": "S&P 500 Wavers as Chip Rout Offsets US-Iran Hopes: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+        "published": "Sun, 01 Nov 2026 21:28:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Kneron Looks Beyond Chips as It Prepares for IPO",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-02/kneron-looks-beyond-chips-as-it-prepares-for-ipo-video-mvyydxep",
-        "published": "Mon, 02 Nov 2026 07:44:28 GMT"
+        "title": "'Bipartisan' ETF 'Makes Sense': Weiskopf",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-02/-bipartisan-etf-makes-sense-weiskopf-video",
+        "published": "Mon, 02 Nov 2026 19:33:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ryanair CEO O'Leary on Cost Savings, Fuel Prices, Higher Fares",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-02/ryanair-ceo-o-leary-on-costs-fuel-prices-higher-fares-video",
-        "published": "Mon, 02 Nov 2026 07:41:05 GMT"
+        "title": "ETF Canadian Market 'Home Biased': Linda Ma",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-02/etf-canadian-market-home-biased-linda-ma-video",
+        "published": "Mon, 02 Nov 2026 19:18:39 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Where to Invest 1 Crore Rupees",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-02/where-to-invest-1-crore-rupees-video",
-        "published": "Mon, 02 Nov 2026 07:37:33 GMT"
+        "title": "Equal-Weight Keeps You In Investing Game: Tema's Nardini",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-02/equal-weight-keeps-you-in-investing-game-tema-s-nardini-video",
+        "published": "Mon, 02 Nov 2026 19:08:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Kneron Looks Beyond Chips as It Prepares for IPO",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-02/kneron-looks-beyond-chips-as-it-prepares-for-ipo-video",
-        "published": "Mon, 02 Nov 2026 07:37:11 GMT"
+        "title": "Owning Anthropic Before It Goes Public",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-02/owning-anthropic-before-it-goes-public-video",
+        "published": "Mon, 02 Nov 2026 19:06:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ryanair Slashes Costs After €2 Billion Fuel-Charge Increase",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-02/ryanair-slashes-costs-after-2-billion-fuel-charge-increase",
-        "published": "Mon, 02 Nov 2026 07:31:26 GMT"
+        "title": "Carney’s Push to Fast-Track Oil Pipeline Faces Mounting Indigenous Lawsuits",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/carney-s-push-to-fast-track-oil-pipeline-faces-mounting-indigenous-lawsuits",
+        "published": "Mon, 02 Nov 2026 19:04:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Turkish Market Clearinghouse CEO Resigns as Fund Probe Widens",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/turkish-market-clearinghouse-ceo-resigns-as-fund-probe-widens",
-        "published": "Mon, 02 Nov 2026 07:25:14 GMT"
+        "title": "Alphabet Pays Up to Entice Buyers to €6 Billion Bond Sale",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
+        "published": "Mon, 02 Nov 2026 07:17:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Millennium Pulls Over $1.5 Billion From Two External Hedge Funds",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/millennium-pulls-over-1-5-billion-from-two-external-hedge-funds",
+        "published": "Mon, 02 Nov 2026 19:00:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oracle Leads 17-Firm High-Grade Bond Push Before US Midterm Vote",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-leads-17-firm-high-grade-bond-push-before-us-midterm-vote",
+        "published": "Mon, 02 Nov 2026 18:55:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Anthropic IPO Explained: S-1 Filing, Nasdaq Listing and Key Risks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-ipo-explained-s-1-filing-nasdaq-listing-and-key-risks",
+        "published": "Mon, 02 Nov 2026 18:35:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
+        "published": "Mon, 02 Nov 2026 12:45:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Vista, Elliott’s Cloud Software to Refinance $2 Billion of Debt",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/vista-elliott-s-cloud-software-to-refinance-2-billion-of-debt",
+        "published": "Mon, 02 Nov 2026 18:23:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages",
+        "published": "Mon, 02 Nov 2026 18:03:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Rebounds as Iran Diplomacy Hopes Send Oil Tumbling",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
+        "published": "Mon, 02 Nov 2026 00:03:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Tumble",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble",
+        "published": "Mon, 02 Nov 2026 17:44:40 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax erholt sich vor US-Zwischenwahlen - Kurseinbruch bei Init-Aktie",
+        "link": "https://www.onvista.de/news/2026/11-02-dax-erholt-sich-vor-us-zwischenwahlen-kurseinbruch-bei-init-aktie-41121301-19-26571331",
+        "published": "Mon, 02 Nov 2026 17:55:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Eli Lilly: Starkes Wachstum macht die Aktie günstiger",
+        "link": "https://www.onvista.de/news/2026/11-02-eli-lilly-starkes-wachstum-macht-die-aktie-guenstiger-40338625-19-26571265",
+        "published": "Mon, 02 Nov 2026 17:23:57 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Caterpillars Kursrückgang ist überzogen",
+        "link": "https://www.onvista.de/news/2026/11-02-caterpillars-kursrueckgang-ist-ueberzogen-40338625-19-26571266",
+        "published": "Mon, 02 Nov 2026 17:23:14 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Mutares: Nach dem Stuart-Verkauf sind 30 Euro möglich",
+        "link": "https://www.onvista.de/news/2026/11-02-mutares-nach-dem-stuart-verkauf-sind-30-euro-moeglich-40338625-19-26571256",
+        "published": "Mon, 02 Nov 2026 17:22:23 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Twilio: Der Kursverlust macht Käufe um 200 Dollar attraktiv",
+        "link": "https://www.onvista.de/news/2026/11-02-twilio-der-kursverlust-macht-kaeufe-um-200-dollar-attraktiv-40338625-19-26571274",
+        "published": "Mon, 02 Nov 2026 17:00:38 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Chevron: Der Ölpreis gefährdet die Kursgewinne",
+        "link": "https://www.onvista.de/news/2026/11-02-chevron-der-oelpreis-gefaehrdet-die-kursgewinne-40338625-19-26571275",
+        "published": "Mon, 02 Nov 2026 17:00:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Intel bleibt trotz happigem Minus noch zu teuer",
+        "link": "https://www.onvista.de/news/2026/11-02-intel-bleibt-trotz-happigem-minus-noch-zu-teuer-40338625-19-26571276",
+        "published": "Mon, 02 Nov 2026 16:59:04 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Schwächere Serviceprognose belastet Fortinet-Aktie",
+        "link": "https://www.onvista.de/news/2026/11-02-schwaechere-serviceprognose-belastet-fortinet-aktie-40338625-19-26571264",
+        "published": "Mon, 02 Nov 2026 16:57:13 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Sandisk: Die Aktie fällt trotz starkem Wachstum weiter",
+        "link": "https://www.onvista.de/news/2026/11-02-sandisk-die-aktie-faellt-trotz-starkem-wachstum-weiter-40338625-19-26571267",
+        "published": "Mon, 02 Nov 2026 16:48:59 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Deutsche Bank: Günstige Bewertung bietet Kurspotenzial",
+        "link": "https://www.onvista.de/news/2026/11-02-deutsche-bank-guenstige-bewertung-bietet-kurspotenzial-40338625-19-26571263",
+        "published": "Mon, 02 Nov 2026 16:40:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Starke Aufträge eröffnen bei Aixtron Potenzial bis 44 Euro",
+        "link": "https://www.onvista.de/news/2026/11-02-starke-auftraege-eroeffnen-bei-aixtron-potenzial-bis-44-euro-40338625-19-26571257",
+        "published": "Mon, 02 Nov 2026 16:20:40 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Amazons Cloudwachstum beschleunigt sich weiter",
+        "link": "https://www.onvista.de/news/2026/11-02-amazons-cloudwachstum-beschleunigt-sich-weiter-40338625-19-26571277",
+        "published": "Mon, 02 Nov 2026 16:17:35 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Gratisaktie bei XTB: Kostenlose Porsche-Vorzugsaktie für die ersten 5.000 Neukunden",
+        "link": "https://www.onvista.de/news/2026/11-02-xtb-gratisaktie-porsche-aktie-41122918-19-26550842",
+        "published": "Mon, 02 Nov 2026 14:52:24 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dieser Broker schenkt dir im November 100 Gratis-Trades.",
+        "link": "https://www.onvista.de/news/2026/11-02-bison-200-gratis-trades-fuer-aktien-und-etfs-zum-depotstart-41122918-19-26571170",
+        "published": "Mon, 02 Nov 2026 14:52:02 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Deutsche Bank: Favorit – Intel fällt, Amazon mit AWS-Boom",
+        "link": "https://www.onvista.de/news/2026/11-02-deutsche-bank-favorit-intel-faellt-amazon-mit-aws-boom-40338625-19-26571187",
+        "published": "Mon, 02 Nov 2026 12:58:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Tagesgeld im November 2026: Hier sind aktuell bis zu 4,5 Prozent Zinsen drin",
+        "link": "https://www.onvista.de/news/2026/11-02-tagesgeld-im-november-2026-hier-sind-aktuell-bis-zu-4-5-prozent-zinsen-drin-41122918-19-26498067",
+        "published": "Mon, 02 Nov 2026 12:11:53 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax verliert Trendlinie – Diese Haltelinie entscheidet",
+        "link": "https://www.onvista.de/news/2026/11-02-dax-verliert-trendlinie-diese-haltelinie-entscheidet-41123281-19-26571112",
+        "published": "Mon, 02 Nov 2026 11:06:40 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "comdirect-Depot 2026: Viel Auswahl, starke Funktionen",
@@ -293,108 +395,6 @@
         "title": "Dax startet mit Gewinnen – Alstom-Aktie fällt 28 Prozent",
         "link": "https://www.onvista.de/news/2026/11-02-dax-startet-mit-gewinnen-alstom-aktie-faellt-28-prozent-0-19-26571099",
         "published": "Mon, 02 Nov 2026 09:54:10 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Finanzen invest Depot 2026: Orders ab 500 Euro ohne Ordergebühr",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-finanzen-invest-26283737",
-        "published": "Mon, 02 Nov 2026 09:53:40 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Der onvista Angebots-Ticker November 2026",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/der-onvista-angebots-ticker-november-2026-26471599",
-        "published": "Mon, 02 Nov 2026 09:43:13 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Tagesgeld im November 2026: Hier sind aktuell bis zu 4,25 Prozent Zinsen drin",
-        "link": "https://www.onvista.de/news/2026/11-02-tagesgeld-im-november-2026-hier-sind-aktuell-bis-zu-4-25-prozent-zinsen-drin-41122918-19-26498067",
-        "published": "Mon, 02 Nov 2026 08:45:49 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax im Plus erwartet – Ölpreis steigt wegen Iran-Sorgen",
-        "link": "https://www.onvista.de/news/2026/11-02-dax-im-plus-erwartet-oelpreis-steigt-wegen-iran-sorgen-41121301-19-26571019",
-        "published": "Mon, 02 Nov 2026 07:58:22 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 02.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-02-finanzberichte-heute-02-11-2026-41121301-19-26570988",
-        "published": "Mon, 02 Nov 2026 06:10:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  02.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-02-dividendenalarm-heute-02-11-2026-41121301-19-26570987",
-        "published": "Mon, 02 Nov 2026 06:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax schwächelt nach Gewinnserie - Gold sinkt auf 52-Wochen-Tief",
-        "link": "https://www.onvista.de/news/2026/10-30-dax-schwaechelt-nach-gewinnserie-gold-sinkt-auf-52-wochen-tief-41121301-19-26570552",
-        "published": "Fri, 30 Oct 2026 17:55:01 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Nasdaq 100 rutscht wegen Amazon und Intel um 2,6 Prozent ab",
-        "link": "https://www.onvista.de/news/2026/10-30-nasdaq-100-rutscht-wegen-amazon-und-intel-um-2-6-prozent-ab-41121301-19-26570481",
-        "published": "Fri, 30 Oct 2026 14:54:26 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Anthropics Verluste sind Nebensache – wortwörtlich",
-        "link": "https://www.onvista.de/news/2026/10-30-anthropics-verluste-sind-nebensache-wortwoertlich-41122522-19-26569922",
-        "published": "Fri, 30 Oct 2026 13:23:34 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Gold nachkaufen? Tiefpunkt bei Porsche? Inflationsrisiko Öl?",
-        "link": "https://www.onvista.de/news/2026/10-30-gold-nachkaufen-porsche-tiefpunkt-oel-als-inflationsrisiko-41121301-19-26570006",
-        "published": "Fri, 30 Oct 2026 12:00:01 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax testet Aufwärtstrend nach starkem Anstieg",
-        "link": "https://www.onvista.de/news/2026/10-30-dax-testet-aufwaertstrend-nach-starkem-anstieg-41123281-19-26570366",
-        "published": "Fri, 30 Oct 2026 10:54:33 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax gibt leicht nach – Puma an MDax-Spitze",
-        "link": "https://www.onvista.de/news/2026/10-30-dax-gibt-leicht-nach-puma-an-mdax-spitze-0-19-26570327",
-        "published": "Fri, 30 Oct 2026 09:56:24 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax dürfte nachgeben – Amazon und Intel belasten Börsen",
-        "link": "https://www.onvista.de/news/2026/10-30-dax-duerfte-nachgeben-amazon-und-intel-belasten-boersen-41121301-19-26570246",
-        "published": "Fri, 30 Oct 2026 07:59:45 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 30.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-30-finanzberichte-heute-30-10-2026-41121301-19-26570202",
-        "published": "Fri, 30 Oct 2026 06:10:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  30.10.2026",
-        "link": "https://www.onvista.de/news/2026/10-30-dividendenalarm-heute-30-10-2026-41121301-19-26570201",
-        "published": "Fri, 30 Oct 2026 06:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax steigt über 26.000 Punkte – EZB-Leitzins bleibt stabil",
-        "link": "https://www.onvista.de/news/2026/10-29-dax-steigt-ueber-26-000-punkte-ezb-leitzins-bleibt-stabil-41121301-19-26570069",
-        "published": "Thu, 29 Oct 2026 17:47:49 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Aixtron: Der Auftragseingang steigt um 122 Prozent",
-        "link": "https://www.onvista.de/news/2026/10-29-aixtron-der-auftragseingang-steigt-um-122-prozent-40338625-19-26570008",
-        "published": "Thu, 29 Oct 2026 16:45:58 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -462,15 +462,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
-        "published": "Mon, 02 Nov 2026 09:59:47 +0100"
+        "title": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/teurer-wohnraum-wirtschaftswachstum-marktbericht-100.html",
+        "published": "Mon, 02 Nov 2026 14:15:24 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
+        "title": "Marktbericht: DAX legt zu - Anleger bleiben vorsichtig",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
-        "published": "Mon, 02 Nov 2026 10:06:31 +0100"
+        "published": "Mon, 02 Nov 2026 18:32:24 +0100"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
+        "published": "Mon, 02 Nov 2026 09:59:47 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Marktbericht: TSMC gibt sich keine Blöße",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
         "published": "Thu, 15 Oct 2026 13:56:37 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Europa wertvollster Konzern ASML macht KI-Boom möglich",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html",
-        "published": "Wed, 14 Oct 2026 15:14:36 +0200"
       }
     ]
   }
