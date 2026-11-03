@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-03T02:28:31.475545+00:00",
+  "updated_at": "2026-11-03T09:49:00.185040+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Kospi und CSI 300: US-Wahlen im Fokus – Anleger in Asien agieren vorsichtig",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/kospi-und-csi-300-us-wahlen-im-fokus-anleger-in-asien-agieren-vorsichtig/100266822.html",
+        "published": "Tue, 03 Nov 2026 09:25:44 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert die Antwort",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/vermoegen-wie-reich-sind-sie-im-vergleich-zu-anderen-deutschen/100149729.html",
+        "published": "Tue, 03 Nov 2026 08:40:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Unter 26.000 Punkten – Dax eröffnet vor US-Midterms im Minus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-unter-26.000-punkten-dax-eroeffnet-vor-us-midterms-im-minus/100266854.html",
+        "published": "Tue, 03 Nov 2026 08:32:04 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Cyberangriff: Diese Folgen hat der Binance-Hack für die Kryptowelt – die fünf wichtigsten Antworten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/kryptowaehrungen-diese-folgen-hat-der-binance-hack-fuer-bitcoin-ether-und-co./100266746.html",
+        "published": "Tue, 03 Nov 2026 07:57:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 3. November: Sechs Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Tue, 03 Nov 2026 05:20:06 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Aktien: Der S&P 500 ist nicht mehr überbewertet – wie kann das sein?",
+        "link": "https://www.handelsblatt.com/finanzen/aktien-der-sp-500-ist-nicht-mehr-ueberbewertet-wie-kann-das-sein/100264298.html",
+        "published": "Tue, 03 Nov 2026 03:08:48 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "US-Börsen: Wall Street schließt uneinheitlich – steht der nächste Absturz bevor?",
@@ -85,167 +121,155 @@
         "title": "Ranking 2026: Geldanlage: Das sind die besten Robo-Advisor",
         "link": "https://www.handelsblatt.com/finanzen/ranking-2026-das-sind-die-besten-robo-advisor/100246778.html",
         "published": "Mon, 02 Nov 2026 10:02:15 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei, Yen, Hang Seng: Hoffnung auf Konjunkturmaßnahmen stützt Chinas Börsen",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-hoffnung-auf-konjunkturmassnahmen-stuetzt-chinas-boersen/100266505.html",
-        "published": "Mon, 02 Nov 2026 08:29:25 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Friendflation: Warum Geld in Beziehungen relevanter wird",
-        "link": "https://www.handelsblatt.com/finanzen/friendflation-was-unterschiede-beim-vermoegen-mit-freundschaften-machen/100154689.html",
-        "published": "Mon, 02 Nov 2026 08:24:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börsenbetreiber: Euronext-Chef Boujnah kündigt Rücktritt an",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/boersenbetreiber-euronext-chef-boujnah-kuendigt-ruecktritt-an/100266554.html",
-        "published": "Mon, 02 Nov 2026 07:51:12 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 2. November: Sechs Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Mon, 02 Nov 2026 05:14:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Hackerangriff: FBI: Nordkoreanische Hacker stecken hinter milliardenschwerem Krypto-Diebstahl bei Binance",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-fbi-sieht-nordkoreanische-hacker-hinter-krypto-diebstahl/100266403.html",
-        "published": "Mon, 02 Nov 2026 04:08:02 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Analyse: „Der Investment Case ist kaputt“: Aktionäre wenden sich von Commerzbank ab",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/commerzbank-anteilseigner-wenden-sich-ab-der-investment-case-ist-kaputt/100263991.html",
-        "published": "Mon, 02 Nov 2026 03:00:20 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "China Vows to Boost Yuan Liquidity, Back Hong Kong Markets",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-he-says-will-support-free-open-economy-in-hong-kong",
-        "published": "Tue, 03 Nov 2026 01:22:26 GMT"
+        "title": "SBI’s Profit Beats Estimates on Loan Growth, One-Time Gain",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/sbi-s-strong-loan-growth-drives-second-quarter-profit-beat",
+        "published": "Tue, 03 Nov 2026 08:28:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China’s Revival of 2024 Stock Rescue Tools Faces Skepticism",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/china-to-boost-use-of-stock-support-tools-to-stabilize-market",
-        "published": "Mon, 02 Nov 2026 13:10:52 GMT"
+        "title": "An Election Day Special With Nate Silver",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver",
+        "published": "Tue, 03 Nov 2026 09:00:21 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Fall After US Losses, Oil Holds Drop: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 02 Nov 2026 22:25:14 GMT"
+        "title": "Odd Lots: An Election Day Special With Nate Silver (Podcast)",
+        "link": "https://www.bloomberg.com/news/audio/2026-11-03/odd-lots-an-election-day-special-with-nate-silver-podcast",
+        "published": "Tue, 03 Nov 2026 09:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Nov. 3",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
-        "published": "Mon, 02 Nov 2026 23:01:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Offshore Yuan Weakens on PBOC’s Move to Raise FX Reserve Ratio",
+        "title": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
         "link": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
         "published": "Tue, 03 Nov 2026 01:06:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China's He Lifeng on Hong Kong's Financial Edge",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-03/china-s-he-lifeng-on-hong-kong-s-financial-edge-video",
-        "published": "Tue, 03 Nov 2026 01:22:52 GMT"
+        "title": "US Stocks Slip as Oil Rebounds Before Midterms: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+        "published": "Mon, 02 Nov 2026 22:25:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/pakistan-s-rebound-masks-deeper-problems-weighing-on-economy",
-        "published": "Tue, 03 Nov 2026 01:00:00 GMT"
+        "title": "Bayer Raises Profit Outlook on Strong Demand for Drugs",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/bayer-raises-profit-outlook-helped-by-strong-demand-for-drugs",
+        "published": "Tue, 03 Nov 2026 06:44:26 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BAI Capital Closing in on $800 Million for New USD Fund",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-02/kneron-looks-beyond-chips-as-it-prepares-for-ipo-video-mvyydxep",
-        "published": "Mon, 02 Nov 2026 07:44:28 GMT"
+        "title": "Brookfield, QIA to Invest £2.5 Billion in Drax Data Center",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/brookfield-qai-to-invest-2-5-billion-in-data-center-for-drax",
+        "published": "Tue, 03 Nov 2026 07:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Holds Biggest Jump in Two Months on Iran Peace-Deal Hopes",
+        "title": "Wall Street Heavyweights Weigh the Risks to the AI Boom",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/insight-with-haslinda-amin-11-3-2026-video",
+        "published": "Tue, 03 Nov 2026 08:19:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Eyesan: Strong Interest in New Nigerian Oil Blocks",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/eyesan-strong-interest-in-new-nigerian-oil-blocks-video",
+        "published": "Tue, 03 Nov 2026 08:15:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil Is the Biggest Binary Risk: Market Analysis",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/oil-is-the-biggest-binary-risk-3-minutes-mliv-video",
+        "published": "Tue, 03 Nov 2026 08:15:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Marin: YPF Eyes November Deal with XRG and Eni",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/marin-ypf-eyes-november-deal-with-xrg-and-eni-video",
+        "published": "Tue, 03 Nov 2026 08:12:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Amer: BGN Investing in Ships as Iran War Disrupts Trade",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/amer-bgn-investing-in-ships-as-iran-war-disrupts-trade-video",
+        "published": "Tue, 03 Nov 2026 08:11:26 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/huafa-s-62-billion-debt-strain-shakes-china-s-credit-market",
+        "published": "Tue, 03 Nov 2026 03:22:09 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Falls After Oil Rebounds on Lack of US-Iran Deal Progress",
         "link": "https://www.bloomberg.com/news/articles/2026-11-03/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes",
         "published": "Tue, 03 Nov 2026 00:20:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Live: Goldman, Morgan Stanley CEOs to Navigate Markets, AI Trades at HK Summit",
-        "link": "https://www.bloomberg.com/news/live-blog/2026-11-03/goldman-morgan-stanley-finance-ceos-speak-at-hong-kong-investment-summit",
-        "published": "Tue, 03 Nov 2026 00:19:45 GMT"
+        "title": "US Hits Iran’s Qeshm Island as Hormuz Talks Keep Oil Markets on Edge",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/horizons-middle-east-africa-11-3-2026-video",
+        "published": "Tue, 03 Nov 2026 08:01:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Franklin Templeton CEO Hopes Indonesia Changes on MSCI Warning",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/franklin-templeton-ceo-hopes-indonesia-changes-on-msci-warning",
-        "published": "Tue, 03 Nov 2026 00:04:18 GMT"
+        "title": "Hochstein: Markets Should Be Cognizant of Strike Risk",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/hochstein-markets-should-be-cognizant-of-strike-risk-video",
+        "published": "Tue, 03 Nov 2026 07:53:44 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Leaked File Put Lenders in Bind Before Acrisure’s Earnings Win",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/leaked-file-put-lenders-in-bind-before-acrisure-s-earnings-win",
-        "published": "Mon, 02 Nov 2026 21:56:17 GMT"
+        "title": "PIMCO Says Mideast Crisis Driving High Interest Rates",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/pimco-says-mideast-crisis-driving-high-interest-rates-video",
+        "published": "Tue, 03 Nov 2026 07:52:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
-        "published": "Mon, 02 Nov 2026 12:45:05 GMT"
+        "title": "Copper Dips Below $14,000 as Tech Selloff Rattles LME Metals",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/copper-tin-fall-with-base-metals-on-renewed-ai-stocks-selloff",
+        "published": "Tue, 03 Nov 2026 02:55:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "S&P 500 Falls as Chip Rout Offsets US-Iran Hopes: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
-        "published": "Sun, 01 Nov 2026 21:28:04 GMT"
+        "title": "BOE Interest-Rate Path Divides Traders and Economists Ahead of Expected Hike",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-03/boe-interest-rate-path-divides-traders-and-economists-ahead-of-expected-hike",
+        "published": "Tue, 03 Nov 2026 07:34:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Chilean, Mexican Pesos Lead EM Currencies Higher as Oil Sinks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/emerging-market-fx-slips-as-traders-await-iran-progress-us-data",
-        "published": "Mon, 02 Nov 2026 03:56:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hedge Funds Back SEC Push to Ease Rules on EU Bond Futures",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/hedge-funds-back-sec-push-to-ease-us-access-to-eu-bond-futures",
-        "published": "Mon, 02 Nov 2026 17:08:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Apollo’s Simoes Moves to Carlyle for Credit-Origination Role",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/apollo-s-simoes-moves-to-carlyle-for-credit-origination-role",
-        "published": "Mon, 02 Nov 2026 21:39:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold’s Faded Haven Allure Hinges on Deficit, Inflation Fears",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/gold-investors-rocked-by-wipeout-seek-firmer-footing-after-vote",
-        "published": "Mon, 02 Nov 2026 15:06:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Romania Raises €4.5 Billion in New Government’s First Bond Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/romania-is-offering-eurobonds-after-new-government-takes-office",
-        "published": "Mon, 02 Nov 2026 11:49:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Tech Stocks Enter Correction on AI and Midterm Election Risks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
-        "published": "Mon, 02 Nov 2026 13:08:30 GMT"
+        "title": "Jefferies CEO Visits India as US Firm Eyes Expansion, Hiring",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/jefferies-ceo-visits-india-as-us-firm-eyes-expansion-hiring",
+        "published": "Tue, 03 Nov 2026 07:31:24 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Bayer trotzt schwachem Dax zum Handelsstart",
+        "link": "https://www.onvista.de/news/2026/11-03-bayer-trotzt-schwachem-dax-zum-handelsstart-0-19-26571633",
+        "published": "Tue, 03 Nov 2026 09:55:55 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax schwächer erwartet – Tech-Korrektur belastet Leitindex",
+        "link": "https://www.onvista.de/news/2026/11-03-dax-schwaecher-erwartet-tech-korrektur-belastet-leitindex-41121301-19-26571557",
+        "published": "Tue, 03 Nov 2026 08:01:35 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 03.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-03-finanzberichte-heute-03-11-2026-41121301-19-26571483",
+        "published": "Tue, 03 Nov 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  03.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-03-dividendenalarm-heute-03-11-2026-41121301-19-26571482",
+        "published": "Tue, 03 Nov 2026 06:00:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Apple schlägt Gewinnerwartungen - Kurs dennoch schwächer",
@@ -371,30 +395,6 @@
         "title": "Trading 212-Depot 2026: Mehr als ein Neobroker? Zinsen, Cashback und Features im Test",
         "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/trading-212-depot-2026-mehr-als-ein-neobroker-zinsen-cashback-und-features-im-test-26493903",
         "published": "Mon, 02 Nov 2026 10:24:46 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Smartbroker+ Depot 2026: Günstiger Neobroker mit elf deutschen Handelsplätzen",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-smartbroker-plus-26352695",
-        "published": "Mon, 02 Nov 2026 10:19:47 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Scalable Capital Depot 2026: Günstige Orders, große ETF-Auswahl und KI-Zugang",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-scalable-26351137",
-        "published": "Mon, 02 Nov 2026 10:18:25 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "S Broker: Neustart beim Sparkassen-Angebot",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-s-broker-26379923",
-        "published": "Mon, 02 Nov 2026 10:15:15 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "ING: Breites Angebot, Top-App - nicht immer günstig",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-ing-26364378",
-        "published": "Mon, 02 Nov 2026 10:09:01 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX legt zu - Anleger bleiben vorsichtig",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
-        "published": "Mon, 02 Nov 2026 18:32:24 +0100"
+        "title": "Marktbericht: Anleger scheuen vor US-Zwischenwahlen das Risiko",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
+        "published": "Tue, 03 Nov 2026 10:15:35 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
