@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-03T17:23:27.575808+00:00",
+  "updated_at": "2026-11-03T22:23:38.294930+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: Wall Street schließt vor Wahlnacht uneinheitlich – Tech-Werte stabilisieren sich",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-vor-wahlnacht-uneinheitlich/100267037.html",
+        "published": "Tue, 03 Nov 2026 21:26:01 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldpolitik: Bundesbankpräsident Nagel: EZB-Zinserhöhung im Dezember wahrscheinlich",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-nagel-zinserhoehung-im-dezember-wahrscheinlich/100267104.html",
+        "published": "Tue, 03 Nov 2026 19:23:26 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Märkte Insight: Die Polarisierung der US-Wirtschaft ist gefährlich",
@@ -25,12 +37,6 @@
         "title": "Geldanlage: Drei Optionen, wie Anleger schon vor dem IPO auf Anthropic setzen können",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-wie-anleger-schon-vor-dem-ipo-auf-anthropic-setzen-koennen/100265267.html",
         "published": "Tue, 03 Nov 2026 15:55:07 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Tech-Werte stabilisieren sich vor den Midterms – Shopify-Aktie bricht ein",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-tech-werte-stabilisieren-sich-shopify-aktie-bricht-ein/100267037.html",
-        "published": "Tue, 03 Nov 2026 15:22:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -115,80 +121,44 @@
         "title": "Aktien: Der S&P 500 ist nicht mehr überbewertet – wie kann das sein?",
         "link": "https://www.handelsblatt.com/finanzen/aktien-der-sp-500-ist-nicht-mehr-ueberbewertet-wie-kann-das-sein/100264298.html",
         "published": "Tue, 03 Nov 2026 03:08:48 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Wall Street schließt uneinheitlich – steht der nächste Absturz bevor?",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-uneinheitlich-steht-der-naechste-absturz-bevor/100266673.html",
-        "published": "Mon, 02 Nov 2026 19:10:51 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Chip Rally Powers Stock Gains on US Election Day: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 02 Nov 2026 22:25:14 GMT"
+        "title": "Bedrock CEO on Future of Detroit Real Estate",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/bedrock-ceo-on-future-of-detroit-real-estate-video",
+        "published": "Tue, 03 Nov 2026 22:19:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Technology Stocks Lead S&P 500 Higher With Midterm Vote Underway",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook",
-        "published": "Tue, 03 Nov 2026 13:15:16 GMT"
+        "title": "Congo to Probe Illegal Mining After Seizing Copper, Cobalt",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/congo-to-probe-illegal-mining-after-seizing-copper-and-cobalt",
+        "published": "Tue, 03 Nov 2026 07:25:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Chile Pension Funds Breath Sigh of Relief as Swap Losses Narrow",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/chile-pension-funds-breath-sigh-of-relief-as-swap-losses-narrow",
-        "published": "Tue, 03 Nov 2026 16:48:24 GMT"
+        "title": "Venezuela Moves to Unwind Hate Speech Law That Jailed Thousands",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/venezuela-moves-to-unwind-hate-speech-law-that-jailed-thousands",
+        "published": "Tue, 03 Nov 2026 22:08:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US, Venezuela in Talks on Fresh Aluminum Cargo in Trade Revival",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/us-venezuela-in-talks-on-fresh-aluminum-cargo-in-trade-revival",
-        "published": "Tue, 03 Nov 2026 16:46:21 GMT"
+        "title": "Booking Sees Weaker Final Quarter as Prices, Unrest Hurt Travel",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/booking-sees-weaker-final-quarter-as-prices-unrest-hurt-travel",
+        "published": "Tue, 03 Nov 2026 21:56:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Midterm Election Trading on Kalshi and Polymarket Lags Prediction Market Boom",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/midterm-election-trading-on-kalshi-and-polymarket-lags-prediction-market-boom",
-        "published": "Tue, 03 Nov 2026 16:46:17 GMT"
+        "title": "Dollar Rises Most in a Month on Higher US Yields, Strong Data",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/dollar-rises-with-us-yields-as-focus-on-iran-outweighs-election",
+        "published": "Tue, 03 Nov 2026 17:49:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Morgan Stanley Offers $2.3 Billion Debt for Dell Family Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/morgan-stanley-offers-2-3-billion-debt-for-dell-family-deal",
-        "published": "Tue, 03 Nov 2026 16:43:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "UK to Charge Builders 4% of ‘Your First Home’ Program Sales",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/uk-government-to-charge-builders-4-of-your-first-home-sales",
-        "published": "Tue, 03 Nov 2026 16:37:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Fall Amid Oil Price Swings, Strong Job Openings Data",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/treasuries-fall-amid-oil-price-swings-strong-job-openings-data",
-        "published": "Tue, 03 Nov 2026 16:30:34 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Sugar Slides to Five-Week Low as High Indian Output Jolts Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/sugar-falls-as-indian-output-data-signal-less-need-to-import",
-        "published": "Tue, 03 Nov 2026 13:12:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Shopify Revenue Miss; Yum Brands Jumps on Taco Bell Sales | Stock Movers",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-03/shopify-revenue-miss-yum-brands-up-on-taco-bell-sales-video",
-        "published": "Tue, 03 Nov 2026 16:11:14 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Declines as Traders Weigh US-Iran Diplomacy Prospects",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes",
-        "published": "Tue, 03 Nov 2026 00:20:16 GMT"
+        "title": "New Zealand Jobless Rises to 11-Year High as Election Looms",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/new-zealand-jobless-rises-to-11-year-high-as-election-looms",
+        "published": "Tue, 03 Nov 2026 21:50:39 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -198,51 +168,81 @@
       },
       {
         "source": "Bloomberg – Markets",
+        "title": "Traders Turn Less Bearish on Treasuries Before Refunding, Jobs",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/traders-turn-less-bearish-on-treasuries-before-refunding-jobs",
+        "published": "Tue, 03 Nov 2026 21:30:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Chip Stocks Rally as Bonds Fall on US Election Day: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+        "published": "Mon, 02 Nov 2026 22:25:14 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Tech Stocks Drive S&P 500 Higher With Midterm Vote Underway",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook",
+        "published": "Tue, 03 Nov 2026 13:15:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Jack Dorsey’s Block Modestly Beats Third-Quarter Expectations",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/jack-dorsey-s-block-modestly-beats-third-quarter-expectations",
+        "published": "Tue, 03 Nov 2026 21:20:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Super Micro Rallies on Strong AI Data Center Sales Outlook | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/super-micro-rallies-on-ai-outlook-closing-bell-video",
+        "published": "Tue, 03 Nov 2026 21:19:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Schneider Electric Coalition Spotlight",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/schneider-electric-coalition-spotlight-video",
+        "published": "Tue, 03 Nov 2026 21:18:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Black Forest Lab on AI’s Next Phase",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/black-forest-lab-on-ai-s-next-phase-video",
+        "published": "Tue, 03 Nov 2026 21:03:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The Big AI Stock Selloff Is Happening at a Bad Time",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-03/the-big-ai-stock-selloff-is-happening-at-a-bad-time",
+        "published": "Tue, 03 Nov 2026 20:57:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Far Left Could Force Jeffries to Work With GOP, Says Sarah Chamberlain",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/dsa-could-force-jeffries-to-work-with-gop-chamberlain-video",
+        "published": "Tue, 03 Nov 2026 20:42:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oasis Drops Board Nominees in Vail Resorts Proxy Battle",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/oasis-drops-board-nominees-in-vail-resorts-proxy-battle-video",
+        "published": "Tue, 03 Nov 2026 20:15:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Nov. 3",
         "link": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
         "published": "Mon, 02 Nov 2026 23:01:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Major Hedge Funds Mostly Lose in ‘Nowhere to Hide’ October",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/major-hedge-funds-mostly-lose-in-nowhere-to-hide-october",
-        "published": "Tue, 03 Nov 2026 11:40:08 GMT"
+        "title": "Canadian Oil at Widest Discount to US Prices Since 2018",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/canadian-oil-at-widest-discount-to-us-prices-since-2018",
+        "published": "Tue, 03 Nov 2026 20:12:11 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "NJ Governor Warns Ports Against Russian Diesel Allowed by Trump",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/nj-governor-warns-ports-against-russian-diesel-allowed-by-trump",
-        "published": "Tue, 03 Nov 2026 14:56:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "A Luxury Cruise Exposes the Fuel Divide",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-03/opinion-a-luxury-cruise-exposes-the-fuel-divide-video",
-        "published": "Tue, 03 Nov 2026 14:50:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "NextEra Offers New Safeguards for $67 Billion Dominion Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/nextera-agrees-to-more-safeguards-for-67-billion-dominion-deal",
-        "published": "Tue, 03 Nov 2026 12:24:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Disney Targets 20% Cost Savings in Thousands of Layoffs",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-03/disney-targets-20-cost-savings-in-thousands-of-layoffs-video",
-        "published": "Tue, 03 Nov 2026 14:38:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AMD Needs a Huge Outlook to Avoid Intel’s Fate as AI Fears Rise",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/amd-needs-a-huge-outlook-to-avoid-intel-s-fate-as-ai-fears-rise",
-        "published": "Tue, 03 Nov 2026 11:43:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "NSE Profit Rises in First Earnings Since September Listing",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/nse-profit-rises-in-first-earnings-since-september-listing",
-        "published": "Tue, 03 Nov 2026 12:25:23 GMT"
+        "title": "Marvell to Acquire Lumentum in Historic $115B Tech Deal",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/marvell-to-acquire-lumentum-in-historic-115b-tech-deal-video",
+        "published": "Tue, 03 Nov 2026 20:12:07 GMT"
       }
     ],
     "onvista – News": [
