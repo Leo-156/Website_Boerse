@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-03T22:23:38.294930+00:00",
+  "updated_at": "2026-11-04T02:28:35.190606+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Milliarden-Hack: Hacker nutzten fingiertes Vorstellungsgespräch für Attacke auf Binance",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/milliarden-hack-hacker-nutzten-fingiertes-vorstellungsgespraech-fuer-attacke-auf-binance/100267116.html",
+        "published": "Tue, 03 Nov 2026 23:18:36 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "US-Börsen: Wall Street schließt vor Wahlnacht uneinheitlich – Tech-Werte stabilisieren sich",
@@ -115,15 +121,81 @@
         "title": "Börse am 3. November: Sechs Punkte, die für Anleger heute wichtig sind",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "published": "Tue, 03 Nov 2026 05:20:06 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Aktien: Der S&P 500 ist nicht mehr überbewertet – wie kann das sein?",
-        "link": "https://www.handelsblatt.com/finanzen/aktien-der-sp-500-ist-nicht-mehr-ueberbewertet-wie-kann-das-sein/100264298.html",
-        "published": "Tue, 03 Nov 2026 03:08:48 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries Rise as Traders React to Democrat Lead in First Votes",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
+        "published": "Wed, 04 Nov 2026 01:00:49 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Drop With Dollar on Rising Blue-Wave Bets: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 03 Nov 2026 22:20:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Drop as Democrats Gain Early Momentum in Vote",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results",
+        "published": "Wed, 04 Nov 2026 00:01:14 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Nov. 4",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
+        "published": "Tue, 03 Nov 2026 23:08:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "UOB Shares Tumble as Profit Misses Analysts’ Expectations",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains",
+        "published": "Tue, 03 Nov 2026 23:14:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India’s Middle Class Spending Boom Comes With Growing Debt Bill",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/india-s-middle-class-spending-boom-comes-with-growing-debt-bill",
+        "published": "Wed, 04 Nov 2026 01:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Live: Two Sigma, Top Money Managers Speak at HK Investment Summit Day 2",
+        "link": "https://www.bloomberg.com/news/live-blog/2026-11-04/hkma-investment-summit-day-2",
+        "published": "Wed, 04 Nov 2026 00:26:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Steadies as Traders Track Iran Talk Prospects, US Midterms",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/gold-steadies-as-traders-track-iran-talk-prospects-us-midterms",
+        "published": "Wed, 04 Nov 2026 00:24:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AMLO’s Son Denies Graft Charges Ahead of Mexico Congress Run",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/amlo-s-son-denies-crime-allegations-ahead-of-mexico-congress-run",
+        "published": "Tue, 03 Nov 2026 18:16:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hong Kong Deal Boom Slows With Most IPOs Abandoned Since 2008",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-deal-boom-slows-with-most-ipos-abandoned-since-2008",
+        "published": "Tue, 03 Nov 2026 23:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "New Zealand Jobless Rises to 11-Year High as Election Looms",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/new-zealand-jobless-rises-to-11-year-high-as-election-looms",
+        "published": "Tue, 03 Nov 2026 21:50:39 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Dorsey’s Block Details Bigger DOJ Settlement, Sunnier Guide",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/jack-dorsey-s-block-modestly-beats-third-quarter-expectations",
+        "published": "Tue, 03 Nov 2026 21:20:03 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Bedrock CEO on Future of Detroit Real Estate",
@@ -156,12 +228,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "New Zealand Jobless Rises to 11-Year High as Election Looms",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/new-zealand-jobless-rises-to-11-year-high-as-election-looms",
-        "published": "Tue, 03 Nov 2026 21:50:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Trading on US Stock Perpetuals Contracts Is Approved by CFTC",
         "link": "https://www.bloomberg.com/news/articles/2026-11-03/trading-on-us-stock-perpetuals-contracts-is-approved-by-cftc",
         "published": "Tue, 03 Nov 2026 15:50:06 GMT"
@@ -177,72 +243,6 @@
         "title": "Chip Stocks Rally as Bonds Fall on US Election Day: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
         "published": "Mon, 02 Nov 2026 22:25:14 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tech Stocks Drive S&P 500 Higher With Midterm Vote Underway",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook",
-        "published": "Tue, 03 Nov 2026 13:15:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Jack Dorsey’s Block Modestly Beats Third-Quarter Expectations",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/jack-dorsey-s-block-modestly-beats-third-quarter-expectations",
-        "published": "Tue, 03 Nov 2026 21:20:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Super Micro Rallies on Strong AI Data Center Sales Outlook | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-03/super-micro-rallies-on-ai-outlook-closing-bell-video",
-        "published": "Tue, 03 Nov 2026 21:19:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Schneider Electric Coalition Spotlight",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-03/schneider-electric-coalition-spotlight-video",
-        "published": "Tue, 03 Nov 2026 21:18:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Black Forest Lab on AI’s Next Phase",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-03/black-forest-lab-on-ai-s-next-phase-video",
-        "published": "Tue, 03 Nov 2026 21:03:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Big AI Stock Selloff Is Happening at a Bad Time",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-03/the-big-ai-stock-selloff-is-happening-at-a-bad-time",
-        "published": "Tue, 03 Nov 2026 20:57:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Far Left Could Force Jeffries to Work With GOP, Says Sarah Chamberlain",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-03/dsa-could-force-jeffries-to-work-with-gop-chamberlain-video",
-        "published": "Tue, 03 Nov 2026 20:42:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Oasis Drops Board Nominees in Vail Resorts Proxy Battle",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-03/oasis-drops-board-nominees-in-vail-resorts-proxy-battle-video",
-        "published": "Tue, 03 Nov 2026 20:15:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Nov. 3",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
-        "published": "Mon, 02 Nov 2026 23:01:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Canadian Oil at Widest Discount to US Prices Since 2018",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/canadian-oil-at-widest-discount-to-us-prices-since-2018",
-        "published": "Tue, 03 Nov 2026 20:12:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Marvell to Acquire Lumentum in Historic $115B Tech Deal",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-03/marvell-to-acquire-lumentum-in-historic-115b-tech-deal-video",
-        "published": "Tue, 03 Nov 2026 20:12:07 GMT"
       }
     ],
     "onvista – News": [
