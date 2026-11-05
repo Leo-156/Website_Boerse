@@ -1,24 +1,102 @@
 {
-  "updated_at": "2026-11-05T09:57:03.549113+00:00",
+  "updated_at": "2026-11-05T17:46:21.455933+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax steigt auf neuen Rekord – Drei Treiber für den Leitindex",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-steigt-auf-neuen-rekord-drei-treiber-fuer-den-leitindex/100267493.html",
-        "published": "Thu, 05 Nov 2026 08:53:44 GMT"
+        "title": "Musterdepot – Dynamik: Amazon und Alphabet werden derzeit falsch bewertet",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-amazon-und-alphabet-werden-derzeit-falsch-bewertet/100267490.html",
+        "published": "Thu, 05 Nov 2026 16:58:02 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax-Rekord: Warum deutsche Aktien besonders deutlich von den Midterms profitieren",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/dax-rekord-warum-deutsche-aktien-besonders-stark-von-den-midterms-profitieren/100267495.html",
+        "published": "Thu, 05 Nov 2026 16:57:17 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Alphabet, Alstom und jetzt auch Rheinmetall – was hinter den Kurseinbrüchen steckt",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-alphabet-alstom-rheinmetall-was-hinter-den-kursstuerzen-steckt/100266666.html",
+        "published": "Thu, 05 Nov 2026 16:54:23 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt nach US-Börseneinbruch im Minus – Chipaktien verlieren teils zweistellig",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-nach-us-boerseneinbruch-im-minus/100267493.html",
+        "published": "Thu, 05 Nov 2026 16:53:13 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: Nasdaq bricht in der Spitze um mehr als fünf Prozent ein – Anleger stellen sich auf Politikwechsel ein",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-notiert-in-der-spitze-mehr-als-fuenf-prozent-im-minus/100267625.html",
+        "published": "Thu, 05 Nov 2026 15:41:54 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Steuererklärung: Bonus bekommen? So sparen Prämierte auch noch Steuern",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-so-vermeiden-beschaeftigte-steuern-auf-ihren-jahresbonus/100003952.html",
+        "published": "Thu, 05 Nov 2026 14:45:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-diese-steuervorteile-bieten-neubauten-fuer-gutverdiener/100193212.html",
+        "published": "Thu, 05 Nov 2026 14:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: „Verdacht von Korruptionsstraftaten“: Behörden durchsuchen Bayerische Versorgungskammer",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/immobilien-behoerden-durchsuchen-bayerische-versorgungskammer/100267516.html",
+        "published": "Thu, 05 Nov 2026 13:58:57 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldinstitut: Harter Wettbewerb um Spareinlagen setzt Commerzbank zu – Aktie unter Druck",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/commerzbank-harter-wettbewerb-um-einlagen-setzt-institut-zu/100266237.html",
+        "published": "Thu, 05 Nov 2026 13:44:34 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Bank of England: Britische Notenbank hebt Zinsen erstmals seit drei Jahren an – auf 4,0 Prozent",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/bank-of-england-britische-notenbank-hebt-zinsen-erstmals-seit-drei-jahren-an/100266567.html",
+        "published": "Thu, 05 Nov 2026 13:27:49 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Vermögen: Risiko Pflegeheim – wann Sie für Ihre Eltern zahlen müssen",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-wann-kinder-fuer-die-pflege-ihrer-eltern-zahlen-muessen/100246311.html",
+        "published": "Thu, 05 Nov 2026 12:40:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "M&A-Experte: Dealmaker geht zur US-Investmentbank: Lazard holt Lukas Poensgen von der Bank of America",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/investmentbanking-lazard-holt-dealmaker-lukas-poensgen-von-der-bofa/100267499.html",
+        "published": "Thu, 05 Nov 2026 11:22:17 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Altersvorsorge: Wie sich der Riester-Nachfolger für Gutverdiener lohnen kann",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-diese-steuerregeln-sollten-sparer-beim-altersvorsorgedepot-kennen/100222434.html",
+        "published": "Thu, 05 Nov 2026 11:17:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Möglicher Börsengang: Aareal Bank prüft Optionen für die Zukunft",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/moeglicher-boersengang-aareal-bank-prueft-optionen-fuer-die-zukunft/100267535.html",
+        "published": "Thu, 05 Nov 2026 09:58:39 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geld. Leben. Looman.: Sie ist Zahnärztin, er Anwalt: Wenn sie sich kein Haus mehr leisten können – wer dann?",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/immobilien-wenn-sich-gutverdiener-kein-haus-mehr-leisten-koennen/100266881.html",
+        "published": "Thu, 05 Nov 2026 09:55:29 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Ranking 2026: Diese Krankenkassen bieten ihren Versicherten die besten Zusatzleistungen",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/krankenversicherung-diese-krankenkassen-bieten-die-besten-zusatzleistungen/100246780.html",
         "published": "Thu, 05 Nov 2026 08:50:49 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldinstitut: Commerzbank baut Gewinn vor Übernahme durch Unicredit aus – senkt aber eine wichtige Prognose",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/commerzbank-geldinstitut-baut-gewinn-vor-uebernahme-durch-unicredit-aus/100266237.html",
-        "published": "Thu, 05 Nov 2026 08:47:19 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -43,129 +121,9 @@
         "title": "Börse am 5. November: Sieben Punkte, die für Anleger heute wichtig sind",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "published": "Thu, 05 Nov 2026 05:30:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Kaufpreise für Wohnungen sinken erstmals seit mehr als zwei Jahren",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-kaufpreise-fuer-wohnungen-sinken-erstmals-seit-mehr-als-zwei-jahren/100267271.html",
-        "published": "Thu, 05 Nov 2026 03:09:15 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Versicherung: Allianz Commercial will bei Spezialversicherungen zulegen",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-allianz-commercial-will-bei-spezialversicherungen-zulegen/100266662.html",
-        "published": "Wed, 04 Nov 2026 23:01:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "KI: Coreweave fällt, Amazon gewinnt: Wie die Midterms den KI-Sektor spalten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/ki-coreweave-faellt-amazon-gewinnt-midterms-spalten-ki-konzerne/100267383.html",
-        "published": "Wed, 04 Nov 2026 21:41:09 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börsen: Midterms lösen Erholungsrally in den USA aus – KI-Aktien fallen trotzdem",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boersen-midterms-loesen-erholungsrally-aus-dow-steigt-mehr-als-1500-punkte/100265439.html",
-        "published": "Wed, 04 Nov 2026 20:37:37 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Rally an der Wall Street – US-Börsen schließen deutlich im Plus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-rally-an-der-wall-street-us-boersen-schliessen-deutlich-im-plus/100267318.html",
-        "published": "Wed, 04 Nov 2026 20:27:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Deep Read: Zwei Häftlinge, eine Scheinwohnung und ein PwC-Legal-Anwalt",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/knasttourismus-zwei-haeftlinge-eine-scheinwohnung-und-ein-pwc-legal-anwalt/100266639.html",
-        "published": "Wed, 04 Nov 2026 19:27:59 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Gericht sieht Fluchtgefahr – Uwe Reppegather bleibt in Haft",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-gericht-sieht-fluchtgefahr-uwe-reppegather-bleibt-in-haft/100267377.html",
-        "published": "Wed, 04 Nov 2026 18:24:22 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax beendet Handel deutlich über 26.000-Punkte-Marke – Ölpreis fällt",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-beendet-handel-deutlich-ueber-26.000-punkte-marke/100267175.html",
-        "published": "Wed, 04 Nov 2026 17:04:54 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Midterms: Warum der andere Verlierer der Zwischenwahlen Elon Musk heißt",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-warum-der-andere-verlierer-der-midterms-elon-musk-heisst/100266665.html",
-        "published": "Wed, 04 Nov 2026 16:24:10 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Milliardenrisiko? Die Krise der Immobilienfonds spitzt sich zu",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-milliardenrisiko-die-krise-der-immobilienfonds-spitzt-sich-zu/100265249.html",
-        "published": "Wed, 04 Nov 2026 15:49:34 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Passives Einkommen mit Anleihen: Mit diesen ETFs bekommen Sie acht Mal im Jahr Zinsen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-so-erzielen-sie-mit-etfs-auf-firmenbonds-ein-zusaetzliches-einkommen/100229874.html",
-        "published": "Wed, 04 Nov 2026 14:31:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-meine-wichtigsten-erkenntnisse-als-etf-einsteiger/100184984.html",
-        "published": "Wed, 04 Nov 2026 13:09:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Steuern: Diese Nebenkosten können Mieter absetzen – die Grundsteuer nicht",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-diese-nebenkosten-koennen-mieter-absetzen-die-grundsteuer-nicht/100265061.html",
-        "published": "Wed, 04 Nov 2026 13:07:52 GMT"
       }
     ],
     "Bloomberg – Markets": [
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 04 Nov 2026 22:15:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Renee Montgomery’s Move From Player to Owner",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-05/renee-montgomery-s-move-from-player-to-owner-video",
-        "published": "Thu, 05 Nov 2026 09:00:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Odd Lots: What Comes Next After Lula’s Big Win (Podcast)",
-        "link": "https://www.bloomberg.com/news/audio/2026-11-05/odd-lots-what-comes-next-after-lula-s-big-win-podcast",
-        "published": "Thu, 05 Nov 2026 09:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rheinmetall Cuts 2026 Sales Guidance, Shares Plunge",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-05/rheinmetall-cuts-2026-sales-guidance-shares-plunge-video",
-        "published": "Thu, 05 Nov 2026 08:55:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "European Stocks Hit Fresh Record as AI Unwind Boosts Region",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
-        "published": "Thu, 05 Nov 2026 08:09:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai",
-        "published": "Thu, 05 Nov 2026 03:35:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Air France-KLM Deepens Dutch Airline Overhaul; Stock Surges",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/air-france-klm-to-deepen-dutch-airline-overhaul-amid-high-costs",
-        "published": "Thu, 05 Nov 2026 07:00:00 GMT"
-      },
       {
         "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Nov. 5",
@@ -174,78 +132,144 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China’s Copper Squeeze Deepens as Buyers Scramble For Metal",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/china-s-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal",
-        "published": "Thu, 05 Nov 2026 02:30:00 GMT"
+        "title": "Webull to Pay $4.2 Million Finra Fine Over Compliance Issues",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/webull-to-pay-4-2-million-finra-fine-over-compliance-issues",
+        "published": "Thu, 05 Nov 2026 17:16:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BOE Set to Hike Rates for First Time in Three Years",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-05/boe-set-to-hike-rates-for-first-time-three-years-video",
-        "published": "Thu, 05 Nov 2026 07:50:30 GMT"
+        "title": "US Stocks Plunge as Democrat Sweep Sparks AI Exposure Worries",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
+        "published": "Thu, 05 Nov 2026 12:54:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BOE Decision Day: With a Hike Baked in Traders Look to December",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-05/boe-decision-day-with-a-hike-baked-in-traders-look-to-december",
-        "published": "Thu, 05 Nov 2026 07:45:03 GMT"
+        "title": "FBI Arrests Mexican Judge Linked to Drug Probe of Ex-Olympian",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/fbi-arrests-mexican-judge-implicated-in-drug-trafficking-probe",
+        "published": "Thu, 05 Nov 2026 17:04:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Philippine October Inflation Accelerates 7.8%, Close to Four-Year High",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/philippine-october-inflation-accelerates-7-8-close-to-four-year-high",
-        "published": "Thu, 05 Nov 2026 00:05:46 GMT"
+        "title": "Nasdaq 100 Sinks 5% as Chipmaker Selloff Deepens: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
+        "published": "Wed, 04 Nov 2026 22:15:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-05/insight-with-haslinda-amin-11-5-2026-video",
-        "published": "Thu, 05 Nov 2026 07:32:55 GMT"
+        "title": "Carlyle Shares Slump On Bigger-Than-Expected Drop in Fees",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/carlyle-beats-as-deal-exits-mitigate-dip-in-fee-related-earnings",
+        "published": "Thu, 05 Nov 2026 11:01:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Commerzbank in 'Position of Strength' Ahead of UniCredit Deal, CEO Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-05/commerzbank-in-position-of-strength-ahead-of-deal-ceo-video",
-        "published": "Thu, 05 Nov 2026 07:31:20 GMT"
+        "title": "Qatar in Talks to Buy More US LNG, Diversify Supply Outside Persian Gulf",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/qatar-in-talks-to-buy-more-us-lng-diversify-supply-outside-persian-gulf",
+        "published": "Thu, 05 Nov 2026 16:56:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Yardeni: Yields Attractive at 5%; Nasdaq to Outperform",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-05/yardeni-yields-attractive-at-5-nasdaq-to-outperform-video",
-        "published": "Thu, 05 Nov 2026 07:16:56 GMT"
+        "title": "European Stocks Reverse Gains as Tech Rout Builds, Defense Drops",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
+        "published": "Thu, 05 Nov 2026 08:09:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Indonesia Deploys Troops Amid Wiretapping Scandal",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-05/indonesia-deploys-troops-amid-wiretapping-scandal-video",
-        "published": "Thu, 05 Nov 2026 07:16:45 GMT"
+        "title": "Post-Election Rally Cools on Growing Pressure for AI Buildout",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/bloomberg-surveillance-11-5-2026-video",
+        "published": "Thu, 05 Nov 2026 16:43:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-05/the-china-show-11-05-2026-video",
-        "published": "Thu, 05 Nov 2026 07:16:38 GMT"
+        "title": "Duke Energy's Data Center Bet",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/duke-energy-s-data-center-bet-video",
+        "published": "Thu, 05 Nov 2026 16:41:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Emirates Profit Drops 66% as Iran War, High Oil Prices Hit Dubai Airline",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/emirates-profit-drops-66-as-iran-war-high-oil-prices-hit-dubai-airline",
-        "published": "Thu, 05 Nov 2026 07:15:48 GMT"
+        "title": "The Data Center Fight Is Just Beginning",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/opinion-the-data-center-fight-is-just-beginning-video",
+        "published": "Thu, 05 Nov 2026 16:28:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Canada’s Avenir Global Acquires Marker Collective, Adding Nvidia, Meta Clients",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/canada-s-avenir-global-acquires-marker-collective-adding-nvidia-meta-clients",
-        "published": "Thu, 05 Nov 2026 07:01:00 GMT"
+        "title": "US Companies Announce Fewest October Job Cuts in Three Years",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/us-companies-announce-fewest-october-job-cuts-in-3-years-video",
+        "published": "Thu, 05 Nov 2026 16:19:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Hormuz Diplomacy Gains Ground as Trump Plays Down New Iran Strikes",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-05/horizons-middle-east-africa-11-5-2026-video",
-        "published": "Thu, 05 Nov 2026 06:58:28 GMT"
+        "title": "More Americans Are Relying on Inheritance to Buy First Home",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/more-americans-are-relying-on-inheritance-to-buy-first-home",
+        "published": "Thu, 05 Nov 2026 15:59:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Pares Gains as Tech Rout Prompts Investors to Cut Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result",
+        "published": "Wed, 04 Nov 2026 23:58:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Cocoa Falls to One-Month Low as Warehouse Stockpiles Rise",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/cocoa-falls-to-one-month-low-as-warehouse-stockpiles-rise",
+        "published": "Thu, 05 Nov 2026 13:08:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SpaceX Default Risk Hits Fresh Peak as Tech-Led Selloff Builds",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/spacex-default-risk-hits-fresh-peak-as-tech-led-selloff-builds",
+        "published": "Thu, 05 Nov 2026 15:48:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed’s Hammack Says Restrictive Rates Needed to Cool Prices",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/fed-s-hammack-says-restrictive-rates-needed-to-cool-inflation",
+        "published": "Thu, 05 Nov 2026 13:50:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "JBS e bancos são alvo de queixas na Europa por desmatamento",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/jbs-e-bancos-sao-alvo-de-queixas-por-desmatamento-video",
+        "published": "Thu, 05 Nov 2026 15:31:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "September Fed Rate Hike Was a Mistake, Miran Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/september-fed-rate-hike-was-a-mistake-miran-says-video",
+        "published": "Thu, 05 Nov 2026 15:08:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "RBC Hires Gaut From Mizuho to Head Strategic Equity Dealmaking",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/rbc-hires-gaut-from-mizuho-to-head-strategic-equity-dealmaking",
+        "published": "Thu, 05 Nov 2026 14:49:57 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax nach Rekord im Minus: KI-Sorgen und Rheinmetall belasten",
+        "link": "https://www.onvista.de/news/2026/11-05-dax-nach-rekord-im-minus-ki-sorgen-und-rheinmetall-belasten-41121301-19-26573123",
+        "published": "Thu, 05 Nov 2026 17:50:32 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Rheinmetall senkt Prognose – App Lovin glänzt",
+        "link": "https://www.onvista.de/news/2026/11-05-rheinmetall-senkt-prognose-app-lovin-glaenzt-40338625-19-26572916",
+        "published": "Thu, 05 Nov 2026 12:52:52 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Nach Kurssturz: Wie günstig Alphabet jetzt wirklich ist",
+        "link": "https://www.onvista.de/news/2026/11-05-nach-kurssturz-wie-guenstig-alphabet-jetzt-wirklich-ist-41122522-19-26572482",
+        "published": "Thu, 05 Nov 2026 11:56:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Neues Dax-Allzeithoch: Welche Kurse nun möglich sind",
+        "link": "https://www.onvista.de/news/2026/11-05-neues-dax-allzeithoch-welche-kurse-nun-moeglich-sind-41123281-19-26572848",
+        "published": "Thu, 05 Nov 2026 10:55:01 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Dax steigt auf Rekord - Rheinmetall verliert 17 Prozent",
@@ -344,7 +368,7 @@
       },
       {
         "source": "onvista – News",
-        "title": "Warum Anthropic ein besserer IPO als SpaceX wird",
+        "title": "Zeichnen oder nicht? Unser Votum zur Anthropic-Aktie",
         "link": "https://www.onvista.de/news/2026/11-04-warum-anthropic-ein-besserer-ipo-als-spacex-wird-41122522-19-26571824",
         "published": "Wed, 04 Nov 2026 15:00:00 +0100"
       },
@@ -371,30 +395,6 @@
         "title": "Dax dreht ins Plus – Quartalssaison weckt Kaufinteresse",
         "link": "https://www.onvista.de/news/2026/11-04-dax-dreht-ins-plus-quartalssaison-weckt-kaufinteresse-41121301-19-26572253",
         "published": "Wed, 04 Nov 2026 09:57:01 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Nach US-Zwischenwahlen: Dax im Minus erwartet",
-        "link": "https://www.onvista.de/news/2026/11-04-nach-us-zwischenwahlen-dax-im-minus-erwartet-41121301-19-26572137",
-        "published": "Wed, 04 Nov 2026 07:45:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 04.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-04-finanzberichte-heute-04-11-2026-41121301-19-26572107",
-        "published": "Wed, 04 Nov 2026 06:10:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  04.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-04-dividendenalarm-heute-04-11-2026-41121301-19-26572106",
-        "published": "Wed, 04 Nov 2026 06:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Deutsche Aktien schließen moderat tiefer - Teamviewer bricht ein",
-        "link": "https://www.onvista.de/news/2026/11-03-deutsche-aktien-schliessen-moderat-tiefer-teamviewer-bricht-ein-41121301-19-26571955",
-        "published": "Tue, 03 Nov 2026 17:55:01 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -462,15 +462,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html",
-        "published": "Wed, 04 Nov 2026 14:11:29 +0100"
+        "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html",
+        "published": "Thu, 05 Nov 2026 14:18:40 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
         "title": "Marktbericht: DAX springt auf Rekordhoch",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
-        "published": "Thu, 05 Nov 2026 10:20:01 +0100"
+        "published": "Thu, 05 Nov 2026 18:16:27 +0100"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html",
+        "published": "Wed, 04 Nov 2026 14:11:29 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Wie es mit der Commerzbank nun weitergeht",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
         "published": "Fri, 16 Oct 2026 16:25:09 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html",
-        "published": "Fri, 16 Oct 2026 14:17:39 +0200"
       }
     ]
   }
