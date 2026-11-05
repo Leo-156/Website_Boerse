@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-05T02:55:14.327342+00:00",
+  "updated_at": "2026-11-05T09:57:03.549113+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax steigt auf neuen Rekord – Drei Treiber für den Leitindex",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-steigt-auf-neuen-rekord-drei-treiber-fuer-den-leitindex/100267493.html",
+        "published": "Thu, 05 Nov 2026 08:53:44 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Ranking 2026: Diese Krankenkassen bieten ihren Versicherten die besten Zusatzleistungen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/krankenversicherung-diese-krankenkassen-bieten-die-besten-zusatzleistungen/100246780.html",
+        "published": "Thu, 05 Nov 2026 08:50:49 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldinstitut: Commerzbank baut Gewinn vor Übernahme durch Unicredit aus – senkt aber eine wichtige Prognose",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/commerzbank-geldinstitut-baut-gewinn-vor-uebernahme-durch-unicredit-aus/100266237.html",
+        "published": "Thu, 05 Nov 2026 08:47:19 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Yen, Hang Seng: Anleger schichten um – Auch in Asien brechen KI-Werte ein",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-anleger-schichten-um-auch-in-asien-brechen-ki-werte-ein/100267457.html",
+        "published": "Thu, 05 Nov 2026 08:22:55 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Anleihen: Hyperscaler fluten den Bondmarkt – und zahlen dafür viel",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-hyperscaler-fluten-den-bondmarkt-und-zahlen-dafuer-viel/100267193.html",
+        "published": "Thu, 05 Nov 2026 08:00:32 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Investoren: Exklusiv: Die Stimmung der Wagniskapitalgeber steigt wieder",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/investoren-die-stimmung-der-wagniskapitalgeber-steigt-wieder/100266897.html",
+        "published": "Thu, 05 Nov 2026 08:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 5. November: Sieben Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Thu, 05 Nov 2026 05:30:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Kaufpreise für Wohnungen sinken erstmals seit mehr als zwei Jahren",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-kaufpreise-fuer-wohnungen-sinken-erstmals-seit-mehr-als-zwei-jahren/100267271.html",
+        "published": "Thu, 05 Nov 2026 03:09:15 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Versicherung: Allianz Commercial will bei Spezialversicherungen zulegen",
@@ -10,8 +58,8 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Silicon Valley: CoreWeave fällt, Amazon gewinnt – Wie die Midterms den KI-Sektor spalten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/silicon-valley-coreweave-faellt-amazon-gewinnt-midterms-spalten-ki-konzerne/100267383.html",
+        "title": "KI: Coreweave fällt, Amazon gewinnt: Wie die Midterms den KI-Sektor spalten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/ki-coreweave-faellt-amazon-gewinnt-midterms-spalten-ki-konzerne/100267383.html",
         "published": "Wed, 04 Nov 2026 21:41:09 GMT"
       },
       {
@@ -22,8 +70,8 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Dow Jones schließt drei Prozent höher",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-dow-jones-schliesst-drei-prozent-hoeher/100267318.html",
+        "title": "US-Börsen: Rally an der Wall Street – US-Börsen schließen deutlich im Plus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-rally-an-der-wall-street-us-boersen-schliessen-deutlich-im-plus/100267318.html",
         "published": "Wed, 04 Nov 2026 20:27:00 GMT"
       },
       {
@@ -64,12 +112,6 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Anleihen: Hyperscaler fluten den Bondmarkt – und zahlen dafür viel",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-hyperscaler-fluten-den-bondmarkt-und-zahlen-dafuer-viel/100267193.html",
-        "published": "Wed, 04 Nov 2026 14:21:19 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-meine-wichtigsten-erkenntnisse-als-etf-einsteiger/100184984.html",
         "published": "Wed, 04 Nov 2026 13:09:00 GMT"
@@ -79,110 +121,50 @@
         "title": "Steuern: Diese Nebenkosten können Mieter absetzen – die Grundsteuer nicht",
         "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-diese-nebenkosten-koennen-mieter-absetzen-die-grundsteuer-nicht/100265061.html",
         "published": "Wed, 04 Nov 2026 13:07:52 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wagniskapital: Citi Ventures beteiligt sich an Berliner Karten-Fintech Pliant",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/wagniskapital-citi-ventures-beteiligt-sich-an-berliner-karten-fintech-pliant/100266857.html",
-        "published": "Wed, 04 Nov 2026 13:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "EZB: Lagarde warnt: „Kosten des Klimawandels steigen und Schocks lassen sich womöglich schwerer abfedern“",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-lagarde-warnt-kosten-des-klimawandels-steigen/100267277.html",
-        "published": "Wed, 04 Nov 2026 12:34:59 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Versorgungswerke: Fahnder durchsuchen Deutsche Finance, Manager unter Schmiergeldverdacht",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versorgungswerke-fahnder-durchsuchen-deutsche-finance/100267213.html",
-        "published": "Wed, 04 Nov 2026 12:11:37 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldpolitik: Inflation erreicht vier Prozent – Weitere Zinserhöhung der EZB wird wahrscheinlicher",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-im-euro-raum-erreicht-die-vier-prozent-marke/100263504.html",
-        "published": "Wed, 04 Nov 2026 11:27:25 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "EZB: Nachfolge für Lagarde: Niederlande nominieren Ex-Notenbankchef Knot für EZB-Chefposten",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/ezb-niederlande-nominieren-ex-notenbankchef-knot-fuer-ezb-chefposten/100267253.html",
-        "published": "Wed, 04 Nov 2026 10:35:31 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "FIRE: „Wer finanziell unabhängig wird, gerät oft in eine Existenzkrise“",
-        "link": "https://www.handelsblatt.com/finanzen/vorsorge/vermoegen-wer-aus-dem-konsumzyklus-aussteigt-gewinnt-so-viel-freiheit/100149007.html",
-        "published": "Wed, 04 Nov 2026 10:12:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Vonovia unter Druck – droht nun eine Kürzung der Dividende?",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-vonovia-unter-druck-droht-nun-eine-kuerzung-der-dividende/100265173.html",
-        "published": "Wed, 04 Nov 2026 09:05:53 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Extends Rebound Above $4,100 as Dollar and Yields Decline",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result",
-        "published": "Wed, 04 Nov 2026 23:58:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Trading Desks Bet on US Stock Rally After Midterms",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-trading-desks-bet-on-us-stock-rally-after-midterms",
-        "published": "Wed, 04 Nov 2026 22:02:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nifty Bounces Back to Beat All of Asia on Foreign Flows, Earnings",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-05/nifty-bounces-back-to-beat-all-of-asia-on-foreign-flows-earnings",
-        "published": "Thu, 05 Nov 2026 02:30:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China’s Copper Squeeze Deepens as Buyers Scramble for Spot Metal",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/china-s-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal",
-        "published": "Thu, 05 Nov 2026 02:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Blue Wave Stock Rotation Sinks Asian Chipmakers, Boosts Autos",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/blue-wave-stock-rotation-sinks-asian-chipmakers-boosts-autos",
-        "published": "Thu, 05 Nov 2026 01:45:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Asian Chip Shares Drop After US Vote, Bonds Rise: Markets Wrap",
+        "title": "Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
         "published": "Wed, 04 Nov 2026 22:15:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China’s $3 Trillion Rout Leaves Retail Traders Feeling Duped",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/china-tech-frenzy-turns-into-year-of-dismay-for-retail-traders",
-        "published": "Thu, 05 Nov 2026 00:00:00 GMT"
+        "title": "Renee Montgomery’s Move From Player to Owner",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/renee-montgomery-s-move-from-player-to-owner-video",
+        "published": "Thu, 05 Nov 2026 09:00:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Des Bishop on China's Comedy Boom and Censorship",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-05/des-bishop-on-china-s-comedy-boom-and-censorship-video",
-        "published": "Thu, 05 Nov 2026 01:53:55 GMT"
+        "title": "Odd Lots: What Comes Next After Lula’s Big Win (Podcast)",
+        "link": "https://www.bloomberg.com/news/audio/2026-11-05/odd-lots-what-comes-next-after-lula-s-big-win-podcast",
+        "published": "Thu, 05 Nov 2026 09:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Kiwi Slide Haunts New Zealand Parties Ahead of Tight Vote",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/kiwi-slide-haunts-new-zealand-s-main-parties-ahead-of-tight-vote",
-        "published": "Wed, 04 Nov 2026 18:00:00 GMT"
+        "title": "Rheinmetall Cuts 2026 Sales Guidance, Shares Plunge",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/rheinmetall-cuts-2026-sales-guidance-shares-plunge-video",
+        "published": "Thu, 05 Nov 2026 08:55:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "El Niño Pushes Asia Rice Prices to 2-Year High, Threatening Inflation",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/el-nino-pushes-asia-rice-prices-to-2-year-high-threatening-inflation",
-        "published": "Thu, 05 Nov 2026 01:51:53 GMT"
+        "title": "European Stocks Hit Fresh Record as AI Unwind Boosts Region",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
+        "published": "Thu, 05 Nov 2026 08:09:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai",
+        "published": "Thu, 05 Nov 2026 03:35:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Air France-KLM Deepens Dutch Airline Overhaul; Stock Surges",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/air-france-klm-to-deepen-dutch-airline-overhaul-amid-high-costs",
+        "published": "Thu, 05 Nov 2026 07:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -192,21 +174,21 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "DBS Profit Misses Estimates on Trading Drop, Names Lim Chair",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/dbs-profit-misses-estimates-on-trading-income-names-lim-chair",
-        "published": "Wed, 04 Nov 2026 22:52:52 GMT"
+        "title": "China’s Copper Squeeze Deepens as Buyers Scramble For Metal",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/china-s-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal",
+        "published": "Thu, 05 Nov 2026 02:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Australia Chain David Jones Collapses After Almost 200 Years",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years",
-        "published": "Wed, 04 Nov 2026 23:44:05 GMT"
+        "title": "BOE Set to Hike Rates for First Time in Three Years",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/boe-set-to-hike-rates-for-first-time-three-years-video",
+        "published": "Thu, 05 Nov 2026 07:50:30 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Korea to Introduce Cornerstone Lockups to Curb Post-IPO Selloffs",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs",
-        "published": "Thu, 05 Nov 2026 00:48:32 GMT"
+        "title": "BOE Decision Day: With a Hike Baked in Traders Look to December",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-05/boe-decision-day-with-a-hike-baked-in-traders-look-to-december",
+        "published": "Thu, 05 Nov 2026 07:45:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -216,36 +198,90 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Markets React as Trump Cools Iran Fears",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-04/asian-markets-react-as-trump-cools-iran-fears-video",
-        "published": "Wed, 04 Nov 2026 23:31:57 GMT"
+        "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/insight-with-haslinda-amin-11-5-2026-video",
+        "published": "Thu, 05 Nov 2026 07:32:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Tweaks Debt-Sale Guidance, Signals Auction Changes Ahead",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/us-revamps-debt-sales-guidance-opening-path-to-auction-changes",
-        "published": "Wed, 04 Nov 2026 13:34:13 GMT"
+        "title": "Commerzbank in 'Position of Strength' Ahead of UniCredit Deal, CEO Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/commerzbank-in-position-of-strength-ahead-of-deal-ceo-video",
+        "published": "Thu, 05 Nov 2026 07:31:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Malaysia Set to Hold Rates on Strong Growth, Signal Hike in 2027",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/malaysia-set-to-hold-rates-on-strong-growth-signal-hike-in-2027",
-        "published": "Wed, 04 Nov 2026 23:00:00 GMT"
+        "title": "Yardeni: Yields Attractive at 5%; Nasdaq to Outperform",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/yardeni-yields-attractive-at-5-nasdaq-to-outperform-video",
+        "published": "Thu, 05 Nov 2026 07:16:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Upbeat Earnings Bolster Case for India Stocks as Asia Wavers",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/upbeat-earnings-bolster-case-for-india-stocks-as-asia-wavers",
-        "published": "Wed, 04 Nov 2026 23:00:00 GMT"
+        "title": "Indonesia Deploys Troops Amid Wiretapping Scandal",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/indonesia-deploys-troops-amid-wiretapping-scandal-video",
+        "published": "Thu, 05 Nov 2026 07:16:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Election Night TV Viewers Rise With NBC in Lead, Fox Falling",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/election-night-tv-viewers-rise-with-nbc-in-the-lead-fox-falling",
-        "published": "Wed, 04 Nov 2026 22:03:01 GMT"
+        "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/the-china-show-11-05-2026-video",
+        "published": "Thu, 05 Nov 2026 07:16:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Emirates Profit Drops 66% as Iran War, High Oil Prices Hit Dubai Airline",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/emirates-profit-drops-66-as-iran-war-high-oil-prices-hit-dubai-airline",
+        "published": "Thu, 05 Nov 2026 07:15:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Canada’s Avenir Global Acquires Marker Collective, Adding Nvidia, Meta Clients",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/canada-s-avenir-global-acquires-marker-collective-adding-nvidia-meta-clients",
+        "published": "Thu, 05 Nov 2026 07:01:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hormuz Diplomacy Gains Ground as Trump Plays Down New Iran Strikes",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/horizons-middle-east-africa-11-5-2026-video",
+        "published": "Thu, 05 Nov 2026 06:58:28 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax steigt auf Rekord - Rheinmetall verliert 17 Prozent",
+        "link": "https://www.onvista.de/news/2026/11-05-dax-steigt-fast-auf-rekord-rheinmetall-verliert-17-prozent-41121301-19-26572760",
+        "published": "Thu, 05 Nov 2026 09:53:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "SMARTBROKER+: 80 € ETF-Bonus für Neukunden – so funktioniert die aktuelle Aktion",
+        "link": "https://www.onvista.de/news/2026/11-05-smartbroker-depot-mit-80-bonus-41122918-19-26479036",
+        "published": "Thu, 05 Nov 2026 09:42:27 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Tagesgeld im November 2026: Hier sind aktuell bis zu 4,5 Prozent Zinsen drin",
+        "link": "https://www.onvista.de/news/2026/11-05-tagesgeld-im-november-2026-hier-sind-aktuell-bis-zu-4-5-prozent-zinsen-drin-41122918-19-26498067",
+        "published": "Thu, 05 Nov 2026 09:38:38 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax steuert nach kräftigem Vortagesplus auf Rekord zu",
+        "link": "https://www.onvista.de/news/2026/11-05-dax-steuert-nach-kraeftigem-vortagesplus-auf-rekord-zu-41121301-19-26572693",
+        "published": "Thu, 05 Nov 2026 08:10:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 05.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-05-finanzberichte-heute-05-11-2026-41121301-19-26572611",
+        "published": "Thu, 05 Nov 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  05.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-05-dividendenalarm-heute-05-11-2026-41121301-19-26572609",
+        "published": "Thu, 05 Nov 2026 06:00:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Dax nähert sich nach US-Zwischenwahlen Rekord",
@@ -359,45 +395,15 @@
         "title": "Deutsche Aktien schließen moderat tiefer - Teamviewer bricht ein",
         "link": "https://www.onvista.de/news/2026/11-03-deutsche-aktien-schliessen-moderat-tiefer-teamviewer-bricht-ein-41121301-19-26571955",
         "published": "Tue, 03 Nov 2026 17:55:01 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Palantir: Das Rekordwachstum rechtfertigt die hohe Bewertung",
-        "link": "https://www.onvista.de/news/2026/11-03-palantir-das-rekordwachstum-rechtfertigt-die-hohe-bewertung-40338625-19-26571877",
-        "published": "Tue, 03 Nov 2026 17:35:46 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Nach Zalandos Kursrückgang werden 24 Euro interessant",
-        "link": "https://www.onvista.de/news/2026/11-03-nach-zalandos-kursrueckgang-werden-24-euro-interessant-40338625-19-26571866",
-        "published": "Tue, 03 Nov 2026 15:58:39 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Bayer: Höhere Prognose stützt den Kursanstieg",
-        "link": "https://www.onvista.de/news/2026/11-03-bayer-hoehere-prognose-stuetzt-den-kursanstieg-40338625-19-26571867",
-        "published": "Tue, 03 Nov 2026 15:54:28 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Marvells Lumentum-Übernahme vergrößert Kursverluste",
-        "link": "https://www.onvista.de/news/2026/11-03-marvells-lumentum-uebernahme-vergroessert-kursverluste-40338625-19-26571872",
-        "published": "Tue, 03 Nov 2026 15:52:16 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Aehr: Das starke Wachstum rechtfertigt die hohe Bewertung",
-        "link": "https://www.onvista.de/news/2026/11-03-aehr-das-starke-wachstum-rechtfertigt-die-hohe-bewertung-40338625-19-26571875",
-        "published": "Tue, 03 Nov 2026 15:49:51 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Tempus AI: Starkes Wachstum macht 115 Dollar zum Fernziel",
-        "link": "https://www.onvista.de/news/2026/11-03-tempus-ai-starkes-wachstum-macht-115-dollar-zum-fernziel-40338625-19-26571873",
-        "published": "Tue, 03 Nov 2026 15:46:52 +0100"
       }
     ],
     "Börse Frankfurt – News": [
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Rohstoffe: Hohe Zinsen lasten auf Goldpreis",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/rohstoffe-hohe-zinsen-lasten-auf-goldpreis",
+        "published": "Thu, 05 Nov 2026 07:27:55 GMT"
+      },
       {
         "source": "Börse Frankfurt – News",
         "title": "ETF-Forum 2026: Was die Entwicklung des ETF-Marktes bedeutet",
@@ -451,12 +457,6 @@
         "title": "Deutsche Börse führt 24/7-Handel für DAX 40-Aktien auf 360X ein",
         "link": "https://www.boerse-frankfurt.de/nachrichten/deutsche-boerse-fuehrt-24-7-handel-fuer-dax-40-aktien-auf-360x-ein",
         "published": "Wed, 28 Oct 2026 09:06:42 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Zwölf neue ETFs und ETNs",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/elf-neue-etfs-und-etns",
-        "published": "Tue, 27 Oct 2026 14:08:56 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX-Anleger in Kauflaune",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
-        "published": "Wed, 04 Nov 2026 18:31:22 +0100"
+        "title": "Marktbericht: DAX springt auf Rekordhoch",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+        "published": "Thu, 05 Nov 2026 10:20:01 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
