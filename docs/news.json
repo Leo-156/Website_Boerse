@@ -1,17 +1,23 @@
 {
-  "updated_at": "2026-11-04T22:45:27.503687+00:00",
+  "updated_at": "2026-11-05T02:55:14.327342+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "US-Bören: CoreWeave fällt, Amazon gewinnt – Wie die Midterms den KI-Sektor spalten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/us-boeren-coreweave-faellt-amazon-gewinnt-midterms-spalten-ki-sektor/100267383.html",
+        "title": "Versicherung: Allianz Commercial will bei Spezialversicherungen zulegen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-allianz-commercial-will-bei-spezialversicherungen-zulegen/100266662.html",
+        "published": "Wed, 04 Nov 2026 23:01:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Silicon Valley: CoreWeave fällt, Amazon gewinnt – Wie die Midterms den KI-Sektor spalten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/silicon-valley-coreweave-faellt-amazon-gewinnt-midterms-spalten-ki-konzerne/100267383.html",
         "published": "Wed, 04 Nov 2026 21:41:09 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Börsen: Midterms lösen Erholungsrally in den USA aus – KI-Aktien fallen trotzdem",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boersen-midterms-loesenerholungsrally-aus-ki-aktien-fallen-trotzdem/100265439.html",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boersen-midterms-loesen-erholungsrally-aus-dow-steigt-mehr-als-1500-punkte/100265439.html",
         "published": "Wed, 04 Nov 2026 20:37:37 GMT"
       },
       {
@@ -115,32 +121,14 @@
         "title": "Immobilien: Vonovia unter Druck – droht nun eine Kürzung der Dividende?",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-vonovia-unter-druck-droht-nun-eine-kuerzung-der-dividende/100265173.html",
         "published": "Wed, 04 Nov 2026 09:05:53 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Liechtenstein: Konto des Goldhändlers TGI gesperrt – 2800 Kunden warten auf 45 Millionen Euro",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/gold-kontosperrung-beim-goldhaendler-tgi-kunden-warten-auf-ihr-geld/100266956.html",
-        "published": "Wed, 04 Nov 2026 06:12:20 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Sony Needs More Than ‘GTA’ and Spider-Man to Lift Stock Further",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/sony-needs-more-than-gta-and-spider-man-to-lift-stock-further",
-        "published": "Wed, 04 Nov 2026 22:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Asian Stocks to Rise as Oil Slides After US Vote: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 04 Nov 2026 22:15:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Election Night TV Viewers Rise With NBC in the Lead, Fox Falling",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/election-night-tv-viewers-rise-with-nbc-in-the-lead-fox-falling",
-        "published": "Wed, 04 Nov 2026 22:03:01 GMT"
+        "title": "Gold Extends Rebound Above $4,100 as Dollar and Yields Decline",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result",
+        "published": "Wed, 04 Nov 2026 23:58:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -150,99 +138,111 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Defense Stocks in US, Europe Drop After Democrats Sweep Midterms",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/european-defense-stocks-slide-as-democrats-sweep-dents-optimism",
-        "published": "Wed, 04 Nov 2026 11:27:31 GMT"
+        "title": "Nifty Bounces Back to Beat All of Asia on Foreign Flows, Earnings",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-05/nifty-bounces-back-to-beat-all-of-asia-on-foreign-flows-earnings",
+        "published": "Thu, 05 Nov 2026 02:30:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stocks Surge as Election Drives Oil Down, Fuels Tech Optimism",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results",
-        "published": "Wed, 04 Nov 2026 00:01:14 GMT"
+        "title": "China’s Copper Squeeze Deepens as Buyers Scramble for Spot Metal",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/china-s-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal",
+        "published": "Thu, 05 Nov 2026 02:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks, Bonds Climb After US Election as Oil Sinks: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 03 Nov 2026 22:20:22 GMT"
+        "title": "Blue Wave Stock Rotation Sinks Asian Chipmakers, Boosts Autos",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/blue-wave-stock-rotation-sinks-asian-chipmakers-boosts-autos",
+        "published": "Thu, 05 Nov 2026 01:45:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Renewable Stocks Surge After Democrats Sweep Congress",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/global-solar-stocks-jump-as-democrats-hold-early-us-midterm-lead",
-        "published": "Wed, 04 Nov 2026 03:13:54 GMT"
+        "title": "Asian Chip Shares Drop After US Vote, Bonds Rise: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
+        "published": "Wed, 04 Nov 2026 22:15:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Musk Stocks Erase $130 Billion as Texas Blue Wave Hits Home",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/tesla-spacex-shares-take-early-hit-as-midterm-blue-wave-unfolds",
-        "published": "Wed, 04 Nov 2026 04:28:06 GMT"
+        "title": "China’s $3 Trillion Rout Leaves Retail Traders Feeling Duped",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/china-tech-frenzy-turns-into-year-of-dismay-for-retail-traders",
+        "published": "Thu, 05 Nov 2026 00:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dollar Falls Most in Two Months as Traders Weigh Gridlock Risks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/franc-yen-emerge-as-fx-winners-as-us-midterms-weaken-dollar",
-        "published": "Wed, 04 Nov 2026 03:11:23 GMT"
+        "title": "Des Bishop on China's Comedy Boom and Censorship",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/des-bishop-on-china-s-comedy-boom-and-censorship-video",
+        "published": "Thu, 05 Nov 2026 01:53:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wall Street Revises Treasury Sales Forecasts on Guidance Revamp",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-revises-treasury-sales-forecasts-on-guidance-revamp",
-        "published": "Wed, 04 Nov 2026 20:53:40 GMT"
+        "title": "Kiwi Slide Haunts New Zealand Parties Ahead of Tight Vote",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/kiwi-slide-haunts-new-zealand-s-main-parties-ahead-of-tight-vote",
+        "published": "Wed, 04 Nov 2026 18:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasuries Gain as Oil Prices Tumble After Democrats Elected",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
-        "published": "Wed, 04 Nov 2026 01:00:49 GMT"
+        "title": "El Niño Pushes Asia Rice Prices to 2-Year High, Threatening Inflation",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/el-nino-pushes-asia-rice-prices-to-2-year-high-threatening-inflation",
+        "published": "Thu, 05 Nov 2026 01:51:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Climbs Above $4,000 as Dollar, Yields Fall on Democrat Win",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/gold-steadies-as-traders-track-iran-talk-prospects-us-midterms",
-        "published": "Wed, 04 Nov 2026 00:24:37 GMT"
+        "title": "Latest Oil Market News and Analysis for Nov. 5",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5",
+        "published": "Wed, 04 Nov 2026 23:08:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Copper Slips as Investors Weigh Growth, Demand After US Election",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/copper-holds-losses-below-14-000-on-us-midterm-risks-to-stocks",
-        "published": "Wed, 04 Nov 2026 02:47:04 GMT"
+        "title": "DBS Profit Misses Estimates on Trading Drop, Names Lim Chair",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/dbs-profit-misses-estimates-on-trading-income-names-lim-chair",
+        "published": "Wed, 04 Nov 2026 22:52:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Nov. 4",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
-        "published": "Tue, 03 Nov 2026 23:08:04 GMT"
+        "title": "Australia Chain David Jones Collapses After Almost 200 Years",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years",
+        "published": "Wed, 04 Nov 2026 23:44:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Treasury Borrows Record $839 Billion in Single Week",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-30/us-treasury-borrows-record-839-billion-in-auctions-this-week",
-        "published": "Fri, 30 Oct 2026 13:00:41 GMT"
+        "title": "Korea to Introduce Cornerstone Lockups to Curb Post-IPO Selloffs",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs",
+        "published": "Thu, 05 Nov 2026 00:48:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wall Street Girding for US Debt Ceiling Showdown in 2027",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-girding-for-us-debt-ceiling-showdown-in-2027",
-        "published": "Wed, 04 Nov 2026 18:50:46 GMT"
+        "title": "Philippine October Inflation Accelerates 7.8%, Close to Four-Year High",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/philippine-october-inflation-accelerates-7-8-close-to-four-year-high",
+        "published": "Thu, 05 Nov 2026 00:05:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Democrats Need to Focus on Corruption, Affordability Says Rep. Morelle",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-04/dems-need-to-focus-on-corruption-says-rep-morelle-video",
-        "published": "Wed, 04 Nov 2026 19:58:02 GMT"
+        "title": "Asian Markets React as Trump Cools Iran Fears",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-04/asian-markets-react-as-trump-cools-iran-fears-video",
+        "published": "Wed, 04 Nov 2026 23:31:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Activist DGB Ousts Ethan Allen Chairman, Wins Board Control",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/dgb-is-said-to-oust-ethan-allen-chair-win-three-board-seats",
-        "published": "Wed, 04 Nov 2026 17:23:24 GMT"
+        "title": "US Tweaks Debt-Sale Guidance, Signals Auction Changes Ahead",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/us-revamps-debt-sales-guidance-opening-path-to-auction-changes",
+        "published": "Wed, 04 Nov 2026 13:34:13 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Credit Traders Make Big Post-Midterm Bet on Data-Center Slowdown",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/hyperscalers-lead-credit-market-gains-amid-broad-risk-on-rally",
-        "published": "Wed, 04 Nov 2026 13:27:18 GMT"
+        "title": "Malaysia Set to Hold Rates on Strong Growth, Signal Hike in 2027",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/malaysia-set-to-hold-rates-on-strong-growth-signal-hike-in-2027",
+        "published": "Wed, 04 Nov 2026 23:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Upbeat Earnings Bolster Case for India Stocks as Asia Wavers",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/upbeat-earnings-bolster-case-for-india-stocks-as-asia-wavers",
+        "published": "Wed, 04 Nov 2026 23:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Election Night TV Viewers Rise With NBC in Lead, Fox Falling",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/election-night-tv-viewers-rise-with-nbc-in-the-lead-fox-falling",
+        "published": "Wed, 04 Nov 2026 22:03:01 GMT"
       }
     ],
     "onvista – News": [
