@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-11-06T02:57:58.137395+00:00",
+  "updated_at": "2026-11-06T10:15:33.178399+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: „KI-Blutbad“ an Börse – rund drei Billionen Dollar Börsenwert an einem Tag vernichtet",
+        "title": "Banken: Unicredit streicht Anspruch auf Homeoffice",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-unicredit-streicht-anspruch-auf-homeoffice/100267856.html",
+        "published": "Fri, 06 Nov 2026 09:22:50 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax notiert trotz stabiler Chip-Werte deutlich im Minus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-trotz-stabiler-chip-werte-deutlich-im-minus/100267806.html",
+        "published": "Fri, 06 Nov 2026 08:32:59 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Alphabet, Alstom und jetzt auch Rheinmetall – was hinter den Kurseinbrüchen steckt",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-alphabet-alstom-rheinmetall-was-hinter-den-kursstuerzen-steckt/100266666.html",
+        "published": "Fri, 06 Nov 2026 07:26:02 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Kospi und Topix: Abverkauf bei Chipaktien erfasst Japan und Südkorea",
+        "link": "https://www.handelsblatt.com/finanzen/asiens-boersen-setzen-abschwung-von-chipaktien-in-den-usa-fort/100267767.html",
+        "published": "Fri, 06 Nov 2026 06:13:40 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 6. November: Sieben Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Fri, 06 Nov 2026 05:19:35 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Versicherung: Nürnberger will verstärkt über Kooperationen zulegen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-nuernberger-will-verstaerkt-ueber-kooperationen-zulegen/100263685.html",
+        "published": "Fri, 06 Nov 2026 03:01:18 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Aktie im Blick: Der Apple-Konzern hat ein Luxusproblem, die Aktie ebenso",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktie-im-blick-der-apple-konzern-hat-ein-luxusproblem-die-aktie-ebenso/100267063.html",
+        "published": "Fri, 06 Nov 2026 03:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wall Street: „KI-Blutbad“ an den Märkten: Rund drei Billionen Dollar Börsenwert an einem Tag vernichtet",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/wall-street-ki-blutbad-an-us-boersen-sp-500-bricht-um-vier-prozent-ein/100267625.html",
         "published": "Thu, 05 Nov 2026 22:40:26 GMT"
       },
@@ -25,12 +67,6 @@
         "title": "Dax-Rekord: Warum deutsche Aktien besonders deutlich von den Midterms profitieren",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/dax-rekord-warum-deutsche-aktien-besonders-stark-von-den-midterms-profitieren/100267495.html",
         "published": "Thu, 05 Nov 2026 16:57:17 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Alphabet, Alstom und jetzt auch Rheinmetall – was hinter den Kurseinbrüchen steckt",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-alphabet-alstom-rheinmetall-was-hinter-den-kursstuerzen-steckt/100266666.html",
-        "published": "Thu, 05 Nov 2026 16:54:23 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -85,116 +121,74 @@
         "title": "Altersvorsorge: Wie sich der Riester-Nachfolger für Gutverdiener lohnen kann",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-diese-steuerregeln-sollten-sparer-beim-altersvorsorgedepot-kennen/100222434.html",
         "published": "Thu, 05 Nov 2026 11:17:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Möglicher Börsengang: Aareal Bank prüft Optionen für die Zukunft",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/moeglicher-boersengang-aareal-bank-prueft-optionen-fuer-die-zukunft/100267535.html",
-        "published": "Thu, 05 Nov 2026 09:58:39 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geld. Leben. Looman.: Sie ist Zahnärztin, er Anwalt: Wenn sie sich kein Haus mehr leisten können – wer dann?",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/immobilien-wenn-sich-gutverdiener-kein-haus-mehr-leisten-koennen/100266881.html",
-        "published": "Thu, 05 Nov 2026 09:55:29 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Ranking 2026: Diese Krankenkassen bieten ihren Versicherten die besten Zusatzleistungen",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/krankenversicherung-diese-krankenkassen-bieten-die-besten-zusatzleistungen/100246780.html",
-        "published": "Thu, 05 Nov 2026 08:50:49 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei, Yen, Hang Seng: Anleger schichten um – Auch in Asien brechen KI-Werte ein",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-anleger-schichten-um-auch-in-asien-brechen-ki-werte-ein/100267457.html",
-        "published": "Thu, 05 Nov 2026 08:22:55 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Anleihen: Hyperscaler fluten den Bondmarkt – und zahlen dafür viel",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-hyperscaler-fluten-den-bondmarkt-und-zahlen-dafuer-viel/100267193.html",
-        "published": "Thu, 05 Nov 2026 08:00:32 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Investoren: Exklusiv: Die Stimmung der Wagniskapitalgeber steigt wieder",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/investoren-die-stimmung-der-wagniskapitalgeber-steigt-wieder/100266897.html",
-        "published": "Thu, 05 Nov 2026 08:00:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "AI Slump Deepens as Japan Drops Most Since 2025: Markets Wrap",
+        "title": "US Stocks Find Some Respite as Dip Buyers Move In: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 05 Nov 2026 22:17:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China to Cut Diesel Exports on Tight Stocks, Energy Aspects Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/china-to-cut-diesel-exports-on-tight-stocks-energy-aspects-says",
-        "published": "Fri, 06 Nov 2026 02:51:59 GMT"
+        "title": "Oil Drops as Qatar Emir Discusses War De-Escalation With Trump",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
+        "published": "Fri, 06 Nov 2026 08:38:49 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms",
-        "published": "Fri, 06 Nov 2026 00:09:55 GMT"
+        "title": "What to Expect From Today's US Jobs Report",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/what-to-expect-from-today-s-us-jobs-report-video",
+        "published": "Fri, 06 Nov 2026 09:46:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China’s 10-Year Yield Hits Record Intraday Low on Haven Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-10-year-yield-hits-record-intraday-low-on-ample-cash",
-        "published": "Fri, 06 Nov 2026 00:55:01 GMT"
+        "title": "US Jobs Data Faces Market Uncertainty",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/us-jobs-data-faces-market-uncertainty-video",
+        "published": "Fri, 06 Nov 2026 09:44:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wall Street Traders Wrong-Footed After Bullish Equity Calls",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-traders-wrong-footed-after-bullish-equity-calls",
-        "published": "Fri, 06 Nov 2026 01:51:18 GMT"
+        "title": "Sell Off Turns to Uncertainty",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/sell-off-turns-to-uncertainty-video",
+        "published": "Fri, 06 Nov 2026 09:39:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
-        "published": "Fri, 06 Nov 2026 00:24:58 GMT"
+        "title": "Man Group Found Liable by Judge for ‘Breathtaking’ Kuwaiti Bribery",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/man-group-found-liable-by-judge-for-breathtaking-kuwaiti-bribery",
+        "published": "Thu, 05 Nov 2026 18:50:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Overbought Nifty May Find Fresh Fuel as AI Stocks Tumble Globally",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-06/overbought-nifty-may-find-fresh-fuel-as-ai-stocks-tumble-globally",
-        "published": "Fri, 06 Nov 2026 02:30:02 GMT"
+        "title": "Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-peers-into-abyss-of-ai-trade-as-midterms-expose-risk",
+        "published": "Fri, 06 Nov 2026 09:30:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Hedge Fund Samlyn Dumps All Stocks But Financials, Cuts Staff",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-fund-samlyn-dumps-all-stocks-but-financials-cuts-staff",
-        "published": "Fri, 06 Nov 2026 02:23:55 GMT"
+        "title": "Top Africa Multi-Nation Bourse Plans ETFs, Futures for Growth",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/top-africa-multi-nation-bourse-plans-etfs-futures-for-growth",
+        "published": "Fri, 06 Nov 2026 09:20:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
-        "published": "Fri, 06 Nov 2026 01:15:16 GMT"
+        "title": "Herzog to Choose Between Eisenkot, Netanyahu on Sunday",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/herzog-to-choose-between-eisenkot-netanyahu-on-sunday-video",
+        "published": "Fri, 06 Nov 2026 09:20:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Korean Stocks Tumble Below 5,000 Milestone as Panic Spreads",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/korean-chip-stocks-sink-10-in-pre-market-as-ai-fears-deepen",
-        "published": "Thu, 05 Nov 2026 23:35:44 GMT"
+        "title": "What Does a Democratic Congress Mean for Markets?",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/what-does-a-democratic-congress-mean-for-markets",
+        "published": "Fri, 06 Nov 2026 09:00:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "John Woods Sees AI Selloff as Positioning-Driven",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/john-woods-sees-ai-selloff-as-positioning-driven-video",
-        "published": "Fri, 06 Nov 2026 02:15:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Japan’s Nikkei Poised to Enter Bear Market as AI Selloff Deepens",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff",
-        "published": "Fri, 06 Nov 2026 00:15:36 GMT"
+        "title": "Odd Lots: The Macro Implications of the Blue Tsunami (Podcast)",
+        "link": "https://www.bloomberg.com/news/audio/2026-11-06/odd-lots-the-macro-implications-of-the-blue-tsunami-podcast",
+        "published": "Fri, 06 Nov 2026 09:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -204,48 +198,96 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Japan Bonds Rally as Global Risk-Off Move Boosts Haven Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/japan-bonds-rally-as-global-risk-off-move-boosts-haven-demand",
-        "published": "Thu, 05 Nov 2026 23:54:47 GMT"
+        "title": "Moody’s Warns Senegal Debt Rework Likely Constitutes Default",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/moody-s-warns-senegal-debt-rework-likely-tantamount-to-default",
+        "published": "Fri, 06 Nov 2026 06:01:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Worst Rout Since 2020 Leaves Virtually Nowhere to Hide in Stocks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/worst-us-stock-rout-since-2020-leaves-virtually-nowhere-to-hide",
-        "published": "Thu, 05 Nov 2026 22:11:53 GMT"
+        "title": "FTSE 100 Live: European and UK Stocks Set to Join Global AI-Driven Selloff",
+        "link": "https://www.bloomberg.com/news/live-blog/2026-11-06/what-s-moving-uk-markets-right-now-markets-today",
+        "published": "Fri, 06 Nov 2026 06:47:49 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "OCBC CEO Raises Outlook as Lending Nudges Profit Higher",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/ocbc-s-profit-gains-dented-by-drop-in-trading-insurance-income",
-        "published": "Thu, 05 Nov 2026 23:21:37 GMT"
+        "title": "US Treasury Traders Make Bullish Bets Ahead of Jobs Report",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/us-treasury-traders-make-bullish-bets-ahead-of-jobs-report",
+        "published": "Fri, 06 Nov 2026 08:43:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
-        "published": "Fri, 06 Nov 2026 01:26:53 GMT"
+        "title": "IAG Raises Fuel Bill Forecast as Iran War Hikes Oil Prices",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/iag-says-it-will-keep-rewarding-investors-even-as-fuel-surges",
+        "published": "Fri, 06 Nov 2026 07:22:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Putin Transfers Japan Tobacco Assets to Local Firm in Latest Asset Seizure",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/japan-protests-russia-s-seizure-of-japan-tobacco-assets",
-        "published": "Fri, 06 Nov 2026 00:31:44 GMT"
+        "title": "Asia Reels From the Global AI Selloff",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/asia-reels-from-the-global-ai-selloff-video",
+        "published": "Fri, 06 Nov 2026 08:37:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Nov. 6",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6",
-        "published": "Thu, 05 Nov 2026 23:08:17 GMT"
+        "title": "Stocks Primed for a Rough Ride Today: Market Analysis",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/stocks-primed-for-a-rough-ride-today-3-minutes-mliv-video",
+        "published": "Fri, 06 Nov 2026 08:30:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Election Night TV Viewers Rise With NBC in Lead, Fox Falling",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/election-night-tv-viewers-rise-with-nbc-in-the-lead-fox-falling",
-        "published": "Wed, 04 Nov 2026 22:03:01 GMT"
+        "title": "European Stocks Join Global Selloff as AI Concerns Spread",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/european-stocks-join-global-selloff-as-ai-concerns-spread",
+        "published": "Fri, 06 Nov 2026 08:23:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Taiwan’s Currency Rebounds After Weakening Past 33 Per US Dollar",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
+        "published": "Fri, 06 Nov 2026 01:15:16 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax ringt um 26.000 Punkte – Diese Marken entscheiden",
+        "link": "https://www.onvista.de/news/2026/11-06-dax-ringt-um-26-000-punkte-diese-marken-entscheiden-41123281-19-26573384",
+        "published": "Fri, 06 Nov 2026 11:01:53 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Rheinmetalls Prognosesenkung macht die Aktie attraktiv",
+        "link": "https://www.onvista.de/news/2026/11-06-rheinmetalls-prognosesenkung-macht-die-aktie-attraktiv-40338625-19-26573109",
+        "published": "Fri, 06 Nov 2026 10:50:02 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Erst über 72 Dollar wird Ubers Aktie wieder interessant",
+        "link": "https://www.onvista.de/news/2026/11-06-erst-ueber-72-dollar-wird-ubers-aktie-wieder-interessant-40338625-19-26573112",
+        "published": "Fri, 06 Nov 2026 10:43:05 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax gibt 26.000 Punkte ab – Halbleiter-Ausverkauf belastet",
+        "link": "https://www.onvista.de/news/2026/11-06-dax-gibt-26-000-punkte-ab-halbleiter-ausverkauf-belastet-0-19-26573355",
+        "published": "Fri, 06 Nov 2026 09:57:14 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax fällt – Asien folgt schlechtestem Nasdaq-Tag seit 2020",
+        "link": "https://www.onvista.de/news/2026/11-06-dax-faellt-asien-folgt-schlechtestem-nasdaq-tag-seit-2020-41121301-19-26573305",
+        "published": "Fri, 06 Nov 2026 08:02:38 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 06.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-06-finanzberichte-heute-06-11-2026-41121301-19-26573237",
+        "published": "Fri, 06 Nov 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  06.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-06-dividendenalarm-heute-06-11-2026-41121301-19-26573236",
+        "published": "Fri, 06 Nov 2026 06:00:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Dax nach Rekord im Minus: KI-Sorgen und Rheinmetall belasten",
@@ -353,48 +395,6 @@
         "title": "AMD: Der Kursrückgang macht die Aktie attraktiver",
         "link": "https://www.onvista.de/news/2026/11-04-amd-der-kursrueckgang-macht-die-aktie-attraktiver-40338625-19-26572462",
         "published": "Wed, 04 Nov 2026 16:56:28 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Vonovia: Die Aktie hat Potenzial bis 20 Euro",
-        "link": "https://www.onvista.de/news/2026/11-04-vonovia-die-aktie-hat-potenzial-bis-20-euro-40338625-19-26572451",
-        "published": "Wed, 04 Nov 2026 16:55:41 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "BMW: Die schwache Prognose spricht für Vorsicht",
-        "link": "https://www.onvista.de/news/2026/11-04-bmw-die-schwache-prognose-spricht-fuer-vorsicht-40338625-19-26572453",
-        "published": "Wed, 04 Nov 2026 16:53:51 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Zeichnen oder nicht? Unser Votum zur Anthropic-Aktie",
-        "link": "https://www.onvista.de/news/2026/11-04-warum-anthropic-ein-besserer-ipo-als-spacex-wird-41122522-19-26571824",
-        "published": "Wed, 04 Nov 2026 15:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "AMD im KI-Boom – Arista Networks mit Rekordwachstum",
-        "link": "https://www.onvista.de/news/2026/11-04-amd-im-ki-boom-arista-networks-mit-rekordwachstum-40338625-19-26572359",
-        "published": "Wed, 04 Nov 2026 12:57:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "So kommst du an die Hyperscaler-Anleihen ran",
-        "link": "https://www.onvista.de/news/2026/11-04-so-kommst-du-an-die-hyperscaler-anleihen-ran-41121763-19-26571300",
-        "published": "Wed, 04 Nov 2026 12:00:01 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax vor Ausbruch: US-Midterms liefern neuen Antrieb",
-        "link": "https://www.onvista.de/news/2026/11-04-dax-vor-ausbruch-us-midterms-liefern-neuen-antrieb-41123281-19-26572284",
-        "published": "Wed, 04 Nov 2026 11:00:50 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax dreht ins Plus – Quartalssaison weckt Kaufinteresse",
-        "link": "https://www.onvista.de/news/2026/11-04-dax-dreht-ins-plus-quartalssaison-weckt-kaufinteresse-41121301-19-26572253",
-        "published": "Wed, 04 Nov 2026 09:57:01 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX springt auf Rekordhoch",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
-        "published": "Thu, 05 Nov 2026 18:16:27 +0100"
+        "title": "Marktbericht: DAX fällt im Sog der Nasdaq",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+        "published": "Fri, 06 Nov 2026 10:29:32 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
