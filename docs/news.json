@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-05T22:56:50.034951+00:00",
+  "updated_at": "2026-11-06T02:57:58.137395+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Wall Street: „KI-Blutbad“ an Börse – rund drei Billionen Dollar Börsenwert an einem Tag vernichtet",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/wall-street-ki-blutbad-an-us-boersen-sp-500-bricht-um-vier-prozent-ein/100267625.html",
-        "published": "Fri, 06 Nov 2026 04:41:00 GMT"
+        "published": "Thu, 05 Nov 2026 22:40:26 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -126,123 +126,123 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Tapestry CEO on Earnings Beat, Consumer Outlook",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-05/tapestry-ceo-on-earnings-beat-consumer-outlook-video",
-        "published": "Thu, 05 Nov 2026 22:49:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Carney, Bank of Canada Renew Framework to Focus on 2% Inflation Target",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/carney-bank-of-canada-renew-framework-to-focus-on-2-inflation-target",
-        "published": "Thu, 05 Nov 2026 22:46:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Equity Volatility Jumps Most Since April 2025 Tariff Turmoil",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/equity-volatility-jumps-most-since-april-2025-tariff-turmoil",
-        "published": "Thu, 05 Nov 2026 22:45:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Qantas Hikes Fares, Deepens Cuts to Flying as Fuel Costs Bite",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/qantas-hikes-fares-deepens-cuts-to-flying-as-fuel-costs-bite",
-        "published": "Thu, 05 Nov 2026 22:31:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap",
+        "title": "AI Slump Deepens as Japan Drops Most Since 2025: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 05 Nov 2026 22:17:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Worst US Stock Rout Since 2020 Leaves Virtually Nowhere to Hide",
+        "title": "China to Cut Diesel Exports on Tight Stocks, Energy Aspects Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/china-to-cut-diesel-exports-on-tight-stocks-energy-aspects-says",
+        "published": "Fri, 06 Nov 2026 02:51:59 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms",
+        "published": "Fri, 06 Nov 2026 00:09:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China’s 10-Year Yield Hits Record Intraday Low on Haven Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-10-year-yield-hits-record-intraday-low-on-ample-cash",
+        "published": "Fri, 06 Nov 2026 00:55:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street Traders Wrong-Footed After Bullish Equity Calls",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-traders-wrong-footed-after-bullish-equity-calls",
+        "published": "Fri, 06 Nov 2026 01:51:18 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
+        "published": "Fri, 06 Nov 2026 00:24:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Overbought Nifty May Find Fresh Fuel as AI Stocks Tumble Globally",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-06/overbought-nifty-may-find-fresh-fuel-as-ai-stocks-tumble-globally",
+        "published": "Fri, 06 Nov 2026 02:30:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hedge Fund Samlyn Dumps All Stocks But Financials, Cuts Staff",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-fund-samlyn-dumps-all-stocks-but-financials-cuts-staff",
+        "published": "Fri, 06 Nov 2026 02:23:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
+        "published": "Fri, 06 Nov 2026 01:15:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Korean Stocks Tumble Below 5,000 Milestone as Panic Spreads",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/korean-chip-stocks-sink-10-in-pre-market-as-ai-fears-deepen",
+        "published": "Thu, 05 Nov 2026 23:35:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "John Woods Sees AI Selloff as Positioning-Driven",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/john-woods-sees-ai-selloff-as-positioning-driven-video",
+        "published": "Fri, 06 Nov 2026 02:15:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japan’s Nikkei Poised to Enter Bear Market as AI Selloff Deepens",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff",
+        "published": "Fri, 06 Nov 2026 00:15:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Mystery Seller Puts Up $500 Million Data Center Loans Backing Stargate, CyrusOne",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/mystery-seller-puts-up-500-million-data-center-loans-backing-stargate-cyrusone",
+        "published": "Thu, 05 Nov 2026 18:52:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Japan Bonds Rally as Global Risk-Off Move Boosts Haven Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/japan-bonds-rally-as-global-risk-off-move-boosts-haven-demand",
+        "published": "Thu, 05 Nov 2026 23:54:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Worst Rout Since 2020 Leaves Virtually Nowhere to Hide in Stocks",
         "link": "https://www.bloomberg.com/news/articles/2026-11-05/worst-us-stock-rout-since-2020-leaves-virtually-nowhere-to-hide",
         "published": "Thu, 05 Nov 2026 22:11:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Argentine Markets on Edge as Peso Repo Rates Soar to 190%",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/argentina-bonds-drop-as-market-flags-intervention-in-peso-debt",
-        "published": "Thu, 05 Nov 2026 18:17:34 GMT"
+        "title": "OCBC CEO Raises Outlook as Lending Nudges Profit Higher",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/ocbc-s-profit-gains-dented-by-drop-in-trading-insurance-income",
+        "published": "Thu, 05 Nov 2026 23:21:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "The Political Debate on Daylight Saving Time",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-01/the-political-debate-on-daylight-saving-time-video",
-        "published": "Sun, 01 Nov 2026 16:23:36 GMT"
+        "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
+        "published": "Fri, 06 Nov 2026 01:26:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "S&P 500 Sinks 4% as AI Washout Rattles Wall Street: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
-        "published": "Wed, 04 Nov 2026 22:15:04 GMT"
+        "title": "Putin Transfers Japan Tobacco Assets to Local Firm in Latest Asset Seizure",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/japan-protests-russia-s-seizure-of-japan-tobacco-assets",
+        "published": "Fri, 06 Nov 2026 00:31:44 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "DraftKings Plunges on 2027 Forecast That Misses Estimates",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/draftkings-plunges-on-2027-forecast-that-misses-estimates",
-        "published": "Thu, 05 Nov 2026 21:47:56 GMT"
+        "title": "Latest Oil Market News and Analysis for Nov. 6",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6",
+        "published": "Thu, 05 Nov 2026 23:08:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Tech Rout Erases Record $2.3 Trillion in Value as AI Fears Grow",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
-        "published": "Thu, 05 Nov 2026 12:54:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "What Anthropic’s IPO Means for the ETF Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/what-anthropic-s-ipo-means-for-the-etf-market",
-        "published": "Thu, 05 Nov 2026 21:30:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump-Backed Critical Minerals Deals Face Growing Pressure After Blue Wave",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/trump-backed-critical-minerals-deals-face-growing-pressure-after-blue-wave",
-        "published": "Thu, 05 Nov 2026 18:33:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "BofA Rejigs Global Credit Trading Businesses to Boost Liquidity",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/bofa-rejigs-global-credit-trading-businesses-to-boost-liquidity",
-        "published": "Thu, 05 Nov 2026 21:07:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Grindr Lifts Outlook, Expects to Meet 2027 Targets Ahead of Plan",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/grindr-lifts-outlook-expects-to-meet-2027-targets-ahead-of-plan",
-        "published": "Thu, 05 Nov 2026 21:07:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Lyft Posts Surprise Loss on Settlement, Gives In-Line Outlook",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-posts-surprise-loss-on-settlement-gives-in-line-outlook",
-        "published": "Thu, 05 Nov 2026 21:07:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Canada to Reform Bank Ownership Rules in Bid to Stoke Competition",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/canada-to-reform-bank-ownership-rules-in-bid-to-stoke-competition",
-        "published": "Thu, 05 Nov 2026 21:03:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Banks to Lead $3 Billion Debt Deal for CD&R Purchase",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/wall-street-banks-to-lead-3-billion-debt-deal-for-cd-r-purchase",
-        "published": "Thu, 05 Nov 2026 20:59:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Indonesia Raises $3 Billion in First Bond Sale Since MSCI Threat",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/indonesia-kicks-off-first-dollar-bond-sale-since-msci-fallout",
-        "published": "Thu, 05 Nov 2026 03:26:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-extend-advance-as-technology-shares-resume-slide",
-        "published": "Thu, 05 Nov 2026 15:54:44 GMT"
+        "title": "Election Night TV Viewers Rise With NBC in Lead, Fox Falling",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/election-night-tv-viewers-rise-with-nbc-in-the-lead-fox-falling",
+        "published": "Wed, 04 Nov 2026 22:03:01 GMT"
       }
     ],
     "onvista – News": [
