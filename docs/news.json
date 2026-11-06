@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-06T17:35:04.973267+00:00",
+  "updated_at": "2026-11-06T22:21:48.984928+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "EZB: Spanien nominiert Pablo Hernandez de Cos für Lagarde-Nachfolge",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-spanien-nominiertpablo-hernandez-de-cos-fuer-lagarde-nachfolge/100267919.html",
+        "published": "Fri, 06 Nov 2026 20:00:05 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Aktien: Kaufen oder verkaufen? So bewerten Experten die Marktturbulenzen",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/us-aktien-kaufen-oder-verkaufen-so-bewerten-experten-die-marktturbulenzen/100267829.html",
+        "published": "Fri, 06 Nov 2026 18:40:55 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Dax aktuell: Dax schließt im Minus und fällt weit von Rekord zurück – Rüstungsaktie verliert",
@@ -11,12 +23,12 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "US-Börsen: Anleger greifen nach Ausverkauf bei Tech zu – US-Börsen im Plus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-anleger-greifen-nach-ausverkauf-bei-tech-zu-us-boersen-im-plus/100267929.html",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-erholung-bei-tech-werten-stuetzt-us-boersen-dow-jones-schliesst-tiefer/100267929.html",
         "published": "Fri, 06 Nov 2026 16:17:33 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Investmentbanking: Steiler Aufstieg: Tibor Kossa steigt bei Goldman Sachs zum Partner auf",
+        "title": "Investmentbanking: Steile Karriere: Tibor Kossa steigt bei Goldman Sachs zum Partner auf",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/investmentbanking-tibor-kossa-steigt-bei-goldman-sachs-zum-partner-auf/100267912.html",
         "published": "Fri, 06 Nov 2026 15:51:55 GMT"
       },
@@ -25,12 +37,6 @@
         "title": "IPO: Vom Zwei-Billionen-Traum zum Preisnachlass: Das Dilemma hinter Anthropics Börsengang",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-zweifel-an-bewertung-ipo-von-anthropic-koennte-sich-verzoegern/100267771.html",
         "published": "Fri, 06 Nov 2026 13:27:22 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "EZB: Spanien nominiert Pablo Hernandez de Cos für Lagarde-Nachfolge",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-spanien-nominiertpablo-hernandez-de-cos-fuer-lagarde-nachfolge/100267919.html",
-        "published": "Fri, 06 Nov 2026 12:50:43 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -115,92 +121,116 @@
         "title": "Steuererklärung: Bonus bekommen? So sparen Prämierte auch noch Steuern",
         "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-so-vermeiden-beschaeftigte-steuern-auf-ihren-jahresbonus/100003952.html",
         "published": "Thu, 05 Nov 2026 14:45:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: So können Gutverdiener beim Kauf von Neubauwohnungen viele Steuern sparen",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-diese-steuervorteile-bieten-neubauten-fuer-gutverdiener/100193212.html",
-        "published": "Thu, 05 Nov 2026 14:00:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Canada to Give 200,000 Temporary Residents Permanent Status as One-Time Measure",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/canada-to-give-200-000-temporary-residents-permanent-status-as-one-time-measure",
-        "published": "Fri, 06 Nov 2026 17:12:37 GMT"
+        "title": "Canadian Dollar Notches Worst Week Since September on Weak Jobs",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs",
+        "published": "Fri, 06 Nov 2026 18:48:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Millennium Parting Ways With Two More Credit Trading Pods",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/millennium-parting-ways-with-two-more-credit-trading-pods",
-        "published": "Fri, 06 Nov 2026 15:48:00 GMT"
+        "title": "Ann Berry on the Importance of Learning AI",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/ann-berry-on-the-importance-of-learning-ai-video",
+        "published": "Fri, 06 Nov 2026 22:01:25 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Climb in AI Trade Revival as Bonds Decline: Markets Wrap",
+        "title": "Airbnb Surges 12% as Growth Accelerates and Outlook Rises | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/airbnb-surges-on-growth-outlook-closing-bell-video",
+        "published": "Fri, 06 Nov 2026 21:32:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Hedge Funds Fled Bullish Oil Bets Ahead of Election Day Drop",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-funds-fled-bullish-oil-bets-ahead-of-election-day-drop",
+        "published": "Fri, 06 Nov 2026 21:29:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms",
+        "published": "Fri, 06 Nov 2026 00:09:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street Grapples With $5.7 Trillion Rout as AI Bets Unwind",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes",
+        "published": "Fri, 06 Nov 2026 21:23:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Chip Stocks Climb After Rout, But AI Doubts Linger: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 05 Nov 2026 22:17:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Brookfield Raises $25 Billion Amid AI Push as Profits Rise",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/brookfield-raises-123-billion-amid-ai-build-out-as-profits-rise",
-        "published": "Fri, 06 Nov 2026 12:09:41 GMT"
+        "title": "Retail Traders Cautiously Buy Stocks After Worst Rout Since 2025",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025",
+        "published": "Fri, 06 Nov 2026 21:05:54 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "European Stocks Trim Weekly Gain With Milder Swings Than the US",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/european-stocks-join-global-selloff-as-ai-concerns-spread",
-        "published": "Fri, 06 Nov 2026 08:23:06 GMT"
+        "title": "Oil Swings as Traders Parse Iran War De-Escalation Prospects",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
+        "published": "Fri, 06 Nov 2026 08:38:49 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lula prioriza aliados ao mercado na escolha para Fazenda",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/lula-prioriza-aliados-ao-mercado-na-escolha-para-fazenda-video",
-        "published": "Fri, 06 Nov 2026 16:41:21 GMT"
+        "title": "Braskem Shareholders Pull Funding Offer as Debt Talks Stall",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags",
+        "published": "Fri, 06 Nov 2026 19:38:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Chip Stocks Roar Back as Strong Data Sink Bonds",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/chip-stocks-roar-back-as-strong-data-sink-bonds-video",
-        "published": "Fri, 06 Nov 2026 16:34:18 GMT"
+        "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
+        "published": "Fri, 06 Nov 2026 01:26:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Job Growth Surged in October, Unemployment Rate Fell",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/us-job-growth-surged-in-october-unemployment-rate-fell-video",
-        "published": "Fri, 06 Nov 2026 16:28:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasuries Fall as Strong Jobs Data Fortifies Tech Rebound",
+        "title": "US Bonds’ Election Rally Skids to Halt After Strong Jobs Data",
         "link": "https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets",
         "published": "Fri, 06 Nov 2026 13:47:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Multiple Fed Rate Hikes Reasonable, Pimco's Wilding Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/multiple-fed-rate-hikes-reasonable-pimco-s-wilding-says-video",
-        "published": "Fri, 06 Nov 2026 16:22:46 GMT"
+        "title": "Wall Street Sees US Hitting $41.1 Trillion Debt Cap in February",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-sees-us-hitting-41-1-trillion-debt-cap-in-february",
+        "published": "Fri, 06 Nov 2026 20:33:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Today’s a Good Day to Think About the Mechanics of Markets",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-06/today-s-a-good-day-to-think-about-the-mechanics-of-markets",
-        "published": "Fri, 06 Nov 2026 16:21:48 GMT"
+        "title": "Don't Think Social Security Going Away: Lusardi",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/don-t-think-social-security-going-away-lusardi-video",
+        "published": "Fri, 06 Nov 2026 20:31:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Airbnb Moves on Revenue; DraftKings Sinks on Forecast Miss | Stock Movers",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/airbnb-moves-on-revenue-draftkings-sinks-on-forecast-video",
-        "published": "Fri, 06 Nov 2026 16:19:54 GMT"
+        "title": "Need Better Retirement Education: Lusardi",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/need-better-retirement-education-lusardi-video",
+        "published": "Fri, 06 Nov 2026 20:14:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Goldman US Stock Panic Gauge Hits Extreme, Signaling Rebound",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/goldman-s-us-stock-panic-gauge-hits-extreme-signaling-rebound",
-        "published": "Fri, 06 Nov 2026 15:28:07 GMT"
+        "title": "I Don't Own Bonds, Comfortable With Volatility: Moore",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/i-don-t-own-bonds-comfortable-with-volatility-moore-video",
+        "published": "Fri, 06 Nov 2026 20:12:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Supreme Court to Hear Goldman Sachs’ Bankruptcy Arbitration Bid",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/supreme-court-to-hear-goldman-sachs-bankruptcy-arbitration-bid",
+        "published": "Fri, 06 Nov 2026 19:11:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Quick Mart IPO Draws Strong Demand as Kenyan Listings Pick Up",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up",
+        "published": "Fri, 06 Nov 2026 19:08:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -210,39 +240,9 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Spain Orders Olive Oil Mills to Hold Back Output to Lift Prices",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/spain-orders-olive-oil-mills-to-hold-back-output-to-lift-prices",
-        "published": "Fri, 06 Nov 2026 16:08:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-        "published": "Fri, 06 Nov 2026 13:12:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "DraftKings Plunges 29% After Slashing Profit Projection",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/draftkings-plunges-on-2027-forecast-that-misses-estimates",
-        "published": "Thu, 05 Nov 2026 21:47:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Brazil Puts Rare Earths at Heart of Critical Minerals Push",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/brazil-puts-rare-earths-copper-atop-critical-minerals-list",
-        "published": "Thu, 05 Nov 2026 22:50:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Monster Shares Fall as Weaker Margins Highlight Cost Burden",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/monster-tops-estimates-on-growing-global-energy-drink-demand",
-        "published": "Thu, 05 Nov 2026 23:30:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Rise of Luxury Prenatal Retreats",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/the-rise-of-luxury-prenatal-retreats-video",
-        "published": "Fri, 06 Nov 2026 15:31:06 GMT"
+        "title": "AI Trade Rebounds After Historic Rout for Tech Stocks",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-surveillance-11-6-2026-video",
+        "published": "Fri, 06 Nov 2026 18:46:38 GMT"
       }
     ],
     "onvista – News": [
