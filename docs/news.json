@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T22:21:48.984928+00:00",
+  "updated_at": "2026-11-07T02:03:33.335047+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,54 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
+        "published": "Fri, 06 Nov 2026 00:24:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The Corner Store Brings Its New York Experience to the Las Vegas Strip",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/the-corner-store-brings-nyc-experience-to-vegas-strip-video",
+        "published": "Fri, 06 Nov 2026 23:49:39 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Elanco Shares Jump After Q3 Beat and Outlook Raise",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/elanco-shares-jump-after-q3-beat-and-outlook-raise-video",
+        "published": "Fri, 06 Nov 2026 23:30:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Sweetgreen CEO Says Sales Rebound After Cyclospora-Related Traffic Drop",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/sweetgreen-ceo-on-earnings-sales-rebound-video",
+        "published": "Fri, 06 Nov 2026 23:26:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "FIGS Beats Earnings as Demand Outstrips Supply, CEO Trina Spear Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/figs-ceo-trina-spears-on-earnings-beat-video",
+        "published": "Fri, 06 Nov 2026 23:21:26 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Braskem Owners Pull Funding Offer as Debt Talks Hit Snag",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags",
+        "published": "Fri, 06 Nov 2026 19:38:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AI-Generated Movie Heading Theaters",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/ai-generated-movie-heading-theaters-video",
+        "published": "Fri, 06 Nov 2026 22:29:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Providing Capital to Tech Companies: Masters In Business with Ann Berry",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/masters-in-business-with-ann-berry-video",
+        "published": "Fri, 06 Nov 2026 22:15:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Canadian Dollar Notches Worst Week Since September on Weak Jobs",
         "link": "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs",
         "published": "Fri, 06 Nov 2026 18:48:22 GMT"
@@ -180,12 +228,6 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Braskem Shareholders Pull Funding Offer as Debt Talks Stall",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags",
-        "published": "Fri, 06 Nov 2026 19:38:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade",
         "link": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
         "published": "Fri, 06 Nov 2026 01:26:53 GMT"
@@ -201,48 +243,6 @@
         "title": "Wall Street Sees US Hitting $41.1 Trillion Debt Cap in February",
         "link": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-sees-us-hitting-41-1-trillion-debt-cap-in-february",
         "published": "Fri, 06 Nov 2026 20:33:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Don't Think Social Security Going Away: Lusardi",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/don-t-think-social-security-going-away-lusardi-video",
-        "published": "Fri, 06 Nov 2026 20:31:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Need Better Retirement Education: Lusardi",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/need-better-retirement-education-lusardi-video",
-        "published": "Fri, 06 Nov 2026 20:14:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "I Don't Own Bonds, Comfortable With Volatility: Moore",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/i-don-t-own-bonds-comfortable-with-volatility-moore-video",
-        "published": "Fri, 06 Nov 2026 20:12:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Supreme Court to Hear Goldman Sachs’ Bankruptcy Arbitration Bid",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/supreme-court-to-hear-goldman-sachs-bankruptcy-arbitration-bid",
-        "published": "Fri, 06 Nov 2026 19:11:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Quick Mart IPO Draws Strong Demand as Kenyan Listings Pick Up",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up",
-        "published": "Fri, 06 Nov 2026 19:08:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Anatomy of a Selloff: Sudden Chain Reaction Rattles Wall Street",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/anatomy-of-a-selloff-sudden-chain-reaction-rattles-wall-street",
-        "published": "Fri, 06 Nov 2026 16:10:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Trade Rebounds After Historic Rout for Tech Stocks",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-surveillance-11-6-2026-video",
-        "published": "Fri, 06 Nov 2026 18:46:38 GMT"
       }
     ],
     "onvista – News": [
