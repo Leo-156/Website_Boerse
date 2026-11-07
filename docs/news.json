@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-07T08:41:29.361698+00:00",
+  "updated_at": "2026-11-07T15:07:28.707084+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Holdinggesellschaft: Berkshire Hathaway kauft mehr eigene Aktien zurück",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/us-holdinggesellschaft-berkshire-hathaway-kauft-mehr-eigene-aktien-zurueck/100268115.html",
+        "published": "Sat, 07 Nov 2026 14:36:54 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Wo um Hamburg herum für Pendler noch Schnäppchen locken",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-um-hamburg-herum-fuer-pendler-noch-schnaeppchen-locken/100262282.html",
+        "published": "Sat, 07 Nov 2026 11:10:58 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Vermögen: Schenkung an Kinder – Diese Zusatzkosten sollten Sie kennen",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/vermoegen-schenkung-an-kinder-diese-zusatzkosten-sollten-sie-kennen/100265997.html",
+        "published": "Sat, 07 Nov 2026 09:47:20 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "EZB: Spanien nominiert Pablo Hernandez de Cos für Lagarde-Nachfolge",
@@ -103,27 +121,63 @@
         "title": "Musterdepot – Dynamik: Amazon und Alphabet werden derzeit falsch bewertet",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-amazon-und-alphabet-werden-derzeit-falsch-bewertet/100267490.html",
         "published": "Thu, 05 Nov 2026 16:58:02 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax-Rekord: Warum deutsche Aktien besonders deutlich von den Midterms profitieren",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/dax-rekord-warum-deutsche-aktien-besonders-stark-von-den-midterms-profitieren/100267495.html",
-        "published": "Thu, 05 Nov 2026 16:57:17 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax schließt nach US-Börseneinbruch im Minus – Chipaktien verlieren teils zweistellig",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-nach-us-boerseneinbruch-im-minus/100267493.html",
-        "published": "Thu, 05 Nov 2026 16:53:13 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Steuererklärung: Bonus bekommen? So sparen Prämierte auch noch Steuern",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-so-vermeiden-beschaeftigte-steuern-auf-ihren-jahresbonus/100003952.html",
-        "published": "Thu, 05 Nov 2026 14:45:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Berkshire Hathaway Boosts Buybacks as Operating Earnings Slide",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
+        "published": "Sat, 07 Nov 2026 13:01:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Young Travelers Are Warming Up to Cruises",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-07/young-travelers-are-warming-up-to-cruises-video",
+        "published": "Sat, 07 Nov 2026 14:27:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Economy and Democracy Drove the Blue Wave",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-07/economy-and-democracy-drove-the-blue-wave-video",
+        "published": "Sat, 07 Nov 2026 14:19:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Berkshire Makes Record $9.6 Billion Buyback",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-07/berkshire-makes-record-9-6-billion-buyback-video",
+        "published": "Sat, 07 Nov 2026 14:00:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Turkey Arrests Former Regulatory Executive in Growing Fund Probe",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
+        "published": "Sat, 07 Nov 2026 13:56:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-07/wall-street-strategists-call-stock-rout-a-fresh-reason-to-buy",
+        "published": "Sat, 07 Nov 2026 13:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-07/by-the-way-headlines-you-may-have-missed-video",
+        "published": "Sat, 07 Nov 2026 13:25:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Jobs Surge Raises Odds of December Fed Hike",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-07/us-jobs-surge-raises-odds-of-december-fed-hike-video",
+        "published": "Sat, 07 Nov 2026 13:16:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
+        "published": "Sat, 07 Nov 2026 13:00:00 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
@@ -189,63 +243,15 @@
         "title": "AI-Generated Movie Heading Theaters",
         "link": "https://www.bloomberg.com/news/videos/2026-11-06/ai-generated-movie-heading-theaters-video",
         "published": "Fri, 06 Nov 2026 22:29:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Providing Capital to Tech Companies: Masters In Business with Ann Berry",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/masters-in-business-with-ann-berry-video",
-        "published": "Fri, 06 Nov 2026 22:15:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Canadian Dollar Notches Worst Week Since September on Weak Jobs",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs",
-        "published": "Fri, 06 Nov 2026 18:48:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ann Berry on the Importance of Learning AI",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/ann-berry-on-the-importance-of-learning-ai-video",
-        "published": "Fri, 06 Nov 2026 22:01:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Airbnb Surges 12% as Growth Accelerates and Outlook Rises | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/airbnb-surges-on-growth-outlook-closing-bell-video",
-        "published": "Fri, 06 Nov 2026 21:32:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hedge Funds Fled Bullish Oil Bets Ahead of Election Day Drop",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-funds-fled-bullish-oil-bets-ahead-of-election-day-drop",
-        "published": "Fri, 06 Nov 2026 21:29:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms",
-        "published": "Fri, 06 Nov 2026 00:09:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Grapples With $5.7 Trillion Rout as AI Bets Unwind",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes",
-        "published": "Fri, 06 Nov 2026 21:23:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Chip Stocks Climb After Rout, But AI Doubts Linger: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 05 Nov 2026 22:17:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Retail Traders Cautiously Buy Stocks After Worst Rout Since 2025",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025",
-        "published": "Fri, 06 Nov 2026 21:05:54 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Nur 18 aus fast 1.900 Aktien bestehen diesen Test",
+        "link": "https://www.onvista.de/news/2026/11-07-nur-18-aus-fast-1-900-aktien-bestehen-diesen-test-41121763-19-26573395",
+        "published": "Sat, 07 Nov 2026 14:00:01 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Dax knickt nach Tech-Abverkauf ein - Rheinmetall sinkt weiter",
@@ -389,12 +395,6 @@
         "title": "Nach Kurssturz: Wie günstig Alphabet jetzt wirklich ist",
         "link": "https://www.onvista.de/news/2026/11-05-nach-kurssturz-wie-guenstig-alphabet-jetzt-wirklich-ist-41122522-19-26572482",
         "published": "Thu, 05 Nov 2026 11:56:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Neues Dax-Allzeithoch: Welche Kurse nun möglich sind",
-        "link": "https://www.onvista.de/news/2026/11-05-neues-dax-allzeithoch-welche-kurse-nun-moeglich-sind-41123281-19-26572848",
-        "published": "Thu, 05 Nov 2026 10:55:01 +0100"
       }
     ],
     "Börse Frankfurt – News": [
