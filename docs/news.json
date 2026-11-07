@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-07T15:07:28.707084+00:00",
+  "updated_at": "2026-11-07T19:23:10.760785+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "US-Holdinggesellschaft: Berkshire Hathaway kauft mehr eigene Aktien zurück",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/us-holdinggesellschaft-berkshire-hathaway-kauft-mehr-eigene-aktien-zurueck/100268115.html",
-        "published": "Sat, 07 Nov 2026 14:36:54 GMT"
+        "title": "Quartalszahlen: Berkshire meldet Gewinnrückgang, doch die Aktie profitiert",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/quartalszahlen-berkshire-meldet-gewinnrueckgang-doch-die-aktie-profitiert/100268115.html",
+        "published": "Sat, 07 Nov 2026 15:57:11 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -126,9 +126,51 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Berkshire Hathaway Boosts Buybacks as Operating Earnings Slide",
+        "title": "Top Turkish Regulators Taken Into Custody in Fund Probe",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
+        "published": "Sat, 07 Nov 2026 13:56:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "New Chief of Staff, Chain Reaction Tech Selloff",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video",
+        "published": "Sat, 07 Nov 2026 17:14:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+        "published": "Sat, 07 Nov 2026 15:59:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
         "link": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
         "published": "Sat, 07 Nov 2026 13:01:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ken Chenault on Leadership in an Age of AI",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video",
+        "published": "Sat, 07 Nov 2026 15:32:55 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "A Historic First for Women at the Metropolitan Opera",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video",
+        "published": "Sat, 07 Nov 2026 15:23:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How the Iran War Is Making Alaskans Both Richer and Poorer",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video",
+        "published": "Sat, 07 Nov 2026 15:04:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Protein Craze Fuels an Investment Boom in Livestock Health",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-07/protein-craze-fuels-an-investment-boom-in-livestock-health",
+        "published": "Sat, 07 Nov 2026 15:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -147,12 +189,6 @@
         "title": "Berkshire Makes Record $9.6 Billion Buyback",
         "link": "https://www.bloomberg.com/news/videos/2026-11-07/berkshire-makes-record-9-6-billion-buyback-video",
         "published": "Sat, 07 Nov 2026 14:00:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Turkey Arrests Former Regulatory Executive in Growing Fund Probe",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
-        "published": "Sat, 07 Nov 2026 13:56:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -207,42 +243,6 @@
         "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
         "link": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
         "published": "Fri, 06 Nov 2026 00:24:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Corner Store Brings Its New York Experience to the Las Vegas Strip",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/the-corner-store-brings-nyc-experience-to-vegas-strip-video",
-        "published": "Fri, 06 Nov 2026 23:49:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Elanco Shares Jump After Q3 Beat and Outlook Raise",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/elanco-shares-jump-after-q3-beat-and-outlook-raise-video",
-        "published": "Fri, 06 Nov 2026 23:30:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Sweetgreen CEO Says Sales Rebound After Cyclospora-Related Traffic Drop",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/sweetgreen-ceo-on-earnings-sales-rebound-video",
-        "published": "Fri, 06 Nov 2026 23:26:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "FIGS Beats Earnings as Demand Outstrips Supply, CEO Trina Spear Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/figs-ceo-trina-spears-on-earnings-beat-video",
-        "published": "Fri, 06 Nov 2026 23:21:26 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Braskem Owners Pull Funding Offer as Debt Talks Hit Snag",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags",
-        "published": "Fri, 06 Nov 2026 19:38:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI-Generated Movie Heading Theaters",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-06/ai-generated-movie-heading-theaters-video",
-        "published": "Fri, 06 Nov 2026 22:29:48 GMT"
       }
     ],
     "onvista – News": [
