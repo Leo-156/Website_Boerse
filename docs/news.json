@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T19:23:10.760785+00:00",
+  "updated_at": "2026-11-07T22:50:05.806625+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,12 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
+        "published": "Sat, 07 Nov 2026 20:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Top Turkish Regulators Taken Into Custody in Fund Probe",
         "link": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
         "published": "Sat, 07 Nov 2026 13:56:55 GMT"
@@ -237,12 +243,6 @@
         "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
         "link": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
         "published": "Sat, 07 Nov 2026 01:54:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
-        "published": "Fri, 06 Nov 2026 00:24:58 GMT"
       }
     ],
     "onvista – News": [
