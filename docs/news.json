@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T02:03:33.335047+00:00",
+  "updated_at": "2026-11-07T08:41:29.361698+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,30 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-07/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch",
+        "published": "Sat, 07 Nov 2026 08:00:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Why India’s Stock Markets Hold a Session on Diwali: Explainer",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-07/why-india-s-stock-markets-hold-a-session-on-diwali-explainer",
+        "published": "Sat, 07 Nov 2026 04:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop",
+        "published": "Sat, 07 Nov 2026 02:26:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
+        "published": "Sat, 07 Nov 2026 01:54:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
         "link": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
         "published": "Fri, 06 Nov 2026 00:24:58 GMT"
@@ -219,30 +243,6 @@
         "title": "Retail Traders Cautiously Buy Stocks After Worst Rout Since 2025",
         "link": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025",
         "published": "Fri, 06 Nov 2026 21:05:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Oil Swings as Traders Parse Iran War De-Escalation Prospects",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
-        "published": "Fri, 06 Nov 2026 08:38:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
-        "published": "Fri, 06 Nov 2026 01:26:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Bonds’ Election Rally Skids to Halt After Strong Jobs Data",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets",
-        "published": "Fri, 06 Nov 2026 13:47:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Sees US Hitting $41.1 Trillion Debt Cap in February",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-sees-us-hitting-41-1-trillion-debt-cap-in-february",
-        "published": "Fri, 06 Nov 2026 20:33:40 GMT"
       }
     ],
     "onvista – News": [
