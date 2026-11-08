@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T01:54:43.122342+00:00",
+  "updated_at": "2026-11-08T08:06:30.361044+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,18 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
+        "published": "Sun, 08 Nov 2026 04:02:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Raises Delegate Count to 2,360 for 2027 Party Congress",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress",
+        "published": "Sun, 08 Nov 2026 03:29:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
         "link": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
         "published": "Sun, 08 Nov 2026 00:00:00 GMT"
@@ -231,18 +243,6 @@
         "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
         "link": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
         "published": "Sat, 07 Nov 2026 13:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch",
-        "published": "Sat, 07 Nov 2026 08:00:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Why India’s Stock Markets Hold a Session on Diwali: Explainer",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/why-india-s-stock-markets-hold-a-session-on-diwali-explainer",
-        "published": "Sat, 07 Nov 2026 04:30:00 GMT"
       }
     ],
     "onvista – News": [
@@ -462,15 +462,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
-        "published": "Fri, 06 Nov 2026 14:22:11 +0100"
+        "title": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
+        "published": "Sun, 08 Nov 2026 08:35:33 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
         "title": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
         "published": "Fri, 06 Nov 2026 18:30:36 +0100"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
+        "published": "Fri, 06 Nov 2026 14:22:11 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
         "published": "Tue, 20 Oct 2026 14:15:27 +0200"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Sorgen um Frankreich belasten den Euro",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-frankreich-proteste-euro-100.html",
-        "published": "Mon, 19 Oct 2026 14:05:00 +0200"
       }
     ]
   }
