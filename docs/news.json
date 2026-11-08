@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-11-08T08:06:30.361044+00:00",
+  "updated_at": "2026-11-08T15:06:24.328721+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Von wegen KI-Ängste – Investoren reißen sich um neue Anleihen von Big Tech",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-ki-aengste-investoren-reissen-sich-um-neue-anleihen-von-big-tech/100266249.html",
+        "published": "Sun, 08 Nov 2026 13:17:40 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Hackerangriff: Kryptoplattform Binance wechselt Finanzvorstand aus",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/hackerangriff-kryptoplattform-binance-wechselt-finanzvorstand-aus/100268211.html",
+        "published": "Sun, 08 Nov 2026 13:01:39 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Versicherungen: Frankfurter Leben kämpft mit Problemfällen im Private-Credit-Portfolio",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-fehlgriffe-bei-privatmarkt-anlagen-belasten-frankfurter-leben/100263978.html",
+        "published": "Sun, 08 Nov 2026 11:52:21 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Vermögen: Schenkung an Kinder – Warum das kompliziert werden kann",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/vermoegen-schenkung-an-kinder-warum-das-kompliziert-werden-kann/100265997.html",
+        "published": "Sun, 08 Nov 2026 10:12:58 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilienmarkt: Neubauwohnungen lohnen sich für Vermieter nicht – oder doch?",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/neubau-als-kapitalanlage-so-rechnet-sich-die-vermietung/100267906.html",
+        "published": "Sun, 08 Nov 2026 08:08:23 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Quartalszahlen: Berkshire meldet Gewinnrückgang, doch die Aktie profitiert",
@@ -13,12 +43,6 @@
         "title": "Immobilien: Wo um Hamburg herum für Pendler noch Schnäppchen locken",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-um-hamburg-herum-fuer-pendler-noch-schnaeppchen-locken/100262282.html",
         "published": "Sat, 07 Nov 2026 11:10:58 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Vermögen: Schenkung an Kinder – Diese Zusatzkosten sollten Sie kennen",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/vermoegen-schenkung-an-kinder-diese-zusatzkosten-sollten-sie-kennen/100265997.html",
-        "published": "Sat, 07 Nov 2026 09:47:20 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -97,33 +121,81 @@
         "title": "Versicherung: Nürnberger will verstärkt über Kooperationen zulegen",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-nuernberger-will-verstaerkt-ueber-kooperationen-zulegen/100263685.html",
         "published": "Fri, 06 Nov 2026 03:01:18 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Aktie im Blick: Der Apple-Konzern hat ein Luxusproblem, die Aktie ebenso",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktie-im-blick-der-apple-konzern-hat-ein-luxusproblem-die-aktie-ebenso/100267063.html",
-        "published": "Fri, 06 Nov 2026 03:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: „KI-Blutbad“ an den Märkten: Rund drei Billionen Dollar Börsenwert an einem Tag vernichtet",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/wall-street-ki-blutbad-an-us-boersen-sp-500-bricht-um-vier-prozent-ein/100267625.html",
-        "published": "Thu, 05 Nov 2026 22:40:26 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Investmentbank: Goldman Sachs nennt bei Partner-Beförderungen keine Diversitätsdaten mehr",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/us-investmentbank-goldman-sachs-nennt-bei-partner-befoerderungen-keine-diversitaetsdaten-mehr/100267736.html",
-        "published": "Thu, 05 Nov 2026 21:33:20 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Musterdepot – Dynamik: Amazon und Alphabet werden derzeit falsch bewertet",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-amazon-und-alphabet-werden-derzeit-falsch-bewertet/100267490.html",
-        "published": "Thu, 05 Nov 2026 16:58:02 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "New House Democrats Set Their Priorities",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video",
+        "published": "Sun, 08 Nov 2026 14:58:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Luxury Gyms Turn Fitness Into a Family Affair",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video",
+        "published": "Sun, 08 Nov 2026 14:40:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump’s $1.5 Trillion Defense Budget to Be Blocked by Democrats",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/trump-s-1-5-trillion-defense-budget-to-be-blocked-by-democrats",
+        "published": "Sun, 08 Nov 2026 14:40:26 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Seattle and Las Vegas Make Their NBA Pitch",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
+        "published": "Sun, 08 Nov 2026 14:28:18 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ukraine Peace Push Returns to Abu Dhabi",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/ukraine-peace-push-returns-to-abu-dhabi-video",
+        "published": "Sun, 08 Nov 2026 14:05:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
+        "published": "Sun, 08 Nov 2026 14:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Democratic Sweep Tests Trump-Linked Trades Across Latin America",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/democratic-sweep-tests-trump-linked-trades-across-latin-america",
+        "published": "Sun, 08 Nov 2026 13:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How Everyday Apps Feed Police Surveillance",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/how-everyday-apps-feed-police-surveillance-video",
+        "published": "Sun, 08 Nov 2026 13:19:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Poland Probes Krakow Shooting as Terrorism",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/poland-probes-krakow-shooting-as-terrorism-video",
+        "published": "Sun, 08 Nov 2026 13:06:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "What America’s Factories Reveal About the Economy",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/what-america-s-factories-reveal-about-the-economy-video",
+        "published": "Sun, 08 Nov 2026 13:03:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gabon Seeks $2 Billion to Revive Mabounie Rare Earths Project",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/gabon-seeks-2-billion-to-revive-mabounie-rare-earths-project",
+        "published": "Sun, 08 Nov 2026 11:27:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Indian Stocks Snap Diwali Win Streak in First Drop Since 2017",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/indian-stocks-rise-in-special-diwali-trading-session-on-sunday",
+        "published": "Sun, 08 Nov 2026 09:12:33 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
@@ -171,81 +243,15 @@
         "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
         "link": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
         "published": "Sat, 07 Nov 2026 15:59:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
-        "published": "Sat, 07 Nov 2026 13:01:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ken Chenault on Leadership in an Age of AI",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video",
-        "published": "Sat, 07 Nov 2026 15:32:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "A Historic First for Women at the Metropolitan Opera",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video",
-        "published": "Sat, 07 Nov 2026 15:23:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How the Iran War Is Making Alaskans Both Richer and Poorer",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video",
-        "published": "Sat, 07 Nov 2026 15:04:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Protein Craze Fuels an Investment Boom in Livestock Health",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/protein-craze-fuels-an-investment-boom-in-livestock-health",
-        "published": "Sat, 07 Nov 2026 15:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Young Travelers Are Warming Up to Cruises",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/young-travelers-are-warming-up-to-cruises-video",
-        "published": "Sat, 07 Nov 2026 14:27:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Economy and Democracy Drove the Blue Wave",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/economy-and-democracy-drove-the-blue-wave-video",
-        "published": "Sat, 07 Nov 2026 14:19:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Berkshire Makes Record $9.6 Billion Buyback",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/berkshire-makes-record-9-6-billion-buyback-video",
-        "published": "Sat, 07 Nov 2026 14:00:16 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/wall-street-strategists-call-stock-rout-a-fresh-reason-to-buy",
-        "published": "Sat, 07 Nov 2026 13:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "By The Way: Headlines You May Have Missed",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/by-the-way-headlines-you-may-have-missed-video",
-        "published": "Sat, 07 Nov 2026 13:25:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Jobs Surge Raises Odds of December Fed Hike",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/us-jobs-surge-raises-odds-of-december-fed-hike-video",
-        "published": "Sat, 07 Nov 2026 13:16:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
-        "published": "Sat, 07 Nov 2026 13:00:00 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Anleihe gefragt, Aktie geschmäht: Wer hat recht bei Meta?",
+        "link": "https://www.onvista.de/news/2026/11-08-anleihe-gefragt-aktie-geschmaeht-wer-hat-recht-bei-meta-41122522-19-26572957",
+        "published": "Sun, 08 Nov 2026 09:30:01 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Nur 18 aus fast 1.900 Aktien bestehen diesen Test",
@@ -389,12 +395,6 @@
         "title": "Rheinmetall senkt Prognose – App Lovin glänzt",
         "link": "https://www.onvista.de/news/2026/11-05-rheinmetall-senkt-prognose-app-lovin-glaenzt-40338625-19-26572916",
         "published": "Thu, 05 Nov 2026 12:52:52 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Nach Kurssturz: Wie günstig Alphabet jetzt wirklich ist",
-        "link": "https://www.onvista.de/news/2026/11-05-nach-kurssturz-wie-guenstig-alphabet-jetzt-wirklich-ist-41122522-19-26572482",
-        "published": "Thu, 05 Nov 2026 11:56:00 +0100"
       }
     ],
     "Börse Frankfurt – News": [
