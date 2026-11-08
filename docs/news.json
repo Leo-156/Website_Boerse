@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T15:06:24.328721+00:00",
+  "updated_at": "2026-11-08T19:37:07.452424+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,48 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/saudi-aramco-tower-targeted-in-rare-strike-on-riyadh-finance-hub",
+        "published": "Sun, 08 Nov 2026 17:15:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/bloomberg-this-weekend-11-8-2026-video",
+        "published": "Sun, 08 Nov 2026 17:03:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bookmarked: News Stories On Our Reading List",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/bookmarked-news-stories-on-our-reading-list-video",
+        "published": "Sun, 08 Nov 2026 16:30:18 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video",
+        "published": "Sun, 08 Nov 2026 16:23:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Markets Brace for Washington Policy Battles",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/markets-brace-for-washington-policy-battles-video",
+        "published": "Sun, 08 Nov 2026 16:17:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Israel’s Election Fight Shifts to Coalition Building",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video",
+        "published": "Sun, 08 Nov 2026 15:49:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Can Europe Afford Its Welfare State?",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
+        "published": "Sun, 08 Nov 2026 15:02:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "New House Democrats Set Their Priorities",
         "link": "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video",
         "published": "Sun, 08 Nov 2026 14:58:22 GMT"
@@ -135,12 +177,6 @@
         "title": "Luxury Gyms Turn Fitness Into a Family Affair",
         "link": "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video",
         "published": "Sun, 08 Nov 2026 14:40:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump’s $1.5 Trillion Defense Budget to Be Blocked by Democrats",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-08/trump-s-1-5-trillion-defense-budget-to-be-blocked-by-democrats",
-        "published": "Sun, 08 Nov 2026 14:40:26 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -204,48 +240,18 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Raises Delegate Count to 2,360 for 2027 Party Congress",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress",
-        "published": "Sun, 08 Nov 2026 03:29:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
         "link": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
         "published": "Sun, 08 Nov 2026 00:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
-        "published": "Sat, 07 Nov 2026 23:54:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
-        "published": "Sat, 07 Nov 2026 20:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Top Turkish Regulators Taken Into Custody in Fund Probe",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
-        "published": "Sat, 07 Nov 2026 13:56:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "New Chief of Staff, Chain Reaction Tech Selloff",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video",
-        "published": "Sat, 07 Nov 2026 17:14:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-        "published": "Sat, 07 Nov 2026 15:59:54 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Die Stimmung der Börsen ist am Boden - ein gutes Zeichen",
+        "link": "https://www.onvista.de/news/2026/11-08-die-stimmung-der-boersen-ist-am-boden-ein-gutes-zeichen-40338625-19-26573895",
+        "published": "Sun, 08 Nov 2026 19:55:01 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Anleihe gefragt, Aktie geschmäht: Wer hat recht bei Meta?",
@@ -389,12 +395,6 @@
         "title": "Dax nach Rekord im Minus: KI-Sorgen und Rheinmetall belasten",
         "link": "https://www.onvista.de/news/2026/11-05-dax-nach-rekord-im-minus-ki-sorgen-und-rheinmetall-belasten-41121301-19-26573123",
         "published": "Thu, 05 Nov 2026 17:50:32 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Rheinmetall senkt Prognose – App Lovin glänzt",
-        "link": "https://www.onvista.de/news/2026/11-05-rheinmetall-senkt-prognose-app-lovin-glaenzt-40338625-19-26572916",
-        "published": "Thu, 05 Nov 2026 12:52:52 +0100"
       }
     ],
     "Börse Frankfurt – News": [
