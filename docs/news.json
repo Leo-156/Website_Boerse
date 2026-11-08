@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T19:37:07.452424+00:00",
+  "updated_at": "2026-11-08T23:07:09.012095+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,24 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+        "published": "Sun, 08 Nov 2026 22:20:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "New Zealand Dollar Advances as Ruling Party Gets Election Edge",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/new-zealand-dollar-advances-as-ruling-party-gets-election-edge",
+        "published": "Sun, 08 Nov 2026 22:07:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
+        "published": "Sun, 08 Nov 2026 20:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub",
         "link": "https://www.bloomberg.com/news/articles/2026-11-08/saudi-aramco-tower-targeted-in-rare-strike-on-riyadh-finance-hub",
         "published": "Sun, 08 Nov 2026 17:15:42 GMT"
@@ -225,27 +243,15 @@
         "title": "Gabon Seeks $2 Billion to Revive Mabounie Rare Earths Project",
         "link": "https://www.bloomberg.com/news/articles/2026-11-08/gabon-seeks-2-billion-to-revive-mabounie-rare-earths-project",
         "published": "Sun, 08 Nov 2026 11:27:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Indian Stocks Snap Diwali Win Streak in First Drop Since 2017",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-08/indian-stocks-rise-in-special-diwali-trading-session-on-sunday",
-        "published": "Sun, 08 Nov 2026 09:12:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
-        "published": "Sun, 08 Nov 2026 04:02:33 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
-        "published": "Sun, 08 Nov 2026 00:00:00 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "VW Bank zahlt 3,75 %: Dieses Tagesgeld-Angebot kann sich sehen lassen",
+        "link": "https://www.onvista.de/news/2026/11-08-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
+        "published": "Sun, 08 Nov 2026 21:05:43 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Die Stimmung der Börsen ist am Boden - ein gutes Zeichen",
@@ -389,12 +395,6 @@
         "title": "Dividendenkalender heute,  06.11.2026",
         "link": "https://www.onvista.de/news/2026/11-06-dividendenalarm-heute-06-11-2026-41121301-19-26573236",
         "published": "Fri, 06 Nov 2026 06:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax nach Rekord im Minus: KI-Sorgen und Rheinmetall belasten",
-        "link": "https://www.onvista.de/news/2026/11-05-dax-nach-rekord-im-minus-ki-sorgen-und-rheinmetall-belasten-41121301-19-26573123",
-        "published": "Thu, 05 Nov 2026 17:50:32 +0100"
       }
     ],
     "Börse Frankfurt – News": [
