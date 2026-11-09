@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T23:07:09.012095+00:00",
+  "updated_at": "2026-11-09T02:36:59.445410+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,9 +126,75 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap",
+        "title": "Latest Oil Market News and Analysis for Nov. 9",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
+        "published": "Sun, 08 Nov 2026 23:03:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China’s Cheap Domestic Gas Curbs LNG Buying as Winter Nears",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-09/china-s-cheap-domestic-gas-curbs-lng-buying-as-winter-nears",
+        "published": "Mon, 09 Nov 2026 02:20:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Philippine Economy Unexpectedly Slows, Pressuring Marcos",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos",
+        "published": "Mon, 09 Nov 2026 02:03:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asian Stocks Follow US Gains, Nvidia Probe Looms: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
         "published": "Sun, 08 Nov 2026 22:20:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Mizuho Pierces Nomura’s Japan Bubble With Big-Ticket Global IPOs",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-09/mizuho-pierces-nomura-s-japan-bubble-with-big-ticket-global-ipos",
+        "published": "Mon, 09 Nov 2026 02:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Berkshire Plans First Japan Bond Offering Since April",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-09/berkshire-hathaway-plans-first-japan-bond-offering-since-april",
+        "published": "Mon, 09 Nov 2026 01:04:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Gains as Oil Extends Fall and Nvidia Probe Rattles Markets",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
+        "published": "Sun, 08 Nov 2026 23:40:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Short Bonds May Underperform on Rate Hikes, Cash Squeeze",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-09/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze",
+        "published": "Mon, 09 Nov 2026 01:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Lula Vows Fiscal Responsibility in First Address Since Election",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-09/lula-vows-fiscal-responsibility-in-first-address-since-election",
+        "published": "Mon, 09 Nov 2026 01:09:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Sudden Distress at Top-Rated Firm Tests China’s Rating Crackdown",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/sudden-distress-at-top-rated-firm-tests-china-s-rating-crackdown",
+        "published": "Sun, 08 Nov 2026 23:52:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nvidia Probes Huang Affair Amid Spying Controversy",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/nvidia-probes-huang-affair-amid-spying-controversy-video",
+        "published": "Sun, 08 Nov 2026 23:22:53 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Australia Regulator Halts Private Credit Fund on Bathla Risks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/australia-regulator-halts-private-credit-fund-on-bathla-risks",
+        "published": "Sun, 08 Nov 2026 22:57:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -141,12 +207,6 @@
         "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
         "link": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
         "published": "Sun, 08 Nov 2026 20:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-08/saudi-aramco-tower-targeted-in-rare-strike-on-riyadh-finance-hub",
-        "published": "Sun, 08 Nov 2026 17:15:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -183,66 +243,6 @@
         "title": "Can Europe Afford Its Welfare State?",
         "link": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
         "published": "Sun, 08 Nov 2026 15:02:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "New House Democrats Set Their Priorities",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video",
-        "published": "Sun, 08 Nov 2026 14:58:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Luxury Gyms Turn Fitness Into a Family Affair",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video",
-        "published": "Sun, 08 Nov 2026 14:40:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Seattle and Las Vegas Make Their NBA Pitch",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
-        "published": "Sun, 08 Nov 2026 14:28:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ukraine Peace Push Returns to Abu Dhabi",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-08/ukraine-peace-push-returns-to-abu-dhabi-video",
-        "published": "Sun, 08 Nov 2026 14:05:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
-        "published": "Sun, 08 Nov 2026 14:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Democratic Sweep Tests Trump-Linked Trades Across Latin America",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-08/democratic-sweep-tests-trump-linked-trades-across-latin-america",
-        "published": "Sun, 08 Nov 2026 13:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How Everyday Apps Feed Police Surveillance",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-08/how-everyday-apps-feed-police-surveillance-video",
-        "published": "Sun, 08 Nov 2026 13:19:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Poland Probes Krakow Shooting as Terrorism",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-08/poland-probes-krakow-shooting-as-terrorism-video",
-        "published": "Sun, 08 Nov 2026 13:06:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "What America’s Factories Reveal About the Economy",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-08/what-america-s-factories-reveal-about-the-economy-video",
-        "published": "Sun, 08 Nov 2026 13:03:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gabon Seeks $2 Billion to Revive Mabounie Rare Earths Project",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-08/gabon-seeks-2-billion-to-revive-mabounie-rare-earths-project",
-        "published": "Sun, 08 Nov 2026 11:27:12 GMT"
       }
     ],
     "onvista – News": [
