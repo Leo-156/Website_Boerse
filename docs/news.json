@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-10T03:00:27.422154+00:00",
+  "updated_at": "2026-11-10T11:01:52.652033+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "EZB: Ein „kluger“ Schritt: Chefvolkswirt Lane stimmt Märkte auf weitere Zinserhöhung ein",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-chefvolkswirt-lane-stimmt-maerkte-auf-weitere-zinserhoehung-ein/100268748.html",
+        "published": "Tue, 10 Nov 2026 10:32:17 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Energie: Ölpreis sinkt erstmals seit August wieder unter 90 Dollar",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/energie-oelpreis-sinkt-erstmals-seit-august-wieder-unter-90-dollar/100268734.html",
+        "published": "Tue, 10 Nov 2026 10:04:52 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: „Aus Angst ist innerhalb weniger Tage Gier geworden“ – Dax steuert auf Rekord zu",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-auf-rekordjagd-dax-notiert-deutlich-ueber-26.000-punkten/100268632.html",
+        "published": "Tue, 10 Nov 2026 09:53:07 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-zehn-erkenntnisse-aus-meinem-start-mit-etfs/100184984.html",
+        "published": "Tue, 10 Nov 2026 09:24:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: Crédit Agricole plant wohl Zugeständnisse für Banco-BPM-Fusion",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-credit-agricole-plant-wohl-zugestaendnisse-fuer-banco-bpm-fusion/100268697.html",
+        "published": "Tue, 10 Nov 2026 08:51:45 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Kopsi, Topix: Asiatische Börsen auf Erholungskurs – KI-Werte treiben Nikkei an",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kopsi-topix-asiatische-boersen-auf-erholungskurs-ki-werte-treiben-nikkei-an/100268587.html",
+        "published": "Tue, 10 Nov 2026 08:31:21 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Mietsteigerung: In diesen Großstädten wird es besonders teuer – Entwicklung unterscheidet sich regional deutlich",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-die-mieten-in-deutschland-am-staerksten-steigen/100266848.html",
+        "published": "Tue, 10 Nov 2026 10:46:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 10. November: Sechs Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Tue, 10 Nov 2026 05:19:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Huang-Affäre: „Jensen ist unersetzbar“: Nvidia-Aktie fällt wegen Spionage-Skandal",
@@ -23,8 +71,8 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Märkte Insight: Viele Value-ETFs sind eine Value-Falle",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-viele-value-etfs-sind-eine-value-falle/100268240.html",
-        "published": "Mon, 09 Nov 2026 16:51:43 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-diese-risiken-koennen-sich-in-value-etfs-verbergen/100268240.html",
+        "published": "Tue, 10 Nov 2026 06:56:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -35,8 +83,8 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Interview: Tech-Investor Beckers zu KI-Aktien: „Ein Sicherheitsereignis könnte einen großen Schock auslösen“",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/tech-investor-jan-beckers-solche-abverkaeufe-sind-gesund/100266549.html",
-        "published": "Mon, 09 Nov 2026 15:39:32 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/tech-investor-ein-sicherheitsereignis-koennte-einen-grossen-schock-ausloesen/100266549.html",
+        "published": "Tue, 10 Nov 2026 06:24:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -73,75 +121,9 @@
         "title": "Börse: Chinas KI-Boom bekommt Risse: Private und institutionelle Aktienanleger ziehen ihr Geld ab",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/aktienmarkt-chinas-ki-boom-bekommt-risse/100267523.html",
         "published": "Mon, 09 Nov 2026 11:38:28 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Diese drei Welt-ETFs trotzen der Tech-Krise",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-diese-drei-welt-etfs-trotzen-der-tech-krise/100268238.html",
-        "published": "Mon, 09 Nov 2026 10:47:05 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Arbeitszeit: Volksbank gleicht fehlendes Homeoffice mit mehr Urlaub aus",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/arbeitszeit-volksbank-gleicht-fehlendes-homeoffice-mit-mehr-urlaub-aus/100268406.html",
-        "published": "Mon, 09 Nov 2026 09:35:18 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Crédit Agricole will Banco BPM mit Italien-Tochter fusionieren",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-credit-agricole-will-banco-bpm-mit-italien-tochter-fusionieren/100268387.html",
-        "published": "Mon, 09 Nov 2026 08:43:48 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei, Kospi, Taiex: Nvidia-Spionageskandal belastet die asiatischen Chipwerte",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/zweifel-an-zukunft-von-nvidia-chef-huang-bremsen-suedkoreas-boerse/100268306.html",
-        "published": "Mon, 09 Nov 2026 07:28:36 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Versicherer: Hannover Rück sieht sich auf Kurs – trotz schwierigen Marktumfelds",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherer-hannover-rueck-sieht-sich-auf-kurs-trotz-schwierigen-marktumfelds/100266548.html",
-        "published": "Mon, 09 Nov 2026 07:06:38 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 9. November: Sechs Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Mon, 09 Nov 2026 05:19:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Von wegen KI-Ängste – Investoren reißen sich um neue Anleihen von Big Tech",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-ki-aengste-investoren-reissen-sich-um-neue-anleihen-von-big-tech/100266249.html",
-        "published": "Sun, 08 Nov 2026 13:17:40 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Hackerangriff: Kryptoplattform Binance wechselt Finanzvorstand aus",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/hackerangriff-kryptoplattform-binance-wechselt-finanzvorstand-aus/100268211.html",
-        "published": "Sun, 08 Nov 2026 13:01:39 GMT"
       }
     ],
     "Bloomberg – Markets": [
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Ride Tech Rally Higher as Oil Drops: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 09 Nov 2026 22:16:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hegseth Hits Out at Critics as Massie Pushes Impeachment",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-10/hegseth-hits-out-at-critics-as-massie-pushes-impeachment-video",
-        "published": "Tue, 10 Nov 2026 02:49:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Singapore’s Interbank Rate Hits Highest in More Than a Year",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-interbank-rate-climbs-to-highest-in-more-than-a-year",
-        "published": "Tue, 10 Nov 2026 01:21:22 GMT"
-      },
       {
         "source": "Bloomberg – Markets",
         "title": "Latest Oil Market News and Analysis for Nov. 10",
@@ -150,39 +132,33 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Kioxia Leveraged Product Debuts in HK After One Year Hiatus",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/kioxia-leveraged-product-debuts-in-hk-after-one-year-hiatus",
-        "published": "Tue, 10 Nov 2026 01:59:09 GMT"
+        "title": "French Grocer Casino Agrees Debt Deal With Opposing Creditors",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/french-grocer-casino-agrees-debt-deal-with-opposing-creditors",
+        "published": "Tue, 10 Nov 2026 10:46:25 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Water Environment Seeks $410 Million Loan Restructuring",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/china-water-environment-seeks-410-million-loan-restructuring",
-        "published": "Tue, 10 Nov 2026 01:51:14 GMT"
+        "title": "US Stock Rebound Stalls as Waller Favors Rate Hike: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
+        "published": "Mon, 09 Nov 2026 22:16:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Berkshire Tests Wider Yen Spreads in Latest Japan Bond Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/berkshire-tests-wider-yen-spreads-in-latest-japan-bond-deal",
-        "published": "Tue, 10 Nov 2026 01:16:38 GMT"
+        "title": "Fed’s Waller Backs December Rate Hike, Open to Larger Move",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
+        "published": "Tue, 10 Nov 2026 09:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Australia Probes Bathla as Private Credit Flaws Persist",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-09/australia-watchdog-probes-bathla-as-private-credit-flaws-persist",
-        "published": "Mon, 09 Nov 2026 18:00:00 GMT"
+        "title": "ECB's Kazāks Sees Rate-Hike Judgments Getting ‘More Nuanced’",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-10/kazaks-sees-rate-hike-judgments-getting-more-nuanced-video",
+        "published": "Tue, 10 Nov 2026 10:30:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Indonesia Markets Second Panda Bond Offering Despite MSCI Threat",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/indonesia-markets-second-panda-bond-offering-despite-msci-threat",
-        "published": "Tue, 10 Nov 2026 01:02:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Sells Debut Green Bonds in Canada Amid Robust Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-09/china-starts-marketing-green-bonds-for-debut-sales-in-canada",
-        "published": "Mon, 09 Nov 2026 04:02:05 GMT"
+        "title": "'Marry the House, Date the Rate' Backfires for Stuck Homeowners",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-10/-marry-the-house-date-the-rate-backfires-for-stuck-homeowners",
+        "published": "Tue, 10 Nov 2026 10:30:28 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -192,60 +168,114 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "South Korean Stocks Jump as Chipmakers Roar Back on Dip Buying",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/south-korean-stocks-jump-as-chipmakers-roar-back-on-dip-buying",
-        "published": "Tue, 10 Nov 2026 00:09:22 GMT"
+        "title": "Fed's Waller Supports Rate Hike in December",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-supports-rate-hike-in-december-video",
+        "published": "Tue, 10 Nov 2026 10:22:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Australia Consumer Confidence Slumps on Cost-of-Living Fears",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-09/australia-s-consumer-confidence-slumps-on-cost-of-living-fears",
-        "published": "Mon, 09 Nov 2026 23:30:00 GMT"
+        "title": "Hedge-Fund Founder Shah Fights 12-Year Danish Jail Sentence Over Cum-Ex Tax Scam",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-fund-founder-shah-fights-12-year-danish-jail-sentence-over-cum-ex-tax-scam",
+        "published": "Tue, 10 Nov 2026 10:22:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes",
+        "title": "Emirates’ Clark Says Retirement Hinges on Airline’s Recovery",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-09/emirates-clark-says-retirement-plans-derailed-by-iran-war",
+        "published": "Mon, 09 Nov 2026 13:21:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "France 'Still Attractive' Despite Protests: Trade Minister",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-10/france-still-attractive-despite-protests-forissier-video",
+        "published": "Tue, 10 Nov 2026 10:03:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Extends Drop After Fed’s Waller Backs December Rate Hike",
         "link": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
         "published": "Tue, 10 Nov 2026 00:04:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Japan’s Household Spending Slumps Most Since Pandemic",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-09/japan-household-outlays-fall-for-10th-month-as-inflation-lingers",
-        "published": "Mon, 09 Nov 2026 23:34:15 GMT"
+        "title": "Can China Upend Commercial Aviation? Emirates Says Be Prepared",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/can-china-upend-commercial-aviation-emirates-says-be-prepared",
+        "published": "Tue, 10 Nov 2026 09:35:44 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "ExxonMobil Signs Deal in Step Toward Re-Entering Venezuela",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/exxonmobil-signs-deal-in-step-toward-re-entering-venezuela",
-        "published": "Tue, 10 Nov 2026 00:01:34 GMT"
+        "title": "Aluminum Falls on Reports Chinese Inventories Starting to Rise",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/copper-extends-rebound-as-global-technology-stocks-resume-rally",
+        "published": "Tue, 10 Nov 2026 03:04:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Baltic Exchange's Oil Benchmark TD3C Described as `Complete Nonsense'",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/baltic-exchange-s-oil-benchmark-td3c-described-as-complete-nonsense",
-        "published": "Tue, 10 Nov 2026 00:01:02 GMT"
+        "title": "Kioxia Leveraged Product Debuts in HK After One Year Hiatus",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/kioxia-leveraged-product-debuts-in-hk-after-one-year-hiatus",
+        "published": "Tue, 10 Nov 2026 01:59:09 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Banxico Chief Signals No Rush to Cut Again After Surprise Move",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/banxico-chief-signals-no-rush-to-cut-again-after-surprise-move",
-        "published": "Tue, 10 Nov 2026 00:00:52 GMT"
+        "title": "Lane Says ECB Shouldn't Deploy Tools to Ease France Woes",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-10/lane-says-ecb-shouldn-t-deploy-tools-to-ease-france-woes-video",
+        "published": "Tue, 10 Nov 2026 08:45:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Thai Bond Sales Set for Rebound in 2027 as AI Investment Surges",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/thai-bond-sales-set-for-rebound-in-2027-as-ai-investment-surges",
-        "published": "Tue, 10 Nov 2026 00:00:00 GMT"
+        "title": "US Gasoline Prices Drop Below $4 a Gallon After Months of Pain",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/us-gasoline-prices-drop-below-4-a-gallon-after-months-of-pain",
+        "published": "Tue, 10 Nov 2026 08:39:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Colombian Inflation Accelerates Less Than Forecast to 6.30%",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-09/colombian-inflation-accelerates-less-than-forecast-to-6-30",
-        "published": "Mon, 09 Nov 2026 23:11:49 GMT"
+        "title": "Great for Investors, Tough for Traders: Market Analysis",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-10/great-for-investors-tough-for-traders-3-minutes-mliv-video",
+        "published": "Tue, 10 Nov 2026 08:36:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Italy’s Open Fiber Said to Start Planning €8 Billion Refinancing",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/italy-s-open-fiber-said-to-start-planning-8-billion-refinancing",
+        "published": "Tue, 10 Nov 2026 08:32:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AI Rout Has Investors Scouring Emerging Markets for Bargains",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/ai-slump-sends-investors-scouring-emerging-markets-for-bargains",
+        "published": "Tue, 10 Nov 2026 06:15:00 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax vor Allzeithoch – Diese Marken sind nun wichtig",
+        "link": "https://www.onvista.de/news/2026/11-10-dax-vor-allzeithoch-diese-marken-sind-nun-wichtig-41123281-19-26574533",
+        "published": "Tue, 10 Nov 2026 11:00:30 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Leitindex legt deutlich zu – Infineon an Dax-Spitze",
+        "link": "https://www.onvista.de/news/2026/11-10-leitindex-legt-deutlich-zu-infineon-an-dax-spitze-0-19-26574482",
+        "published": "Tue, 10 Nov 2026 09:54:47 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Leitindex dürfte gestützt von fallendem Öl im Plus beginnen",
+        "link": "https://www.onvista.de/news/2026/11-10-leitindex-duerfte-gestuetzt-von-fallendem-oel-im-plus-beginnen-41121301-19-26574396",
+        "published": "Tue, 10 Nov 2026 08:01:11 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 10.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-10-finanzberichte-heute-10-11-2026-41121301-19-26574364",
+        "published": "Tue, 10 Nov 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  10.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-10-dividendenalarm-heute-10-11-2026-41121301-19-26574363",
+        "published": "Tue, 10 Nov 2026 06:00:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Dax knackt 26.000er-Marke nach zweitägiger Verlustserie",
@@ -365,36 +395,6 @@
         "title": "Dax fällt – US-Arbeitsmarktbericht stützt Fed-Zinserhöhung",
         "link": "https://www.onvista.de/news/2026/11-09-dax-faellt-us-arbeitsmarktbericht-stuetzt-fed-zinserhoehung-41121301-19-26573984",
         "published": "Mon, 09 Nov 2026 08:02:56 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Space Economy – So können Sie an ausgewählten Unternehmen aus der Raumfahrtindustrie partizipieren. Mehr dazu!",
-        "link": "https://www.sg-zertifikate.de/space-economy?utm_source=onvista&utm_medium=premiumbox-display&utm_content=space-economy&utm_campaign=zertifikate-website",
-        "published": "Mon, 09 Nov 2026 07:52:31 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 09.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-09-finanzberichte-heute-09-11-2026-41121301-19-26573946",
-        "published": "Mon, 09 Nov 2026 06:10:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  09.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-09-dividendenalarm-heute-09-11-2026-41121301-19-26573945",
-        "published": "Mon, 09 Nov 2026 06:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "VW Bank zahlt 3,75 %: Dieses Tagesgeld-Angebot kann sich sehen lassen",
-        "link": "https://www.onvista.de/news/2026/11-08-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
-        "published": "Sun, 08 Nov 2026 21:05:43 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Die Stimmung der Börsen ist am Boden - ein gutes Zeichen",
-        "link": "https://www.onvista.de/news/2026/11-08-die-stimmung-der-boersen-ist-am-boden-ein-gutes-zeichen-40338625-19-26573895",
-        "published": "Sun, 08 Nov 2026 19:55:01 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX erholt sich kräftig",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
-        "published": "Mon, 09 Nov 2026 18:18:50 +0100"
+        "title": "Marktbericht: Kursverluste nach KI-Crash fast aufgeholt",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
+        "published": "Tue, 10 Nov 2026 10:06:52 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
