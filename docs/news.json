@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-11T17:56:53.127720+00:00",
+  "updated_at": "2026-11-11T23:52:10.333005+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Cum-ex-Skandal: Die vergebliche Jagd nach Hanno Bergers Millionen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/cum-ex-skandal-die-vergebliche-jagd-nach-hanno-bergers-millionen/100267884.html",
+        "published": "Wed, 11 Nov 2026 19:27:02 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Versicherer: Allianz erhöht Gewinnprognose – Rekordgewinn nach neun Monaten",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherung-allianz-erhoeht-gewinnprognose-rekordgewinn-nach-neun-monaten/100266550.html",
+        "published": "Wed, 11 Nov 2026 18:58:28 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Nvidia kaufen oder verkaufen? So schätzen Analysten die Aktie ein",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/nvidia-aktie-kaufen-oder-verkaufen-das-sagen-analysten/100268777.html",
+        "published": "Wed, 11 Nov 2026 18:11:23 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wall Street: KI-Euphorie ist zurück – Tech-Aktien schließen deutlich im Plus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-euphorie-ist-zurueck-tech-aktien-schliessen-deutlich-im-plus/100269138.html",
+        "published": "Wed, 11 Nov 2026 17:56:11 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Märkte Insight: Wer hat Angst vor den Über-CEOs?",
@@ -13,12 +37,6 @@
         "title": "Dax aktuell: Dax schließt knapp unter Rekordniveau – KI-Profiteure gewinnen",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-knapp-unter-rekordniveau-ki-profiteure-gewinnen/100269009.html",
         "published": "Wed, 11 Nov 2026 16:50:19 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: KI-Euphorie ist zurück – Tech-Aktien legen deutlich zu",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-euphorie-ist-zurueck-tech-aktien-legen-deutlich-zu/100269138.html",
-        "published": "Wed, 11 Nov 2026 16:30:56 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -34,20 +52,14 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Nvidia kaufen oder verkaufen? So schätzen Analysten die Aktie ein",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/nvidia-aktie-kaufen-oder-verkaufen-das-sagen-analysten/100268777.html",
-        "published": "Wed, 11 Nov 2026 14:52:41 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Geldanlage: So entsteht ein ETF-Portfolio, das wenig Arbeit macht",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-entsteht-ein-etf-portfolio-das-wenig-arbeit-macht/100263502.html",
         "published": "Wed, 11 Nov 2026 14:44:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Singulus: Aktie von deutschem Maschinenbauer verdoppelt sich nach SpaceX-Auftrag",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/singulus-aktie-verdoppelt-sich-nach-spacex-auftrag/100269144.html",
+        "title": "Raumfahrt: Aktie von deutschem Maschinenbauer Singulus verdoppelt sich nach SpaceX-Auftrag",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/raumfahrt-spacex-baut-datenzentren-im-all-mithilfe-einer-deutschen-firma/100269144.html",
         "published": "Wed, 11 Nov 2026 14:19:13 GMT"
       },
       {
@@ -109,32 +121,98 @@
         "title": "Nikkei, Yen, Hang Seng: Zinssorgen belasten Märkte in Asien nicht - Indizes in Japan legen zu",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-zinssorgen-belasten-maerkte-in-asien-nicht/100268928.html",
         "published": "Wed, 11 Nov 2026 08:36:53 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 11. November: Fünf Punkte, die für Anleger heute wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Wed, 11 Nov 2026 05:12:41 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Deutschland verliert bei Immobilieninvestoren an Attraktivität",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-warum-deutschland-bei-investoren-an-attraktivitaet-verliert/100266860.html",
-        "published": "Wed, 11 Nov 2026 06:47:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "JetBlue Lenders Form Groups as Airline Downplays Financial Peril",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/jetblue-lenders-form-groups-as-airline-downplays-financial-peril",
-        "published": "Wed, 11 Nov 2026 17:52:09 GMT"
+        "title": "Pivotal Advisors CEO: Investors Should See AI as Part of Portfolio",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/mcghee-investors-should-see-ai-as-part-of-portfolio-video",
+        "published": "Wed, 11 Nov 2026 23:48:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Declines as Traders Assess US Inflation, Fed Remarks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
-        "published": "Tue, 10 Nov 2026 23:33:04 GMT"
+        "title": "US Stock Futures Fall as Nvidia Turmoil Deepens: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
+        "published": "Wed, 11 Nov 2026 22:08:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Dana Telsey on the Future of Department Stores",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/dana-telsey-on-the-future-of-department-stores-video",
+        "published": "Wed, 11 Nov 2026 23:35:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nvidia Falls as Investors Consider Future Without CEO Huang",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-tumbles-as-investors-consider-future-without-ceo-huang",
+        "published": "Wed, 11 Nov 2026 22:48:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Nov. 12",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/latest-oil-market-news-and-analysis-for-nov-12",
+        "published": "Wed, 11 Nov 2026 23:04:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Woodside Energy CEO on LNG Development in the US",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/woodside-energy-ceo-on-lng-development-in-the-us-video",
+        "published": "Wed, 11 Nov 2026 22:53:43 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BHP Names New CFO as Second Top Executive Exits in a Year",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/bhp-names-adrian-wood-as-cfo-to-succeed-vandita-pant-mwcnk5t7",
+        "published": "Wed, 11 Nov 2026 21:50:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nissan's Ivan Espinosa on China, US, Japan Markets and Company Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/nissan-s-ivan-espinosa-on-china-us-japan-markets-video",
+        "published": "Wed, 11 Nov 2026 22:29:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "BC Partners to Buy Investcorp BDC Amid Private Credit Shakeout",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/bc-partners-to-buy-investcorp-bdc-amid-private-credit-shakeout",
+        "published": "Wed, 11 Nov 2026 22:03:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "It’s Good to Be #ComputeBlessed",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/it-s-good-to-be-computeblessed",
+        "published": "Wed, 11 Nov 2026 21:46:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Paraguay on Watch for Downgrade at Fitch After Bank Collapse",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/paraguay-on-watch-for-downgrade-at-fitch-after-bank-collapse",
+        "published": "Wed, 11 Nov 2026 21:43:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nasdaq 100 Rallies as CoreWeave Quells AI Fears, Draws Buyers In",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
+        "published": "Wed, 11 Nov 2026 13:28:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Lula Unveils Plan to Curb Spending Growth in Bid to Calm Fiscal Worries",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/lula-unveils-plan-to-curb-spending-growth-in-bid-to-calm-fiscal-worries",
+        "published": "Wed, 11 Nov 2026 21:34:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Why Nordstrom Decided to Go Private",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/why-nordstrom-decided-to-go-private-video",
+        "published": "Wed, 11 Nov 2026 21:31:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Funds Warn Brazil $126 Billion Stock Market Rout Isn’t Over",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/funds-warn-brazil-126-billion-stock-market-rout-isn-t-over-yet",
+        "published": "Wed, 11 Nov 2026 13:48:11 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -144,105 +222,27 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Officials Work to Speed Grid Connection Amid Data Center Buildout",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-11/officials-work-to-speed-up-data-center-grid-connection-video",
-        "published": "Wed, 11 Nov 2026 16:59:18 GMT"
+        "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-is-jenga-block-holding-up-next-leg-of-ai-trade",
+        "published": "Wed, 11 Nov 2026 21:15:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nuclear Revival Spurs CME (CME) to Move Ahead on Physical Uranium Contracts",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/nuclear-revival-spurs-cme-cme-to-move-ahead-on-physical-uranium-contracts",
-        "published": "Wed, 11 Nov 2026 16:53:31 GMT"
+        "title": "Latest Oil Market News and Analysis for Nov. 11",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/latest-oil-market-news-and-analysis-for-nov-11",
+        "published": "Tue, 10 Nov 2026 23:01:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nvidia Gets Rare Downgrade as Jensen Huang Scandal Weighs on Outlook",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-surveillance-11-11-2026-video",
-        "published": "Wed, 11 Nov 2026 16:49:45 GMT"
+        "title": "Canadian Heavy Crude Rebounds Amid Cheaper Tanker Costs",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/canadian-heavy-crude-rebounds-amid-cheaper-tanker-costs",
+        "published": "Wed, 11 Nov 2026 19:04:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Iran War Leaves Europe Vulnerable To Harsh Winter",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-11/iran-war-leaves-europe-vulnerable-to-harsh-winter-video",
-        "published": "Wed, 11 Nov 2026 16:47:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Sixth Street CEO Warns AI Race Rife With ‘Speculative Behaviors’",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/sixth-street-ceo-warns-ai-race-rife-with-speculative-behaviors",
-        "published": "Wed, 11 Nov 2026 16:45:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "European Stocks Hit Record High as Energy and Tech Rebound",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/european-stocks-set-for-record-as-miners-and-tech-rally",
-        "published": "Wed, 11 Nov 2026 08:29:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Data Center Gas Plants to Lift US Power Emissions 10%, BNEF Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/data-center-gas-plants-to-lift-us-power-emissions-10-bnef-says",
-        "published": "Wed, 11 Nov 2026 16:40:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Tech Stocks Poised to Erase Midterm Loss as AI Trade Returns",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
-        "published": "Wed, 11 Nov 2026 13:28:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Books French, Argentine Wheat as Global Prices Slump",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/china-books-120-000-tons-of-french-wheat-as-global-prices-slump",
-        "published": "Wed, 11 Nov 2026 13:50:10 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Vanguard Says Tax-Loss Inflows to Muni ETFs Likely to Stick",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/vanguard-says-tax-loss-inflows-to-muni-etfs-likely-to-stick",
-        "published": "Wed, 11 Nov 2026 16:33:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Treasury Futures Retreat as Markets See More Fed Hikes",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/falling-us-bond-futures-offer-no-relief-as-fed-hike-bets-grow",
-        "published": "Wed, 11 Nov 2026 09:52:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Chile Trucker Protest Over Fuel Prices Imperils Farm Exports",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/chile-trucker-protest-over-fuel-prices-imperils-farm-exports",
-        "published": "Wed, 11 Nov 2026 14:16:11 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Aging Boomers Are Key Factor Supporting Corporate Bond Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/aging-boomers-are-key-factor-supporting-corporate-bond-market",
-        "published": "Wed, 11 Nov 2026 16:14:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Venezuela vuelve a reparar equipos petroleros en EE.UU. tras más de una década",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/venezuela-vuelve-a-reparar-equipos-petroleros-en-ee-uu-tras-mas-de-una-decada",
-        "published": "Wed, 11 Nov 2026 16:13:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tesla’s Cybertruck Was Always Doomed",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-11/opinion-tesla-s-cybertruck-was-always-doomed-video",
-        "published": "Wed, 11 Nov 2026 16:09:44 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Saudi Oil Output Surges to One of Highest Levels in Years",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/saudis-tell-opec-output-they-surged-26-to-new-war-time-high",
-        "published": "Wed, 11 Nov 2026 13:00:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Venezuela Oil Gear to Be Repaired in US for First Time in Years",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/venezuela-oil-gear-to-be-repaired-in-us-for-first-time-in-years",
-        "published": "Wed, 11 Nov 2026 16:00:49 GMT"
+        "title": "John Kerry on the Case for Clean Energy",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/john-kerry-on-the-case-for-clean-energy-video",
+        "published": "Wed, 11 Nov 2026 20:35:25 GMT"
       }
     ],
     "onvista – News": [
