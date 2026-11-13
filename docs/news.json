@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-11-13T08:21:14.391502+00:00",
+  "updated_at": "2026-11-13T16:34:01.845599+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax entfernt sich von 27.000‑Punkte-Marke – folgt trotzdem die Jahresendrally?﻿",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-bewegt-sich-kaum-entfernt-sich-aber-vom-rekord/100269627.html",
+        "published": "Fri, 13 Nov 2026 15:08:31 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: „Unsere Gebäude sind ein Vermögen, wir behandeln sie wie Wegwerfware“",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-unsere-gebaeude-sind-ein-vermoegen-wir-behandeln-sie-wie-wegwerfware/100262766.html",
+        "published": "Fri, 13 Nov 2026 15:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wall Street: US-Börsen legen leicht zu – Erzeugerpreise steigen weiter",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-legt-zu-erzeugerpreise-steigen-weiter/100269764.html",
+        "published": "Fri, 13 Nov 2026 14:40:42 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Frank Ruffing: Ex-Chef der Volksbank Kleverland gerät stärker unter Druck",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/volksbank-kleverland-ex-bankchef-frank-ruffing-geraet-staerker-unter-druck/100269365.html",
+        "published": "Fri, 13 Nov 2026 14:27:18 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Fintech: Robinhood will die nächste Revolution: Der Neobroker fordert die Wall-Street-Größen heraus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-robinhood-will-finanzwerte-ueber-eigene-blockchain-verkaufen/100267306.html",
+        "published": "Fri, 13 Nov 2026 13:45:37 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Notenbank: Merz will nächste Woche deutschen Vorschlag für Posten in EZB-Führung vorlegen",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/notenbank-merz-will-deutschen-vorschlag-fuer-posten-in-ezb-fuehrung-vorlegen/100269750.html",
+        "published": "Fri, 13 Nov 2026 13:24:56 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Neobroker: So setzt Trade Republic die Börsen unter Druck",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/trade-republic-warum-etablierte-boersen-den-berliner-neobroker-kritisieren/100269404.html",
+        "published": "Fri, 13 Nov 2026 09:38:25 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Kryptowährung: Bitcoin rutscht unter 70.000 Dollar – Inflationssorgen belasten",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/kryptowaehrung-bitcoin-rutscht-unter-70.000-dollar-inflationssorgen-belasten/100269634.html",
+        "published": "Fri, 13 Nov 2026 09:25:44 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Yen, Hang Seng: Erholung nach Nvidia-Schock – Japanische Börse legt zu",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-erholung-nach-nvidia-schock-japanische-boerse-legt-zu/100269580.html",
+        "published": "Fri, 13 Nov 2026 08:38:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "KI: Anthropic-Börsengang offenbar schon sechsfach überzeichnet",
@@ -13,12 +67,6 @@
         "title": "Börse am 13. November: Sieben Punkte, die für Anleger wichtig sind",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "published": "Fri, 13 Nov 2026 05:36:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei, Yen, Hang Seng: Erholung nach Nvidia-Schock – Asienbörsen starten im Plus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-erholung-nach-nvidia-schock-asienboersen-starten-im-plus/100269580.html",
-        "published": "Fri, 13 Nov 2026 04:25:41 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -40,7 +88,7 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Interview: Wirtschaftweise Werding: „Wir haben einen Riesenschritt in die richtige Richtung gemacht“",
+        "title": "Interview: Wirtschaftsweiser Werding: „Wir haben einen Riesenschritt in die richtige Richtung gemacht“",
         "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorgedepot-riesenschritt-in-die-richtige-richtung-gemacht/100265684.html",
         "published": "Fri, 13 Nov 2026 03:00:00 GMT"
       },
@@ -73,179 +121,227 @@
         "title": "Börse: Dax fällt nach Rekordlauf wieder unter die 27.000-Punkte-Marke",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-faellt-nach-rekordlauf-wieder-unter-die-27.000-punkte-marke/100269311.html",
         "published": "Thu, 12 Nov 2026 16:55:14 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Musterdepot – Zukunft: Bei KI-Aktien kommt es nun auf Differenzierung an",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-bei-ki-aktien-kommt-es-nun-auf-differenzierung-an/100268766.html",
-        "published": "Thu, 12 Nov 2026 16:40:28 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Rüstungsaktien gehören weiter ins Depot – trotz der großen Kursschwäche",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-trotz-der-kursschwaeche-gehoeren-ruestungsaktien-weiter-ins-depot/100268372.html",
-        "published": "Thu, 12 Nov 2026 16:27:38 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Haushalt: Risiko statt Dividende – so soll die KfW zum Etat beitragen",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/haushalt-risiko-statt-dividende-so-soll-die-kfw-zum-etat-beitragen/100269432.html",
-        "published": "Thu, 12 Nov 2026 15:39:12 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilienfonds: Anwälte bereiten Klagen gegen die Deutsche Bank vor – ein Urteil aus Dresden macht ihnen Mut",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilienfonds-deutscher-bank-drohen-klagen-wegen-moeglicher-falschberatung/100269211.html",
-        "published": "Thu, 12 Nov 2026 13:53:08 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Versicherung: Talanx peilt im nächsten Jahr drei Milliarden Euro Gewinn an",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherung-talanx-peilt-im-naechsten-jahr-drei-milliarden-euro-gewinn-an/100269303.html",
-        "published": "Thu, 12 Nov 2026 13:46:49 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Finanzstabilität: Bundesbank sieht vor allem drei Risiken für die deutschen Banken",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/finanzstabilitaet-bundesbank-sieht-im-kern-drei-risiken-fuer-deutsche-banken/100265362.html",
-        "published": "Thu, 12 Nov 2026 13:46:46 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Digitalbank: Zehn Prozent auf die Erstanlage: N26 lockt Neukunden mit Startbonus ins Altersvorsorgedepot",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/altersvorsorgedepot-digitalbank-n26-lockt-neukunden-mit-hohem-startbonus/100269334.html",
-        "published": "Thu, 12 Nov 2026 13:46:17 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: LEG muss wieder Gebäude abwerten, bestätigt aber die Jahresprognose",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-leg-muss-wieder-gebaeude-abwerten-bestaetigt-aber-prognose/100268813.html",
-        "published": "Thu, 12 Nov 2026 12:08:29 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Talabat CEO: Grocery Demand Up Amid Mideast Situation",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/talabat-ceo-grocery-demand-up-amid-mideast-situation-video",
-        "published": "Fri, 13 Nov 2026 08:18:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Hidary: Investors See Anthropic IPO as Key Bellwether",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/hidary-investors-see-anthropic-ipo-as-key-bellwether-video",
-        "published": "Fri, 13 Nov 2026 08:17:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "EGA CFO: Al Taweelah At Full Production by 1Q 2027",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/ega-cfo-al-taweelah-at-full-production-by-1q-2027-video",
-        "published": "Fri, 13 Nov 2026 08:15:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Copper Set for Worst Run in Two Years on Nvidia and Rates Unease",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/copper-climbs-from-three-month-low-after-rough-week-for-metals",
-        "published": "Fri, 13 Nov 2026 03:44:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "UK Gilts Head for Worst Weekly Drop Since September",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/uk-gilts-head-for-worst-weekly-drop-since-september",
-        "published": "Fri, 13 Nov 2026 07:48:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "(USD:ZWG) Zimbabwe Moves to Rebuild Local Bond Market After Currency Turmoil",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/-usd-zwg-zimbabwe-moves-to-rebuild-local-bond-market-after-currency-turmoil",
-        "published": "Fri, 13 Nov 2026 07:44:25 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nvidia Names Kress Interim CEO After Huang Exit as Trump Cools on Iran Deal",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/horizons-middle-east-africa-11-13-2026-video",
-        "published": "Fri, 13 Nov 2026 07:35:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "India’s Manufacturing Incentives Fall Short on Jobs, Report Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/india-s-manufacturing-incentives-fall-short-on-jobs-report-says",
-        "published": "Fri, 13 Nov 2026 07:29:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Internet Stock Gains Face Reality Check in Nvidia Fallout",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/china-internet-stock-gains-face-reality-check-in-nvidia-fallout",
-        "published": "Fri, 13 Nov 2026 00:07:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "ICTSI to Stay Listed in Philippines, Targets More Ports",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/ictsi-to-stay-listed-in-philippines-targets-more-ports",
-        "published": "Fri, 13 Nov 2026 07:01:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Slip as Nvidia Jitters Linger, Bonds Slump: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 12 Nov 2026 22:17:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Traders Digest Jensen Huang's Exit from Nvidia",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/the-china-show-11-13-2026-video",
-        "published": "Fri, 13 Nov 2026 06:40:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Billionaire KoGuan Vows Not to Buy Nvidia Stock After Huang Exit",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/billionaire-koguan-vows-not-to-buy-nvidia-stock-as-huang-quits",
-        "published": "Fri, 13 Nov 2026 06:30:43 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Guinness Atkinson CEO Discusses New K-Beauty ETF Launch",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/guinness-atkinson-ceo-discusses-new-k-beauty-etf-launch-video",
-        "published": "Fri, 13 Nov 2026 06:29:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Server Maker xFusion Gets Shenzhen Nod for $1.2 Billion Listing",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing",
-        "published": "Fri, 13 Nov 2026 06:05:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Treasury Yield Surge Shatters Hopes Worst of Bond Rout Is Over",
+        "title": "Bond Investors Expect More Pain After Week of Soaring Yields",
         "link": "https://www.bloomberg.com/news/articles/2026-11-13/treasury-yield-surge-shatters-hopes-worst-of-bond-rout-is-over",
         "published": "Fri, 13 Nov 2026 06:00:17 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Oil-Hungry Asia Turns Back to Mideast in Earnest as Flows Expand",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/oil-hungry-asia-turns-back-to-mideast-in-earnest-as-flows-expand",
-        "published": "Fri, 13 Nov 2026 05:07:46 GMT"
+        "title": "Stocks Fall as Chip Rout Outweighs Inflation Data: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
+        "published": "Thu, 12 Nov 2026 22:17:13 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Nov. 13",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
-        "published": "Thu, 12 Nov 2026 23:02:09 GMT"
+        "title": "Fed’s Collins Says Higher Rates Are Appropriate ‘Soon’",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/fed-s-collins-says-inflation-fight-trumps-housing-woes",
+        "published": "Fri, 13 Nov 2026 14:10:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "EM Stocks Eye First Weekly Gain Since September as Tech Rebounds",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
-        "published": "Fri, 13 Nov 2026 04:53:47 GMT"
+        "title": "H&R Investors Vote Down Sale to Blackstone and GO, Rebuking CEO",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/h-r-investors-vote-down-sale-to-blackstone-and-go-rebuking-ceo",
+        "published": "Fri, 13 Nov 2026 16:06:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Jensen Huang Saga Tests AI Trade Ahead of Anthropic IPO",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/the-asia-trade-11-13-2026-video",
-        "published": "Fri, 13 Nov 2026 04:41:48 GMT"
+        "title": "'Investing Should be Disciplined Process Over Time,' Says Liz Ann Sonders",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/discipline-is-key-for-successful-investing-says-sonders-video",
+        "published": "Fri, 13 Nov 2026 16:05:39 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Third Chicago CFO Resigns From Johnson Administration This Year",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/third-chicago-cfo-resigns-from-johnson-administration-this-year-mwf6350o",
+        "published": "Fri, 13 Nov 2026 16:04:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Wholesale Inflation Picks Up to Fastest Pace Since 2022",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/us-wholesale-inflation-hits-fastest-pace-since-2022-video",
+        "published": "Fri, 13 Nov 2026 16:00:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Patterson: For now, Iran has won the war",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/patterson-for-now-iran-has-won-the-war-video",
+        "published": "Fri, 13 Nov 2026 15:54:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Stocks Slide as Tech Concerns Linger Despite Rates Relief",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus",
+        "published": "Fri, 13 Nov 2026 13:19:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Finance Experts Reveal Lessons for Investors",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/finance-experts-reveal-lessons-for-investors-video",
+        "published": "Fri, 13 Nov 2026 15:53:58 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed's Collins Says Additional Policy Tightening Is Appropriate",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/fed-s-collins-says-additional-policy-firming-appropriate-video",
+        "published": "Fri, 13 Nov 2026 15:49:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Anthropic IPO Share Orders From China Are Said to Be Rebuffed",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
+        "published": "Fri, 13 Nov 2026 15:37:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Raw Sugar Heads for Weekly Rise With India, Brazil in Focus",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/raw-sugar-heads-for-weekly-rise-with-india-imports-in-focus",
+        "published": "Fri, 13 Nov 2026 14:04:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street Regulator Finra Moves to Give Industry Bigger Role",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-regulator-finra-moves-to-give-industry-bigger-role",
+        "published": "Fri, 13 Nov 2026 15:33:25 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Senegal Picks Deloitte to Audit Debt as It Seeks IMF Loan Pact",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/senegal-picks-deloitte-to-audit-debt-as-it-seeks-imf-loan-pact",
+        "published": "Fri, 13 Nov 2026 15:20:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "New Corporate Speak Is Shaped By AI",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/opinion-new-corporate-speak-is-shaped-by-ai-video",
+        "published": "Fri, 13 Nov 2026 15:20:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed’s Logan Seeks Clearer Separation of Market Operations",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/logan-seeks-clearer-fed-separation-of-market-operations-video",
+        "published": "Fri, 13 Nov 2026 15:19:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ukraine Hits Ninth Russian Oil Refinery Since Start of November",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/ukraine-hits-ninth-russian-oil-refinery-since-start-of-november",
+        "published": "Fri, 13 Nov 2026 15:04:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Russian Diesel Exports Drop as Ukraine Renews Refinery Attacks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/russian-diesel-exports-drop-as-ukraine-renews-refinery-attacks",
+        "published": "Fri, 13 Nov 2026 14:59:35 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Mexico Rate Cut Fuels Speculation Officials Want a Weaker Peso",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/mexico-rate-cut-fuels-speculation-officials-want-a-weaker-peso",
+        "published": "Fri, 13 Nov 2026 14:53:13 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Sie müssen nicht jede Tech-Meldung deuten. Dafür gibt es uns. BIT Global Technology Leaders Active ETF.",
+        "link": "https://bitcap.com/fonds/bit-global-technology-leaders-active-ucits-etf?utm_source=onvista&utm_medium=cooperation&utm_campaign=2026_gtl_etf-launch_awareness&utm_content=premium-box-homepage",
+        "published": "Fri, 13 Nov 2026 16:38:42 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Cerebras: Das Wachstum überzeugt, die Marge halbiert sich",
+        "link": "https://www.onvista.de/news/2026/11-13-cerebras-das-wachstum-ueberzeugt-die-marge-halbiert-sich-40338625-19-26576158",
+        "published": "Fri, 13 Nov 2026 16:35:47 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Cisco: Starkes Wachstum rechtfertigt die höhere Bewertung",
+        "link": "https://www.onvista.de/news/2026/11-13-cisco-starkes-wachstum-rechtfertigt-die-hoehere-bewertung-40338625-19-26576161",
+        "published": "Fri, 13 Nov 2026 16:34:44 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Applied Materials: Das Wachstum macht die Aktie attraktiv",
+        "link": "https://www.onvista.de/news/2026/11-13-applied-materials-das-wachstum-macht-die-aktie-attraktiv-40338625-19-26576164",
+        "published": "Fri, 13 Nov 2026 16:33:53 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Rheinmetall: Die günstige Bewertung eröffnet neue Kurschancen",
+        "link": "https://www.onvista.de/news/2026/11-13-rheinmetall-die-guenstige-bewertung-eroeffnet-neue-kurschancen-40338625-19-26575716",
+        "published": "Fri, 13 Nov 2026 16:32:55 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Nvidia: Trotz günstiger Bewertung überwiegen die Kursrisiken",
+        "link": "https://www.onvista.de/news/2026/11-13-nvidia-trotz-guenstiger-bewertung-ueberwiegen-die-kursrisiken-40338625-19-26576165",
+        "published": "Fri, 13 Nov 2026 16:31:52 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Diese vier Fragen stelle ich mir bei IPOs",
+        "link": "https://www.onvista.de/news/2026/11-13-diese-vier-fragen-stelle-ich-mir-bei-ipos-41121763-19-26575884",
+        "published": "Fri, 13 Nov 2026 16:00:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Ich habe einen Aktienscreener gebaut – drei spannende Funde",
+        "link": "https://www.onvista.de/news/2026/11-13-ich-habe-einen-aktienscreener-gebaut-drei-spannende-funde-41123149-19-26571535",
+        "published": "Fri, 13 Nov 2026 14:30:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Nvidia: CEO-Wechsel, Nebius: Kursrutsch, Applied Materials: Rekord",
+        "link": "https://www.onvista.de/news/2026/11-13-nvidia-ceo-wechsel-nebius-kursrutsch-applied-materials-rekord-40338625-19-26576099",
+        "published": "Fri, 13 Nov 2026 12:58:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Scalable Capital Depot 2026: Günstige Orders, große ETF-Auswahl und KI-Zugang",
+        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-scalable-26351137",
+        "published": "Fri, 13 Nov 2026 12:11:58 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Finanzen invest Depot 2026: Orders ab 500 Euro ohne Ordergebühr",
+        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-finanzen-invest-26283737",
+        "published": "Fri, 13 Nov 2026 12:11:46 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Smartbroker+ Depot 2026: Günstiger Neobroker mit elf deutschen Handelsplätzen",
+        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-smartbroker-plus-26352695",
+        "published": "Fri, 13 Nov 2026 12:11:37 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Trade Republic Depot 2026: Günstiger Neobroker mit eigener Banklizenz",
+        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-trade-republic-26352717",
+        "published": "Fri, 13 Nov 2026 12:10:29 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Huang-Ende bei Nvidia? Anthropic-IPO? Dax-Potenzial?",
+        "link": "https://www.onvista.de/news/2026/11-13-huang-ende-bei-nvidia-anthropic-ipo-dax-potenzial-41121301-19-26575626",
+        "published": "Fri, 13 Nov 2026 12:00:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Das alte Allzeithoch wird nun entscheidend für den Dax",
+        "link": "https://www.onvista.de/news/2026/11-13-das-alte-allzeithoch-wird-nun-entscheidend-fuer-den-dax-41123281-19-26576059",
+        "published": "Fri, 13 Nov 2026 11:00:07 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax gibt etwas ab – wilde Kursbewegung bei CTS nach Zahlen",
+        "link": "https://www.onvista.de/news/2026/11-13-dax-gibt-etwas-ab-wilde-kursbewegung-bei-cts-nach-zahlen-41121301-19-26576023",
+        "published": "Fri, 13 Nov 2026 09:45:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Nach Rekord gestern: Dax mit kleinem Minus",
@@ -299,105 +395,15 @@
         "title": "Allianz: Die hohe Bewertung spricht für Geduld",
         "link": "https://www.onvista.de/news/2026/11-12-allianz-die-hohe-bewertung-spricht-fuer-geduld-40338625-19-26575718",
         "published": "Thu, 12 Nov 2026 17:05:36 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Münchener Rück: Die Aktie kann bis auf 640 Euro steigen",
-        "link": "https://www.onvista.de/news/2026/11-12-muenchener-rueck-die-aktie-kann-bis-auf-640-euro-steigen-40338625-19-26575717",
-        "published": "Thu, 12 Nov 2026 17:02:56 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "comdirect-Depot 2026: Viel Auswahl, starke Funktionen",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-comdirect-26283726",
-        "published": "Thu, 12 Nov 2026 16:04:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Scalable Capital Depot 2026: Günstige Orders, große ETF-Auswahl und KI-Zugang",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-scalable-26351137",
-        "published": "Thu, 12 Nov 2026 15:19:37 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Finanzen invest Depot 2026: Orders ab 500 Euro ohne Ordergebühr",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-finanzen-invest-26283737",
-        "published": "Thu, 12 Nov 2026 15:19:22 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Trade Republic Depot 2026: Günstiger Neobroker mit eigener Banklizenz",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-trade-republic-26352717",
-        "published": "Thu, 12 Nov 2026 15:16:14 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Smartbroker+ Depot 2026: Günstiger Neobroker mit elf deutschen Handelsplätzen",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-smartbroker-plus-26352695",
-        "published": "Thu, 12 Nov 2026 15:16:02 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Nvidias CEO-Frage, Allianz und Siemens mit Rekorden",
-        "link": "https://www.onvista.de/news/2026/11-12-nvidias-ceo-frage-allianz-und-siemens-mit-rekorden-40338625-19-26575653",
-        "published": "Thu, 12 Nov 2026 12:57:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Wie es nach dem Allzeithoch weitergehen könnte",
-        "link": "https://www.onvista.de/news/2026/11-12-wie-es-nach-dem-allzeithoch-weitergehen-koennte-41123281-19-26575582",
-        "published": "Thu, 12 Nov 2026 11:00:01 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax-Rekord, Siemens fehlen 25 Cent, Crash bei Secunet",
-        "link": "https://www.onvista.de/news/2026/11-12-dax-rekord-siemens-fehlen-25-cent-crash-bei-secunet-41121301-19-26575538",
-        "published": "Thu, 12 Nov 2026 09:48:56 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax vor Rekord – Nvidia weiter unter Druck",
-        "link": "https://www.onvista.de/news/2026/11-12-dax-vor-rekord-nvidia-weiter-unter-druck-41121301-19-26575431",
-        "published": "Thu, 12 Nov 2026 08:03:03 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 12.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-12-finanzberichte-heute-12-11-2026-41121301-19-26575351",
-        "published": "Thu, 12 Nov 2026 06:10:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  12.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-12-dividendenalarm-heute-12-11-2026-41121301-19-26575345",
-        "published": "Thu, 12 Nov 2026 06:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax legt dank KI-Erholung weiter zu – Knapp unter Rekordhoch",
-        "link": "https://www.onvista.de/news/2026/11-11-dax-legt-dank-ki-erholung-weiter-zu-knapp-unter-rekordhoch-41121301-19-26575239",
-        "published": "Wed, 11 Nov 2026 17:49:53 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "D-Wave: Die Aktie bleibt nach Zahlen unter Druck",
-        "link": "https://www.onvista.de/news/2026/11-11-d-wave-die-aktie-bleibt-nach-zahlen-unter-druck-40338625-19-26575210",
-        "published": "Wed, 11 Nov 2026 17:23:36 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Hims & Hers: Die Aktie bleibt nach dem Kurseinbruch teuer",
-        "link": "https://www.onvista.de/news/2026/11-11-hims-hers-die-aktie-bleibt-nach-dem-kurseinbruch-teuer-40338625-19-26575209",
-        "published": "Wed, 11 Nov 2026 17:22:34 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Elmos: Nach dem Kursrückgang überwiegen die Chancen",
-        "link": "https://www.onvista.de/news/2026/11-11-elmos-nach-dem-kursrueckgang-ueberwiegen-die-chancen-40338625-19-26575203",
-        "published": "Wed, 11 Nov 2026 17:21:51 +0100"
       }
     ],
     "Börse Frankfurt – News": [
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Anleihen: Inflationssorgen treiben Renditen",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/anleihen-inflationssorgen-treiben-renditen",
+        "published": "Fri, 13 Nov 2026 13:50:50 GMT"
+      },
       {
         "source": "Börse Frankfurt – News",
         "title": "Zertifikate: Tech-Aktien und DAX prägen den Handel",
@@ -451,26 +457,26 @@
         "title": "ETFs: Europa gefragt, Bitcoin unter Druck",
         "link": "https://www.boerse-frankfurt.de/nachrichten/etfs-europa-gefragt-bitcoin-unter-druck",
         "published": "Tue, 03 Nov 2026 13:02:31 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "21 neue ETFs, ETPs und ETNs",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/zwoelf-neue-etfs-und-etns",
-        "published": "Tue, 03 Nov 2026 09:09:57 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
-        "published": "Thu, 12 Nov 2026 18:31:15 +0100"
+        "title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html",
+        "published": "Fri, 13 Nov 2026 14:00:43 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Atempause nach dem DAX-Rekord",
+        "title": "Marktbericht: DAX schwächelt nach vier Gewinntagen",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-        "published": "Fri, 13 Nov 2026 07:35:10 +0100"
+        "published": "Fri, 13 Nov 2026 10:25:51 +0100"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
+        "published": "Thu, 12 Nov 2026 18:31:15 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Beiersdorf-Zahlen: Nivea und Tesa schrumpfen weiter",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-beiersdorf-100.html",
         "published": "Tue, 27 Oct 2026 14:10:55 +0100"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Brasiliens Kapitalmärkte stürzen ab",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-brasilien-wahl-100.html",
-        "published": "Mon, 26 Oct 2026 14:47:15 +0100"
       }
     ]
   }
