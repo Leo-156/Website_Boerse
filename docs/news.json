@@ -1,24 +1,30 @@
 {
-  "updated_at": "2026-11-13T16:34:01.845599+00:00",
+  "updated_at": "2026-11-13T22:09:50.247766+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax entfernt sich von 27.000‑Punkte-Marke – folgt trotzdem die Jahresendrally?﻿",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-bewegt-sich-kaum-entfernt-sich-aber-vom-rekord/100269627.html",
-        "published": "Fri, 13 Nov 2026 15:08:31 GMT"
+        "title": "Wall Street: US-Börsen legen leicht zu – Erzeugerpreise steigen weiter",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-leicht-im-minus-erzeugerpreise-steigen-weiter/100269764.html",
+        "published": "Fri, 13 Nov 2026 19:11:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Privatanleger können sich am Mega-Börsengang von Anthropic beteiligen – sollten sie es auch?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-privatanleger-koennen-die-anthropic-aktie-zeichnen-sollten-sie-es-auch/100269156.html",
+        "published": "Fri, 13 Nov 2026 18:00:32 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax schließt unverändert – Wochenbilanz weiter positiv",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unveraendert-wochenbilanz-weiter-positiv/100269627.html",
+        "published": "Fri, 13 Nov 2026 17:07:34 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Immobilien: „Unsere Gebäude sind ein Vermögen, wir behandeln sie wie Wegwerfware“",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-unsere-gebaeude-sind-ein-vermoegen-wir-behandeln-sie-wie-wegwerfware/100262766.html",
         "published": "Fri, 13 Nov 2026 15:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: US-Börsen legen leicht zu – Erzeugerpreise steigen weiter",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-legt-zu-erzeugerpreise-steigen-weiter/100269764.html",
-        "published": "Fri, 13 Nov 2026 14:40:42 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -115,15 +121,21 @@
         "title": "KI-Aktien: „Ein dunkles Kapitel für Nvidia“ – Analysten bewerten Aktie neu",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/geldanlage-dunkles-kapitel-fuer-nvidia-analysten-bewerten-aktie-neu/100269354.html",
         "published": "Thu, 12 Nov 2026 17:23:52 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse: Dax fällt nach Rekordlauf wieder unter die 27.000-Punkte-Marke",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-faellt-nach-rekordlauf-wieder-unter-die-27.000-punkte-marke/100269311.html",
-        "published": "Thu, 12 Nov 2026 16:55:14 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "FAA Grounds All Flights Nationwide",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/faa-grounds-all-flights-nationwide-video",
+        "published": "Fri, 13 Nov 2026 22:04:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Salim Ramji on the Vanguard Effect",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/salim-ramji-on-the-vanguard-effect-video",
+        "published": "Fri, 13 Nov 2026 22:01:57 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Bond Investors Expect More Pain After Week of Soaring Yields",
@@ -132,120 +144,114 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Fall as Chip Rout Outweighs Inflation Data: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 12 Nov 2026 22:17:13 GMT"
+        "title": "Emerging-Market Assets Dip as Chip Rout, Fed Rate Worries Linger",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
+        "published": "Fri, 13 Nov 2026 04:53:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fed’s Collins Says Higher Rates Are Appropriate ‘Soon’",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/fed-s-collins-says-inflation-fight-trumps-housing-woes",
-        "published": "Fri, 13 Nov 2026 14:10:00 GMT"
+        "title": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits",
+        "published": "Fri, 13 Nov 2026 18:24:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "H&R Investors Vote Down Sale to Blackstone and GO, Rebuking CEO",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/h-r-investors-vote-down-sale-to-blackstone-and-go-rebuking-ceo",
-        "published": "Fri, 13 Nov 2026 16:06:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "'Investing Should be Disciplined Process Over Time,' Says Liz Ann Sonders",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/discipline-is-key-for-successful-investing-says-sonders-video",
-        "published": "Fri, 13 Nov 2026 16:05:39 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Third Chicago CFO Resigns From Johnson Administration This Year",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/third-chicago-cfo-resigns-from-johnson-administration-this-year-mwf6350o",
-        "published": "Fri, 13 Nov 2026 16:04:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Wholesale Inflation Picks Up to Fastest Pace Since 2022",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/us-wholesale-inflation-hits-fastest-pace-since-2022-video",
-        "published": "Fri, 13 Nov 2026 16:00:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Patterson: For now, Iran has won the war",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/patterson-for-now-iran-has-won-the-war-video",
-        "published": "Fri, 13 Nov 2026 15:54:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Stocks Slide as Tech Concerns Linger Despite Rates Relief",
+        "title": "US Stocks Close Lower After Nvidia Spurs Volatility in AI Trade",
         "link": "https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus",
         "published": "Fri, 13 Nov 2026 13:19:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Finance Experts Reveal Lessons for Investors",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/finance-experts-reveal-lessons-for-investors-video",
-        "published": "Fri, 13 Nov 2026 15:53:58 GMT"
+        "title": "Stocks End Week Higher Amid Tech Turmoil | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/stocks-end-week-higher-amid-tech-turmoil-closing-bell-video",
+        "published": "Fri, 13 Nov 2026 21:34:18 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fed's Collins Says Additional Policy Tightening Is Appropriate",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/fed-s-collins-says-additional-policy-firming-appropriate-video",
-        "published": "Fri, 13 Nov 2026 15:49:32 GMT"
+        "title": "Gold Set for Worst Week Since March as Fed Rate Hike Bets Mount",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
+        "published": "Thu, 12 Nov 2026 23:58:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Anthropic IPO Share Orders From China Are Said to Be Rebuffed",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
-        "published": "Fri, 13 Nov 2026 15:37:27 GMT"
+        "title": "Dollar Wraps Best Week in Over a Month on Fed Rate Hike Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/dollar-poised-for-best-week-in-over-a-month-on-fed-hike-bets",
+        "published": "Fri, 13 Nov 2026 16:44:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Raw Sugar Heads for Weekly Rise With India, Brazil in Focus",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/raw-sugar-heads-for-weekly-rise-with-india-imports-in-focus",
-        "published": "Fri, 13 Nov 2026 14:04:12 GMT"
+        "title": "US Treasury Weighs Loan to Help Venezuela Pay Debt to IDB",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/us-treasury-weighs-loan-to-help-venezuela-pay-debt-to-idb",
+        "published": "Fri, 13 Nov 2026 21:30:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wall Street Regulator Finra Moves to Give Industry Bigger Role",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-regulator-finra-moves-to-give-industry-bigger-role",
-        "published": "Fri, 13 Nov 2026 15:33:25 GMT"
+        "title": "SEC Moves to Rein In Executive Pay Disclosures to Investors",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/sec-moves-to-rein-in-executive-pay-disclosures-to-investors",
+        "published": "Fri, 13 Nov 2026 17:11:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Senegal Picks Deloitte to Audit Debt as It Seeks IMF Loan Pact",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/senegal-picks-deloitte-to-audit-debt-as-it-seeks-imf-loan-pact",
-        "published": "Fri, 13 Nov 2026 15:20:47 GMT"
+        "title": "Wall Street’s Wild Ride Delivers Big Paydays and Bigger Bruises",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-s-wild-ride-delivers-big-paydays-and-bigger-bruises",
+        "published": "Fri, 13 Nov 2026 21:25:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "New Corporate Speak Is Shaped By AI",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/opinion-new-corporate-speak-is-shaped-by-ai-video",
-        "published": "Fri, 13 Nov 2026 15:20:47 GMT"
+        "title": "S&P 500 Falls as Chip Slump Offsets Inflation Data: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
+        "published": "Thu, 12 Nov 2026 22:17:13 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Fed’s Logan Seeks Clearer Separation of Market Operations",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/logan-seeks-clearer-fed-separation-of-market-operations-video",
-        "published": "Fri, 13 Nov 2026 15:19:45 GMT"
+        "title": "Compass Sues Multiple Listing Services, Upping Antitrust Row",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-12/compass-sues-multiple-listing-services-ramping-up-antitrust-row",
+        "published": "Thu, 12 Nov 2026 22:48:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ukraine Hits Ninth Russian Oil Refinery Since Start of November",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/ukraine-hits-ninth-russian-oil-refinery-since-start-of-november",
-        "published": "Fri, 13 Nov 2026 15:04:05 GMT"
+        "title": "Anthropic IPO Buyers Have More Influence on Price Than SpaceX",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex",
+        "published": "Fri, 13 Nov 2026 21:13:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Russian Diesel Exports Drop as Ukraine Renews Refinery Attacks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/russian-diesel-exports-drop-as-ukraine-renews-refinery-attacks",
-        "published": "Fri, 13 Nov 2026 14:59:35 GMT"
+        "title": "H&R REIT Holders Nix Sale to Blackstone and GO, Rebuking CEO",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/h-r-investors-vote-down-sale-to-blackstone-and-go-rebuking-ceo",
+        "published": "Fri, 13 Nov 2026 16:06:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Mexico Rate Cut Fuels Speculation Officials Want a Weaker Peso",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/mexico-rate-cut-fuels-speculation-officials-want-a-weaker-peso",
-        "published": "Fri, 13 Nov 2026 14:53:13 GMT"
+        "title": "Swiss Respiratory Biotech Windward Soars 68% in US Trading Debut",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/swiss-respiratory-biotech-windward-up-7-9-in-us-trading-debut",
+        "published": "Fri, 13 Nov 2026 17:25:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "CFTC Chief Calls for Aluminum Pricing Reforms After Costs Soar",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/cftc-chief-calls-for-aluminum-pricing-reforms-after-costs-soar",
+        "published": "Fri, 13 Nov 2026 20:53:29 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "We’re Living In An Inflationary Environment: Morse",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/we-re-living-in-an-inflationary-environment-morse-video",
+        "published": "Fri, 13 Nov 2026 19:41:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Grading Global Retirement Plans, US Receives C+",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/grading-global-retirement-plans-us-receives-c-video",
+        "published": "Fri, 13 Nov 2026 19:54:56 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Leitindex schließt wenig verändert – Rheinmetall schwach",
+        "link": "https://www.onvista.de/news/2026/11-13-leitindex-schliesst-wenig-veraendert-rheinmetall-schwach-41121301-19-26576230",
+        "published": "Fri, 13 Nov 2026 17:53:06 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Sie müssen nicht jede Tech-Meldung deuten. Dafür gibt es uns. BIT Global Technology Leaders Active ETF.",
@@ -389,12 +395,6 @@
         "title": "Siemens: Trotz Rekordaufträgen bleibt die Aktie teuer",
         "link": "https://www.onvista.de/news/2026/11-12-siemens-trotz-rekordauftraegen-bleibt-die-aktie-teuer-40338625-19-26575719",
         "published": "Thu, 12 Nov 2026 17:10:27 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Allianz: Die hohe Bewertung spricht für Geduld",
-        "link": "https://www.onvista.de/news/2026/11-12-allianz-die-hohe-bewertung-spricht-fuer-geduld-40338625-19-26575718",
-        "published": "Thu, 12 Nov 2026 17:05:36 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX schwächelt nach vier Gewinntagen",
+        "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-        "published": "Fri, 13 Nov 2026 10:25:51 +0100"
+        "published": "Fri, 13 Nov 2026 18:57:57 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
