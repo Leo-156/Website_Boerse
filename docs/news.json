@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-11-14T09:07:15.881607+00:00",
+  "updated_at": "2026-11-14T15:45:01.357595+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Rente: Mit der Aktie ins Alter: Die zwölf wichtigsten Antworten zum Vorsorgedepot",
+        "title": "Immobilien: Bis zu 135 Jahre Preisvorteil – wo sich ein Immobilienkauf rund um Düsseldorf für Pendler lohnt",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-sich-ein-immobilienkauf-rund-um-duesseldorf-fuer-pendler-lohnt/100266843.html",
+        "published": "Sat, 14 Nov 2026 10:14:29 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Rente: „Wer in Eigenregie anlegt, läuft Gefahr, teure Fehler zu begehen“ – zwölf Antworten zum Vorsorgedepot",
         "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-die-zwoelf-wichtigsten-antworten-zum-altersvorsorgedepot/100265976.html",
         "published": "Sat, 14 Nov 2026 08:04:00 GMT"
       },
@@ -115,15 +121,87 @@
         "title": "Geldpolitik: Merz will das zweitwichtigste Amt bei der EZB – und Macron könnte mitspielen",
         "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-merz-will-das-zweitwichtigste-amt-macron-koennte-mitspielen/100269428.html",
         "published": "Thu, 12 Nov 2026 17:31:10 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "KI-Aktien: „Ein dunkles Kapitel für Nvidia“ – Analysten bewerten Aktie neu",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/geldanlage-dunkles-kapitel-fuer-nvidia-analysten-bewerten-aktie-neu/100269354.html",
-        "published": "Thu, 12 Nov 2026 17:23:52 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate",
+        "published": "Sat, 14 Nov 2026 15:08:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The Stadium Bidding War Shaking Up the Midwest",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-14/the-stadium-bidding-war-shaking-up-the-midwest-video",
+        "published": "Sat, 14 Nov 2026 15:04:14 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SpaceX Pushes Starship Reusability to New Test",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-14/spacex-pushes-starship-reusability-to-new-test-video",
+        "published": "Sat, 14 Nov 2026 14:36:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video",
+        "published": "Sat, 14 Nov 2026 14:30:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump Heads to China for Talks With Xi and Putin",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-14/trump-heads-to-china-for-talks-with-xi-and-putin-video",
+        "published": "Sat, 14 Nov 2026 14:11:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
+        "published": "Sat, 14 Nov 2026 14:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "David Cameron Sees Hope in Alzheimer’s Research",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-14/david-cameron-sees-hope-in-alzheimer-s-research-video",
+        "published": "Sat, 14 Nov 2026 13:48:34 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ukraine Peace Push Turns to NATO and Donbas",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video",
+        "published": "Sat, 14 Nov 2026 13:30:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Miller’s White House Ascent Rattles Mexico Trade Negotiators",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators",
+        "published": "Sat, 14 Nov 2026 13:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Air Travel Chaos Puts FAA Systems in Focus",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-14/air-travel-chaos-puts-faa-systems-in-focus-video",
+        "published": "Sat, 14 Nov 2026 13:21:26 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Guinea Plans Bauxite Index as It Seeks to Bolster Ore Prices",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/guinea-plans-bauxite-index-as-it-seeks-to-bolster-ore-prices",
+        "published": "Sat, 14 Nov 2026 11:27:57 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Goldman Sachs Sees 19% Return on Asia ex-Japan Stocks in 2027",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/goldman-sachs-sees-19-return-on-asia-ex-japan-stocks-in-2027",
+        "published": "Sat, 14 Nov 2026 10:16:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Centrica, Equinor in Next Round of Germany’s Uniper Sale",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
+        "published": "Fri, 13 Nov 2026 19:53:07 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
@@ -141,12 +219,6 @@
         "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
         "link": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
         "published": "Sat, 14 Nov 2026 08:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Centrica, Equinor Advance to Next Round of Germany’s Uniper Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
-        "published": "Fri, 13 Nov 2026 19:53:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -171,81 +243,15 @@
         "title": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
         "link": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
         "published": "Sat, 14 Nov 2026 03:44:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months",
-        "published": "Sat, 14 Nov 2026 02:04:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Cruise Ship Capsizes After Tanker Collision in New Orleans",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/cruise-ship-capsizes-after-tanker-crash-in-new-orleans-video",
-        "published": "Sat, 14 Nov 2026 00:29:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Flights Grounded Over Air Traffic Communication Issue",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/us-flights-grounded-over-air-traffic-communication-issue-video",
-        "published": "Sat, 14 Nov 2026 00:08:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail in Focus",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-13-2026-video",
-        "published": "Fri, 13 Nov 2026 23:48:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Troubled Sherritt Misses Payment as Liquidity Crisis Deepens",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/troubled-sherritt-misses-payment-as-liquidity-crisis-deepens",
-        "published": "Fri, 13 Nov 2026 23:39:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Carrie Underwood on Her New Wellness Brand, HiNote",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/carrie-underwood-on-her-new-wellness-brand-hinote-video",
-        "published": "Fri, 13 Nov 2026 23:20:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nvidia’s Board Failed Jensen Huang: Randall Peterson",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video",
-        "published": "Fri, 13 Nov 2026 23:20:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Exemplar Luxury Group CEO on the Company’s Second Life",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video",
-        "published": "Fri, 13 Nov 2026 22:59:58 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Big Take: The Climate Is Changing in Ways Models Couldn’t Predict",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/the-climate-is-changing-in-ways-models-couldn-t-predict-video",
-        "published": "Fri, 13 Nov 2026 22:52:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Jeff Currie Says He’s Bearish on Copper Due to China",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/jeff-currie-says-he-s-bearish-on-copper-due-to-china-video",
-        "published": "Fri, 13 Nov 2026 22:51:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rent the Runway CEO Paige Thomas on Her Company Vision",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/rent-the-runway-ceo-paige-thomas-on-her-company-vision-video",
-        "published": "Fri, 13 Nov 2026 22:41:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tanker Hits Cruise Ship in New Orleans, Triggering Rescue",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/tanker-hits-cruise-ship-in-new-orleans-prompting-rescue-video",
-        "published": "Fri, 13 Nov 2026 22:33:48 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Hier kannst du die Anthropic-Aktie zeichnen",
+        "link": "https://www.onvista.de/news/2026/11-14-hier-kannst-du-die-anthropic-aktie-zeichnen-41123149-19-26576121",
+        "published": "Sat, 14 Nov 2026 14:30:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Für die Anthropic-Gründer hat die Super-KI Priorität",
@@ -389,12 +395,6 @@
         "title": "So schätze ich Singulus nach dem SpaceX-Auftrag ein",
         "link": "https://www.onvista.de/news/2026/11-12-so-schaetze-ich-singulus-nach-dem-spacex-auftrag-ein-40338625-19-26575715",
         "published": "Thu, 12 Nov 2026 17:19:20 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Nvidia ist günstig und die Umsätze sind planbar",
-        "link": "https://www.onvista.de/news/2026/11-12-nvidia-ist-guenstig-und-die-umsaetze-sind-planbar-40338625-19-26575727",
-        "published": "Thu, 12 Nov 2026 17:15:53 +0100"
       }
     ],
     "Börse Frankfurt – News": [
