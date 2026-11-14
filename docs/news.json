@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T20:05:09.406903+00:00",
+  "updated_at": "2026-11-14T23:51:52.909532+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,18 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "(Digital) SpaceX Catches Starship in Novel Landing",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
+        "published": "Sat, 14 Nov 2026 22:25:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
+        "published": "Sat, 14 Nov 2026 20:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight",
         "link": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
         "published": "Sat, 14 Nov 2026 16:45:01 GMT"
@@ -231,18 +243,6 @@
         "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
         "link": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
         "published": "Sat, 14 Nov 2026 08:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trading Firm IMC Plans to Double Staff in Hong Kong",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-12/quant-trading-firm-imc-plans-to-double-staff-in-hong-kong",
-        "published": "Thu, 12 Nov 2026 00:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
-        "published": "Sat, 14 Nov 2026 05:20:13 GMT"
       }
     ],
     "onvista – News": [
