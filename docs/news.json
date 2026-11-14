@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-14T02:20:01.060673+00:00",
+  "updated_at": "2026-11-14T09:07:15.881607+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Rente: Mit der Aktie ins Alter: Die zwölf wichtigsten Antworten zum Vorsorgedepot",
+        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-die-zwoelf-wichtigsten-antworten-zum-altersvorsorgedepot/100265976.html",
+        "published": "Sat, 14 Nov 2026 08:04:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Wall Street: Wall Street schließt uneinheitlich – Erzeugerpreise steigen weiter",
@@ -88,12 +94,6 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Rente: Mit der Aktie ins Alter: Die zwölf wichtigsten Antworten zum Vorsorgedepot",
-        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-die-zwoelf-wichtigsten-antworten-zum-altersvorsorgedepot/100265976.html",
-        "published": "Fri, 13 Nov 2026 03:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Interview: Wirtschaftsweiser Werding: „Wir haben einen Riesenschritt in die richtige Richtung gemacht“",
         "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorgedepot-riesenschritt-in-die-richtige-richtung-gemacht/100265684.html",
         "published": "Fri, 13 Nov 2026 03:00:00 GMT"
@@ -124,6 +124,60 @@
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
+        "published": "Sat, 14 Nov 2026 09:00:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Odd Lots: Wall Street and the Post-Huang Nvidia Era (Podcast)",
+        "link": "https://www.bloomberg.com/news/audio/2026-11-14/odd-lots-wall-street-and-the-post-huang-nvidia-era-podcast",
+        "published": "Sat, 14 Nov 2026 09:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
+        "published": "Sat, 14 Nov 2026 08:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Centrica, Equinor Advance to Next Round of Germany’s Uniper Sale",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
+        "published": "Fri, 13 Nov 2026 19:53:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trading Firm IMC Plans to Double Staff in Hong Kong",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-12/quant-trading-firm-imc-plans-to-double-staff-in-hong-kong",
+        "published": "Thu, 12 Nov 2026 00:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
+        "published": "Sat, 14 Nov 2026 05:20:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
+        "published": "Sat, 14 Nov 2026 04:05:34 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
+        "published": "Sat, 14 Nov 2026 03:44:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months",
+        "published": "Sat, 14 Nov 2026 02:04:53 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Cruise Ship Capsizes After Tanker Collision in New Orleans",
@@ -189,63 +243,15 @@
         "title": "Tanker Hits Cruise Ship in New Orleans, Triggering Rescue",
         "link": "https://www.bloomberg.com/news/videos/2026-11-13/tanker-hits-cruise-ship-in-new-orleans-prompting-rescue-video",
         "published": "Fri, 13 Nov 2026 22:33:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Flights Grounded Across US Over Air Traffic Control Problems",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video",
-        "published": "Fri, 13 Nov 2026 22:33:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US is Struggling to Build Affordable Housing",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/us-is-struggling-to-build-affordable-housing-video",
-        "published": "Fri, 13 Nov 2026 22:28:28 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Investing in Financial Security: Masters in Business with Salim Ramji",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/masters-in-business-with-salim-ramji-video",
-        "published": "Fri, 13 Nov 2026 22:11:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Flights Halted Across US, FAA Cites Safety Reasons",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/flights-halted-across-us-faa-cites-safety-reasons-video",
-        "published": "Fri, 13 Nov 2026 22:10:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "FAA Grounds All Flights Nationwide",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/faa-grounds-all-flights-nationwide-video",
-        "published": "Fri, 13 Nov 2026 22:04:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Salim Ramji on the Vanguard Effect",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/salim-ramji-on-the-vanguard-effect-video",
-        "published": "Fri, 13 Nov 2026 22:01:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bond Investors Expect More Pain After Week of Soaring Yields",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/treasury-yield-surge-shatters-hopes-worst-of-bond-rout-is-over",
-        "published": "Fri, 13 Nov 2026 06:00:17 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Emerging-Market Assets Dip as Chip Rout, Fed Rate Worries Linger",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
-        "published": "Fri, 13 Nov 2026 04:53:47 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits",
-        "published": "Fri, 13 Nov 2026 18:24:41 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Für die Anthropic-Gründer hat die Super-KI Priorität",
+        "link": "https://www.onvista.de/news/2026/11-14-fuer-die-anthropic-gruender-hat-die-super-ki-prioritaet-41121763-19-26576260",
+        "published": "Sat, 14 Nov 2026 08:30:01 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Leitindex schließt wenig verändert – Rheinmetall schwach",
@@ -389,12 +395,6 @@
         "title": "Nvidia ist günstig und die Umsätze sind planbar",
         "link": "https://www.onvista.de/news/2026/11-12-nvidia-ist-guenstig-und-die-umsaetze-sind-planbar-40338625-19-26575727",
         "published": "Thu, 12 Nov 2026 17:15:53 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Siemens: Trotz Rekordaufträgen bleibt die Aktie teuer",
-        "link": "https://www.onvista.de/news/2026/11-12-siemens-trotz-rekordauftraegen-bleibt-die-aktie-teuer-40338625-19-26575719",
-        "published": "Thu, 12 Nov 2026 17:10:27 +0100"
       }
     ],
     "Börse Frankfurt – News": [
