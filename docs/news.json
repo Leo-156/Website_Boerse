@@ -1,10 +1,34 @@
 {
-  "updated_at": "2026-11-15T11:16:02.048083+00:00",
+  "updated_at": "2026-11-15T17:52:24.502246+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Vorbild New York: Diese Stadt plant jetzt einen Park auf einer alten Bahntrasse",
+        "title": "Interview: Wirtschaftsweiser Werding: „Wir haben einen Riesenschritt in die richtige Richtung gemacht“",
+        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorgedepot-riesenschritt-in-die-richtige-richtung-gemacht/100265684.html",
+        "published": "Sun, 15 Nov 2026 16:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Der Dollar wird für Investoren zum Risiko",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-der-dollar-wird-fuer-investoren-zum-risiko/100268638.html",
+        "published": "Sun, 15 Nov 2026 14:22:06 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Wie Sie ein Mehrfamilienhaus bis zu 50 Prozent teurer verkaufen",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-sie-ein-mehrfamilienhaus-bis-zu-50-prozent-teurer-verkaufen/100260999.html",
+        "published": "Sun, 15 Nov 2026 12:19:18 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Kryptowährungen: Neue Schwächephase: Bitcoin fällt zeitweise unter 65.000 Dollar",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kryptowaehrungen-neue-schwaechephase-bitcoin-faellt-unter-65.000-dollar/100269990.html",
+        "published": "Sun, 15 Nov 2026 11:47:13 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Vorbild New York: Diese deutsche Stadt plant jetzt einen Park auf einer alten Bahntrasse",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-vorbild-new-york-diese-stadt-plant-jetzt-park-auf-bahntrasse/100268687.html",
         "published": "Sun, 15 Nov 2026 08:36:10 GMT"
       },
@@ -97,33 +121,111 @@
         "title": "Aktie im Blick: Bayer zelebriert Börsen-Mathematik, die Aktionäre kennen sollten",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/bayer-boersen-mathematik-die-aktionaere-kennen-sollten-01/100268854.html",
         "published": "Fri, 13 Nov 2026 06:47:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Vermögen: „Mir fehlt der Respekt vor dem Geld“",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/vermoegen-mir-fehlt-der-respekt-vor-dem-geld-01/100268349.html",
-        "published": "Fri, 13 Nov 2026 06:46:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Interview: Wirtschaftsweiser Werding: „Wir haben einen Riesenschritt in die richtige Richtung gemacht“",
-        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorgedepot-riesenschritt-in-die-richtige-richtung-gemacht/100265684.html",
-        "published": "Fri, 13 Nov 2026 03:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse: Weniger Fasern, mehr Marge: Das spricht für die Aktie des Faserherstellers Lenzing",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boerse-weniger-fasern-mehr-marge-das-spricht-fuer-die-lenzing-aktie/100269243.html",
-        "published": "Thu, 12 Nov 2026 19:43:46 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: Wall Street schließt im Minus – Nvidia-Turbulenzen belasten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-im-minus-nvidia-turbulenzen-belasten/100269457.html",
-        "published": "Thu, 12 Nov 2026 18:51:14 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nvidia Fallout, Next Mega IPO, FAA Router Failure",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/bloomberg-this-weekend-11-15-2026-video",
+        "published": "Sun, 15 Nov 2026 16:53:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Peru’s Economy Unexpectedly Slows as Mining, Farming Slump",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-15/peru-s-economy-unexpectedly-slows-as-mining-farming-slump",
+        "published": "Sun, 15 Nov 2026 15:54:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bookmarked: News Stories On Our Reading List",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/bookmarked-news-stories-on-our-reading-list-video",
+        "published": "Sun, 15 Nov 2026 15:51:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/by-the-way-headlines-you-may-have-missed-video",
+        "published": "Sun, 15 Nov 2026 15:46:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "White House Braces for Democratic Investigations",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/white-house-braces-for-democratic-investigations-video",
+        "published": "Sun, 15 Nov 2026 15:14:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Inside India’s $130 Billion Wedding Economy",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/inside-india-s-130-billion-wedding-economy-video",
+        "published": "Sun, 15 Nov 2026 15:03:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Traders Turn to Kalshi Stock ‘Perps’ on Nvidia and SpaceX as Leverage Fears Grow",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-15/traders-turn-to-kalshi-stock-perps-on-nvidia-and-spacex-as-leverage-fears-grow",
+        "published": "Sun, 15 Nov 2026 15:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Congress Presses Nvidia Over China Chip Access",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/congress-presses-nvidia-over-china-chip-access-video",
+        "published": "Sun, 15 Nov 2026 14:50:56 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The 1973 Oil Crisis Still Matters Today",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/the-1973-oil-crisis-still-matters-today-video",
+        "published": "Sun, 15 Nov 2026 14:27:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nvidia Crisis Reshapes Washington’s Tech Debate",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-reshapes-washington-s-tech-debate-video",
+        "published": "Sun, 15 Nov 2026 14:10:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Router Failure Exposes Risks in FAA Network",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/router-failure-exposes-risks-in-faa-network-video",
+        "published": "Sun, 15 Nov 2026 13:28:26 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Anthropic IPO Arrives at a Pivotal AI Moment",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/anthropic-ipo-arrives-at-a-pivotal-ai-moment-video",
+        "published": "Sun, 15 Nov 2026 13:17:16 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Nvidia Crisis Complicates Trump’s China Trip",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-complicates-trump-s-china-trip-video",
+        "published": "Sun, 15 Nov 2026 13:05:46 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Can America’s Next Jobs Boom Build a Middle-Class Life?",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/can-america-s-next-jobs-boom-build-a-middle-class-life-video",
+        "published": "Sun, 15 Nov 2026 13:03:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump Heads to Asia With Trade, Security at Stake",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video",
+        "published": "Sun, 15 Nov 2026 12:52:36 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41%",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41",
+        "published": "Sun, 15 Nov 2026 12:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AirMozambique Warns of Flight Cancellations Due to Fuel Shortage",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-15/airmozambique-warns-of-flight-cancellations-due-to-fuel-shortage",
+        "published": "Sun, 15 Nov 2026 11:09:59 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
@@ -141,90 +243,6 @@
         "title": "(Digital) SpaceX Catches Starship in Novel Landing",
         "link": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
         "published": "Sat, 14 Nov 2026 22:25:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-        "published": "Sat, 14 Nov 2026 20:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
-        "published": "Sat, 14 Nov 2026 16:45:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-        "published": "Sat, 14 Nov 2026 16:22:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Entrepreneurs Behind Poppi Start Over",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video",
-        "published": "Sat, 14 Nov 2026 16:13:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How China’s Intelligence Operations Target Tech",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
-        "published": "Sat, 14 Nov 2026 15:41:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Stadium Bidding War Shaking Up the Midwest",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/the-stadium-bidding-war-shaking-up-the-midwest-video",
-        "published": "Sat, 14 Nov 2026 15:04:14 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "SpaceX Pushes Starship Reusability to New Test",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/spacex-pushes-starship-reusability-to-new-test-video",
-        "published": "Sat, 14 Nov 2026 14:36:01 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video",
-        "published": "Sat, 14 Nov 2026 14:30:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump Heads to China for Talks With Xi and Putin",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/trump-heads-to-china-for-talks-with-xi-and-putin-video",
-        "published": "Sat, 14 Nov 2026 14:11:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
-        "published": "Sat, 14 Nov 2026 14:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "David Cameron Sees Hope in Alzheimer’s Research",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/david-cameron-sees-hope-in-alzheimer-s-research-video",
-        "published": "Sat, 14 Nov 2026 13:48:34 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Ukraine Peace Push Turns to NATO and Donbas",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video",
-        "published": "Sat, 14 Nov 2026 13:30:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Air Travel Chaos Puts FAA Systems in Focus",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-14/air-travel-chaos-puts-faa-systems-in-focus-video",
-        "published": "Sat, 14 Nov 2026 13:21:26 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Guinea Plans Bauxite Index as It Seeks to Bolster Ore Prices",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-14/guinea-plans-bauxite-index-as-it-seeks-to-bolster-ore-prices",
-        "published": "Sat, 14 Nov 2026 11:27:57 GMT"
       }
     ],
     "onvista – News": [
