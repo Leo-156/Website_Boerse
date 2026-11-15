@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-15T03:15:17.831672+00:00",
+  "updated_at": "2026-11-15T11:16:02.048083+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Vorbild New York: Diese Stadt plant jetzt einen Park auf einer alten Bahntrasse",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-vorbild-new-york-diese-stadt-plant-jetzt-park-auf-bahntrasse/100268687.html",
+        "published": "Sun, 15 Nov 2026 08:36:10 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Immobilien: Bis zu 135 Jahre Preisvorteil – wo sich ein Immobilienkauf rund um Düsseldorf für Pendler lohnt",
@@ -115,15 +121,21 @@
         "title": "Wall Street: Wall Street schließt im Minus – Nvidia-Turbulenzen belasten",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-im-minus-nvidia-turbulenzen-belasten/100269457.html",
         "published": "Thu, 12 Nov 2026 18:51:14 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldpolitik: Merz will das zweitwichtigste Amt bei der EZB – und Macron könnte mitspielen",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-merz-will-das-zweitwichtigste-amt-macron-koennte-mitspielen/100269428.html",
-        "published": "Thu, 12 Nov 2026 17:31:10 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+        "published": "Sun, 15 Nov 2026 08:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+        "published": "Sun, 15 Nov 2026 05:10:27 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "(Digital) SpaceX Catches Starship in Novel Landing",
@@ -213,36 +225,6 @@
         "title": "Guinea Plans Bauxite Index as It Seeks to Bolster Ore Prices",
         "link": "https://www.bloomberg.com/news/articles/2026-11-14/guinea-plans-bauxite-index-as-it-seeks-to-bolster-ore-prices",
         "published": "Sat, 14 Nov 2026 11:27:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Goldman Sachs Sees 19% Return on Asia ex-Japan Stocks in 2027",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-14/goldman-sachs-sees-19-return-on-asia-ex-japan-stocks-in-2027",
-        "published": "Sat, 14 Nov 2026 10:16:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Centrica, Equinor in Next Round of Germany’s Uniper Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
-        "published": "Fri, 13 Nov 2026 19:53:07 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
-        "published": "Sat, 14 Nov 2026 09:00:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Odd Lots: Wall Street and the Post-Huang Nvidia Era (Podcast)",
-        "link": "https://www.bloomberg.com/news/audio/2026-11-14/odd-lots-wall-street-and-the-post-huang-nvidia-era-podcast",
-        "published": "Sat, 14 Nov 2026 09:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
-        "published": "Sat, 14 Nov 2026 08:30:00 GMT"
       }
     ],
     "onvista – News": [
