@@ -1,18 +1,84 @@
 {
-  "updated_at": "2026-11-17T10:42:38.924642+00:00",
+  "updated_at": "2026-11-17T19:23:16.032152+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Interview: 15 Millionen Dokumente und neun Millionen Mails abgeflossen: Wie konnte das passieren, Herr Sewing?",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/deutsche-bank-wie-konnte-das-passieren-herr-sewing/100270599.html",
+        "published": "Tue, 17 Nov 2026 17:57:51 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax folgt US-Börsen tief ins Minus und verliert mehr als 500 Punkte",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-folgt-us-boersen-ins-minus-und-verliert-ueber-zwei-prozent/100270429.html",
+        "published": "Tue, 17 Nov 2026 17:19:34 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "EZB: Bundesregierung erhält Lob für Brunnermeier-Nominierung – doch ein Detail sorgt für Erstaunen",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-lob-fuer-nominierung-von-markus-brunnermeier-zum-chefvolkswirt/100270602.html",
+        "published": "Tue, 17 Nov 2026 16:02:19 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: Vor Nvidia-Zahlen – Wall Street rutscht ins Minus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-vor-nvidia-zahlen-wall-street-rutscht-ins-minus/100270596.html",
+        "published": "Tue, 17 Nov 2026 15:50:18 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Umfrage: „Ende der KI-Euphorie“ – Fondsmanager werden skeptischer",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-ende-der-ki-euphorie-fondsmanager-werden-skeptischer/100268383.html",
+        "published": "Tue, 17 Nov 2026 15:03:46 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Altersvorsorge: So viel müssen sie sparen, um 85 Prozent ihres letzten Nettogehalts als Rente zu bekommen",
+        "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-wie-viel-sie-sparen-muessen-um-ihre-rentenluecke-zu-schliessen/100268809.html",
+        "published": "Tue, 17 Nov 2026 14:31:32 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Teurer verkauft als geschätzt? Wann die Steuer niedrig bleibt",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/immobilien-teurer-verkauft-als-geschaetzt-wann-die-steuer-niedrig-bleibt/100265058.html",
+        "published": "Tue, 17 Nov 2026 13:44:10 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Kreditinstitute: Datenleak von Millionen Dokumenten belastet Deutsche Bank – Aktie reagiert deutlich",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/deutsche-bank-datenleak-von-millionen-dokumenten-belastet-das-institut/100270448.html",
+        "published": "Tue, 17 Nov 2026 13:16:48 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nvidia-Investments: Soros und weitere Familienbüros verkauften Nvidia-Aktien kurz vor Huangs Abgang als CEO",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/investment-soros-verkaufte-nvidia-aktien-kurz-vor-huangs-ruecktritt/100270465.html",
+        "published": "Tue, 17 Nov 2026 13:04:50 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Wie Gutverdiener ihr Altersvorsorgedepot noch besser machen",
+        "link": "https://www.handelsblatt.com/finanzen/vorsorge/versicherung/geldanlage-altersvorsorgedepot-oder-etf-was-sich-fuer-gutverdiener-lohnt/100256477.html",
+        "published": "Tue, 17 Nov 2026 11:55:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "KI: Anthropic-IPO macht Gründer zu Milliardären – und Großspendern?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ki-anthropic-ipo-macht-gruender-zu-milliardaeren-und-grossspendern/100270452.html",
+        "published": "Tue, 17 Nov 2026 11:41:29 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Steuern: Wie Sie Ihre Erbschaft anzeigen müssen und wann Strafen drohen",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/finanzamt-zehn-teure-fehler-die-erben-unbedingt-vermeiden-sollten/100233322.html",
+        "published": "Tue, 17 Nov 2026 11:20:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "E-Commerce: Fünf große Hürden: Ein Jahr nach dem Start fehlt es dem Bezahldienst Wero an Akzeptanz",
         "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/onlinebezahldienst-ein-jahr-nach-dem-start-fehlen-wero-top-onlineshops/100267285.html",
         "published": "Tue, 17 Nov 2026 10:11:05 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax notiert im Minus – Deutsche-Bank-Aktie im Fokus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-deutsche-bank-aktie-verliert-deutlich/100270429.html",
-        "published": "Tue, 17 Nov 2026 09:37:45 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -25,18 +91,6 @@
         "title": "Geldanlage: Passives Einkommen mit Anleihen: Mit diesen ETFs bekommen Sie acht Mal im Jahr Zinsen",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-mit-diesen-fonds-erzielen-anleger-planbare-zinsertraege/100229874.html",
         "published": "Tue, 17 Nov 2026 09:10:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nvidia-Investments: Soros und weitere Familienbüros verkauften Nvidia-Aktien kurz vor Huangs Abgang als CEO",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/investment-soros-verkaufte-nvidia-aktien-kurz-vor-huangs-ruecktritt/100270465.html",
-        "published": "Tue, 17 Nov 2026 08:49:44 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Datenleak von Millionen Dokumenten belastet Deutsche Bank – Aktie reagiert deutlich",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/deutsche-bank-datenleak-von-millionen-dokumenten-belastet-das-institut/100270448.html",
-        "published": "Tue, 17 Nov 2026 08:22:15 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -67,185 +121,167 @@
         "title": "Wall Street: S&P 500 schließt fast zwei Prozent im Minus – Microsoft wertvoller als Nvidia",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-affaere-und-anthropic-debuet-machen-wall-street-zu-schaffen/100270217.html",
         "published": "Mon, 16 Nov 2026 19:17:20 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldpolitik: Deutschland zögert, Frankreich handelt – Insider kritisieren EZB-Personalpolitik Berlins",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-insider-kritisieren-personalpolitik-der-bundesregierung/100270282.html",
-        "published": "Mon, 16 Nov 2026 17:35:06 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: EU und Fed erlauben Commerzbank-Übernahme durch Unicredit",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-eu-und-fed-erlauben-commerzbank-uebernahme-durch-unicredit/100270206.html",
-        "published": "Mon, 16 Nov 2026 17:22:11 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Die Illusion von mehr Firmenanleihen für Privatanleger",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anleihen-die-illusion-von-mehr-firmenbonds-fuer-privatanleger/100269629.html",
-        "published": "Mon, 16 Nov 2026 17:02:21 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Berkshire Hathaway: Buffett schenkt Familienstiftungen Aktien im Wert von 5,5 Milliarden Dollar",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/berkshire-hathaway-buffett-verschenkt-fuer-55-milliarden-dollar-aktien/100270318.html",
-        "published": "Mon, 16 Nov 2026 16:57:32 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax schließt im Minus – Rüstungsaktie legt zu",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-ruestungsaktie-legt-zu/100270107.html",
-        "published": "Mon, 16 Nov 2026 16:56:18 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Lebensversicherung: Die Hälfte der Riester-Kunden könnte ins Altersvorsorgedepot wechseln",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/lebensversicherung-viele-riester-kunden-wollen-ins-altersvorsorgedepot/100270222.html",
-        "published": "Mon, 16 Nov 2026 15:18:52 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax-Umfrage: Euphorie als Warnsignal? Reserven für neue Käufe schrumpfen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/dax-euphorie-als-warnsignal-reserven-fuer-neue-kaeufe-schrumpfen/100268640.html",
-        "published": "Mon, 16 Nov 2026 14:47:24 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Finanzinvestoren: Apokalypse abgesagt: Private Equity setzt wieder auf Software",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/markt-apokalypse-abgesagt-private-equity-setzt-wieder-auf-software/100266234.html",
-        "published": "Mon, 16 Nov 2026 13:56:40 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldwäsche: „Finanzreservoir für Schwerverbrecher“: Gericht stellt Revolut-Tochter ein Jahr unter Verwaltung",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/geldwaesche-mailaender-gericht-stellt-revolut-bank-ein-jahr-unter-verwaltung/100270182.html",
-        "published": "Mon, 16 Nov 2026 13:29:08 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "The Latest Longevity Hack Is Surprisingly Low-Tech",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/the-latest-longevity-hack-is-surprisingly-low-tech",
-        "published": "Tue, 17 Nov 2026 10:15:59 GMT"
+        "title": "Saks, Neiman Marcus Parent Company CEO Says Growth Plan Is on Track",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/exemplar-luxury-ceo-says-growth-plan-is-on-track-video",
+        "published": "Tue, 17 Nov 2026 13:45:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Gas Pump Price Hits Lowest Since March as Oil Supply Recovers",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/us-gas-pump-price-hits-lowest-since-march-as-oil-supply-recovers",
-        "published": "Tue, 17 Nov 2026 10:07:34 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Unloved 30-Year Bond Is a Surprise Hit With UK Retail Investors",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/unloved-30-year-bond-is-a-surprise-hit-with-uk-retail-investors",
-        "published": "Tue, 17 Nov 2026 10:00:10 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Shanghai Exchange Intervenes After Historic Copper Crunch",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/shanghai-exchange-intervenes-after-historic-copper-squeeze",
-        "published": "Tue, 17 Nov 2026 03:11:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Deutsche Bank Leak Shows Payments Linked to Epstein",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video",
-        "published": "Tue, 17 Nov 2026 09:50:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Oil Edges Up as Traders Weigh Mideast Threats and Ample Supply",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
-        "published": "Mon, 16 Nov 2026 23:02:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Turkish Households Buckle Under Gold-Price Slide, Funds Crisis",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/turkish-households-buckle-under-gold-price-slide-funds-crisis",
-        "published": "Tue, 17 Nov 2026 09:25:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nvidia Earnings Are Sideshow as CEO Ouster Looms Over Stock",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market",
-        "published": "Mon, 16 Nov 2026 21:31:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Zurich’s Greco Boosts Revenue, Capital Gain From Beazley Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/zurich-revenue-gain-on-beazley-deal-to-reach-1-5-billion",
-        "published": "Tue, 17 Nov 2026 06:21:35 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "T. Rowe Sticks to Bearish Treasuries Bet That Fueled Banner 2026",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/t-rowe-sticks-to-bearish-treasuries-bet-that-fueled-banner-2026",
-        "published": "Tue, 17 Nov 2026 09:22:38 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Tech Stocks Extend Selloff as Nvidia Results Near: Markets Wrap",
+        "title": "Stocks Fall on Tech Jitters Before Nvidia Results: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
         "published": "Mon, 16 Nov 2026 22:06:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Pirelli Falls as Sinochem Sells €455 Million Stake in Tiremaker",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/pirelli-falls-as-sinochem-sells-455-million-stake-in-tiremaker",
-        "published": "Tue, 17 Nov 2026 09:12:32 GMT"
+        "title": "Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Stock",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market",
+        "published": "Mon, 16 Nov 2026 21:31:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China AI Stocks Drop as US Chip Curbs Hit Labs and Hyperscalers",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
-        "published": "Tue, 17 Nov 2026 00:22:19 GMT"
+        "title": "Nuclear Thriller Puts Spotlight on French Election Campaign",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/nuclear-thriller-puts-spotlight-on-french-presidential-campaign",
+        "published": "Tue, 17 Nov 2026 15:23:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Turkey Fund Assets Shrink by $54 Billion Amid Manipulation Probe",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/turkey-fund-assets-shrink-by-54-billion-amid-manipulation-probe",
-        "published": "Tue, 17 Nov 2026 08:58:50 GMT"
+        "title": "Disney Profit Beats With Marvel Films Powering Streaming",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming-video",
+        "published": "Tue, 17 Nov 2026 17:53:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Barclays’ Rajadhayaksha Says Nvidia Market Angst Overdone",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/barclays-rajadhayaksha-nvidia-market-angst-overdone-video",
-        "published": "Tue, 17 Nov 2026 08:48:59 GMT"
+        "title": "Lucky Strike Shares Jump 22% as CEO Makes Take-Private Offer",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/lucky-strike-ceo-makes-take-private-offer-as-loan-hits-distress",
+        "published": "Tue, 17 Nov 2026 15:13:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "KKR Is Said to Emerge as Preferred Bidder for Japanese Curry Chain Ichibanya",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/kkr-is-said-to-emerge-as-preferred-bidder-for-japanese-curry-chain-ichibanya",
-        "published": "Tue, 17 Nov 2026 06:29:32 GMT"
+        "title": "Oil Swings as Mideast Flareups Threaten Ample Supply Outlook",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+        "published": "Mon, 16 Nov 2026 23:02:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Deutsche Bank Processed Large Sums Linked to Epstein: FT",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-large-sums-linked-to-epstein-ft-video",
-        "published": "Tue, 17 Nov 2026 08:44:45 GMT"
+        "title": "Tech Stocks Sink Before Nvidia’s First Results After Huang Exit",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results",
+        "published": "Tue, 17 Nov 2026 13:13:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nvidia Fallout Hits Southeast Asia Hard",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/insight-with-haslinda-amin-11-17-2026-video",
-        "published": "Tue, 17 Nov 2026 08:40:48 GMT"
+        "title": "Swiss Pharma Employee Convicted Over $300,000 Insider Trades",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/swiss-pharma-employee-convicted-over-300-000-in-insider-trades",
+        "published": "Tue, 17 Nov 2026 12:02:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Old Mutual Sells $1 Billion of South Africa Malls to Vukile",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/old-mutual-sells-1-billion-of-south-africa-malls-to-vukile",
-        "published": "Tue, 17 Nov 2026 08:34:12 GMT"
+        "title": "Mark Walter’s Largest Insurer Sees Sales Plunge After US Probe",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/mark-walter-s-largest-insurer-reports-sales-plunge-amid-us-probe",
+        "published": "Tue, 17 Nov 2026 17:11:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff",
+        "title": "European Stocks Extend Fall as Tech Drags; Deutsche Bank Slides",
         "link": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff",
         "published": "Tue, 17 Nov 2026 08:30:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bank of America Says US Rates Will Rise ‘Until Activity Cools’",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/bank-of-america-says-us-rates-will-rise-until-activity-cools",
+        "published": "Tue, 17 Nov 2026 17:05:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Sellas Life Sciences Stock Triples After Cancer Vaccine Data",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/sellas-life-sciences-stock-triples-after-cancer-vaccine-data",
+        "published": "Tue, 17 Nov 2026 16:52:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street Awaits First Nvidia Earnings Report Without Jensen Huang",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-surveillance-11-17-2026-video",
+        "published": "Tue, 17 Nov 2026 16:50:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Steadies as Dip Buyers Cushion Slump Driven by Fed Concerns",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
+        "published": "Mon, 16 Nov 2026 23:26:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Robert Pattinson Is New James Bond in Amazon’s Reboot",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video",
+        "published": "Mon, 16 Nov 2026 19:53:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
+        "published": "Tue, 17 Nov 2026 14:53:10 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries Rise as Risk-Averse Investors Dump Stocks, Buy Bonds",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
+        "published": "Tue, 17 Nov 2026 16:26:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Optimum Nears Deal With Creditors to Slash $26 Billion Debt Pile",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/optimum-nears-deal-with-creditors-to-slash-26-billion-debt-pile",
+        "published": "Tue, 17 Nov 2026 16:23:51 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Retail Sales Growth Slows as Big-Ticket Purchases Slip",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/us-retail-sales-growth-slows-big-ticket-purchases-slip-video",
+        "published": "Tue, 17 Nov 2026 15:59:48 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Schwache Wall Street zerrt Dax vor Nvidia-Zahlen nach unten",
+        "link": "https://www.onvista.de/news/2026/11-17-schwache-wall-street-zerrt-dax-vor-nvidia-zahlen-nach-unten-41121301-19-26577471",
+        "published": "Tue, 17 Nov 2026 17:50:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Flatex Depot 2026: Fester Orderpreis und 20 deutsche Handelsplätze",
+        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-flatex-26312996",
+        "published": "Tue, 17 Nov 2026 17:44:21 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "DKB Depot 2026: Depot zum Girokonto mit Orders ab 10 Euro",
+        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-dkb-26378444",
+        "published": "Tue, 17 Nov 2026 17:42:58 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Consorsbank Depot 2026: Mehr als 1.700 ETF-Sparpläne ohne Ausführungskosten",
+        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-consorsbank-26283740",
+        "published": "Tue, 17 Nov 2026 17:41:30 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Drei Ideen für Energie-Investments",
+        "link": "https://www.onvista.de/news/2026/11-17-oel-gas-und-kohle-drei-energieaktien-im-vergleich-41122786-19-26576783",
+        "published": "Tue, 17 Nov 2026 14:00:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Bofa sieht Silber bei 75 Dollar - Intel und Micron im Blick",
+        "link": "https://www.onvista.de/news/2026/11-17-bofa-sieht-silber-bei-75-dollar-intel-und-micron-im-blick-41122786-19-26577265",
+        "published": "Tue, 17 Nov 2026 12:58:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Dax setzt Rücksetzer fort – wichtige Kurslücke im Blick",
@@ -359,45 +395,21 @@
         "title": "Für die Anthropic-Gründer hat die Super-KI Priorität",
         "link": "https://www.onvista.de/news/2026/11-14-fuer-die-anthropic-gruender-hat-die-super-ki-prioritaet-41121763-19-26576260",
         "published": "Sat, 14 Nov 2026 08:30:01 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Leitindex schließt wenig verändert – Rheinmetall schwach",
-        "link": "https://www.onvista.de/news/2026/11-13-leitindex-schliesst-wenig-veraendert-rheinmetall-schwach-41121301-19-26576230",
-        "published": "Fri, 13 Nov 2026 17:53:06 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Sie müssen nicht jede Tech-Meldung deuten. Dafür gibt es uns. BIT Global Technology Leaders Active ETF.",
-        "link": "https://bitcap.com/fonds/bit-global-technology-leaders-active-ucits-etf?utm_source=onvista&utm_medium=cooperation&utm_campaign=2026_gtl_etf-launch_awareness&utm_content=premium-box-homepage",
-        "published": "Fri, 13 Nov 2026 16:38:42 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Cerebras: Das Wachstum überzeugt, die Marge halbiert sich",
-        "link": "https://www.onvista.de/news/2026/11-13-cerebras-das-wachstum-ueberzeugt-die-marge-halbiert-sich-40338625-19-26576158",
-        "published": "Fri, 13 Nov 2026 16:35:47 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Cisco: Starkes Wachstum rechtfertigt die höhere Bewertung",
-        "link": "https://www.onvista.de/news/2026/11-13-cisco-starkes-wachstum-rechtfertigt-die-hoehere-bewertung-40338625-19-26576161",
-        "published": "Fri, 13 Nov 2026 16:34:44 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Applied Materials: Das Wachstum macht die Aktie attraktiv",
-        "link": "https://www.onvista.de/news/2026/11-13-applied-materials-das-wachstum-macht-die-aktie-attraktiv-40338625-19-26576164",
-        "published": "Fri, 13 Nov 2026 16:33:53 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Rheinmetall: Die günstige Bewertung eröffnet neue Kurschancen",
-        "link": "https://www.onvista.de/news/2026/11-13-rheinmetall-die-guenstige-bewertung-eroeffnet-neue-kurschancen-40338625-19-26575716",
-        "published": "Fri, 13 Nov 2026 16:32:55 +0100"
       }
     ],
     "Börse Frankfurt – News": [
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "ETFs: Breite Käufe, KI-Fonds unter Druck",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/etfs-breite-kaeufe-ki-fonds-unter-druck",
+        "published": "Tue, 17 Nov 2026 13:31:15 GMT"
+      },
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Zehn neue ETFs und ETNs",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/acht-neue-etfs-und-etns",
+        "published": "Tue, 17 Nov 2026 08:16:31 GMT"
+      },
       {
         "source": "Börse Frankfurt – News",
         "title": "Wochenausblick: Starke Zahlen beflügeln den DAX",
@@ -445,32 +457,26 @@
         "title": "Scale-Marktbericht: Rücksetzer nach Höhenflug",
         "link": "https://www.boerse-frankfurt.de/nachrichten/scale-marktbericht-ruecksetzer-nach-hoehenflug",
         "published": "Fri, 06 Nov 2026 09:51:48 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Rohstoffe: Hohe Zinsen lasten auf Goldpreis",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/rohstoffe-hohe-zinsen-lasten-auf-goldpreis",
-        "published": "Thu, 05 Nov 2026 07:27:55 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "ETF-Forum 2026: Was die Entwicklung des ETF-Marktes bedeutet",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/etf-forum-2026-was-die-entwicklung-des-etf-marktes-bedeutet",
-        "published": "Wed, 04 Nov 2026 07:53:59 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Zinsängste belasten Edelmetalle und Krypto-Währungen",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/gold-und-bitcoin-fallen-zinssorgen-100.html",
-        "published": "Mon, 16 Nov 2026 12:22:36 +0100"
+        "title": "Marktbericht: Deutsche-Bank-Aktien nach neuen Vorwürfen unter Druck",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/deutschebank-226.html",
+        "published": "Tue, 17 Nov 2026 14:08:30 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX-Rückschlag vor Nvidia-Zahlen",
+        "title": "Marktbericht: Kräftige Verluste vor Nvidia-Zahlen",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
-        "published": "Tue, 17 Nov 2026 10:57:57 +0100"
+        "published": "Tue, 17 Nov 2026 18:26:00 +0100"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Zinsängste belasten Edelmetalle und Krypto-Währungen",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/gold-und-bitcoin-fallen-zinssorgen-100.html",
+        "published": "Mon, 16 Nov 2026 12:22:36 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Marktbericht: Deutsche Bank will \"europäischer Champion\" werden",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-deutsche-bank-100.html",
         "published": "Wed, 28 Oct 2026 15:05:32 +0100"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
-        "published": "Tue, 27 Oct 2026 15:12:19 +0100"
       }
     ]
   }
