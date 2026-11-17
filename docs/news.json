@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-11-16T18:57:50.164316+00:00",
+  "updated_at": "2026-11-17T02:14:37.265369+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: Wall Street notiert im Minus – Microsoft wertvoller als Nvidia",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-im-minus-microsoft-wertvoller-als-nvidia/100270217.html",
-        "published": "Mon, 16 Nov 2026 17:41:05 GMT"
+        "title": "IT-Störung: Bankkunden in USA melden Probleme beim Zugriff auf Online-Konten",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/it-stoerung-bankkunden-in-usa-melden-probleme-beim-zugriff-auf-online-konten/100270373.html",
+        "published": "Mon, 16 Nov 2026 23:07:36 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wall Street: S&P 500 schließt fast zwei Prozent im Minus – Microsoft wertvoller als Nvidia",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-affaere-und-anthropic-debuet-machen-wall-street-zu-schaffen/100270217.html",
+        "published": "Mon, 16 Nov 2026 19:17:20 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -115,137 +121,137 @@
         "title": "Börse am 16. November: Sieben Punkte, die für Anleger wichtig sind",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
         "published": "Mon, 16 Nov 2026 05:28:50 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse Asien: Asiens Börsen geben nach – Nvidia-Zahlen und Anthropic-Börsengang im Blick",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boerse-asien-asiens-boersen-geben-nach-nvidia-zahlen-und-anthropic-boersengang-im-blick/100270076.html",
-        "published": "Mon, 16 Nov 2026 04:07:10 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Plunges as Nvidia Earnings, Anthropic IPO on Horizon",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
-        "published": "Mon, 16 Nov 2026 18:51:04 GMT"
+        "title": "Asian Stocks Decline for a Fourth Day, Oil Slips: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+        "published": "Mon, 16 Nov 2026 22:06:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Giant Aluminum Squeeze Is Stress Test for LME’s Anti-Abuse Rules",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/giant-aluminum-squeeze-is-stress-test-for-lme-s-anti-abuse-rules",
-        "published": "Mon, 16 Nov 2026 13:26:38 GMT"
+        "title": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/bok-s-yoon-ai-concerns-add-to-korea-equity-volatility-video",
+        "published": "Tue, 17 Nov 2026 01:46:26 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "GSA, Calpers Buy £600 Million Student Housing Portfolio",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/gsa-buys-600-million-student-housing-portfolio-from-sanctuary",
-        "published": "Mon, 16 Nov 2026 09:01:00 GMT"
+        "title": "RBNZ Flags Growing Private Credit Risks in Property Finance",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
+        "published": "Mon, 16 Nov 2026 21:17:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dollar Erases Liberation Day Loss as ‘Sell America’ Fear Fades",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/dollar-erases-liberation-day-loss-as-sell-america-fear-fades",
-        "published": "Mon, 16 Nov 2026 18:24:06 GMT"
+        "title": "Latest Oil Market News and Analysis for Nov. 17",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+        "published": "Mon, 16 Nov 2026 23:02:55 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Cambridge Associates & KBW Ventures on Investing in 2027",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-12/cambridge-associates-kbw-ventures-on-investing-in-2027-video",
-        "published": "Thu, 12 Nov 2026 10:39:56 GMT"
+        "title": "New Zealand Sees Best Quarterly Population Gain in Two Years",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-sees-best-quarterly-population-gain-in-two-years",
+        "published": "Tue, 17 Nov 2026 01:09:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
-        "published": "Sun, 15 Nov 2026 22:11:32 GMT"
+        "title": "Samuel Sekuritas Denies It Pumped Stock, Took Part in MSCI Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/samuel-sekuritas-denies-it-pumped-stock-took-part-in-msci-trade",
+        "published": "Tue, 17 Nov 2026 00:44:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Shale Producers Take a Chance on Going Without Hedges",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/us-oil-producers-sour-on-hedges-as-stronger-finances-offer-cover",
-        "published": "Mon, 16 Nov 2026 18:03:51 GMT"
+        "title": "RBA Raised Rates as Price Risks Remained to Upside, Minutes Show",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
+        "published": "Tue, 17 Nov 2026 00:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lula Worries Slam Brazil Markets From Real to Corporate Bonds",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
-        "published": "Mon, 16 Nov 2026 17:41:36 GMT"
+        "title": "Chip Stocks Slide as US Sets New Curbs on China’s Compute Access",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
+        "published": "Tue, 17 Nov 2026 00:22:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lilly Pushes Buying Spree Beyond $32B With Calytrix Deal",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-16/lilly-pushes-buying-spree-beyond-32b-with-calytrix-deal-video",
-        "published": "Mon, 16 Nov 2026 17:25:21 GMT"
+        "title": "China’s Buyback Push Struggles to Put a Floor Under Stocks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/china-s-buyback-push-struggles-to-put-a-floor-under-stocks",
+        "published": "Tue, 17 Nov 2026 00:00:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "European Stocks Drop Over AI Concerns as Tech Sector Tumbles",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/european-stocks-fluctuate-as-ai-concerns-keep-investors-on-edge",
-        "published": "Mon, 16 Nov 2026 08:07:41 GMT"
+        "title": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/the-close-11-16-2026-video",
+        "published": "Tue, 17 Nov 2026 00:17:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Canadian Natural to Buy Advantage Energy Amid Oil Price Boom",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/canadian-natural-buys-advantage-energy-to-boost-alberta-assets",
-        "published": "Mon, 16 Nov 2026 09:51:07 GMT"
+        "title": "Gold Steadies Near 14-Month Low as Inflation Pressure Persists",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
+        "published": "Mon, 16 Nov 2026 23:26:48 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Athleisure Faces Price Pressures",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-16/athleisure-faces-price-pressures-video",
-        "published": "Mon, 16 Nov 2026 17:06:05 GMT"
+        "title": "Shamrock’s Lasalle: Different Ways To Invest in Sports",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-16/shamrock-s-lasalle-different-ways-to-invest-in-sports-video",
+        "published": "Mon, 16 Nov 2026 23:50:28 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Think Twice, Bloomberg’s New Daily Trivia Game",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-16/think-twice-bloomberg-s-new-daily-trivia-game-video",
-        "published": "Mon, 16 Nov 2026 17:01:11 GMT"
+        "title": "Alzheimer's Will Be a \"Treatable Condition,\" Says David Cameron",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-16/alzheimer-s-will-be-treatable-says-david-cameron-video",
+        "published": "Mon, 16 Nov 2026 23:48:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Diesel Falls Below $6 a Gallon, Easing Inflationary Pressure",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/diesel-falls-below-6-a-gallon-easing-key-inflationary-pressure",
-        "published": "Mon, 16 Nov 2026 09:17:11 GMT"
+        "title": "AirAsia, Malaysia Airports in $122 Million Debt Repayment Talks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/airasia-malaysia-airports-in-122-million-debt-repayment-talks",
+        "published": "Mon, 16 Nov 2026 23:41:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Pentagon Deputy Steered Defense Deals to His Goldman Banker",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-16/dod-s-feinberg-said-to-steer-firms-to-goldman-banker-video",
-        "published": "Mon, 16 Nov 2026 15:29:48 GMT"
+        "title": "Colombia’s De La Espriella Vows Spending Cuts in Investor Pitch",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/colombia-s-de-la-espriella-vows-spending-cuts-in-investor-pitch",
+        "published": "Mon, 16 Nov 2026 23:20:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-surveillance-11-16-2026-video",
-        "published": "Mon, 16 Nov 2026 16:56:51 GMT"
+        "title": "Betterment CEO Sarah Levy on Plus Debut, New IRA Options",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-16/betterment-ceo-sarah-levy-on-plus-debut-new-ira-options-video",
+        "published": "Mon, 16 Nov 2026 23:17:26 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Tech Stocks Tumble With Nvidia Earnings, Anthropic IPO in Focus",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/us-futures-drop-as-market-looks-to-nvidia-results-anthropic-ipo",
-        "published": "Mon, 16 Nov 2026 13:17:25 GMT"
+        "title": "Learfield’s Cole Gahagan on Economics of College Sports",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-16/learfield-s-cole-gahagan-on-economics-of-college-sports-video",
+        "published": "Mon, 16 Nov 2026 23:10:49 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Brazilian Real Leads Losses, EM Stocks Sink on AI Uncertainty",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-stocks-currencies-ai-concerns",
-        "published": "Mon, 16 Nov 2026 06:14:58 GMT"
+        "title": "Bilt CEO on the Launch of “Neighborhood OS”",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-16/bilt-ceo-on-the-launch-of-neighborhood-os-video",
+        "published": "Mon, 16 Nov 2026 23:07:21 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "The Chipdollar vs. The Petrodollar",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-16/the-chipdollar-vs-the-petrodollar",
-        "published": "Mon, 16 Nov 2026 16:31:34 GMT"
+        "title": "Billionaire Cheng Family Bankrolls Risky New World Rescue Plan",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/billionaire-cheng-family-bankrolls-risky-new-world-rescue-plan",
+        "published": "Mon, 16 Nov 2026 23:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Miners Discuss Cross-Border Tie-ups to Tap Argentina’s $40 Billion Copper Belt",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/miners-discuss-cross-border-tie-ups-to-tap-argentina-s-40-billion-copper-belt",
-        "published": "Mon, 16 Nov 2026 16:18:00 GMT"
+        "title": "Citigroup Targets $5 Trillion in Wealth From Rival Banks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/citigroup-targets-5-trillion-in-wealth-from-rival-banks",
+        "published": "Mon, 16 Nov 2026 23:00:00 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Tech-Werte schlittern weiter: Nasdaq 100 verliert 2,4 Prozent",
+        "link": "https://www.onvista.de/news/2026/11-16-tech-werte-schlittern-weiter-nasdaq-100-verliert-2-4-prozent-0-19-26577006",
+        "published": "Mon, 16 Nov 2026 20:25:38 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Morgan Stanley sagt: Aktien übergewichten, und zwar global",
@@ -389,12 +395,6 @@
         "title": "Scalable Capital Depot 2026: Günstige Orders, große ETF-Auswahl und KI-Zugang",
         "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-scalable-26351137",
         "published": "Fri, 13 Nov 2026 12:11:58 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Finanzen invest Depot 2026: Orders ab 500 Euro ohne Ordergebühr",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-finanzen-invest-26283737",
-        "published": "Fri, 13 Nov 2026 12:11:46 +0100"
       }
     ],
     "Börse Frankfurt – News": [
