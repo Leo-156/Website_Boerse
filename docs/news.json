@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-18T01:42:52.122476+00:00",
+  "updated_at": "2026-11-18T09:07:28.290398+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax startet mit Gewinnen – Ölpreis sinkt",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-mit-gewinnen-oelpreis-sinkt/100270820.html",
+        "published": "Wed, 18 Nov 2026 08:22:49 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Kospi & Co.: Starke Nvidia-Zahlen stützen asiatische Börsen",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kospi-co.-starke-nvidia-zahlen-stuetzen-asiatische-boersen/100270767.html",
+        "published": "Wed, 18 Nov 2026 08:20:11 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: In diesen Segmenten vergeben Banken jetzt mehr Darlehen",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-in-diesen-segmenten-vergeben-banken-jetzt-mehr-darlehen/100270189.html",
+        "published": "Wed, 18 Nov 2026 07:45:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Beim Dax sind bis zu 30.000 Punkte möglich – unter zwei Bedingungen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-beim-dax-sind-bis-zu-30.000-punkte-moeglich-unter-zwei-bedingungen/100269630.html",
+        "published": "Wed, 18 Nov 2026 06:08:44 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Investoren: Private-Credit-Anbieter PCP baut Deutschlandgeschäft aus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/investoren-private-credit-anbieter-pcp-baut-deutschlandgeschaeft-aus/100268867.html",
+        "published": "Wed, 18 Nov 2026 06:05:56 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 18. November: Sieben Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Wed, 18 Nov 2026 05:23:10 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Erbengemeinschaften – das unterschätzte Problem am Wohnungsmarkt",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-erbengemeinschaften-das-unterschaetzte-problem-am-wohnungsmarkt/100265643.html",
+        "published": "Wed, 18 Nov 2026 03:18:03 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Aktien: Investoren hoffen auf ein Comeback deutscher Nebenwerte – drei Fonds, um darauf zu setzen",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/aktien-stehen-deutsche-nebenwerte-vor-einem-comeback/100265317.html",
+        "published": "Wed, 18 Nov 2026 03:16:26 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "US-Börsen: Vor Nvidia-Zahlen – Wall Street rutscht ins Minus",
@@ -34,7 +82,7 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Altersvorsorge: So viel müssen sie sparen, um 85 Prozent ihres letzten Nettogehalts als Rente zu bekommen",
+        "title": "Altersvorsorge: So viel müssen Sie sparen, um 85 Prozent ihres letzten Nettogehalts als Rente zu bekommen",
         "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-wie-viel-sie-sparen-muessen-um-ihre-rentenluecke-zu-schliessen/100268809.html",
         "published": "Tue, 17 Nov 2026 14:31:32 GMT"
       },
@@ -73,86 +121,50 @@
         "title": "Steuern: Wie Sie Ihre Erbschaft anzeigen müssen und wann Strafen drohen",
         "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/finanzamt-zehn-teure-fehler-die-erben-unbedingt-vermeiden-sollten/100233322.html",
         "published": "Tue, 17 Nov 2026 11:20:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "E-Commerce: Fünf große Hürden: Ein Jahr nach dem Start fehlt es dem Bezahldienst Wero an Akzeptanz",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/onlinebezahldienst-ein-jahr-nach-dem-start-fehlen-wero-top-onlineshops/100267285.html",
-        "published": "Tue, 17 Nov 2026 10:11:05 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei, Topix, CSI 300: Asiens Börsen geben nach – US-Chip-Sanktionen und Nvidia belasten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-asiens-boersen-geben-nach-us-chip-sanktionen-und-nvidia-belasten/100270404.html",
-        "published": "Tue, 17 Nov 2026 09:32:39 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Passives Einkommen mit Anleihen: Mit diesen ETFs bekommen Sie acht Mal im Jahr Zinsen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-mit-diesen-fonds-erzielen-anleger-planbare-zinsertraege/100229874.html",
-        "published": "Tue, 17 Nov 2026 09:10:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 17. November: Sechs Punkte, die für Anleger wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Tue, 17 Nov 2026 05:20:58 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Schweizer Börse: „Die IPO-Schwäche ist eher ein deutsches und britisches Phänomen“",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/schweizer-boerse-die-ipo-schwaeche-ist-eher-ein-deutsches-und-britisches-phaenomen/100269043.html",
-        "published": "Tue, 17 Nov 2026 03:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Passives Einkommen mit Optionen – so viel bringen Covered-Call-ETFs wirklich",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-passives-einkommen-mit-optionen-lohnen-sich-covered-call-etfs/100268801.html",
-        "published": "Tue, 17 Nov 2026 02:53:21 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "IT-Störung: Bankkunden in USA melden Probleme beim Zugriff auf Online-Konten",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/it-stoerung-bankkunden-in-usa-melden-probleme-beim-zugriff-auf-online-konten/100270373.html",
-        "published": "Mon, 16 Nov 2026 23:07:36 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: S&P 500 schließt fast zwei Prozent im Minus – Microsoft wertvoller als Nvidia",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-affaere-und-anthropic-debuet-machen-wall-street-zu-schaffen/100270217.html",
-        "published": "Mon, 16 Nov 2026 19:17:20 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Ping An Group To Reduce Public Equity Allocation",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-18/ping-an-group-to-reduce-public-equity-allocation-video",
-        "published": "Wed, 18 Nov 2026 01:36:31 GMT"
+        "title": "Eurobank to Buy 65% of Bulgaria’s Fibank for €650 Million",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-18/eurobank-to-buy-65-stake-in-bulgaria-s-fibank-for-650-million",
+        "published": "Wed, 18 Nov 2026 08:30:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Declines to 14-Month Low as Fed Officials Signal Rate Hikes",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
-        "published": "Tue, 17 Nov 2026 23:33:52 GMT"
+        "title": "UK Inflation Accelerates to Highest Level in a Year",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-18/uk-inflation-accelerates-to-highest-level-in-a-year-video",
+        "published": "Wed, 18 Nov 2026 08:49:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks, US Futures Rebound After Nvidia Earnings: Markets Wrap",
+        "title": "Alstom Falls After Expectations of Equity Raise to Reduce Debt",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-18/alstom-falls-after-expectations-of-equity-raise-to-reduce-debt",
+        "published": "Wed, 18 Nov 2026 08:41:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Xi-Trump-Putin Trilateral: A Great Power Stitch-Up?",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-18/xi-trump-putin-trilateral-a-great-power-stitch-up-video",
+        "published": "Wed, 18 Nov 2026 08:41:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Stocks Rise as Nvidia Offers Relief to AI Trade: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
         "published": "Tue, 17 Nov 2026 22:07:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/pboc-sets-strongest-yuan-fix-since-2022-to-allow-further-gains",
-        "published": "Wed, 18 Nov 2026 01:25:45 GMT"
+        "title": "Metal Prices In Free Fall Flash Warning: Market Analysis",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-18/metal-prices-in-free-fall-flash-warning-3-minutes-mliv-video",
+        "published": "Wed, 18 Nov 2026 08:34:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "SQM Sees Positive Lithium Demand Outlook Even as Prices Slide",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
-        "published": "Wed, 18 Nov 2026 01:18:05 GMT"
+        "title": "US Strikes Iran’s Qeshm Island as Bahrain and Kuwait Face Fresh Drone Attacks",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-18/horizons-middle-east-africa-11-18-2026-video",
+        "published": "Wed, 18 Nov 2026 08:18:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -162,9 +174,63 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "David Jones to Cut 1,500 Jobs in Survival Fight, Union Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/david-jones-to-cut-1-500-jobs-in-fight-to-survive-union-says",
-        "published": "Wed, 18 Nov 2026 00:37:39 GMT"
+        "title": "UK Inflation Print at Fastest in a Year Comes With Few Surprises",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/uk-inflation-print-at-fastest-in-a-year-comes-with-few-surprises",
+        "published": "Wed, 18 Nov 2026 07:50:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump Treated to Late-Night Jollibee Snacks by Marcos",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-18/trump-treated-to-late-night-jollibee-snacks-by-marcos-video",
+        "published": "Wed, 18 Nov 2026 07:38:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Optimism About Europe Just Hit a Nine-Month High: Taking Stock",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-18/optimism-about-europe-just-hit-a-nine-month-high-taking-stock",
+        "published": "Wed, 18 Nov 2026 07:15:38 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Top Swedish Law Firm Vinge Sees Pickup in Private Equity Deals",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-18/top-swedish-law-firm-vinge-sees-pickup-in-private-equity-deals",
+        "published": "Wed, 18 Nov 2026 07:15:01 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "India Weighs Tax Tweaks to Boost Stock Trading, Curb Derivatives",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-18/india-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives",
+        "published": "Wed, 18 Nov 2026 07:02:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Slumps Below $3,800 as Fed Officials Signal More Rate Hikes",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
+        "published": "Tue, 17 Nov 2026 23:33:52 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gilts Rally After Benign Inflation Data",
+        "link": "https://www.bloomberg.com/news/live-blog/2026-11-18/what-s-moving-uk-markets-right-now-markets-today",
+        "published": "Wed, 18 Nov 2026 06:49:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Muzinich CEO on Higher Rates and Private Credit Risks",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-18/muzinich-ceo-on-higher-rates-and-private-credit-risks-video",
+        "published": "Wed, 18 Nov 2026 06:46:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Ex-Longview Manager to Bet on Just Handful of Stocks in New Fund",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-18/ex-longview-manager-to-bet-on-just-handful-of-stocks-in-new-fund",
+        "published": "Wed, 18 Nov 2026 06:45:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Xi Jinping Speaks at APEC as Nvidia Posts Solid First Post-Huang Earnings",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-18/the-china-show-11-18-2026-video",
+        "published": "Wed, 18 Nov 2026 06:39:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -174,81 +240,45 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Thailand Sees US Chip Curbs as Risk to Data Center Drive",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-18/thailand-sees-us-chip-curbs-as-risk-to-data-center-drive-video",
-        "published": "Wed, 18 Nov 2026 00:10:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Council on Foreign Relations’ McGuire on Trump-XI Meeting Implications for Chips",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/what-trump-xi-s-meeting-could-mean-for-the-chip-sector-video",
-        "published": "Tue, 17 Nov 2026 23:59:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Bank Rally Gains Momentum as Global AI Trade Unravels",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/china-bank-rally-gains-momentum-as-global-ai-trade-unravels",
-        "published": "Tue, 17 Nov 2026 23:57:14 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Willy Shih on Risks With Nvidia’s Supply Chain",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/willy-shih-on-risks-with-nvidia-s-supply-chain-video",
-        "published": "Tue, 17 Nov 2026 23:53:51 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Australia Revamps Pension Fund Test to Unlock New Investment",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/australia-revamps-pension-fund-test-to-unlock-new-investment",
-        "published": "Tue, 17 Nov 2026 23:48:57 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Is Finding Workarounds on Restrictions: Sara Hsu",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/china-is-finding-workarounds-on-restrictions-sara-hsu-video",
-        "published": "Tue, 17 Nov 2026 23:48:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Former Darden CEO: Cava Better Off As A Private Company",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/former-darden-ceo-cava-better-off-as-a-private-company-video",
-        "published": "Tue, 17 Nov 2026 23:45:31 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nothing to Nitpick With Nvidia Results: Erika Klauer",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/nothing-to-nitpick-with-nvidia-results-erika-klauer-video",
-        "published": "Tue, 17 Nov 2026 23:42:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Apollo’s Rowan Says Insurance Will Power the $8 Trillion AI Boom",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/apollo-s-rowan-says-insurance-will-power-the-8-trillion-ai-boom",
-        "published": "Tue, 17 Nov 2026 22:49:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Putin Arrives in China for Trump, Xi Meeting",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video",
-        "published": "Tue, 17 Nov 2026 22:33:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
-        "published": "Tue, 17 Nov 2026 21:25:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Panama Pulled Back From Brink of Junk as Moody’s Lifts Outlook",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/panama-pulled-back-from-brink-of-junk-as-moody-s-lifts-outlook",
-        "published": "Tue, 17 Nov 2026 21:49:16 GMT"
+        "title": "Delevska: Need a Strong Leader to Run Nvidia",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-18/delevska-need-a-strong-leader-to-run-nvidia-video",
+        "published": "Wed, 18 Nov 2026 06:14:45 GMT"
       }
     ],
     "onvista – News": [
       {
         "source": "onvista – News",
-        "title": "Nvidia liefert erneut starke Umsätze - Aktie springt an",
+        "title": "Nach Vorbörse-Verlust: Dax im Plus – Goldpreis schwach",
+        "link": "https://www.onvista.de/news/2026/11-18-nach-vorboerse-verlust-dax-im-plus-goldpreis-schwach-41121301-19-26577705",
+        "published": "Wed, 18 Nov 2026 09:58:48 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax-Rücksetzer hält nach Nvidia-Zahlen an",
+        "link": "https://www.onvista.de/news/2026/11-18-dax-steckt-auch-nach-nvidia-zahlen-in-korrektur-fest-41121301-19-26577630",
+        "published": "Wed, 18 Nov 2026 07:45:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Mit diesen Kriterien kannst du IPOs bewerten",
+        "link": "https://www.onvista.de/news/2026/11-18-diese-vier-fragen-stelle-ich-mir-bei-ipos-41121763-19-26575884",
+        "published": "Wed, 18 Nov 2026 06:49:15 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 18.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-18-finanzberichte-heute-18-11-2026-41121301-19-26577592",
+        "published": "Wed, 18 Nov 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  18.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-18-dividendenalarm-heute-18-11-2026-41121301-19-26577589",
+        "published": "Wed, 18 Nov 2026 06:00:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Nvidia liefert erneut starke Umsätze - Kurs zieht an",
         "link": "https://www.onvista.de/news/2026/11-17-nvidia-liefert-erneut-starke-umsaetze-aktie-springt-an-41122522-19-26577534",
         "published": "Tue, 17 Nov 2026 22:35:01 +0100"
       },
@@ -365,36 +395,6 @@
         "title": "Dax leicht im Plus – Chipaktien unter Druck",
         "link": "https://www.onvista.de/news/2026/11-16-dax-leicht-im-plus-chipaktien-unter-druck-0-19-26576702",
         "published": "Mon, 16 Nov 2026 09:55:27 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax nahezu unverändert erwartet – Techwerte schwächeln",
-        "link": "https://www.onvista.de/news/2026/11-16-dax-nahezu-unveraendert-erwartet-techwerte-schwaecheln-41121301-19-26576636",
-        "published": "Mon, 16 Nov 2026 08:04:15 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 16.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-16-finanzberichte-heute-16-11-2026-41121301-19-26576605",
-        "published": "Mon, 16 Nov 2026 06:10:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  16.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-16-dividendenalarm-heute-16-11-2026-41121301-19-26576601",
-        "published": "Mon, 16 Nov 2026 06:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Bleibt Nvidia dominant? Das ist die wichtigste Ratio",
-        "link": "https://www.onvista.de/news/2026/11-15-bleibt-nvidia-dominant-das-ist-der-wichtigste-indikator-40338625-19-26576523",
-        "published": "Sun, 15 Nov 2026 20:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Hier kannst du die Anthropic-Aktie zeichnen",
-        "link": "https://www.onvista.de/news/2026/11-14-hier-kannst-du-die-anthropic-aktie-zeichnen-41123149-19-26576121",
-        "published": "Sat, 14 Nov 2026 14:30:00 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -406,7 +406,7 @@
       },
       {
         "source": "Börse Frankfurt – News",
-        "title": "Zehn neue ETFs und ETNs",
+        "title": "14 neue ETFs und ETNs",
         "link": "https://www.boerse-frankfurt.de/nachrichten/acht-neue-etfs-und-etns",
         "published": "Tue, 17 Nov 2026 08:16:31 GMT"
       },
@@ -462,15 +462,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Deutsche-Bank-Aktien nach neuen Vorwürfen unter Druck",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/deutschebank-226.html",
-        "published": "Tue, 17 Nov 2026 14:08:30 +0100"
+        "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
+        "published": "Wed, 18 Nov 2026 05:02:36 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Kräftige Verluste vor Nvidia-Zahlen",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
-        "published": "Tue, 17 Nov 2026 18:26:00 +0100"
+        "title": "Wenig Bewegung beim DAX erwartet",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
+        "published": "Wed, 18 Nov 2026 07:17:40 +0100"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Marktbericht: Deutsche-Bank-Aktien nach neuen Vorwürfen unter Druck",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/deutschebank-226.html",
+        "published": "Tue, 17 Nov 2026 14:08:30 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html",
         "published": "Thu, 29 Oct 2026 07:28:41 +0100"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Deutsche Bank will \"europäischer Champion\" werden",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-deutsche-bank-100.html",
-        "published": "Wed, 28 Oct 2026 15:05:32 +0100"
       }
     ]
   }
