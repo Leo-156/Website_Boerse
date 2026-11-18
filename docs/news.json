@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-17T19:23:16.032152+00:00",
+  "updated_at": "2026-11-18T01:42:52.122476+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "US-Börsen: Vor Nvidia-Zahlen – Wall Street rutscht ins Minus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-vor-nvidia-zahlen-wall-street-schliesst-im-minus/100270596.html",
+        "published": "Tue, 17 Nov 2026 21:05:39 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Interview: 15 Millionen Dokumente und neun Millionen Mails abgeflossen: Wie konnte das passieren, Herr Sewing?",
@@ -19,12 +25,6 @@
         "title": "EZB: Bundesregierung erhält Lob für Brunnermeier-Nominierung – doch ein Detail sorgt für Erstaunen",
         "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-lob-fuer-nominierung-von-markus-brunnermeier-zum-chefvolkswirt/100270602.html",
         "published": "Tue, 17 Nov 2026 16:02:19 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Vor Nvidia-Zahlen – Wall Street rutscht ins Minus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-vor-nvidia-zahlen-wall-street-rutscht-ins-minus/100270596.html",
-        "published": "Tue, 17 Nov 2026 15:50:18 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -126,126 +126,132 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Saks, Neiman Marcus Parent Company CEO Says Growth Plan Is on Track",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/exemplar-luxury-ceo-says-growth-plan-is-on-track-video",
-        "published": "Tue, 17 Nov 2026 13:45:51 GMT"
+        "title": "Ping An Group To Reduce Public Equity Allocation",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-18/ping-an-group-to-reduce-public-equity-allocation-video",
+        "published": "Wed, 18 Nov 2026 01:36:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Fall on Tech Jitters Before Nvidia Results: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 16 Nov 2026 22:06:51 GMT"
+        "title": "Gold Declines to 14-Month Low as Fed Officials Signal Rate Hikes",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
+        "published": "Tue, 17 Nov 2026 23:33:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Stock",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market",
-        "published": "Mon, 16 Nov 2026 21:31:41 GMT"
+        "title": "Stocks, US Futures Rebound After Nvidia Earnings: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+        "published": "Tue, 17 Nov 2026 22:07:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nuclear Thriller Puts Spotlight on French Election Campaign",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/nuclear-thriller-puts-spotlight-on-french-presidential-campaign",
-        "published": "Tue, 17 Nov 2026 15:23:02 GMT"
+        "title": "PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-18/pboc-sets-strongest-yuan-fix-since-2022-to-allow-further-gains",
+        "published": "Wed, 18 Nov 2026 01:25:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Disney Profit Beats With Marvel Films Powering Streaming",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming-video",
-        "published": "Tue, 17 Nov 2026 17:53:29 GMT"
+        "title": "SQM Sees Positive Lithium Demand Outlook Even as Prices Slide",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
+        "published": "Wed, 18 Nov 2026 01:18:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lucky Strike Shares Jump 22% as CEO Makes Take-Private Offer",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/lucky-strike-ceo-makes-take-private-offer-as-loan-hits-distress",
-        "published": "Tue, 17 Nov 2026 15:13:07 GMT"
+        "title": "Latest Oil Market News and Analysis for Nov. 18",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
+        "published": "Tue, 17 Nov 2026 23:01:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Oil Swings as Mideast Flareups Threaten Ample Supply Outlook",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
-        "published": "Mon, 16 Nov 2026 23:02:55 GMT"
+        "title": "David Jones to Cut 1,500 Jobs in Survival Fight, Union Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-18/david-jones-to-cut-1-500-jobs-in-fight-to-survive-union-says",
+        "published": "Wed, 18 Nov 2026 00:37:39 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Tech Stocks Sink Before Nvidia’s First Results After Huang Exit",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results",
-        "published": "Tue, 17 Nov 2026 13:13:35 GMT"
+        "title": "Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/fidelity-says-even-at-6-treasuries-fail-to-be-massively-cheap",
+        "published": "Tue, 17 Nov 2026 23:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Swiss Pharma Employee Convicted Over $300,000 Insider Trades",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/swiss-pharma-employee-convicted-over-300-000-in-insider-trades",
-        "published": "Tue, 17 Nov 2026 12:02:16 GMT"
+        "title": "Thailand Sees US Chip Curbs as Risk to Data Center Drive",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-18/thailand-sees-us-chip-curbs-as-risk-to-data-center-drive-video",
+        "published": "Wed, 18 Nov 2026 00:10:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Mark Walter’s Largest Insurer Sees Sales Plunge After US Probe",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/mark-walter-s-largest-insurer-reports-sales-plunge-amid-us-probe",
-        "published": "Tue, 17 Nov 2026 17:11:07 GMT"
+        "title": "Council on Foreign Relations’ McGuire on Trump-XI Meeting Implications for Chips",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/what-trump-xi-s-meeting-could-mean-for-the-chip-sector-video",
+        "published": "Tue, 17 Nov 2026 23:59:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "European Stocks Extend Fall as Tech Drags; Deutsche Bank Slides",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff",
-        "published": "Tue, 17 Nov 2026 08:30:44 GMT"
+        "title": "China Bank Rally Gains Momentum as Global AI Trade Unravels",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/china-bank-rally-gains-momentum-as-global-ai-trade-unravels",
+        "published": "Tue, 17 Nov 2026 23:57:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bank of America Says US Rates Will Rise ‘Until Activity Cools’",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/bank-of-america-says-us-rates-will-rise-until-activity-cools",
-        "published": "Tue, 17 Nov 2026 17:05:38 GMT"
+        "title": "Willy Shih on Risks With Nvidia’s Supply Chain",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/willy-shih-on-risks-with-nvidia-s-supply-chain-video",
+        "published": "Tue, 17 Nov 2026 23:53:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Sellas Life Sciences Stock Triples After Cancer Vaccine Data",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/sellas-life-sciences-stock-triples-after-cancer-vaccine-data",
-        "published": "Tue, 17 Nov 2026 16:52:10 GMT"
+        "title": "Australia Revamps Pension Fund Test to Unlock New Investment",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/australia-revamps-pension-fund-test-to-unlock-new-investment",
+        "published": "Tue, 17 Nov 2026 23:48:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wall Street Awaits First Nvidia Earnings Report Without Jensen Huang",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-surveillance-11-17-2026-video",
-        "published": "Tue, 17 Nov 2026 16:50:20 GMT"
+        "title": "China Is Finding Workarounds on Restrictions: Sara Hsu",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/china-is-finding-workarounds-on-restrictions-sara-hsu-video",
+        "published": "Tue, 17 Nov 2026 23:48:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Steadies as Dip Buyers Cushion Slump Driven by Fed Concerns",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
-        "published": "Mon, 16 Nov 2026 23:26:48 GMT"
+        "title": "Former Darden CEO: Cava Better Off As A Private Company",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/former-darden-ceo-cava-better-off-as-a-private-company-video",
+        "published": "Tue, 17 Nov 2026 23:45:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Robert Pattinson Is New James Bond in Amazon’s Reboot",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video",
-        "published": "Mon, 16 Nov 2026 19:53:54 GMT"
+        "title": "Nothing to Nitpick With Nvidia Results: Erika Klauer",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/nothing-to-nitpick-with-nvidia-results-erika-klauer-video",
+        "published": "Tue, 17 Nov 2026 23:42:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
-        "published": "Tue, 17 Nov 2026 14:53:10 GMT"
+        "title": "Apollo’s Rowan Says Insurance Will Power the $8 Trillion AI Boom",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/apollo-s-rowan-says-insurance-will-power-the-8-trillion-ai-boom",
+        "published": "Tue, 17 Nov 2026 22:49:04 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasuries Rise as Risk-Averse Investors Dump Stocks, Buy Bonds",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
-        "published": "Tue, 17 Nov 2026 16:26:24 GMT"
+        "title": "Putin Arrives in China for Trump, Xi Meeting",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video",
+        "published": "Tue, 17 Nov 2026 22:33:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Optimum Nears Deal With Creditors to Slash $26 Billion Debt Pile",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/optimum-nears-deal-with-creditors-to-slash-26-billion-debt-pile",
-        "published": "Tue, 17 Nov 2026 16:23:51 GMT"
+        "title": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
+        "published": "Tue, 17 Nov 2026 21:25:24 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Retail Sales Growth Slows as Big-Ticket Purchases Slip",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-17/us-retail-sales-growth-slows-big-ticket-purchases-slip-video",
-        "published": "Tue, 17 Nov 2026 15:59:48 GMT"
+        "title": "Panama Pulled Back From Brink of Junk as Moody’s Lifts Outlook",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-17/panama-pulled-back-from-brink-of-junk-as-moody-s-lifts-outlook",
+        "published": "Tue, 17 Nov 2026 21:49:16 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Nvidia liefert erneut starke Umsätze - Aktie springt an",
+        "link": "https://www.onvista.de/news/2026/11-17-nvidia-liefert-erneut-starke-umsaetze-aktie-springt-an-41122522-19-26577534",
+        "published": "Tue, 17 Nov 2026 22:35:01 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Schwache Wall Street zerrt Dax vor Nvidia-Zahlen nach unten",
@@ -389,12 +395,6 @@
         "title": "Hier kannst du die Anthropic-Aktie zeichnen",
         "link": "https://www.onvista.de/news/2026/11-14-hier-kannst-du-die-anthropic-aktie-zeichnen-41123149-19-26576121",
         "published": "Sat, 14 Nov 2026 14:30:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Für die Anthropic-Gründer hat die Super-KI Priorität",
-        "link": "https://www.onvista.de/news/2026/11-14-fuer-die-anthropic-gruender-hat-die-super-ki-prioritaet-41121763-19-26576260",
-        "published": "Sat, 14 Nov 2026 08:30:01 +0100"
       }
     ],
     "Börse Frankfurt – News": [
