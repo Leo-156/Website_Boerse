@@ -1,23 +1,107 @@
 {
-  "updated_at": "2026-11-19T04:36:46.087547+00:00",
+  "updated_at": "2026-11-19T13:51:42.915251+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax gibt Gewinne ab – Anthropic-Börsengang treibt Chip-Aktien an",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gibt-gewinne-ab-anthropic-boersengang-treibt-chip-aktien-an/100271164.html",
+        "published": "Thu, 19 Nov 2026 13:40:48 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Altersvorsorge: Förderung weg, Steuern fällig: Die Tücken des Altersvorsorgedepots im Erbfall",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/altersvorsorge-im-todesfall-wird-das-altersvorsorgedepot-zur-steuerfalle/100267569.html",
+        "published": "Thu, 19 Nov 2026 13:31:44 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wirtschaftskriminalität: Bekanntes deutsches Start-up-Trio im Visier der Ermittlungsbehörden",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/learnd-ltd.-bekanntes-deutsches-start-up-trio-im-visier-der-behoerden/100270459.html",
+        "published": "Thu, 19 Nov 2026 13:29:35 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Vermögen: Risiko Pflegeheim – wann Sie für Ihre Eltern zahlen müssen",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-in-welchen-faellen-sie-fuer-ihre-eltern-zahlen-muessen/100246311.html",
+        "published": "Thu, 19 Nov 2026 12:49:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wohnungsbau: Roboterfabrik für serielles Bauen – Vonovia-Partner Gropyus kämpft ums Überleben",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/wohnungsbau-vonovia-partner-gropyus-kaempft-ums-ueberleben/100270935.html",
+        "published": "Thu, 19 Nov 2026 12:08:24 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: Im Geschäft mit reichen Kunden sind die fetten Jahre vorbei",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-im-geschaeft-mit-reichen-kunden-sind-die-fetten-jahre-vorbei/100270157.html",
+        "published": "Thu, 19 Nov 2026 12:04:46 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Staatsanleihen: Neue Hoffnung für Gläubiger: Argentinien will an deutsche Anleger zahlen",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/staatsanleihen-neue-hoffnung-argentinien-will-an-deutsche-anleger-zahlen/100271176.html",
+        "published": "Thu, 19 Nov 2026 12:04:34 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Bankenaufsicht: Schweizer Bankenverband lehnt strengere Aufsichtsregeln ab",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/bankenaufsicht-schweizer-banken-wehren-sich-gegen-mehr-macht-fuer-die-finma/100271253.html",
+        "published": "Thu, 19 Nov 2026 10:57:39 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Prognosemärkte: Mehr als sechs Millionen Dollar: So spekulieren Anleger auf die Nachfolge von Nvidia-Chef Huang",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/prognosemaerkte-wie-ein-wettmarkt-den-sturz-von-jensen-huang-bepreiste/100269500.html",
+        "published": "Thu, 19 Nov 2026 10:41:09 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geld. Leben. Looman.: Ein eigenes Haus reicht nicht zur Altersabsicherung",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/vorsorge-ein-eigenes-haus-reicht-nicht-zur-altersabsicherung/100270684.html",
+        "published": "Thu, 19 Nov 2026 10:39:17 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Banken: Bund und Unicredit einigen sich bei Commerzbank-Übernahme",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bund-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html",
+        "published": "Thu, 19 Nov 2026 10:32:07 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Cannerald: Stellplätze für Hanfpflanzen sollten bis zu 30 Prozent Rendite bringen – jetzt ist die Firma insolvent",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/cannerald-meldet-insolvenz-schweizer-cannabisunternehmen-ist-insolvent/100271000.html",
+        "published": "Thu, 19 Nov 2026 09:16:06 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Topix, CSI 300: Asiens Börsen profitieren von Anthropic-Börsengang",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-asiens-boersen-profitieren-von-anthropic-boersengang/100271133.html",
+        "published": "Thu, 19 Nov 2026 08:35:35 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 19. November: Sieben Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Thu, 19 Nov 2026 05:23:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Bezahlbarkeit bei Mieten: Das sind die Top- und Flop-Kreise in Deutschland",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-das-sind-die-top-und-die-flop-kreise-fuer-mieter-in-deutschland/100269131.html",
+        "published": "Thu, 19 Nov 2026 05:20:48 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
         "title": "Anthropic: Jeder Mitarbeiter erhält im Schnitt 72 Millionen Dollar: Fünf kuriose Fakten zum Rekord-Börsengang",
-        "link": "https://www.handelsblatt.com/finanzen/anthropic-fuenf-kuriose-fakten-zum-rekord-boersengang/100270457.html",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/anthropic-fuenf-ueberraschende-fakten-zum-rekord-boersengang/100270457.html",
         "published": "Thu, 19 Nov 2026 03:24:28 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Banken: Bundesregierung und Unicredit einigen sich bei Commerzbank-Übernahme",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bundesregierung-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html",
-        "published": "Wed, 18 Nov 2026 23:13:33 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börsengang: Anthropic knackt den IPO-Rekord von SpaceX",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-anthropic-knackt-den-ipo-rekord-von-spacex/100270370.html",
+        "title": "Börsengang: Anthropic übertrifft IPO-Rekord von SpaceX",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-anthropic-uebertrifft-ipo-rekord-von-spacex/100270370.html",
         "published": "Wed, 18 Nov 2026 22:44:46 GMT"
       },
       {
@@ -37,122 +121,20 @@
         "title": "Dax aktuell: Dax schließt im Minus – Bank-Aktie sinkt um mehr als drei Prozent",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-bank-aktie-sinkt-um-mehr-als-drei-prozent/100270820.html",
         "published": "Wed, 18 Nov 2026 16:51:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Wall Street schließt uneinheitlich – Anthropic schafft nach Börsenschluss Rekord-IPO",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-uneinheitlich-anthropic-schafft-nach-boersenschluss-rekord-ipo/100270966.html",
-        "published": "Wed, 18 Nov 2026 15:53:06 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldpolitik: EZB will offenbar zeitnah über höhere Mindestreserve beraten",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-ezb-will-offenbar-zeitnah-ueber-hoehere-mindestreserve-beraten/100270996.html",
-        "published": "Wed, 18 Nov 2026 14:58:02 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börsengang: „Mr. IPO“ analysiert Anthropics Börsengang: Die KI-Firma könnte das Schicksal von Boeing ereilen",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-mega-ipo-warum-anthropic-in-die-kostenfalle-tappen-koennte/100270298.html",
-        "published": "Wed, 18 Nov 2026 12:51:24 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Altersvorsorge: Wie sich der Riester-Nachfolger für Gutverdiener lohnen kann",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-profitieren-gutverdiener-vom-riester-nachfolger/100222434.html",
-        "published": "Wed, 18 Nov 2026 11:15:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Interview: Fondsmanager Hendrik Leber: „Ich will bei Anthropic mit dabei sein“",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/hendrik-leber-ich-will-bei-anthropic-mit-dabei-sein/100269164.html",
-        "published": "Wed, 18 Nov 2026 11:09:02 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "EZB: Bestätigt – Inflation im Euro-Raum steigt im Oktober auf 4,0 Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-bestaetigt-inflation-im-euro-raum-steigt-auf-40-prozent/100270907.html",
-        "published": "Wed, 18 Nov 2026 10:55:30 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Italien: BNP-Tochter BNL schließt bis 2030 ein Fünftel der Filialen",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/italien-bnp-tochter-bnl-schliesst-bis-2030-ein-fuenftel-der-filialen/100270876.html",
-        "published": "Wed, 18 Nov 2026 10:17:04 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Großbritannien: Britische Inflation steigt auf Jahreshoch von 3,6 Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/grossbritannien-britische-inflation-steigt-auf-jahreshoch-von-36-prozent/100270860.html",
-        "published": "Wed, 18 Nov 2026 10:13:38 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nvidia-Investments: Soros und weitere Family Offices verkauften Nvidia-Aktien kurz vor Huangs Abgang als CEO",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/investment-soros-verkaufte-nvidia-aktien-kurz-vor-huangs-ruecktritt/100270465.html",
-        "published": "Wed, 18 Nov 2026 09:30:12 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte: EZB-Vize Vujcic warnt Anleger vor Doppelbeben an den Börsen",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-ezb-vizepraesident-vujcic-warnt-vor-doppelbeben-an-den-boersen/100268686.html",
-        "published": "Wed, 18 Nov 2026 09:11:26 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: Zahl der Baugenehmigungen bricht nach starkem Anstieg ein",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-zahl-der-baugenehmigungen-bricht-nach-starkem-anstieg-ein/100270855.html",
-        "published": "Wed, 18 Nov 2026 09:05:16 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei, Kospi & Co.: Starke Nvidia-Zahlen stützen asiatische Börsen",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kospi-co.-starke-nvidia-zahlen-stuetzen-asiatische-boersen/100270767.html",
-        "published": "Wed, 18 Nov 2026 08:20:11 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Immobilien: In diesen Segmenten vergeben Banken jetzt mehr Darlehen",
-        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-in-diesen-segmenten-vergeben-banken-jetzt-mehr-darlehen/100270189.html",
-        "published": "Wed, 18 Nov 2026 07:45:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Beim Dax sind bis zu 30.000 Punkte möglich – unter zwei Bedingungen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-beim-dax-sind-bis-zu-30.000-punkte-moeglich-unter-zwei-bedingungen/100269630.html",
-        "published": "Wed, 18 Nov 2026 06:08:44 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Xi Pledges $20 Million for APEC Cooperation",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-19/xi-pledges-20-million-for-apec-cooperation-video",
-        "published": "Thu, 19 Nov 2026 04:19:27 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Fluctuate on Anthropic, Aussie Dollar Falls: Markets Wrap",
+        "title": "US Futures Rally as Anthropic Debut Takes Focus: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
         "published": "Wed, 18 Nov 2026 22:07:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Anthropic IPO Hands Korean Tycoon’s Firm $3 Billion Windfall",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-hands-sk-hynix-tycoon-s-firm-3-billion-windfall",
-        "published": "Thu, 19 Nov 2026 01:36:26 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "'The Meeting is the Message': Ex-CIA Official on Trilateral’s Symbolism",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-19/ex-cia-official-on-trilateral-s-symbolism-and-impact-video",
-        "published": "Thu, 19 Nov 2026 03:27:56 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Copper Rebounds After Rout as Physical Tightness Persists",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
-        "published": "Thu, 19 Nov 2026 01:14:36 GMT"
+        "title": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/iran-intensifies-hormuz-tanker-attacks-just-as-oil-prices-slide",
+        "published": "Thu, 19 Nov 2026 13:28:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -162,90 +144,150 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasuries Draw Record Demand From South Korean Investors",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/korea-investors-buy-record-amount-of-treasuries-in-september",
-        "published": "Thu, 19 Nov 2026 00:45:02 GMT"
+        "title": "Argentina’s $24 Billion LNG Dream Bets On Milei's Model Enduring",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-19/argentina-s-24-billion-lng-dream-bets-on-milei-s-model-enduring",
+        "published": "Thu, 19 Nov 2026 13:15:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Australian Dollar Erases 2026 Gain as Rate-Cut Bets Increase",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/australian-dollar-set-to-shed-2026-gain-on-rba-rate-cut-bets",
-        "published": "Thu, 19 Nov 2026 01:53:37 GMT"
+        "title": "Tech Stocks Gain as Anthropic IPO Lifts Spirits Around AI Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo",
+        "published": "Thu, 19 Nov 2026 07:09:16 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "RRJ-Led Consortium Buys Australia Coal Miner’s $619 Million Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/rrj-led-consortium-buys-australia-coal-miner-s-619-million-debt",
-        "published": "Thu, 19 Nov 2026 02:33:23 GMT"
+        "title": "Turkey Fund Investors Protest in Ankara Over Trapped Savings",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/turkish-fund-investors-protest-in-ankara-over-trapped-savings",
+        "published": "Thu, 19 Nov 2026 12:03:51 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "India Studies Tax Proposals to Encourage Stock Trading, Curb Speculative Bets",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/india-studies-tax-proposals-to-encourage-stock-trading-curb-speculative-bets",
-        "published": "Thu, 19 Nov 2026 02:30:35 GMT"
+        "title": "US Futures Rally on Anthropic Record IPO; Trump, Xi, Putin Meet",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-brief-11-19-2026-video",
+        "published": "Thu, 19 Nov 2026 12:50:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Markets $2 Billion of Dollar Bonds as Xi, Trump Meet",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
-        "published": "Thu, 19 Nov 2026 00:57:50 GMT"
+        "title": "Nick Candy: UK Seeing Wealth 'Exodus'",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-19/nick-candy-uk-seeing-wealth-exodus-video",
+        "published": "Thu, 19 Nov 2026 12:47:25 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "K-Pop Giants Position for China Return After Decade-Long Freeze",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/k-pop-giants-position-for-china-return-after-decade-long-freeze",
-        "published": "Thu, 19 Nov 2026 02:02:33 GMT"
+        "title": "Anthropic IPO Draws 'Massive Enthusiasm' From Investors: Ludlow & Bloxham",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-draws-massive-enthusiasm-from-investors-video",
+        "published": "Thu, 19 Nov 2026 12:39:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "A-Cap Insurer Asks to Defer Payouts to Clients Amid Deal Talks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/a-cap-insurer-asks-to-defer-payouts-to-clients-amid-deal-talks",
-        "published": "Thu, 19 Nov 2026 01:58:27 GMT"
+        "title": "Anthropic Banks Land $550 Million Fee Windfall on Record IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-banks-land-550-million-fee-windfall-on-record-ipo",
+        "published": "Thu, 19 Nov 2026 12:06:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "LNG Exports Through Hormuz Appear to Slow After More Attacks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/lng-exports-through-hormuz-appear-to-slow-after-more-attacks",
-        "published": "Thu, 19 Nov 2026 01:23:23 GMT"
+        "title": "Copper Rebounds After Rout as Physical Tightness Persists",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
+        "published": "Thu, 19 Nov 2026 01:14:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Rises From 14-Month Low as Dip Buying Offsets Hawkish Fed",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
-        "published": "Wed, 18 Nov 2026 23:24:06 GMT"
+        "title": "China Oil Demand Rebound Pivots on Two Crucial Factors, Stockpiling and Exports",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/china-oil-demand-rebound-pivots-on-two-crucial-factors-stockpiling-and-exports",
+        "published": "Thu, 19 Nov 2026 12:05:38 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
-        "published": "Wed, 18 Nov 2026 09:45:09 GMT"
+        "title": "Citi Sees Africa Bond Sales Topping 2026 Record",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-19/citi-sees-africa-bond-sales-topping-2026-record-video",
+        "published": "Thu, 19 Nov 2026 12:00:53 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
-        "published": "Thu, 19 Nov 2026 01:00:36 GMT"
+        "title": "Gabon Seeks IMF Deal Next Month After Audit Shows Lower Debt",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/gabon-seeks-imf-deal-next-month-after-audit-shows-lower-debt",
+        "published": "Thu, 19 Nov 2026 11:58:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
-        "published": "Thu, 19 Nov 2026 00:54:52 GMT"
+        "title": "Investec Retreats as UK Costs Offset First-Half Profit Gains",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/investec-profit-climbs-as-south-africa-unit-offsets-uk-weakness",
+        "published": "Thu, 19 Nov 2026 07:22:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Anthropic Prices at $83 a Share in Record-Sized Offering",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video",
-        "published": "Thu, 19 Nov 2026 00:45:46 GMT"
+        "title": "Anthropic IPO Fuels AI Enthusiasm",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-19/the-opening-trade-11-19-2026-video",
+        "published": "Thu, 19 Nov 2026 11:46:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Jeffrey Sachs Expects Friendly Trilateral Outcome",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-19/jeffrey-sachs-expects-friendly-trilateral-outcome-video",
-        "published": "Thu, 19 Nov 2026 00:36:42 GMT"
+        "title": "Zimbabwe Asks Lenders for Grants to Repay What it Owes Them",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/zimbabwe-asks-lenders-for-grants-to-repay-what-it-owes-them",
+        "published": "Thu, 19 Nov 2026 11:37:28 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Laprophan Raises $223 Million in Africa’s Largest Pharma IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/laprophan-raises-223-million-in-africa-s-largest-pharma-ipo",
+        "published": "Thu, 19 Nov 2026 11:33:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Citi Sees Romanian Carry Appeal With Budget Key for Bond Rally",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/citi-sees-romanian-carry-appeal-with-budget-key-for-bond-rally",
+        "published": "Thu, 19 Nov 2026 11:15:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Anthropic IPO Has Stock Bulls Dreaming of a Year-End Rally",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-has-stock-bulls-dreaming-of-a-year-end-rally",
+        "published": "Thu, 19 Nov 2026 11:13:40 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Mega-IPO bei Anthropic, Gold-Rutsch & Deutz-Schock",
+        "link": "https://www.onvista.de/news/2026/11-19-anthropic-ipo-gold-rutsch-deutz-schock-41122786-19-26578238",
+        "published": "Thu, 19 Nov 2026 12:59:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Alle Fakten: Unsere Video-Analyse zum Anthropic-IPO",
+        "link": "https://www.onvista.de/news/2026/11-19-alle-fakten-unsere-video-analyse-zum-anthropic-ipo-41121763-19-26578221",
+        "published": "Thu, 19 Nov 2026 12:00:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax unter 26.000 Punkten: Welche Unterstützung nun halten muss",
+        "link": "https://www.onvista.de/news/2026/11-19-dax-unter-26-000-punkten-welche-unterstuetzung-nun-halten-muss-41123281-19-26578224",
+        "published": "Thu, 19 Nov 2026 11:00:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax steigt dank Anthropic-IPO nach Verlustserie wieder",
+        "link": "https://www.onvista.de/news/2026/11-19-dax-steigt-dank-anthropic-ipo-nach-verlustserie-wieder-41121301-19-26578150",
+        "published": "Thu, 19 Nov 2026 09:55:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Anthropic dürfte Dax antreiben - KI-Firma glückt Rekord-Börsengang",
+        "link": "https://www.onvista.de/news/2026/11-19-anthropic-duerfte-dax-antreiben-ki-firma-glueckt-rekord-boersengang-41121301-19-26578109",
+        "published": "Thu, 19 Nov 2026 08:08:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 19.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-19-finanzberichte-heute-19-11-2026-41121301-19-26578053",
+        "published": "Thu, 19 Nov 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  19.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-19-dividendenalarm-heute-19-11-2026-41121301-19-26578050",
+        "published": "Thu, 19 Nov 2026 06:00:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Anthropic: Emissionspreis liegt bei 83 Dollar je Aktie",
@@ -353,48 +395,6 @@
         "title": "Consorsbank Depot 2026: Mehr als 1.700 ETF-Sparpläne ohne Ausführungskosten",
         "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-consorsbank-26283740",
         "published": "Tue, 17 Nov 2026 17:41:30 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Drei Ideen für Energie-Investments",
-        "link": "https://www.onvista.de/news/2026/11-17-oel-gas-und-kohle-drei-energieaktien-im-vergleich-41122786-19-26576783",
-        "published": "Tue, 17 Nov 2026 14:00:01 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Bofa sieht Silber bei 75 Dollar - Intel und Micron im Blick",
-        "link": "https://www.onvista.de/news/2026/11-17-bofa-sieht-silber-bei-75-dollar-intel-und-micron-im-blick-41122786-19-26577265",
-        "published": "Tue, 17 Nov 2026 12:58:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax setzt Rücksetzer fort – wichtige Kurslücke im Blick",
-        "link": "https://www.onvista.de/news/2026/11-17-dax-setzt-ruecksetzer-fort-wichtige-kursluecke-im-blick-41123281-19-26577224",
-        "published": "Tue, 17 Nov 2026 11:04:10 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax gibt nach - Recherche drückt Deutsche-Bank-Aktie",
-        "link": "https://www.onvista.de/news/2026/11-17-dax-gibt-nach-recherche-drueckt-deutsche-bank-aktie-0-19-26577148",
-        "published": "Tue, 17 Nov 2026 09:55:30 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax vor schwachem Start – US-Exportregeln belasten",
-        "link": "https://www.onvista.de/news/2026/11-17-dax-vor-schwachem-start-us-exportregeln-belasten-41121301-19-26577089",
-        "published": "Tue, 17 Nov 2026 08:02:55 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 17.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-17-finanzberichte-heute-17-11-2026-41121301-19-26577053",
-        "published": "Tue, 17 Nov 2026 06:10:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  17.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-17-dividendenalarm-heute-17-11-2026-41121301-19-26577046",
-        "published": "Tue, 17 Nov 2026 06:00:00 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -462,15 +462,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
-        "published": "Wed, 18 Nov 2026 16:36:01 +0100"
+        "title": "Marktbericht: Deutsche Telekom steigt bei KI-Start-up Mistral ein",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
+        "published": "Thu, 19 Nov 2026 13:57:07 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
-        "published": "Wed, 18 Nov 2026 18:45:45 +0100"
+        "title": "Marktbericht: Anthropic-Börsengang schiebt DAX an",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
+        "published": "Thu, 19 Nov 2026 10:31:32 +0100"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
+        "published": "Wed, 18 Nov 2026 16:36:01 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +591,6 @@
         "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
         "published": "Sat, 31 Oct 2026 08:45:19 +0100"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Zweifel am KI-Boom wachsen",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
-        "published": "Fri, 30 Oct 2026 14:44:00 +0100"
       }
     ]
   }
