@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-18T23:50:09.361781+00:00",
+  "updated_at": "2026-11-19T04:36:46.087547+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Anthropic: Jeder Mitarbeiter erhält im Schnitt 72 Millionen Dollar: Fünf kuriose Fakten zum Rekord-Börsengang",
+        "link": "https://www.handelsblatt.com/finanzen/anthropic-fuenf-kuriose-fakten-zum-rekord-boersengang/100270457.html",
+        "published": "Thu, 19 Nov 2026 03:24:28 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Banken: Bundesregierung und Unicredit einigen sich bei Commerzbank-Übernahme",
@@ -10,8 +16,8 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Erstnotiz: Berichte – Anthropic legt Aktienpreis für Mega-IPO bei 83 Dollar fest",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-berichte-anthropic-legt-aktienpreis-fuer-mega-ipo-bei-83-dollar-fest/100270370.html",
+        "title": "Börsengang: Anthropic knackt den IPO-Rekord von SpaceX",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-anthropic-knackt-den-ipo-rekord-von-spacex/100270370.html",
         "published": "Wed, 18 Nov 2026 22:44:46 GMT"
       },
       {
@@ -34,8 +40,8 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: Wall Street schließt uneinheitlich – Anthropic-IPO erwartet",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-uneinheitlich-anthropic-ipo-erwartet/100270966.html",
+        "title": "US-Börsen: Wall Street schließt uneinheitlich – Anthropic schafft nach Börsenschluss Rekord-IPO",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-uneinheitlich-anthropic-schafft-nach-boersenschluss-rekord-ipo/100270966.html",
         "published": "Wed, 18 Nov 2026 15:53:06 GMT"
       },
       {
@@ -47,7 +53,7 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Börsengang: „Mr. IPO“ analysiert Anthropics Börsengang: Die KI-Firma könnte das Schicksal von Boeing ereilen",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-vor-mega-ipo-warum-anthropic-in-die-kostenfalle-tappen-koennte/100270298.html",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-mega-ipo-warum-anthropic-in-die-kostenfalle-tappen-koennte/100270298.html",
         "published": "Wed, 18 Nov 2026 12:51:24 GMT"
       },
       {
@@ -115,38 +121,38 @@
         "title": "Märkte Insight: Beim Dax sind bis zu 30.000 Punkte möglich – unter zwei Bedingungen",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-beim-dax-sind-bis-zu-30.000-punkte-moeglich-unter-zwei-bedingungen/100269630.html",
         "published": "Wed, 18 Nov 2026 06:08:44 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Investoren: Private-Credit-Anbieter PCP baut Deutschlandgeschäft aus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/investoren-private-credit-anbieter-pcp-baut-deutschlandgeschaeft-aus/100268867.html",
-        "published": "Wed, 18 Nov 2026 06:05:56 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Nasdaq Futures Rise After Anthropic IPO Pricing: Markets Wrap",
+        "title": "Xi Pledges $20 Million for APEC Cooperation",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-19/xi-pledges-20-million-for-apec-cooperation-video",
+        "published": "Thu, 19 Nov 2026 04:19:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stocks Fluctuate on Anthropic, Aussie Dollar Falls: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
         "published": "Wed, 18 Nov 2026 22:07:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Jane Fraser on IPO Pipeline, AI, & Interest Rate Outlook",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-18/jane-fraser-on-ipo-pipeline-ai-interest-rate-outlook-video",
-        "published": "Wed, 18 Nov 2026 23:31:48 GMT"
+        "title": "Anthropic IPO Hands Korean Tycoon’s Firm $3 Billion Windfall",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-hands-sk-hynix-tycoon-s-firm-3-billion-windfall",
+        "published": "Thu, 19 Nov 2026 01:36:26 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
-        "published": "Wed, 18 Nov 2026 23:24:06 GMT"
+        "title": "'The Meeting is the Message': Ex-CIA Official on Trilateral’s Symbolism",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-19/ex-cia-official-on-trilateral-s-symbolism-and-impact-video",
+        "published": "Thu, 19 Nov 2026 03:27:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
-        "published": "Wed, 18 Nov 2026 18:04:19 GMT"
+        "title": "Copper Rebounds After Rout as Physical Tightness Persists",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
+        "published": "Thu, 19 Nov 2026 01:14:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -156,39 +162,57 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bain Pushes Back LNG Glut Outlook to 2030 as War Tightens Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/bain-pushes-back-lng-glut-outlook-to-2030-as-war-tightens-market",
-        "published": "Wed, 18 Nov 2026 23:02:30 GMT"
+        "title": "Treasuries Draw Record Demand From South Korean Investors",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/korea-investors-buy-record-amount-of-treasuries-in-september",
+        "published": "Thu, 19 Nov 2026 00:45:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Former SEC Chair Gary Gensler Warns Anthropic’s Cash Flow Poses Big Risk To AI Economy",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-18/fmr-sec-chair-gary-gensler-nvidia-misled-the-public-video",
-        "published": "Wed, 18 Nov 2026 22:53:04 GMT"
+        "title": "Australian Dollar Erases 2026 Gain as Rate-Cut Bets Increase",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/australian-dollar-set-to-shed-2026-gain-on-rba-rate-cut-bets",
+        "published": "Thu, 19 Nov 2026 01:53:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Chicago’s Third CFO This Year Saw Red Flags Before Exit",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/chicago-s-third-cfo-this-year-saw-budget-red-flags-before-exit",
-        "published": "Wed, 18 Nov 2026 16:27:42 GMT"
+        "title": "RRJ-Led Consortium Buys Australia Coal Miner’s $619 Million Debt",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/rrj-led-consortium-buys-australia-coal-miner-s-619-million-debt",
+        "published": "Thu, 19 Nov 2026 02:33:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Skydance Skips FIFA World Cup Bid as Netflix, Fox Eye $4 Billion Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/skydance-skips-fifa-world-cup-bid-as-netflix-fox-eye-4-billion-deal",
-        "published": "Wed, 18 Nov 2026 22:52:49 GMT"
+        "title": "India Studies Tax Proposals to Encourage Stock Trading, Curb Speculative Bets",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/india-studies-tax-proposals-to-encourage-stock-trading-curb-speculative-bets",
+        "published": "Thu, 19 Nov 2026 02:30:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Eddie Best on Expectations for Anthropic’s IPO",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-18/eddie-best-on-expectations-for-anthropic-s-ipo-video",
-        "published": "Wed, 18 Nov 2026 22:47:54 GMT"
+        "title": "China Markets $2 Billion of Dollar Bonds as Xi, Trump Meet",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
+        "published": "Thu, 19 Nov 2026 00:57:50 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Brookfield-Backed Lotto Firm Logs Earnings Hit, Buys Back Bonds",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/brookfield-backed-lotto-firm-logs-earnings-hit-buys-back-bonds",
-        "published": "Wed, 18 Nov 2026 22:22:20 GMT"
+        "title": "K-Pop Giants Position for China Return After Decade-Long Freeze",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/k-pop-giants-position-for-china-return-after-decade-long-freeze",
+        "published": "Thu, 19 Nov 2026 02:02:33 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "A-Cap Insurer Asks to Defer Payouts to Clients Amid Deal Talks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/a-cap-insurer-asks-to-defer-payouts-to-clients-amid-deal-talks",
+        "published": "Thu, 19 Nov 2026 01:58:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "LNG Exports Through Hormuz Appear to Slow After More Attacks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/lng-exports-through-hormuz-appear-to-slow-after-more-attacks",
+        "published": "Thu, 19 Nov 2026 01:23:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Rises From 14-Month Low as Dip Buying Offsets Hawkish Fed",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
+        "published": "Wed, 18 Nov 2026 23:24:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -198,51 +222,27 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Citi CEO Looks Forward to Working With Sen. Warren",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-18/citi-ceo-looks-forward-to-working-with-sen-warren-video",
-        "published": "Wed, 18 Nov 2026 22:15:28 GMT"
+        "title": "Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
+        "published": "Thu, 19 Nov 2026 01:00:36 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Challenger Rejects New $4.4 Billion Daiichi Life Takeover Bid",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/challenger-rejects-new-4-4-billion-daiichi-life-takeover-bid",
-        "published": "Wed, 18 Nov 2026 22:08:57 GMT"
+        "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
+        "published": "Thu, 19 Nov 2026 00:54:52 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Farm Group Says Ex-CEO Misused Funds for Vacation Home and Plane",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/farm-group-says-ex-ceo-misused-funds-for-vacation-home-and-plane",
-        "published": "Wed, 18 Nov 2026 21:48:16 GMT"
+        "title": "Anthropic Prices at $83 a Share in Record-Sized Offering",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video",
+        "published": "Thu, 19 Nov 2026 00:45:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bloomberg New Economy Forum Opening Welcome Remarks",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-opening-welcome-remarks-video",
-        "published": "Wed, 18 Nov 2026 21:42:44 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Foreign Holdings of US Treasuries Decline by Most Since March",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/foreign-holdings-of-us-treasuries-decline-by-most-since-march",
-        "published": "Wed, 18 Nov 2026 21:41:20 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Stocks Fall on Nvidia Rout With Anthropic in Focus: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
-        "published": "Tue, 17 Nov 2026 22:07:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bloomberg New Economy Forum Day One Opening Address",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-day-one-opening-address-video",
-        "published": "Wed, 18 Nov 2026 21:38:09 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bloomberg New Economy Forum Day Three Opening Address",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-day-three-opening-address-video",
-        "published": "Wed, 18 Nov 2026 21:33:59 GMT"
+        "title": "Jeffrey Sachs Expects Friendly Trilateral Outcome",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-19/jeffrey-sachs-expects-friendly-trilateral-outcome-video",
+        "published": "Thu, 19 Nov 2026 00:36:42 GMT"
       }
     ],
     "onvista – News": [
