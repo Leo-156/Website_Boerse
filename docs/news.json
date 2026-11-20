@@ -1,12 +1,42 @@
 {
-  "updated_at": "2026-11-20T10:28:13.003049+00:00",
+  "updated_at": "2026-11-20T18:41:44.177008+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax verliert zwei Prozent – und rutscht unter 25.000-Punkte-Marke",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-rutscht-unter-25.000-punkte-marke/100271464.html",
-        "published": "Fri, 20 Nov 2026 09:42:48 GMT"
+        "title": "US-Börsen: S&P 500 im Korrekturbereich – Bitcoin fällt unter 60.000 Dollar",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-sp-500-im-korrekturbereich-bitcoin-faellt-unter-60.000-dollar/100271593.html",
+        "published": "Fri, 20 Nov 2026 18:15:33 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Dax verliert 660 Zähler und schließt weit unter 26.000 Punkten – „Stimmung nähert sich Panik an“",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-verliert-660-punkte-und-schliesst-weit-unter-26.000-punkten/100271464.html",
+        "published": "Fri, 20 Nov 2026 17:40:41 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldpolitik: Bundesbankchef Nagel hadert mit mangelndem Rückhalt für EZB-Kandidatur",
+        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-joachim-nagel-hadert-mit-mangelndem-rueckhalt-fuer-kandidatur/100271609.html",
+        "published": "Fri, 20 Nov 2026 17:38:45 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Aktien: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/aktien-ist-der-ki-boom-nach-dem-anthropic-boersengang-vorbei/100270470.html",
+        "published": "Fri, 20 Nov 2026 16:19:29 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Vaclav Matousek: „Wir brauchen eine Haltung, die Entscheidungen beschleunigt“",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/vaclav-matousek-wir-brauchen-eine-haltung-die-entscheidungen-beschleunigt/100269636.html",
+        "published": "Fri, 20 Nov 2026 14:56:35 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Aufenthaltsrecht: Niedrige Steuern, hohe Lebensqualität – Diese Länder sind attraktiv für Auswanderer",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern-diese-laender-locken-mit-finanziellen-vorteilen/100133033.html",
+        "published": "Fri, 20 Nov 2026 13:02:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -91,62 +121,20 @@
         "title": "Finanzmarkt: Deutsche-Börse-Chef motiviert: „Wir müssen in Europa weltweit überlegene Lösungen bauen“",
         "link": "https://www.handelsblatt.com/finanzen/background-finanzen-und-sustainability/finanzmarkt-wir-muessen-in-europa-weltweit-ueberlegene-loesungen-bauen/100271252.html",
         "published": "Thu, 19 Nov 2026 16:35:52 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Musterdepot – Nachhaltigkeitsdepot: Jetzt kommt es auf Werte statt auf Wetten an",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-jetzt-kommt-es-auf-werte-statt-auf-wetten-an/100270697.html",
-        "published": "Thu, 19 Nov 2026 16:35:39 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Märkte Insight: Gewinner der Tech-Sorgen: Indische Aktien werden zum KI-Hedge",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-indische-aktien-werden-als-ki-hedge-zu-gewinnern-der-tech-sorgen/100269738.html",
-        "published": "Thu, 19 Nov 2026 16:32:14 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "US-Börsen: US-Börsen schließen deutlich im Minus – Anthropic drückt Kurse",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-deutlich-im-minus-anthropic-drueckt-kurse/100271288.html",
-        "published": "Thu, 19 Nov 2026 15:53:16 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Steuererklärung: Bonus bekommen? So sparen Prämierte auch noch Steuern",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-wie-sie-ihren-jahresbonus-versteuern-koennen/100003952.html",
-        "published": "Thu, 19 Nov 2026 14:54:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Wirtschaftskriminalität: Bekanntes deutsches Start-up-Trio im Visier der Ermittlungsbehörden",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/learnd-ltd.-bekanntes-deutsches-start-up-trio-im-visier-der-behoerden/100270459.html",
-        "published": "Thu, 19 Nov 2026 14:52:51 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Global Stocks Hit Longest Losing Run Since 2023: Markets Wrap",
+        "title": "S&P 500 Falls 10% From Record to Enter Correction: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 19 Nov 2026 22:03:40 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Lufthansa to Cut 1,000 Jobs at Struggling Flagship Airline",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/lufthansa-to-eliminate-1-000-jobs-at-struggling-flagship-airline",
-        "published": "Fri, 20 Nov 2026 08:09:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Anthropic (ANT) IPO on Nasdaq Overcame AI Fears and Warnings",
-        "link": "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings",
-        "published": "Fri, 20 Nov 2026 02:16:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rand Poised for Worst Week Since March as Carry Appeal Fades",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/rand-poised-for-worst-week-since-march-as-carry-appeal-fades",
-        "published": "Fri, 20 Nov 2026 09:31:41 GMT"
+        "title": "Fed’s Cook Sees Growing Urgency to Tackle Inflation",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/fed-s-cook-sees-growing-urgency-to-tackle-inflation-video",
+        "published": "Fri, 20 Nov 2026 18:25:07 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -156,39 +144,39 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dollar Set for Fourth Weekly Advance Following Anthropic IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/dollar-heads-for-fourth-week-of-gains-following-anthropic-ipo",
-        "published": "Fri, 20 Nov 2026 00:20:47 GMT"
+        "title": "Argentina Hit Hard by Global Turmoil as Bonds Slip Into Distress",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-20/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress",
+        "published": "Fri, 20 Nov 2026 18:12:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gabon Seeks IMF Deal Next Month After Audit Shows Lower Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/gabon-seeks-imf-deal-next-month-after-audit-shows-lower-debt",
-        "published": "Thu, 19 Nov 2026 11:58:23 GMT"
+        "title": "Morgan Stanley Sees Aussie Riding AI Storm to Outperform in 2027",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-20/morgan-stanley-sees-aussie-riding-ai-storm-to-outperform-in-2027",
+        "published": "Fri, 20 Nov 2026 18:06:59 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "How an American AI Company Uses Chinese Open-Weight Models",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/how-an-american-ai-company-uses-chinese-open-weight-models",
-        "published": "Fri, 20 Nov 2026 09:00:00 GMT"
+        "title": "SEC’s Daly on a Rapidly Evolving ETF Market",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/sec-s-daly-on-a-rapidly-evolving-etf-market-video",
+        "published": "Fri, 20 Nov 2026 18:00:02 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Odd Lots: How an AI Native Company Chooses Its Models (Podcast)",
-        "link": "https://www.bloomberg.com/news/audio/2026-11-20/odd-lots-how-an-ai-native-company-chooses-its-models-podcast",
-        "published": "Fri, 20 Nov 2026 09:00:00 GMT"
+        "title": "Robinhood’s Quirk on ETFs and the Next Generation of Investors",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
+        "published": "Fri, 20 Nov 2026 17:54:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Billionaire Raises $720 Million Private Credit for Megha Buyout",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout",
-        "published": "Fri, 20 Nov 2026 08:57:50 GMT"
+        "title": "AI Is Coming for Economists in the White House, Says Claudia Sahm",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/ai-is-coming-for-white-house-economists-says-sahm-video",
+        "published": "Fri, 20 Nov 2026 17:48:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bond Sales Hit €2 Trillion Europe Record as AI Surge Takes Hold",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/bond-sales-hit-2-trillion-europe-record-as-ai-surge-takes-hold",
-        "published": "Fri, 20 Nov 2026 08:30:46 GMT"
+        "title": "BI Survey: Budgetary Constraints for 2027 Travel",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/inflation-lifts-trip-spending-as-consumers-cut-extras-video",
+        "published": "Fri, 20 Nov 2026 17:48:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -198,54 +186,126 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Anthropic Pop Is Followed By a Fizzle: Market Analysis",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-pop-is-followed-by-a-fizzle-3-minutes-mliv-video",
-        "published": "Fri, 20 Nov 2026 08:49:23 GMT"
+        "title": "On Books: What food writing can teach us all",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/on-books-what-food-writing-can-teach-us-all-video",
+        "published": "Fri, 20 Nov 2026 17:42:31 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Hong Kong Stocks Sink to Brink of Bear Market as Selloff Worsens",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
-        "published": "Fri, 20 Nov 2026 02:29:50 GMT"
+        "title": "Treasuries Rally as AI Selloff Sends Investors to Haven Assets",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand",
+        "published": "Fri, 20 Nov 2026 04:33:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Moodliar: Investec Comfortable with UK Business Foundation",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-20/moodliar-investec-s-uk-business-foundation-comfortable-video",
-        "published": "Fri, 20 Nov 2026 08:07:31 GMT"
+        "title": "What’s in the UK-EU Deal To Deepen Ties",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/what-s-in-the-uk-eu-deal-to-deepen-ties-video",
+        "published": "Fri, 20 Nov 2026 17:28:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "South Africa’s Richards Bay Terminal Loads Record Chrome Cargo",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/south-africa-s-richards-bay-terminal-loads-record-chrome-cargo",
-        "published": "Fri, 20 Nov 2026 07:59:46 GMT"
+        "title": "A Week for Big Questions on the AI Buildout",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-20/a-week-for-big-questions-on-the-ai-buildout",
+        "published": "Fri, 20 Nov 2026 17:13:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "China Axes Palm Oil Purchases With Storage Space Running Out",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/china-axes-palm-oil-purchases-with-storage-space-running-out",
-        "published": "Fri, 20 Nov 2026 07:57:21 GMT"
+        "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+        "published": "Thu, 19 Nov 2026 23:56:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Fall as AI Selloff Spreads to Asia and Europe",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-fall-as-ai-selloff-spreads-to-asia-and-europe",
-        "published": "Fri, 20 Nov 2026 07:57:16 GMT"
+        "title": "Europe Cocoa Fetches Big Premium to New York Ahead of New Rules",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-20/cocoa-pricier-in-europe-as-traders-brace-for-deforestation-rules",
+        "published": "Fri, 20 Nov 2026 11:03:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Castleberry-Hernandez: Saudi Action on Houthis Into 2027",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-20/castleberry-hernandez-saudi-action-on-houthis-into-2027-video",
-        "published": "Fri, 20 Nov 2026 07:53:13 GMT"
+        "title": "Donald Trump's Tariffs Can't Kill Globalization",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/donald-trump-s-tariffs-can-t-kill-globalization-video",
+        "published": "Fri, 20 Nov 2026 17:02:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "AI Anxiety Returns With Flight From Risk Seen Hitting FTSE 100",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-20/ai-anxiety-returns-with-flight-from-risk-seen-hitting-ftse-100",
-        "published": "Fri, 20 Nov 2026 07:52:22 GMT"
+        "title": "AI Selloff Boosts Haven Demand for Yen, Franc as Dollar Slips",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-20/ai-selloff-boosts-haven-demand-for-yen-franc-as-dollar-slips",
+        "published": "Fri, 20 Nov 2026 17:00:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Goldman Sees Inflation Cooling by the end of 2027",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/goldman-sees-inflation-cooling-by-the-end-of-2027-video",
+        "published": "Fri, 20 Nov 2026 16:57:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Volatility Surges Over AI Fears After Anthropic IPO",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/volatility-surges-over-ai-fears-after-anthropic-ipo-video",
+        "published": "Fri, 20 Nov 2026 16:56:19 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax verbucht größtes Tagesminus seit Monaten",
+        "link": "https://www.onvista.de/news/2026/11-20-dax-verbucht-groesstes-tagesminus-seit-monaten-41121301-19-26578930",
+        "published": "Fri, 20 Nov 2026 17:50:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Tech fällt, Dow stabil - Anthropic rutscht elf Prozent",
+        "link": "https://www.onvista.de/news/2026/11-20-tech-faellt-dow-stabil-anthropic-rutscht-elf-prozent-0-19-26578911",
+        "published": "Fri, 20 Nov 2026 16:30:20 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Warum Anthropics Mega-IPO den Kursrückgang nicht aufhält",
+        "link": "https://www.onvista.de/news/2026/11-20-warum-anthropics-mega-ipo-den-kursrueckgang-nicht-aufhaelt-41122522-19-26578876",
+        "published": "Fri, 20 Nov 2026 16:30:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Tagesgeld im November 2026: Hier sind aktuell bis zu 4,5 Prozent Zinsen drin",
+        "link": "https://www.onvista.de/news/2026/11-20-tagesgeld-im-november-2026-hier-sind-aktuell-bis-zu-4-5-prozent-zinsen-drin-41122918-19-26498067",
+        "published": "Fri, 20 Nov 2026 14:43:56 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "VW Bank zahlt 3,50 %: Dieses Tagesgeld-Angebot kann sich sehen lassen",
+        "link": "https://www.onvista.de/news/2026/11-20-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
+        "published": "Fri, 20 Nov 2026 14:32:40 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Anthropic-Börsengang: So lief meine Zeichnung der Aktie",
+        "link": "https://www.onvista.de/news/2026/11-20-anthropic-boersengang-so-lief-meine-zeichnung-der-aktie-41121763-19-26578670",
+        "published": "Fri, 20 Nov 2026 14:28:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "AMD unter Druck – TSMC, Alphabet & Alibaba im Check",
+        "link": "https://www.onvista.de/news/2026/11-20-amd-unter-druck-tsmc-alphabet-alibaba-im-check-41122786-19-26578819",
+        "published": "Fri, 20 Nov 2026 12:58:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax setzt Rückgang fort und testet psychologische Unterstützung",
+        "link": "https://www.onvista.de/news/2026/11-20-dax-setzt-rueckgang-fort-und-testet-psychologische-unterstuetzung-41123281-19-26578766",
+        "published": "Fri, 20 Nov 2026 12:46:08 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Jahresendrally? Deutsche-Bank-Leaks? US-Zinsen sichern?",
+        "link": "https://www.onvista.de/news/2026/11-20-jahresendrally-deutsche-bank-leaks-us-zinsen-sichern-41121301-19-26578267",
+        "published": "Fri, 20 Nov 2026 12:00:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "XTB Depot 2026: Günstig handeln an Xetra und Auslandsbörsen",
+        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-xtb-26352337",
+        "published": "Fri, 20 Nov 2026 11:32:08 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Targobank Depot 2026: Viele Handelsplätze, gut bewertete App",
@@ -335,69 +395,15 @@
         "title": "Dax unter 26.000 Punkten: Welche Unterstützung nun halten muss",
         "link": "https://www.onvista.de/news/2026/11-19-dax-unter-26-000-punkten-welche-unterstuetzung-nun-halten-muss-41123281-19-26578224",
         "published": "Thu, 19 Nov 2026 11:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dax steigt dank Anthropic-IPO nach Verlustserie wieder",
-        "link": "https://www.onvista.de/news/2026/11-19-dax-steigt-dank-anthropic-ipo-nach-verlustserie-wieder-41121301-19-26578150",
-        "published": "Thu, 19 Nov 2026 09:55:01 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Anthropic dürfte Dax antreiben - KI-Firma glückt Rekord-Börsengang",
-        "link": "https://www.onvista.de/news/2026/11-19-anthropic-duerfte-dax-antreiben-ki-firma-glueckt-rekord-boersengang-41121301-19-26578109",
-        "published": "Thu, 19 Nov 2026 08:08:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Geschäfts- und Quartalsberichte heute, 19.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-19-finanzberichte-heute-19-11-2026-41121301-19-26578053",
-        "published": "Thu, 19 Nov 2026 06:10:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  19.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-19-dividendenalarm-heute-19-11-2026-41121301-19-26578050",
-        "published": "Thu, 19 Nov 2026 06:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Anthropic: Emissionspreis liegt bei 83 Dollar je Aktie",
-        "link": "https://www.onvista.de/news/2026/11-18-anthropic-emissionspreis-liegt-bei-83-dollar-je-aktie-41121763-19-26578015",
-        "published": "Wed, 18 Nov 2026 22:39:59 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Insider: Anthropic könnte IPO-Preis noch erhöhen",
-        "link": "https://www.onvista.de/news/2026/11-18-insider-anthropic-koennte-ipo-preis-noch-erhoehen-41121763-19-26577999",
-        "published": "Wed, 18 Nov 2026 19:56:40 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Wall-Street-Schwäche zieht Dax unter 26.000 Punkte",
-        "link": "https://www.onvista.de/news/2026/11-18-wall-street-schwaeche-zieht-dax-unter-26-000-punkte-41121301-19-26577974",
-        "published": "Wed, 18 Nov 2026 17:51:34 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Wieso ich diesen Finanzwert einfach kaufen musste",
-        "link": "https://www.onvista.de/news/2026/11-18-wieso-ich-diesen-finanzwert-einfach-kaufen-musste-41122522-19-26577497",
-        "published": "Wed, 18 Nov 2026 17:00:01 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Peter Thiel stockt Beteiligung an Ölkonzern Vista auf",
-        "link": "https://www.onvista.de/news/2026/11-18-peter-thiel-stockt-beteiligung-an-oelkonzern-vista-auf-41121301-19-26577951",
-        "published": "Wed, 18 Nov 2026 16:58:52 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Comdirect Depot 2026: Viel Auswahl, starke Funktionen",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-comdirect-26283726",
-        "published": "Wed, 18 Nov 2026 16:27:10 +0100"
       }
     ],
     "Börse Frankfurt – News": [
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Anleihen: „Anleger werden vorsichtiger“",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/anleihen-anleger-werden-vorsichtiger",
+        "published": "Fri, 20 Nov 2026 11:07:00 GMT"
+      },
       {
         "source": "Börse Frankfurt – News",
         "title": "Gold: \"Geldpolitik bleibt im Fahrersitz\"",
@@ -451,12 +457,6 @@
         "title": "Zehn neue ETFs auf Deutsche Börse Xetra",
         "link": "https://www.boerse-frankfurt.de/nachrichten/zehn-neue-etfs-auf-deutsche-boerse-xetra",
         "published": "Tue, 10 Nov 2026 10:53:12 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Wochenausblick: Neue Risiken für Tech-Aktien",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/wochenausblick-neue-risiken-fuer-tech-aktien",
-        "published": "Mon, 09 Nov 2026 07:35:55 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX-Talfahrt setzt sich fort",
+        "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-        "published": "Fri, 20 Nov 2026 11:04:11 +0100"
+        "published": "Fri, 20 Nov 2026 18:17:33 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
