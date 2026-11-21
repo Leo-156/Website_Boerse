@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-21T07:00:13.770102+00:00",
+  "updated_at": "2026-11-21T15:17:43.396838+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wohnen im Alter: Das Geschäft mit den Senioren-Wohnungen boomt",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/galeria-kaufhaeuser-als-seniorenwohnung-geht-so-wohnen-im-alter/100270250.html",
+        "published": "Sat, 21 Nov 2026 12:12:23 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Cyber Risk: Wie Versicherer und Analysten das Risiko durch Hackerangriffe berechnen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/cyber-risk-wie-sich-das-risiko-durch-hackerangriffe-berechnen-laesst/100271003.html",
+        "published": "Sat, 21 Nov 2026 10:21:24 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilie: Wo sich das Pendeln im Stuttgarter Umland noch lohnt",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilie-wo-sich-das-pendeln-im-stuttgarter-umland-noch-lohnt/100266845.html",
+        "published": "Sat, 21 Nov 2026 10:04:27 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Aktien: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
@@ -103,38 +121,104 @@
         "title": "Anthropic-IPO: „Stoppt die Tech-Oligarchen“: Vor der Nasdaq warnen sie vor dem Terminator und Kursverlusten",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/anthropic-ipo-vor-der-nasdaq-warnen-sie-vor-dem-terminator-und-kursverlusten/100271388.html",
         "published": "Thu, 19 Nov 2026 20:26:59 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Buy now, pay later: Unzer sichert sich Finanzierungszusage über 200 Millionen Euro",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/ratenkaeufe-unzer-erhaelt-finanzierungszusage-ueber-200-millionen-euro/100271191.html",
-        "published": "Thu, 19 Nov 2026 18:34:06 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Dax aktuell: Dax schließt nach gutem Start im Minus – SAP-Aktie setzt Verlustserie fort",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-sap-aktie-setzt-verlustserie-fort/100271164.html",
-        "published": "Thu, 19 Nov 2026 17:37:58 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Finanzmarkt: Deutsche-Börse-Chef motiviert: „Wir müssen in Europa weltweit überlegene Lösungen bauen“",
-        "link": "https://www.handelsblatt.com/finanzen/background-finanzen-und-sustainability/finanzmarkt-wir-muessen-in-europa-weltweit-ueberlegene-loesungen-bauen/100271252.html",
-        "published": "Thu, 19 Nov 2026 16:35:52 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Australia Says Negotiations Continue on Gas Reservation Proposal",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/australia-says-negotiations-continue-on-gas-reservation-proposal",
-        "published": "Sat, 21 Nov 2026 06:20:08 GMT"
+        "title": "Is AI a Bubble? History Offers Some Clues",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
+        "published": "Sat, 21 Nov 2026 15:09:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Switzerland Prolongs Neutrality Soul-Searching With Weapons Vote",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/switzerland-prolongs-neutrality-soul-searching-with-weapons-vote",
-        "published": "Sat, 21 Nov 2026 06:00:00 GMT"
+        "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+        "published": "Sat, 21 Nov 2026 11:44:46 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Shenzhen Wants to Become a Cultural Capital",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
+        "published": "Sat, 21 Nov 2026 14:24:08 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump’s Putin Outreach Tests Ukraine Talks",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-outreach-tests-ukraine-talks-video",
+        "published": "Sat, 21 Nov 2026 13:56:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Anthropic IPO Fails to Calm AI Jitters",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
+        "published": "Sat, 21 Nov 2026 13:43:18 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Just Ice Tea Builds on Honest Tea’s Legacy",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/just-ice-tea-builds-on-honest-tea-s-legacy-video",
+        "published": "Sat, 21 Nov 2026 13:19:50 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Putin Gains From Trump, Xi Summit Spotlight",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/putin-gains-from-trump-xi-summit-spotlight-video",
+        "published": "Sat, 21 Nov 2026 13:12:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump’s Putin Ties Draw Focus After Summit",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-ties-draw-focus-after-summit-video",
+        "published": "Sat, 21 Nov 2026 13:05:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "'Raise Taxes, Cut Spending': Bill Dudley on the Debt",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/-raise-taxes-cut-spending-bill-dudley-on-the-debt-video",
+        "published": "Sat, 21 Nov 2026 13:04:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+        "published": "Sat, 21 Nov 2026 13:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Anthropic Makes Its Public Market Debut",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-makes-its-public-market-debut-video",
+        "published": "Sat, 21 Nov 2026 12:59:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China Military Bars SF Express Over Procurement Misconduct",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
+        "published": "Sat, 21 Nov 2026 05:00:48 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "How AI Is Forcing China to Reshape Industrial Policy",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
+        "published": "Sat, 21 Nov 2026 09:00:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Europe’s Power Market Is Flashing a Warning to Its Economy",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
+        "published": "Sat, 21 Nov 2026 09:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Odd Lots: How AI Reshaped Chinese Industrial Policy (Podcast)",
+        "link": "https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast",
+        "published": "Sat, 21 Nov 2026 09:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Italy’s Webuild Completes Takeover of Construction Group Trevi",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
+        "published": "Sat, 21 Nov 2026 08:42:34 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -150,99 +234,15 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Australian Energy Officials Warned of Data Center Risk, Age Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/australian-energy-officials-warned-of-data-center-risk-age-says",
-        "published": "Sat, 21 Nov 2026 05:18:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Military Bans SF Express From Procurement Over Misconduct",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
-        "published": "Sat, 21 Nov 2026 05:00:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Vietnam Amends Laws to Speed Land Clearance, Development of New Projects",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/vietnam-amends-laws-to-speed-land-clearance-development-of-new-projects",
-        "published": "Sat, 21 Nov 2026 04:51:42 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Salvadoran Troops Killed in Haiti Blast Amid Rescue Mission",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/el-salvador-troops-killed-in-haiti-blast-after-rescue-deployment",
-        "published": "Fri, 20 Nov 2026 23:08:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "China Offshore Tax Clampdown Pushes Budget Into Rare Surplus",
         "link": "https://www.bloomberg.com/news/articles/2026-11-20/china-s-offshore-tax-clampdown-pushes-budget-into-rare-surplus",
         "published": "Fri, 20 Nov 2026 11:33:21 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Peru Rattled by 6.7-Magnitude Quake, With No Casualties Reported",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/peru-rattled-by-6-7-magnitude-quake-with-no-casualties-reported",
-        "published": "Sat, 21 Nov 2026 03:20:55 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
         "title": "Nasdaq 100 Has Worst Week Since 2020 on AI Drama: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
         "published": "Thu, 19 Nov 2026 22:03:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
-        "published": "Fri, 20 Nov 2026 23:22:36 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "‘Always Remain Liquid’: Richards",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
-        "published": "Fri, 20 Nov 2026 22:30:37 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Anthropic Slides 8.5% to Shrink IPO Gain as AI Trade Unravels",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
-        "published": "Fri, 20 Nov 2026 14:36:49 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video",
-        "published": "Fri, 20 Nov 2026 22:31:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S&P, Dow Slide Into Correction as Investors Dump Tech",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video",
-        "published": "Fri, 20 Nov 2026 22:25:52 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-20/masters-in-business-with-david-eichhorn-video",
-        "published": "Fri, 20 Nov 2026 22:14:53 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
-        "published": "Thu, 19 Nov 2026 23:56:03 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video",
-        "published": "Fri, 20 Nov 2026 22:08:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fear and ‘Hot Sauce’: Young Investors Want To Catch Up",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-20/fear-and-hot-sauce-young-investors-want-to-catch-up-video",
-        "published": "Fri, 20 Nov 2026 22:06:43 GMT"
       }
     ],
     "onvista – News": [
