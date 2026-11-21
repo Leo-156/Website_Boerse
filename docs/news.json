@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-21T15:17:43.396838+00:00",
+  "updated_at": "2026-11-21T20:56:23.701361+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Wohnen im Alter: Das Geschäft mit den Senioren-Wohnungen boomt",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/galeria-kaufhaeuser-als-seniorenwohnung-geht-so-wohnen-im-alter/100270250.html",
-        "published": "Sat, 21 Nov 2026 12:12:23 GMT"
+        "published": "Sat, 21 Nov 2026 15:24:41 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -126,15 +126,45 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Is AI a Bubble? History Offers Some Clues",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
-        "published": "Sat, 21 Nov 2026 15:09:32 GMT"
+        "title": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+        "published": "Sat, 21 Nov 2026 11:44:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
-        "published": "Sat, 21 Nov 2026 11:44:46 GMT"
+        "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
+        "published": "Sat, 21 Nov 2026 17:01:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+        "published": "Sat, 21 Nov 2026 15:43:12 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+        "published": "Sat, 21 Nov 2026 15:31:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Thanksgiving Dinner Is Moving to Restaurants",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
+        "published": "Sat, 21 Nov 2026 15:28:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "The 1982 War Still Haunts the Middle East",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video",
+        "published": "Sat, 21 Nov 2026 15:19:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Is AI a Bubble? History Offers Some Clues",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
+        "published": "Sat, 21 Nov 2026 15:09:32 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -213,36 +243,6 @@
         "title": "Odd Lots: How AI Reshaped Chinese Industrial Policy (Podcast)",
         "link": "https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast",
         "published": "Sat, 21 Nov 2026 09:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Italy’s Webuild Completes Takeover of Construction Group Trevi",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
-        "published": "Sat, 21 Nov 2026 08:42:34 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Billionaire Raises $720 Million Private Credit for Megha Buyout",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout",
-        "published": "Fri, 20 Nov 2026 08:57:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China’s Top Planner Seeks Faster Construction of State Projects",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-s-top-planner-seeks-faster-construction-of-state-projects",
-        "published": "Sat, 21 Nov 2026 05:24:06 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Offshore Tax Clampdown Pushes Budget Into Rare Surplus",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-20/china-s-offshore-tax-clampdown-pushes-budget-into-rare-surplus",
-        "published": "Fri, 20 Nov 2026 11:33:21 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Has Worst Week Since 2020 on AI Drama: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
-        "published": "Thu, 19 Nov 2026 22:03:40 GMT"
       }
     ],
     "onvista – News": [
