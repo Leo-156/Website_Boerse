@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T15:39:08.566781+00:00",
+  "updated_at": "2026-11-22T21:14:05.349536+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,54 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
+        "published": "Sun, 22 Nov 2026 20:31:44 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Compass Plans to Move Main Listing to New York From London",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
+        "published": "Sun, 22 Nov 2026 17:08:04 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
+        "published": "Sun, 22 Nov 2026 20:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
+        "published": "Sun, 22 Nov 2026 19:05:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
+        "published": "Sun, 22 Nov 2026 17:27:24 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Bookmarked: News Stories On Our Reading List",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video",
+        "published": "Sun, 22 Nov 2026 16:41:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video",
+        "published": "Sun, 22 Nov 2026 16:17:05 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
+        "published": "Sun, 22 Nov 2026 15:52:02 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
         "link": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
         "published": "Sun, 22 Nov 2026 15:18:13 GMT"
@@ -195,42 +243,6 @@
         "title": "Taiwan Mulls Lowering Margin Requirement to Support Stock Market",
         "link": "https://www.bloomberg.com/news/articles/2026-11-22/taiwan-mulls-lowering-margin-requirement-to-support-stock-market",
         "published": "Sun, 22 Nov 2026 12:35:15 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Asia’s Stock Rescue Efforts Gather Pace After Wall Street Plunge",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
-        "published": "Sun, 22 Nov 2026 11:06:19 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "From Squeezes to Meltdown, a Week of Mayhem Rocks Metals Markets",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/from-squeezes-to-meltdown-a-week-of-mayhem-rocks-metals-markets",
-        "published": "Sun, 22 Nov 2026 11:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
-        "published": "Sun, 22 Nov 2026 00:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Russian Cargo Ship Attacked by Drones in Gulf of Finland",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
-        "published": "Sat, 21 Nov 2026 11:44:46 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
-        "published": "Sat, 21 Nov 2026 17:01:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-        "published": "Sat, 21 Nov 2026 15:43:12 GMT"
       }
     ],
     "onvista – News": [
