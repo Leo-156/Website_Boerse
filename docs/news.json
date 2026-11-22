@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-11-22T07:33:19.826978+00:00",
+  "updated_at": "2026-11-22T15:39:08.566781+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte Insight: Der unglaubliche Energiehunger der KI-Industrie",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-der-unglaubliche-energiehunger-der-ki-industrie/100269633.html",
+        "published": "Sun, 22 Nov 2026 15:19:12 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Welche Sektoren vom demografischen Wandel profitieren",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-welche-sektoren-vom-demografischen-wandel-profitieren/100269798.html",
+        "published": "Sun, 22 Nov 2026 14:59:37 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse: Chinas Börsen lockern Regeln für Wertpapierkredite",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/china-boersen-anleger-koennen-sich-ab-30-november-mehr-geld-fuer-aktien-leihen/100271866.html",
+        "published": "Sun, 22 Nov 2026 13:34:44 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Private Equity: Wachstumsfinanzierer zieht es nach Griechenland",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/private-equity-wachstumsfinanzierer-zieht-es-nach-griechenland/100271032.html",
+        "published": "Sun, 22 Nov 2026 11:55:19 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Neue Pflichtversicherung, die für Vermieter teuer werden kann",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-neue-pflichtversicherung-die-fuer-vermieter-teuer-werden-kann/100266164.html",
+        "published": "Sun, 22 Nov 2026 11:42:46 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Argentinien: Milei unter Zugwang – Druck auf Staatsanleihen wächst",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/argentinien-milei-unter-zugwang-druck-auf-staatsanleihen-waechst/100271849.html",
+        "published": "Sun, 22 Nov 2026 11:10:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Nachgerechnet: So hoch ist der Steuervorteil beim Altersvorsorgedepot wirklich",
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/geldanlage-so-hoch-ist-der-steuervorteil-beim-altersvorsorgedepot-wirklich/100268247.html",
+        "published": "Sun, 22 Nov 2026 10:38:50 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Wohnen im Alter: Das Geschäft mit den Senioren-Wohnungen boomt",
@@ -79,51 +121,93 @@
         "title": "Investieren: Die Preisträger des Scope Awards 2027 nutzen die neuen Chancen der Investment-Branche",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/investieren-die-preistraeger-des-scope-awards-2027-nutzen-neue-chancen/100269016.html",
         "published": "Fri, 20 Nov 2026 07:24:08 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nachhaltigkeit: EU vereinfacht Regeln zu nachhaltigen Finanzprodukten",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/nachhaltigkeit-eu-vereinfacht-regeln-zu-nachhaltigen-finanzprodukten/100271472.html",
-        "published": "Fri, 20 Nov 2026 06:28:16 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 20. November: Dax vorbörslich im Minus: Sieben Punkte, die für Anleger wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Fri, 20 Nov 2026 05:29:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Nur zwei von zehn Branchen im MSCI World sind noch unterbewertet",
-        "link": "https://www.handelsblatt.com/finanzen/geldanlage-nur-zwei-von-zehn-branchen-im-msci-world-sind-noch-unterbewertet/100268676.html",
-        "published": "Fri, 20 Nov 2026 03:00:28 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Aktie im Blick: Deutsche Börse: Warum es nach dem deutlichen Kurseinbruch aufwärtsgeht",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/deutsche-boerse-warum-es-nach-dem-kurseinbruch-kraeftig-aufwaerts-geht/100270981.html",
-        "published": "Fri, 20 Nov 2026 03:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Diese deutschen Aktien zählen zu den größten KI-Profiteuren",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-diese-deutschen-aktien-zaehlen-zu-den-groessten-ki-profiteuren/100270646.html",
-        "published": "Fri, 20 Nov 2026 03:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Rekord-Börsengang: Anthropic-Aktie schließt 17 Prozent im Plus – Deutlicher Kursrückgang im Handelsverlauf",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boersengang-anthropic-schliesst-17-prozent-im-plus-kursrueckgang-im-handelsverlauf/100270027.html",
-        "published": "Thu, 19 Nov 2026 21:20:13 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Anthropic-IPO: „Stoppt die Tech-Oligarchen“: Vor der Nasdaq warnen sie vor dem Terminator und Kursverlusten",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/anthropic-ipo-vor-der-nasdaq-warnen-sie-vor-dem-terminator-und-kursverlusten/100271388.html",
-        "published": "Thu, 19 Nov 2026 20:26:59 GMT"
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
+        "published": "Sun, 22 Nov 2026 15:18:13 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
+        "published": "Sun, 22 Nov 2026 15:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
+        "published": "Sun, 22 Nov 2026 14:41:40 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "GTA VI Takes Over Thanksgiving Week",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
+        "published": "Sun, 22 Nov 2026 14:25:23 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Fed’s Inflation Fight May Require More Hikes",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
+        "published": "Sun, 22 Nov 2026 14:19:26 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Governors Push States to Lead on AI",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-22/governors-push-states-to-lead-on-ai-video",
+        "published": "Sun, 22 Nov 2026 13:32:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Strong Earnings Prove No Match for the Crumbling AI Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade",
+        "published": "Sun, 22 Nov 2026 13:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil Shock Response Sets Emerging-Market Bond Winners and Losers",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/oil-shock-response-sets-emerging-market-bond-winners-and-losers",
+        "published": "Sun, 22 Nov 2026 13:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Why Your Health Insurance Keeps Getting More Expensive",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-22/why-your-health-insurance-keeps-getting-more-expensive-video",
+        "published": "Sun, 22 Nov 2026 13:03:54 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "S. Korea Rolls Out Phased Measures to Stabilize Stock Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
+        "published": "Sun, 22 Nov 2026 10:16:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Trump’s Asia Trip Leaves Key Issues Unresolved",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video",
+        "published": "Sun, 22 Nov 2026 12:39:41 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Taiwan Mulls Lowering Margin Requirement to Support Stock Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/taiwan-mulls-lowering-margin-requirement-to-support-stock-market",
+        "published": "Sun, 22 Nov 2026 12:35:15 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Asia’s Stock Rescue Efforts Gather Pace After Wall Street Plunge",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+        "published": "Sun, 22 Nov 2026 11:06:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "From Squeezes to Meltdown, a Week of Mayhem Rocks Metals Markets",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/from-squeezes-to-meltdown-a-week-of-mayhem-rocks-metals-markets",
+        "published": "Sun, 22 Nov 2026 11:00:00 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
@@ -132,7 +216,7 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
+        "title": "Russian Cargo Ship Attacked by Drones in Gulf of Finland",
         "link": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
         "published": "Sat, 21 Nov 2026 11:44:46 GMT"
       },
@@ -147,102 +231,6 @@
         "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
         "link": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
         "published": "Sat, 21 Nov 2026 15:43:12 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
-        "published": "Sat, 21 Nov 2026 15:31:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Thanksgiving Dinner Is Moving to Restaurants",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
-        "published": "Sat, 21 Nov 2026 15:28:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "The 1982 War Still Haunts the Middle East",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video",
-        "published": "Sat, 21 Nov 2026 15:19:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Is AI a Bubble? History Offers Some Clues",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
-        "published": "Sat, 21 Nov 2026 15:09:32 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Shenzhen Wants to Become a Cultural Capital",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
-        "published": "Sat, 21 Nov 2026 14:24:08 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump’s Putin Outreach Tests Ukraine Talks",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-outreach-tests-ukraine-talks-video",
-        "published": "Sat, 21 Nov 2026 13:56:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Anthropic IPO Fails to Calm AI Jitters",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
-        "published": "Sat, 21 Nov 2026 13:43:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Just Ice Tea Builds on Honest Tea’s Legacy",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/just-ice-tea-builds-on-honest-tea-s-legacy-video",
-        "published": "Sat, 21 Nov 2026 13:19:50 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Putin Gains From Trump, Xi Summit Spotlight",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/putin-gains-from-trump-xi-summit-spotlight-video",
-        "published": "Sat, 21 Nov 2026 13:12:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump’s Putin Ties Draw Focus After Summit",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-ties-draw-focus-after-summit-video",
-        "published": "Sat, 21 Nov 2026 13:05:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "'Raise Taxes, Cut Spending': Bill Dudley on the Debt",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/-raise-taxes-cut-spending-bill-dudley-on-the-debt-video",
-        "published": "Sat, 21 Nov 2026 13:04:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-        "published": "Sat, 21 Nov 2026 13:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Anthropic Makes Its Public Market Debut",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-makes-its-public-market-debut-video",
-        "published": "Sat, 21 Nov 2026 12:59:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "China Military Bars SF Express Over Procurement Misconduct",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
-        "published": "Sat, 21 Nov 2026 05:00:48 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "How AI Is Forcing China to Reshape Industrial Policy",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
-        "published": "Sat, 21 Nov 2026 09:00:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Europe’s Power Market Is Flashing a Warning to Its Economy",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
-        "published": "Sat, 21 Nov 2026 09:00:00 GMT"
       }
     ],
     "onvista – News": [
@@ -462,15 +450,21 @@
     "tagesschau.de – Wirtschaft/Finanzen": [
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
-        "published": "Thu, 19 Nov 2026 17:54:27 +0100"
+        "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
+        "published": "Sun, 22 Nov 2026 11:25:29 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
         "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
         "published": "Fri, 20 Nov 2026 18:17:33 +0100"
+      },
+      {
+        "source": "tagesschau.de – Wirtschaft/Finanzen",
+        "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+        "published": "Thu, 19 Nov 2026 17:54:27 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
@@ -585,12 +579,6 @@
         "title": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/teurer-wohnraum-wirtschaftswachstum-marktbericht-100.html",
         "published": "Mon, 02 Nov 2026 14:15:24 +0100"
-      },
-      {
-        "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
-        "published": "Mon, 02 Nov 2026 09:59:47 +0100"
       }
     ]
   }
