@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T00:46:45.320807+00:00",
+  "updated_at": "2026-11-22T07:33:19.826978+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -106,8 +106,8 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: KI- und Robotik-Aktien erfordern starke Nerven – Welche deutschen Titel zu den großen KI-Profiteuren zählen",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-ki-und-robotik-aktien-erfordern-starke-nerven/100270646.html",
+        "title": "Geldanlage: Diese deutschen Aktien zählen zu den größten KI-Profiteuren",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-diese-deutschen-aktien-zaehlen-zu-den-groessten-ki-profiteuren/100270646.html",
         "published": "Fri, 20 Nov 2026 03:00:00 GMT"
       },
       {
@@ -124,6 +124,12 @@
       }
     ],
     "Bloomberg – Markets": [
+      {
+        "source": "Bloomberg – Markets",
+        "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+        "published": "Sun, 22 Nov 2026 00:00:00 GMT"
+      },
       {
         "source": "Bloomberg – Markets",
         "title": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
@@ -236,12 +242,6 @@
         "source": "Bloomberg – Markets",
         "title": "Europe’s Power Market Is Flashing a Warning to Its Economy",
         "link": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
-        "published": "Sat, 21 Nov 2026 09:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Odd Lots: How AI Reshaped Chinese Industrial Policy (Podcast)",
-        "link": "https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast",
         "published": "Sat, 21 Nov 2026 09:00:00 GMT"
       }
     ],
