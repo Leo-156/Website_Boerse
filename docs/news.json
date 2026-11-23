@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T21:14:05.349536+00:00",
+  "updated_at": "2026-11-23T01:40:58.061819+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
@@ -126,6 +126,78 @@
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
+        "title": "Treasury Futures Fall as Rising Stocks Damp Demand for Havens",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
+        "published": "Sun, 22 Nov 2026 23:59:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Copper Rises After Falling More Than 9% Last Week on AI Gloom",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
+        "published": "Mon, 23 Nov 2026 01:05:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Bounce After Rout, Havens Drop: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+        "published": "Sun, 22 Nov 2026 22:02:27 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Korean Stocks Drop Again as Asian Regulators Rush to Stem Losses",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+        "published": "Sun, 22 Nov 2026 11:06:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Gain in Volatile Trading After Tech-Driven Rout",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+        "published": "Sun, 22 Nov 2026 23:04:42 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Treasuries' Negative Correlation to Stocks Is Back: State Street",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
+        "published": "Mon, 23 Nov 2026 00:30:45 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+        "published": "Mon, 23 Nov 2026 00:28:03 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Latest Oil Market News and Analysis for Nov. 23",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+        "published": "Sun, 22 Nov 2026 23:06:06 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
+        "link": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
+        "published": "Sun, 22 Nov 2026 23:00:17 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/gold-deluge-keeps-china-s-1-trillion-trade-surplus-in-check",
+        "published": "Sun, 22 Nov 2026 23:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Live: Asia-Pacific Stocks, Currencies React After Nasdaq, S&P 500 Selloff",
+        "link": "https://www.bloomberg.com/news/live-blog/2026-11-22/asia-market-open",
+        "published": "Sun, 22 Nov 2026 22:56:32 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Aussie Seen Rebounding Against Kiwi From Worst Month Since 2022",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/aussie-seen-rebounding-against-kiwi-from-worst-month-since-2022",
+        "published": "Sun, 22 Nov 2026 21:16:37 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
         "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
         "link": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
         "published": "Sun, 22 Nov 2026 20:31:44 GMT"
@@ -171,78 +243,6 @@
         "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
         "link": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
         "published": "Sun, 22 Nov 2026 15:52:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
-        "published": "Sun, 22 Nov 2026 15:18:13 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
-        "published": "Sun, 22 Nov 2026 15:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
-        "published": "Sun, 22 Nov 2026 14:41:40 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "GTA VI Takes Over Thanksgiving Week",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
-        "published": "Sun, 22 Nov 2026 14:25:23 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Fed’s Inflation Fight May Require More Hikes",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
-        "published": "Sun, 22 Nov 2026 14:19:26 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Governors Push States to Lead on AI",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-22/governors-push-states-to-lead-on-ai-video",
-        "published": "Sun, 22 Nov 2026 13:32:30 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Strong Earnings Prove No Match for the Crumbling AI Trade",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade",
-        "published": "Sun, 22 Nov 2026 13:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Oil Shock Response Sets Emerging-Market Bond Winners and Losers",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/oil-shock-response-sets-emerging-market-bond-winners-and-losers",
-        "published": "Sun, 22 Nov 2026 13:30:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Why Your Health Insurance Keeps Getting More Expensive",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-22/why-your-health-insurance-keeps-getting-more-expensive-video",
-        "published": "Sun, 22 Nov 2026 13:03:54 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "S. Korea Rolls Out Phased Measures to Stabilize Stock Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
-        "published": "Sun, 22 Nov 2026 10:16:45 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Trump’s Asia Trip Leaves Key Issues Unresolved",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video",
-        "published": "Sun, 22 Nov 2026 12:39:41 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Taiwan Mulls Lowering Margin Requirement to Support Stock Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/taiwan-mulls-lowering-margin-requirement-to-support-stock-market",
-        "published": "Sun, 22 Nov 2026 12:35:15 GMT"
       }
     ],
     "onvista – News": [
