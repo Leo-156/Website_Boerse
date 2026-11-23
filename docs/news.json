@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-11-23T01:40:58.061819+00:00",
+  "updated_at": "2026-11-23T09:44:48.916347+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: „Erholung auf Bewährung“ – Dax pendelt um 25.000-Punkte-Marke",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-erholung-auf-bewaehrung-dax-pendelt-um-25.000-punkte-marke/100271947.html",
+        "published": "Mon, 23 Nov 2026 09:34:06 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Finanz-Start-up: Inkasso-Fintech Pair Finance ist jetzt eine halbe Milliarde Euro wert",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/pair-finance-inkasso-fintech-ist-jetzt-eine-halbe-milliarde-euro-wert/100271576.html",
+        "published": "Mon, 23 Nov 2026 09:00:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 23. November: Geht der Börsenabsturz am Montag im Dax weiter? Sechs Punkte, die für Anleger wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Mon, 23 Nov 2026 05:20:41 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Kospi, Taiex, Hang Seng: Ausverkauf von KI-Aktien setzt sich in Asien fort: Kospi verliert mehr als drei Prozent",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/kospi-taiex-hang-seng-ausverkauf-von-ki-aktien-setzt-sich-in-asien-fort/100271898.html",
+        "published": "Mon, 23 Nov 2026 03:59:49 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Märkte: Euphorie weicht Furcht – Sorge vor einem Ende des KI-Booms wächst",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-euphorie-weicht-furcht-sorge-vor-einem-ende-des-ki-booms-waechst/100271863.html",
+        "published": "Mon, 23 Nov 2026 03:02:13 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Märkte Insight: Der unglaubliche Energiehunger der KI-Industrie",
@@ -41,8 +71,8 @@
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Geldanlage: Nachgerechnet: So hoch ist der Steuervorteil beim Altersvorsorgedepot wirklich",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/geldanlage-so-hoch-ist-der-steuervorteil-beim-altersvorsorgedepot-wirklich/100268247.html",
-        "published": "Sun, 22 Nov 2026 10:38:50 GMT"
+        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/geldanlage-wie-hoch-der-steuervorteil-beim-altersvorsorgedepot-wirklich-ist/100268247.html",
+        "published": "Mon, 23 Nov 2026 06:45:00 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -91,161 +121,191 @@
         "title": "Vaclav Matousek: „Wir brauchen eine Haltung, die Entscheidungen beschleunigt“",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/vaclav-matousek-wir-brauchen-eine-haltung-die-entscheidungen-beschleunigt/100269636.html",
         "published": "Fri, 20 Nov 2026 14:56:35 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Aufenthaltsrecht: Niedrige Steuern, hohe Lebensqualität – Diese Länder sind attraktiv für Auswanderer",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern-diese-laender-locken-mit-finanziellen-vorteilen/100133033.html",
-        "published": "Fri, 20 Nov 2026 13:02:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Vermögen: Wann sich ein Ehevertrag lohnt – und was er kostet",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-diese-fehler-sollten-paare-beim-ehevertrag-unbedingt-vermeiden/100224359.html",
-        "published": "Fri, 20 Nov 2026 09:00:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Nikkei, Kospi & Co.: Ostasiens Börsen trotz Anthropics Börsengang im Minus – Nikkei sackt um 4,5 Prozent ab",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/ostasiens-boersen-brechen-nach-anthropics-boersengang-ein/100271416.html",
-        "published": "Fri, 20 Nov 2026 08:57:39 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Edelmetall: Gold ist 18 Prozent günstiger als zu Jahresbeginn – sollten Anleger jetzt einsteigen?",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/gold-ist-die-schwaeche-des-goldpreises-eine-chance-fuer-anleger/100270306.html",
-        "published": "Fri, 20 Nov 2026 07:50:19 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Investieren: Die Preisträger des Scope Awards 2027 nutzen die neuen Chancen der Investment-Branche",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/investieren-die-preistraeger-des-scope-awards-2027-nutzen-neue-chancen/100269016.html",
-        "published": "Fri, 20 Nov 2026 07:24:08 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasury Futures Fall as Rising Stocks Damp Demand for Havens",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
-        "published": "Sun, 22 Nov 2026 23:59:06 GMT"
+        "title": "India’s New Data Series to Aid RBI Policy, Gupta Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/india-s-new-data-series-to-improve-rbi-forecasts-gupta-says",
+        "published": "Mon, 23 Nov 2026 08:29:05 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Copper Rises After Falling More Than 9% Last Week on AI Gloom",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
-        "published": "Mon, 23 Nov 2026 01:05:30 GMT"
+        "title": "Europe's Cold Snap Threatens Natural Gas Inventories",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-23/europe-s-cold-snap-threatens-natural-gas-inventories-video",
+        "published": "Mon, 23 Nov 2026 09:37:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Bounce After Rout, Havens Drop: Markets Wrap",
+        "title": "Dubai Said to Eye Consolidating Lenders in Islamic Banking Push",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/dubai-said-to-eye-consolidating-lenders-in-islamic-banking-push",
+        "published": "Mon, 23 Nov 2026 09:23:47 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Oil Shock Response Sets EM Bond-Market Winners and Losers",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/oil-shock-response-sets-emerging-market-bond-winners-and-losers",
+        "published": "Sun, 22 Nov 2026 13:30:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Bounce After AI-Driven Correction: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
         "published": "Sun, 22 Nov 2026 22:02:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Korean Stocks Drop Again as Asian Regulators Rush to Stem Losses",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
-        "published": "Sun, 22 Nov 2026 11:06:19 GMT"
+        "title": "How Everyday Chinese People Are Adopting AI",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/how-everyday-chinese-people-are-adopting-ai",
+        "published": "Mon, 23 Nov 2026 09:00:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Stock Futures Gain in Volatile Trading After Tech-Driven Rout",
+        "title": "Odd Lots: How China’s Vibecoders Are Adopting AI (Podcast)",
+        "link": "https://www.bloomberg.com/news/audio/2026-11-23/odd-lots-how-china-s-vibecoders-are-adopting-ai-podcast",
+        "published": "Mon, 23 Nov 2026 09:00:00 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Stock Rotation Will Go International: Market Analysis",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-23/stock-rotation-will-go-international-3-minutes-mliv-video",
+        "published": "Mon, 23 Nov 2026 08:48:07 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Capita Dives 66% as CEO Quits Over Botched Pensions Contract",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/capita-plunges-57-as-ceo-quits-over-botched-pensions-contract",
+        "published": "Mon, 23 Nov 2026 08:22:21 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "US Stock Futures Jump as Dip Buyers Step In After AI Selloff",
         "link": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
         "published": "Sun, 22 Nov 2026 23:04:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasuries' Negative Correlation to Stocks Is Back: State Street",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
-        "published": "Mon, 23 Nov 2026 00:30:45 GMT"
+        "title": "India’s Banking Cash Turns to Deficit for First Time Since June",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/india-s-banking-cash-turns-to-deficit-for-first-time-since-june",
+        "published": "Mon, 23 Nov 2026 08:42:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+        "title": "Asian Stock Rout Eases as State Support Measures Soothe Jitters",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+        "published": "Sun, 22 Nov 2026 11:06:19 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Rebounds as Dip-Buyers Step In After Worst Week Since March",
         "link": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
         "published": "Mon, 23 Nov 2026 00:28:03 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Nov. 23",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
-        "published": "Sun, 22 Nov 2026 23:06:06 GMT"
+        "title": "Malaysia Palm Industry Says CPO Tax-Waiver Window Has Passed",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/malaysia-palm-oil-industry-says-cpo-tax-waiver-window-has-passed",
+        "published": "Mon, 23 Nov 2026 06:26:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
-        "link": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
-        "published": "Sun, 22 Nov 2026 23:00:17 GMT"
+        "title": "S. Korea’s Market Measures Fall Short of Stemming Stock Selloff",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-says-market-measures-will-ease-investor-jitters",
+        "published": "Mon, 23 Nov 2026 03:09:14 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/gold-deluge-keeps-china-s-1-trillion-trade-surplus-in-check",
-        "published": "Sun, 22 Nov 2026 23:00:00 GMT"
+        "title": "MSCI Aired Avoiding Indonesia Downgrade With Prabowo, Dalio",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
+        "published": "Mon, 23 Nov 2026 02:27:39 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Live: Asia-Pacific Stocks, Currencies React After Nasdaq, S&P 500 Selloff",
-        "link": "https://www.bloomberg.com/news/live-blog/2026-11-22/asia-market-open",
-        "published": "Sun, 22 Nov 2026 22:56:32 GMT"
+        "title": "European Gas Surges as Cold Snap Threatens Tight Inventories",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
+        "published": "Mon, 23 Nov 2026 02:46:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Aussie Seen Rebounding Against Kiwi From Worst Month Since 2022",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/aussie-seen-rebounding-against-kiwi-from-worst-month-since-2022",
-        "published": "Sun, 22 Nov 2026 21:16:37 GMT"
+        "title": "Coca-Cola HBC Rises in JSE Debut Ahead of $2.6 Billion Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/coca-cola-hbc-rises-in-jse-debut-ahead-of-2-6-billion-deal",
+        "published": "Mon, 23 Nov 2026 07:17:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
-        "published": "Sun, 22 Nov 2026 20:31:44 GMT"
+        "title": "Iran Targets Bahrain as US-Iran Tensions Escalate Over Fresh Strikes",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-23/horizons-middle-east-africa-11-23-2026-video",
+        "published": "Mon, 23 Nov 2026 07:38:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Compass Plans to Move Main Listing to New York From London",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
-        "published": "Sun, 22 Nov 2026 17:08:04 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
-        "published": "Sun, 22 Nov 2026 20:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
-        "published": "Sun, 22 Nov 2026 19:05:02 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
-        "published": "Sun, 22 Nov 2026 17:27:24 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Bookmarked: News Stories On Our Reading List",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video",
-        "published": "Sun, 22 Nov 2026 16:41:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "By The Way: Headlines You May Have Missed",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video",
-        "published": "Sun, 22 Nov 2026 16:17:05 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
-        "published": "Sun, 22 Nov 2026 15:52:02 GMT"
+        "title": "Vitol Unit Sets Timeline for $2.3 Billion Durban LNG Power Plant",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/vitol-unit-sets-timeline-for-2-3-billion-durban-lng-power-plant",
+        "published": "Mon, 23 Nov 2026 07:33:22 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax legt zum Start zu – Bayer gibt Anfangsgewinne ab",
+        "link": "https://www.onvista.de/news/2026/11-23-dax-legt-zum-start-zu-bayer-gibt-anfangsgewinne-ab-0-19-26579360",
+        "published": "Mon, 23 Nov 2026 09:55:25 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax dürfte dem Tech-Ausverkauf zu Wochenbeginn trotzen",
+        "link": "https://www.onvista.de/news/2026/11-23-dax-duerfte-dem-tech-ausverkauf-zu-wochenbeginn-trotzen-41121301-19-26579293",
+        "published": "Mon, 23 Nov 2026 08:01:59 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Mehr Durchblick. Weniger Kosten. Erhalte während der Black Week 50% Rabatt auf alle onvista Monats- und Jahresabos.",
+        "link": "https://www.onvista.de/info/premium?couponCode=blackweek2026&utm_source=onvista&utm_medium=display&utm_campaign=blackweek2026&utm_content=premiumbox_versione",
+        "published": "Mon, 23 Nov 2026 07:09:04 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "BLACK WEEK: Tiefer analysieren. Weniger zahlen. Erhalte 50% Rabatt & profitiere von Börsen-Insights, Handelssignalen & Premium-Tools.",
+        "link": "https://www.onvista.de/info/premium?couponCode=blackweek2026&utm_source=onvista&utm_medium=display&utm_campaign=blackweek2026&utm_content=premiumbox_versiond",
+        "published": "Mon, 23 Nov 2026 07:08:56 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Ein Kurssturz, der dich freut. Zahle während der Black Week 50% weniger auf onvista Pur, Plus und Pro Abos.",
+        "link": "https://www.onvista.de/info/premium?couponCode=blackweek2026&utm_source=onvista&utm_medium=display&utm_campaign=blackweek2026&utm_content=premiumbox_versionc",
+        "published": "Mon, 23 Nov 2026 07:08:48 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Erkenne, was hinter Kursbewegungen steckt. Lies Experten-Analysen mit onvista Plus. Black Week: 50% Rabatt. Jetzt sichern!",
+        "link": "https://www.onvista.de/info/premium?couponCode=blackweek2026&utm_source=onvista&utm_medium=display&utm_campaign=blackweek2026&utm_content=premiumbox_versionb",
+        "published": "Mon, 23 Nov 2026 07:08:41 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Sieh, welche Werte dein Depot antreiben. Nutze Portfolio-Analysen mit onvista Plus. Black Week: 50% Rabatt. Jetzt sichern!",
+        "link": "https://www.onvista.de/info/premium?couponCode=blackweek2026&utm_source=onvista&utm_medium=display&utm_campaign=blackweek2026&utm_content=premiumbox_versiona",
+        "published": "Mon, 23 Nov 2026 07:08:37 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Sichere dir 50 Prozent Rabatt auf alle Abos von onvista",
+        "link": "https://www.onvista.de/news/2026/11-23-sichere-dir-50-prozent-rabatt-auf-alle-abos-von-onvista-41121301-19-26577256",
+        "published": "Mon, 23 Nov 2026 07:00:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 23.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-23-finanzberichte-heute-23-11-2026-41121301-19-26579260",
+        "published": "Mon, 23 Nov 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  23.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-23-dividendenalarm-heute-23-11-2026-41121301-19-26579257",
+        "published": "Mon, 23 Nov 2026 06:00:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Der Crash ist da",
@@ -335,69 +395,15 @@
         "title": "Geschäfts- und Quartalsberichte heute, 20.11.2026",
         "link": "https://www.onvista.de/news/2026/11-20-finanzberichte-heute-20-11-2026-41121301-19-26578617",
         "published": "Fri, 20 Nov 2026 06:10:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Dividendenkalender heute,  20.11.2026",
-        "link": "https://www.onvista.de/news/2026/11-20-dividendenalarm-heute-20-11-2026-41121301-19-26578613",
-        "published": "Fri, 20 Nov 2026 06:00:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Erster Anthropic-Kurs an der Nasdaq festgestellt",
-        "link": "https://www.onvista.de/news/2026/11-19-erster-anthropic-kurs-an-der-nasdaq-festgestellt-41121763-19-26578478",
-        "published": "Thu, 19 Nov 2026 18:00:06 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Evonik-Aktienkurs bricht ein – Dax schließt im Minus",
-        "link": "https://www.onvista.de/news/2026/11-19-evonik-aktienkurs-bricht-ein-dax-schliesst-im-minus-41121301-19-26578474",
-        "published": "Thu, 19 Nov 2026 17:54:39 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "S Broker Depot 2026: Der Online-Broker der Sparkassen",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-s-broker-26379923",
-        "published": "Thu, 19 Nov 2026 17:54:07 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "N26 Depot 2026: Girokonto und Depot in einer App",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-n26-26379628",
-        "published": "Thu, 19 Nov 2026 17:32:11 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Maxblue Depot 2026: Viele Handelsplätze, breite Produktauswahl",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-maxblue-26379228",
-        "published": "Thu, 19 Nov 2026 17:11:04 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Justtrade Depot 2026: Starkes Krypto-Angebot neben Aktien und ETFs",
-        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-justtrade-26283738",
-        "published": "Thu, 19 Nov 2026 16:50:46 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Was ist denn bloß los bei Gold?",
-        "link": "https://www.onvista.de/news/2026/11-19-was-ist-denn-bloss-los-bei-gold-41122522-19-26578394",
-        "published": "Thu, 19 Nov 2026 16:15:34 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Mega-IPO bei Anthropic, Gold-Rutsch & Deutz-Schock",
-        "link": "https://www.onvista.de/news/2026/11-19-anthropic-ipo-gold-rutsch-deutz-schock-41122786-19-26578238",
-        "published": "Thu, 19 Nov 2026 12:59:00 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Alle Fakten: Unsere Video-Analyse zum Anthropic-IPO",
-        "link": "https://www.onvista.de/news/2026/11-19-alle-fakten-unsere-video-analyse-zum-anthropic-ipo-41121763-19-26578221",
-        "published": "Thu, 19 Nov 2026 12:00:01 +0100"
       }
     ],
     "Börse Frankfurt – News": [
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "Wochenausblick: Ausverkauf gestoppt",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/wochenausblick-ausverkauf-gestoppt",
+        "published": "Mon, 23 Nov 2026 08:24:40 GMT"
+      },
       {
         "source": "Börse Frankfurt – News",
         "title": "Anleihen: „Anleger werden vorsichtiger“",
@@ -451,12 +457,6 @@
         "title": "ETFs: Kursschwankungen beleben den Handel",
         "link": "https://www.boerse-frankfurt.de/nachrichten/etfs-kursschwankungen-beleben-den-handel",
         "published": "Tue, 10 Nov 2026 13:05:09 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Zehn neue ETFs auf Deutsche Börse Xetra",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/zehn-neue-etfs-auf-deutsche-boerse-xetra",
-        "published": "Tue, 10 Nov 2026 10:53:12 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-        "published": "Fri, 20 Nov 2026 18:17:33 +0100"
+        "title": "Marktbericht: Anleger kehren vorsichtig zurück in den Markt",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
+        "published": "Mon, 23 Nov 2026 10:32:39 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
