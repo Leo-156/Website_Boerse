@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-23T21:40:39.922973+00:00",
+  "updated_at": "2026-11-24T05:29:47.018870+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 24. November: Sechs Punkte, die für Anleger wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Tue, 24 Nov 2026 05:20:26 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börsen Asien: Kursfeuerwerk bei Nikkei, Kospi und Taiex – doch Nvidia-Rally räumt Zweifel an KI-Boom nicht aus",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-und-hang-seng-jensen-huang-rally-in-asien-raeumt-zweifel-an-ki-boom-nicht-aus/100272218.html",
+        "published": "Tue, 24 Nov 2026 04:14:22 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Riester-Reform: Altersvorsorgedepot: Kunden wollen Sicherheit, Lebensversicherer setzen auf Risiko",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/altersvorsorgedepot-kunden-wollen-sicherheit-versicherer-setzen-auf-risiko/100270328.html",
+        "published": "Tue, 24 Nov 2026 03:05:11 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "M&A-Markt: Amerikas Griff nach deutschen Konzernen – droht der Ausverkauf?",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/industrie-amerikas-griff-nach-deutschen-konzernen-droht-der-ausverkauf/100270590.html",
+        "published": "Tue, 24 Nov 2026 03:01:17 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Voestalpine: Deutsche Bank sieht „Kaufgelegenheit“ bei dieser Österreich-Aktie",
@@ -10,7 +34,7 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: Nasdaq schließt nach Huang-Rückkehr sechs Prozent im Plus – Dow Jones gewinnt mehr als 1400 Punkte",
+        "title": "Wall Street: Nasdaq schließt nach Huang-Rückkehr mehr als sechs Prozent im Plus",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-schliesst-nach-huang-rueckkehr-mehr-als-sechs-prozent-im-plus/100272031.html",
         "published": "Mon, 23 Nov 2026 19:43:11 GMT"
       },
@@ -82,12 +106,6 @@
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 23. November: Geht der Börsenabsturz am Montag im Dax weiter? Sechs Punkte, die für Anleger wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Mon, 23 Nov 2026 05:20:41 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
         "title": "Kospi, Taiex, Hang Seng: Ausverkauf von KI-Aktien setzt sich in Asien fort: Kospi verliert mehr als drei Prozent",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/kospi-taiex-hang-seng-ausverkauf-von-ki-aktien-setzt-sich-in-asien-fort/100271898.html",
         "published": "Mon, 23 Nov 2026 03:59:49 GMT"
@@ -103,149 +121,143 @@
         "title": "Märkte Insight: Der unglaubliche Energiehunger der KI-Industrie",
         "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-der-unglaubliche-energiehunger-der-ki-industrie/100269633.html",
         "published": "Sun, 22 Nov 2026 15:19:12 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Welche Sektoren vom demografischen Wandel profitieren",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-diese-branchen-profitieren-vom-demografischen-wandel/100269798.html",
-        "published": "Mon, 23 Nov 2026 14:27:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse: Chinas Börsen lockern Regeln für Wertpapierkredite",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/china-boersen-anleger-koennen-sich-ab-30-november-mehr-geld-fuer-aktien-leihen/100271866.html",
-        "published": "Sun, 22 Nov 2026 13:34:44 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Private Equity: Wachstumsfinanzierer zieht es nach Griechenland",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/markt-warum-finanzinvestoren-griechenland-fuer-sich-entdecken/100271032.html",
-        "published": "Mon, 23 Nov 2026 14:28:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Nvidia’s 31% Surge Exposes Wall Street’s Growing Stock Trap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
-        "published": "Mon, 23 Nov 2026 17:36:34 GMT"
+        "title": "Singapore, China Deepen Yuan Ties With Focus on Corporates",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
+        "published": "Tue, 24 Nov 2026 04:50:54 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Trump Puts a Floor Under AI Trade With Push for Huang’s Return",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/trump-puts-a-floor-under-ai-trade-with-push-for-huang-s-return",
-        "published": "Mon, 23 Nov 2026 21:29:12 GMT"
+        "title": "India Banking Cash Turns to Deficit, First Time Since June",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/india-s-banking-cash-turns-to-deficit-for-first-time-since-june",
+        "published": "Mon, 23 Nov 2026 08:42:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Jensen Huang’s Return, Nvidia ETFs Surge",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-23/etf-iq-11-23-2026-video",
-        "published": "Mon, 23 Nov 2026 21:22:58 GMT"
+        "title": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+        "published": "Mon, 23 Nov 2026 22:06:46 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nvidia Soars 31% as Jensen Huang Returns, Sparking $3 Trillion Rally | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-soars-on-jensen-huang-return-closing-bell-video",
-        "published": "Mon, 23 Nov 2026 21:22:15 GMT"
+        "title": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+        "published": "Tue, 24 Nov 2026 00:06:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US-Backed Firm to Ink Venezuela Dredging Deal to Aid Oil Exports",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/us-backed-firm-to-ink-venezuela-dredging-deal-to-aid-oil-exports",
-        "published": "Mon, 23 Nov 2026 21:17:54 GMT"
+        "title": "Asia Stocks Jump as Huang’s Return Lifts AI Trade",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video",
+        "published": "Tue, 24 Nov 2026 05:00:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ex-Volkswagen Engineer Admits to Insider Trading on Rivian Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/ex-volkswagen-engineer-admits-to-insider-trading-on-rivian-deal",
-        "published": "Mon, 23 Nov 2026 21:17:09 GMT"
+        "title": "EV Surge Helps Europe Auto Sales Gains to Nine-Month Run",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/ev-surge-helps-europe-auto-sales-gains-to-nine-month-run",
+        "published": "Tue, 24 Nov 2026 05:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Rebounds as Huang’s Return to Nvidia Revives Risk Appetite",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
-        "published": "Mon, 23 Nov 2026 00:28:03 GMT"
+        "title": "Temasek-Backed M1, Starhub Merge in Singapore Telecoms Shakeup",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal",
+        "published": "Tue, 24 Nov 2026 01:07:27 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Anthropic Shares Sink, Defying AI Trade Rally on Huang’s Return",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-shares-churn-defying-ai-trade-rally-on-huang-s-return",
-        "published": "Mon, 23 Nov 2026 14:51:48 GMT"
+        "title": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+        "published": "Tue, 24 Nov 2026 04:42:33 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nvidia Surge Crushes Short-Leveraged Funds With Losses Up to 92%",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-big-rebound-hammers-leveraged-funds-betting-on-a-fall",
-        "published": "Mon, 23 Nov 2026 19:58:41 GMT"
+        "title": "Huang Comeback Ignites Limit-Up Frenzy in Battered Asia AI Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
+        "published": "Mon, 23 Nov 2026 23:45:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Jump Most Since April 2025 as Huang Is Back: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-        "published": "Sun, 22 Nov 2026 22:02:27 GMT"
+        "title": "Tokyo Core Used-Condo Prices Fall for First Time Since 2013",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/central-tokyo-used-condo-prices-fall-for-first-time-since-2013",
+        "published": "Tue, 24 Nov 2026 02:22:06 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Hartree Is Top Supplier Behind $10 Million Oil Crypto Coin Mint",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/hartree-is-top-supplier-behind-10-million-oil-crypto-coin-mint",
-        "published": "Mon, 23 Nov 2026 21:04:06 GMT"
+        "title": "Goldman Says Won Stability Beats Rate Hikes in Cooling Inflation",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/goldman-says-won-stability-beats-rate-hikes-in-cooling-inflation",
+        "published": "Tue, 24 Nov 2026 04:33:10 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Brazil’s Real Hits 19-Month Low as Post-Election Selloff Deepens",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/brazil-s-real-weakens-past-6-per-dollar-as-lula-selloff-extends",
-        "published": "Mon, 23 Nov 2026 13:11:14 GMT"
+        "title": "MSCI Says No Change in Indonesia Market Consultation Process",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/msci-says-no-change-in-indonesia-market-consultation-process",
+        "published": "Tue, 24 Nov 2026 04:13:48 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasuries Slip as Huang’s Nvidia Return Revives Risk Trade",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
-        "published": "Sun, 22 Nov 2026 23:59:06 GMT"
+        "title": "Latest Oil Market News and Analysis for Nov. 24",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
+        "published": "Mon, 23 Nov 2026 23:04:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Wall Street Roars Back as Huang’s Shock Return Propels US Stocks",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
-        "published": "Sun, 22 Nov 2026 23:04:42 GMT"
+        "title": "Australia Bonds Set for Longest Rally Since June on RBA Cut Bets",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/australia-bonds-set-for-longest-rally-since-june-on-rba-cut-bets",
+        "published": "Tue, 24 Nov 2026 04:06:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Goldman Says Dollar ‘Has Some Fight’ Left on Rates Path",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/goldman-s-trivedi-says-dollar-has-some-fight-left-on-rate-path",
-        "published": "Mon, 23 Nov 2026 17:37:10 GMT"
+        "title": "GQG Shares Set for Record Surge in Sydney With AI Trade Revival",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/gqg-shares-set-for-record-surge-in-sydney-with-ai-trade-revival",
+        "published": "Tue, 24 Nov 2026 03:42:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "‘Key Man Risk’ Meets ‘Too Big to Fail’",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-23/-key-man-risk-meets-too-big-to-fail",
-        "published": "Mon, 23 Nov 2026 20:22:04 GMT"
+        "title": "Shares in Chinese Cobalt Producers Jump After Congo Bans Exports",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/shares-in-chinese-cobalt-producers-jump-after-congo-bans-exports",
+        "published": "Tue, 24 Nov 2026 03:17:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Credit Fear Gauge Drops as Huang’s Return Boosts AI Hopes",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/credit-heads-swivel-as-huang-return-ignites-tech-debt-rally",
-        "published": "Mon, 23 Nov 2026 15:56:17 GMT"
+        "title": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/japanese-bonds-rally-across-curve-as-domestic-stocks-surge",
+        "published": "Tue, 24 Nov 2026 03:07:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Nov. 23",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
-        "published": "Sun, 22 Nov 2026 23:06:06 GMT"
+        "title": "Copper Resumes Decline as Investors Look Beyond Drama at Nvidia",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
+        "published": "Tue, 24 Nov 2026 02:38:19 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "‘Party Is Back On’: Roundhill’s Drew Pettit",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-23/-party-is-back-on-roundhill-s-drew-pettit-video",
-        "published": "Mon, 23 Nov 2026 20:11:58 GMT"
+        "title": "Copper Smelters Face Worsening Squeeze as Negotiations Stall",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/copper-smelters-face-worsening-squeeze-as-negotiations-stall",
+        "published": "Tue, 24 Nov 2026 01:29:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Brazil Mining Agency Shortfalls Threaten Critical Minerals Push",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/brazil-mining-agency-shortfalls-threaten-critical-minerals-push",
-        "published": "Mon, 23 Nov 2026 20:11:19 GMT"
+        "title": "Margin Calls Rose in Taiwan Before Huang Return Fueled Rally",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets",
+        "published": "Mon, 23 Nov 2026 10:11:28 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 24.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-24-finanzberichte-heute-24-11-2026-41121301-19-26579745",
+        "published": "Tue, 24 Nov 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  24.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-24-dividendenalarm-heute-24-11-2026-41121301-19-26579735",
+        "published": "Tue, 24 Nov 2026 06:00:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Gewinne auf breiter Front: Nasdaq steigt 6,7 Prozent",
@@ -383,18 +395,6 @@
         "title": "Tagesgeld im November 2026: Hier sind aktuell bis zu 4,5 Prozent Zinsen drin",
         "link": "https://www.onvista.de/news/2026/11-20-tagesgeld-im-november-2026-hier-sind-aktuell-bis-zu-4-5-prozent-zinsen-drin-41122918-19-26498067",
         "published": "Fri, 20 Nov 2026 14:43:56 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "VW Bank zahlt 3,50 %: Dieses Tagesgeld-Angebot kann sich sehen lassen",
-        "link": "https://www.onvista.de/news/2026/11-20-vw-bank-zahlt-3-75-dieses-tagesgeld-angebot-kann-sich-sehen-lassen-41122918-19-26561818",
-        "published": "Fri, 20 Nov 2026 14:32:40 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Anthropic-Börsengang: So lief meine Zeichnung der Aktie",
-        "link": "https://www.onvista.de/news/2026/11-20-anthropic-boersengang-so-lief-meine-zeichnung-der-aktie-41121763-19-26578670",
-        "published": "Fri, 20 Nov 2026 14:28:00 +0100"
       }
     ],
     "Börse Frankfurt – News": [
