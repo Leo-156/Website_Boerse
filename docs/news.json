@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-25T00:36:04.112939+00:00",
+  "updated_at": "2026-11-25T09:06:18.660819+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Rückversicherer: Hannover Rück erwartet 2,9 Milliarden Euro Gewinn",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/rueckversicherer-hannover-rueck-erwartet-29-milliarden-euro-gewinn/100272609.html",
+        "published": "Wed, 25 Nov 2026 08:56:01 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Kann eine 150 Jahre alte Grafik die Börsenkurse vorhersagen?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-warum-diese-150-jahre-alte-boersengrafik-anleger-aufhorchen-laesst/100189715.html",
+        "published": "Wed, 25 Nov 2026 08:41:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Dax aktuell: Leitindex startet im Plus – AMS-Osram-Aktie steigt zweistellig",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-im-plus-ams-osram-aktie-steigt-zweistellig/100272589.html",
+        "published": "Wed, 25 Nov 2026 08:31:34 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Geldanlage: Wer jetzt sein Geld in der Schweiz anlegt",
+        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-wer-jetzt-sein-geld-in-der-schweiz-anlegt/100270454.html",
+        "published": "Wed, 25 Nov 2026 08:14:44 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Immobilien: Nach LEG-Einstieg: Aroundtown bekommt überraschend eine neue Führungsspitze",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-aroundtown-bekommt-nach-leg-einstieg-neue-fuehrungsspitze/100272387.html",
+        "published": "Wed, 25 Nov 2026 08:00:12 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Digitalbank: Neuer N26-Chef: „Wir wollen unsere Kundenzahl bis 2030 mindestens verdoppeln“",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/n26-chef-wir-wollen-unsere-kundenzahl-mindestens-verdoppeln/100270367.html",
+        "published": "Wed, 25 Nov 2026 06:30:00 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börse am 25. November: Sechs Punkte, die für Anleger heute wichtig sind",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+        "published": "Wed, 25 Nov 2026 05:20:24 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Nikkei, Kospi, Taiex: Viele Chipaktien in Asien fallen unter das Niveau vor der Rally",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kospi-taiex-viele-chipaktien-in-asien-fallen-unter-das-niveau-vor-der-rally/100272545.html",
+        "published": "Wed, 25 Nov 2026 04:23:00 GMT"
+      },
       {
         "source": "Handelsblatt – Finanzen",
         "title": "Wall Street: US-Börsen schließen uneinheitlich – Nvidia verliert 5,9 Prozent",
@@ -73,98 +121,14 @@
         "title": "Hauskauf: Klingbeil will Steuerschlupfloch beim Immobilienkauf schließen",
         "link": "https://www.handelsblatt.com/finanzen/immobilien/hauskauf-klingbeil-will-steuerschlupfloch-beim-immobilienkauf-schliessen/100272430.html",
         "published": "Tue, 24 Nov 2026 13:35:10 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "EZB: „Bedauerlich“, „amateurhaft“: Insider kritisieren deutsche Leerstelle in heikler Phase für die EZB",
-        "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-oekonomen-kritisieren-deutsche-leerstelle-in-heikler-phase/100272124.html",
-        "published": "Tue, 24 Nov 2026 12:56:08 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Industrie: KKR zahlt bei Verkauf von Circor Aerospace Geld an Mitarbeiter",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/industrie-kkr-zahlt-bei-verkauf-von-circor-aerospace-geld-an-mitarbeiter/100272149.html",
-        "published": "Tue, 24 Nov 2026 12:49:36 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Banken: ING Deutschland führt Kreditkarte ein – aber nicht für alle",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ing-deutschland-fuehrt-kreditkarte-ein-aber-nicht-fuer-alle/100272403.html",
-        "published": "Tue, 24 Nov 2026 12:03:35 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Gastronomie: Catering-Riese Compass wechselt an die Wall Street",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/gastronomie-catering-riese-compass-wechselt-an-die-wall-street/100272365.html",
-        "published": "Tue, 24 Nov 2026 10:46:10 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Vermögen: Mehr als ein Testament – so machen Sie es Ihren Erben leicht",
-        "link": "https://www.handelsblatt.com/finanzen/steuern-recht/vermoegen-mehr-als-ein-testament-so-machen-sie-es-ihren-erben-leicht/100270515.html",
-        "published": "Tue, 24 Nov 2026 09:39:23 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börsen Asien: Kursfeuerwerk bei Nikkei, Kospi und Taiex – doch Nvidia-Rally räumt Zweifel an KI-Boom nicht aus",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-und-hang-seng-jensen-huang-rally-in-asien-raeumt-zweifel-an-ki-boom-nicht-aus/100272218.html",
-        "published": "Tue, 24 Nov 2026 08:25:06 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Börse am 24. November: Geht die Dax-Erholung weiter? Sechs Punkte, die für Anleger wichtig sind",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-        "published": "Tue, 24 Nov 2026 05:20:26 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Riester-Reform: Altersvorsorgedepot: Kunden wollen Sicherheit, Lebensversicherer setzen auf Risiko",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/altersvorsorgedepot-kunden-wollen-sicherheit-versicherer-setzen-auf-risiko/100270328.html",
-        "published": "Tue, 24 Nov 2026 03:05:11 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
-        "published": "Tue, 24 Nov 2026 23:51:22 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Asian Stocks Fall as AI Trade Doubts Resurface: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-        "published": "Tue, 24 Nov 2026 22:09:18 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "HDBank Turns to Global Investors With Bonds, Loan to Fund Growth in Vietnam",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/hdbank-turns-to-global-investors-with-bonds-loan-to-fund-growth-in-vietnam",
-        "published": "Wed, 25 Nov 2026 00:00:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Latest Oil Market News and Analysis for Nov. 25",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
-        "published": "Tue, 24 Nov 2026 23:06:29 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "RBA’s Jacobs Says Financial Conditions ‘Restrictive’ After Hikes",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
-        "published": "Tue, 24 Nov 2026 23:50:00 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "US Readies Tariff Hike on China, EU Goods",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video-mwvca1k8",
-        "published": "Tue, 24 Nov 2026 23:41:59 GMT"
-      },
-      {
-        "source": "Bloomberg – Markets",
-        "title": "Butterball CEO on Thanksgiving Dinner Outlook",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-24/butterball-ceo-on-thanksgiving-dinner-outlook-video",
-        "published": "Tue, 24 Nov 2026 23:12:17 GMT"
+        "title": "Why Jensen Huang’s Return to Nvidia Matters for China",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-25/why-jensen-huang-s-return-to-nvidia-matters-for-china-video",
+        "published": "Wed, 25 Nov 2026 08:59:08 GMT"
       },
       {
         "source": "Bloomberg – Markets",
@@ -174,78 +138,150 @@
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Xi Plays Long Game on US Chip Retaliation After Nvidia Saga",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us",
-        "published": "Tue, 24 Nov 2026 08:56:34 GMT"
+        "title": "Tech Selloff Rolls On as AI Worries Lift Bonds: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+        "published": "Tue, 24 Nov 2026 22:09:18 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Icahn’s Fortune Sinks to $1.3b as Debt Pressures Rise",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-24/icahn-s-fortune-sinks-to-1-3b-as-debt-pressures-rise-video",
-        "published": "Tue, 24 Nov 2026 22:29:33 GMT"
+        "title": "Asia Finds a Surprise Currency Haven in AI-Defying Rupee",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/asia-finds-a-surprise-currency-haven-in-ai-defying-rupee",
+        "published": "Wed, 25 Nov 2026 08:30:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Canadian Dollar Gains Most Since August on Inflation Warning",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
-        "published": "Tue, 24 Nov 2026 19:31:25 GMT"
+        "title": "Murdoch-Backed Allen Career Is Said to Pick Banks for India IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/murdoch-backed-allen-career-is-said-to-pick-banks-for-india-ipo",
+        "published": "Wed, 25 Nov 2026 08:26:23 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Steel Buyers Turn Abroad as Data Center Boom Strains Supply",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
-        "published": "Tue, 24 Nov 2026 22:12:57 GMT"
+        "title": "CATL Tumbles 12% on Fears Over Weak Earnings, Forced Selling",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/catl-tumbles-12-on-fears-over-weak-earnings-forced-selling",
+        "published": "Wed, 25 Nov 2026 08:25:56 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BOJ Likely to Lift Rate to 2% by Mid-2027, Ex-Board Member Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/boj-likely-to-lift-rate-to-2-by-mid-2027-ex-board-member-says",
-        "published": "Tue, 24 Nov 2026 22:00:00 GMT"
+        "title": "Latest Oil Market News and Analysis for Nov. 25",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
+        "published": "Tue, 24 Nov 2026 23:06:29 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Slips as Investors Weigh Fed Outlook, US Tariff Plans",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
-        "published": "Tue, 24 Nov 2026 00:06:57 GMT"
+        "title": "Metals Rout Deepens as AI, Fed Worries Fuel Bearish Sentiment",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
+        "published": "Wed, 25 Nov 2026 03:57:12 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Readies Tariff Hike on China, EU Goods",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video",
-        "published": "Tue, 24 Nov 2026 21:58:15 GMT"
+        "title": "EasyJet Profit Hit By Iran War as Apollo Takeover Looms",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/easyjet-profit-hit-by-middle-east-war-as-apollo-takeover-looms",
+        "published": "Wed, 25 Nov 2026 07:16:22 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Loom",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally",
-        "published": "Tue, 24 Nov 2026 09:45:27 GMT"
+        "title": "UK Heating Bills Surge 26%, Adding to Inflation Pressure",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-25/uk-heating-bills-surge-26-adding-to-inflation-pressure",
+        "published": "Wed, 25 Nov 2026 07:51:47 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Latam Currencies Lag Emerging Peers as Global Selloff Weighs",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
-        "published": "Tue, 24 Nov 2026 06:26:44 GMT"
+        "title": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+        "published": "Wed, 25 Nov 2026 07:51:43 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Quant Funds Are Having a Hard Time Keeping Up With This Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market",
-        "published": "Tue, 24 Nov 2026 21:36:22 GMT"
+        "title": "Malaysia Says Too Early to See Impact of US Chip Curbs",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-25/malaysia-says-too-early-to-see-impact-of-us-chip-curbs-video",
+        "published": "Wed, 25 Nov 2026 07:48:37 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Falls 2% on AI Rout, Tariff Hike Talk: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
-        "published": "Mon, 23 Nov 2026 22:06:46 GMT"
+        "title": "Botswana to Take 5% Free Stake in Mines Dug on State Concessions",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/botswana-to-take-5-free-stake-in-mines-dug-on-state-concessions",
+        "published": "Wed, 25 Nov 2026 07:42:11 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/bond-traders-rush-to-hedge-risk-of-fed-hikes-stalling-economy",
-        "published": "Tue, 24 Nov 2026 21:30:00 GMT"
+        "title": "Malaysia's Pension Fund Favors Infrastructure Assets",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-25/malaysia-s-pension-fund-favors-infrastructure-assets-video",
+        "published": "Wed, 25 Nov 2026 07:40:39 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Global Rotation on AI Jitters Lifts Indian Stocks to Top Spot",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
+        "published": "Wed, 25 Nov 2026 05:04:20 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Gold Declines as AI Doubts and Rate-Hike Bets Rattle Stocks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+        "published": "Tue, 24 Nov 2026 23:51:22 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "AUD/USD: Aussie Set for Biggest Monthly Drop in Four Years as Stocks Fall",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/aud-usd-aussie-set-for-biggest-monthly-drop-in-four-years-as-stocks-fall",
+        "published": "Wed, 25 Nov 2026 07:28:30 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "A 2018 Playbook Would Not Bode Well for Markets: Taking Stock",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/a-2018-playbook-would-not-bode-well-for-markets-taking-stock",
+        "published": "Wed, 25 Nov 2026 07:24:39 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Neuberg Diagnostics Is Said to Pick Banks for $200 Million IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/neuberg-diagnostics-is-said-to-pick-banks-for-200-million-ipo",
+        "published": "Wed, 25 Nov 2026 07:13:14 GMT"
+      },
+      {
+        "source": "Bloomberg – Markets",
+        "title": "Restructuring Firm Interpath in Deal to Buy US Company, CEO Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/restructuring-firm-interpath-in-deal-to-buy-us-company-ceo-says",
+        "published": "Wed, 25 Nov 2026 07:00:00 GMT"
       }
     ],
     "onvista – News": [
+      {
+        "source": "onvista – News",
+        "title": "Dax wenig bewegt – JP Morgan nennt sechs Auto-Favoriten",
+        "link": "https://www.onvista.de/news/2026/11-25-dax-wenig-bewegt-jp-morgan-nennt-sechs-auto-favoriten-41121301-19-26580320",
+        "published": "Wed, 25 Nov 2026 09:59:47 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Scalable Capital Depot 2026: Günstige Orders, große ETF-Auswahl und KI-Zugang",
+        "link": "https://www.onvista.de/ratgeber/wertpapierdepot-ratgeber/broker-scalable-26351137",
+        "published": "Wed, 25 Nov 2026 09:34:05 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Tagesgeld im November 2026: Hier sind aktuell bis zu 4,5 Prozent Zinsen drin",
+        "link": "https://www.onvista.de/news/2026/11-25-tagesgeld-im-november-2026-hier-sind-aktuell-bis-zu-4-5-prozent-zinsen-drin-41122918-19-26498067",
+        "published": "Wed, 25 Nov 2026 09:05:48 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dax robust, asiatische Börsen klar im Minus",
+        "link": "https://www.onvista.de/news/2026/11-25-dax-robust-asiatische-boersen-klar-im-minus-41121301-19-26580232",
+        "published": "Wed, 25 Nov 2026 07:55:01 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Geschäfts- und Quartalsberichte heute, 25.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-25-finanzberichte-heute-25-11-2026-41121301-19-26580205",
+        "published": "Wed, 25 Nov 2026 06:10:00 +0100"
+      },
+      {
+        "source": "onvista – News",
+        "title": "Dividendenkalender heute,  25.11.2026",
+        "link": "https://www.onvista.de/news/2026/11-25-dividendenalarm-heute-25-11-2026-41121301-19-26580201",
+        "published": "Wed, 25 Nov 2026 06:00:00 +0100"
+      },
       {
         "source": "onvista – News",
         "title": "Dax sinkt nach Tech-Rally - Aixtron sackt 16 Prozent ab",
@@ -359,42 +395,6 @@
         "title": "Dax dürfte dem Tech-Ausverkauf zu Wochenbeginn trotzen",
         "link": "https://www.onvista.de/news/2026/11-23-dax-duerfte-dem-tech-ausverkauf-zu-wochenbeginn-trotzen-41121301-19-26579293",
         "published": "Mon, 23 Nov 2026 08:01:59 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Mehr Durchblick. Weniger Kosten. Erhalte während der Black Week 50% Rabatt auf alle onvista Monats- und Jahresabos.",
-        "link": "https://www.onvista.de/info/premium?couponCode=blackweek2026&utm_source=onvista&utm_medium=display&utm_campaign=blackweek2026&utm_content=premiumbox_versione",
-        "published": "Mon, 23 Nov 2026 07:09:04 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "BLACK WEEK: Tiefer analysieren. Weniger zahlen. Erhalte 50% Rabatt & profitiere von Börsen-Insights, Handelssignalen & Premium-Tools.",
-        "link": "https://www.onvista.de/info/premium?couponCode=blackweek2026&utm_source=onvista&utm_medium=display&utm_campaign=blackweek2026&utm_content=premiumbox_versiond",
-        "published": "Mon, 23 Nov 2026 07:08:56 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Ein Kurssturz, der dich freut. Zahle während der Black Week 50% weniger auf onvista Pur, Plus und Pro Abos.",
-        "link": "https://www.onvista.de/info/premium?couponCode=blackweek2026&utm_source=onvista&utm_medium=display&utm_campaign=blackweek2026&utm_content=premiumbox_versionc",
-        "published": "Mon, 23 Nov 2026 07:08:48 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Erkenne, was hinter Kursbewegungen steckt. Lies Experten-Analysen mit onvista Plus. Black Week: 50% Rabatt. Jetzt sichern!",
-        "link": "https://www.onvista.de/info/premium?couponCode=blackweek2026&utm_source=onvista&utm_medium=display&utm_campaign=blackweek2026&utm_content=premiumbox_versionb",
-        "published": "Mon, 23 Nov 2026 07:08:41 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Sieh, welche Werte dein Depot antreiben. Nutze Portfolio-Analysen mit onvista Plus. Black Week: 50% Rabatt. Jetzt sichern!",
-        "link": "https://www.onvista.de/info/premium?couponCode=blackweek2026&utm_source=onvista&utm_medium=display&utm_campaign=blackweek2026&utm_content=premiumbox_versiona",
-        "published": "Mon, 23 Nov 2026 07:08:37 +0100"
-      },
-      {
-        "source": "onvista – News",
-        "title": "Sichere dir 50 Prozent Rabatt auf alle Abos von onvista",
-        "link": "https://www.onvista.de/news/2026/11-23-sichere-dir-50-prozent-rabatt-auf-alle-abos-von-onvista-41121301-19-26577256",
-        "published": "Mon, 23 Nov 2026 07:00:00 +0100"
       }
     ],
     "Börse Frankfurt – News": [
@@ -403,6 +403,12 @@
         "title": "ETFs: „Breite Streuung statt Rückzug aus Aktien”",
         "link": "https://www.boerse-frankfurt.de/nachrichten/etfs-breite-streuung-statt-rueckzug-aus-aktien",
         "published": "Tue, 24 Nov 2026 12:36:35 GMT"
+      },
+      {
+        "source": "Börse Frankfurt – News",
+        "title": "30 neue ETFs und ETNs",
+        "link": "https://www.boerse-frankfurt.de/nachrichten/30-neue-etfs-und-etns",
+        "published": "Tue, 24 Nov 2026 08:18:09 GMT"
       },
       {
         "source": "Börse Frankfurt – News",
@@ -451,12 +457,6 @@
         "title": "Anleihen: Inflationssorgen treiben Renditen",
         "link": "https://www.boerse-frankfurt.de/nachrichten/anleihen-inflationssorgen-treiben-renditen",
         "published": "Fri, 13 Nov 2026 13:50:50 GMT"
-      },
-      {
-        "source": "Börse Frankfurt – News",
-        "title": "Zertifikate: Tech-Aktien und DAX prägen den Handel",
-        "link": "https://www.boerse-frankfurt.de/nachrichten/zertifikate-tech-aktien-und-dax-praegen-den-handel",
-        "published": "Thu, 12 Nov 2026 07:03:11 GMT"
       }
     ],
     "tagesschau.de – Wirtschaft/Finanzen": [
@@ -468,9 +468,9 @@
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
-        "title": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
-        "published": "Tue, 24 Nov 2026 18:36:29 +0100"
+        "title": "Marktbericht: DAX vor holprigem Start",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
+        "published": "Wed, 25 Nov 2026 07:28:06 +0100"
       },
       {
         "source": "tagesschau.de – Wirtschaft/Finanzen",
