@@ -1,18 +1,24 @@
 {
-  "updated_at": "2026-11-25T19:10:33.517709+00:00",
+  "updated_at": "2026-11-26T02:09:43.907839+00:00",
   "sources": {
     "Handelsblatt – Finanzen": [
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Börsen: Neue Flucht aus Risikoanlagen: Warum sich der Ausverkauf nun beschleunigt",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/boersen-an-den-finanzmaerkten-verstaerkt-sich-die-flucht-aus-risikoanlagen/100272767.html",
-        "published": "Wed, 25 Nov 2026 19:01:06 GMT"
+        "title": "Beige Book: US-Wirtschaft wächst laut Notenbank-Bericht leicht bis moderat",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/konjunktur-us-wirtschaft-waechst-laut-notenbank-bericht-leicht-bis-moderat/100272820.html",
+        "published": "Wed, 25 Nov 2026 20:24:20 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
-        "title": "Wall Street: Erneuter Ausverkauf: US-Börsen brechen weiter ein – Nvidia verliert sieben Prozent",
-        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-erneuter-ausverkauf-us-boersen-brechen-weiter-ein/100272701.html",
-        "published": "Wed, 25 Nov 2026 18:09:00 GMT"
+        "title": "Bonität: Ratingagentur S&P droht Nvidia nach Führungswirren mit Herabstufung",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ratingagentur-sp-droht-nvidia-nach-fuehrungswirren-mit-herabstufung/100272817.html",
+        "published": "Wed, 25 Nov 2026 19:51:26 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Börsen: Die Furcht vor einem KI-Crash will nicht weichen: Was kann die Angst der Anleger jetzt stoppen?",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/boersen-die-angst-vor-einem-ki-crash-haelt-an/100272767.html",
+        "published": "Wed, 25 Nov 2026 19:01:06 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -43,6 +49,12 @@
         "title": "Deep Read: Kupfer aus Deutschland? Warum der Bergbau vor einem Comeback stehen könnte",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kupferschiefer-kupfer-aus-deutschland-bergbau-koennte-vor-comeback-stehen/100255103.html",
         "published": "Wed, 25 Nov 2026 16:05:33 GMT"
+      },
+      {
+        "source": "Handelsblatt – Finanzen",
+        "title": "Wall Street: US-Börsen schließen uneinheitlich – Nvidia verliert",
+        "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-us-boersen-schliessen-uneinheitlich-nvidia-verliert/100272701.html",
+        "published": "Wed, 25 Nov 2026 15:58:32 GMT"
       },
       {
         "source": "Handelsblatt – Finanzen",
@@ -109,140 +121,128 @@
         "title": "Geldanlage: Kann eine 150 Jahre alte Grafik die Börsenkurse vorhersagen?",
         "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-warum-diese-150-jahre-alte-boersengrafik-anleger-aufhorchen-laesst/100189715.html",
         "published": "Wed, 25 Nov 2026 08:41:00 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "Geldanlage: Aus Deutschland fließt immer mehr Geld auf Schweizer Konten – das sind die Gründe",
-        "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-wer-jetzt-sein-geld-in-der-schweiz-anlegt/100270454.html",
-        "published": "Wed, 25 Nov 2026 08:14:44 GMT"
-      },
-      {
-        "source": "Handelsblatt – Finanzen",
-        "title": "N26: Warum übernehmen Sie den Chefposten bei einer kriselnden deutschen Neobank, Mike Dargan?",
-        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/n26-chef-wir-wollen-unsere-kundenzahl-mindestens-verdoppeln/100270367.html",
-        "published": "Wed, 25 Nov 2026 06:30:00 GMT"
       }
     ],
     "Bloomberg – Markets": [
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Pare AI-Driven Losses as Buyers Step In: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-        "published": "Tue, 24 Nov 2026 22:09:18 GMT"
+        "title": "Asian Stocks Rise as Tech Gains in Taiwan, Korea: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
+        "published": "Wed, 25 Nov 2026 22:10:42 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Copper Enters Bear-Market Territory as AI Fears Drive Sentiment",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
-        "published": "Wed, 25 Nov 2026 03:57:12 GMT"
+        "title": "Shein’s Slow India Start Lays Bare Limits of Billionaire Ambani’s Retail Might",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/shein-s-slow-india-start-lays-bare-limits-of-billionaire-ambani-s-retail-might",
+        "published": "Thu, 26 Nov 2026 01:31:20 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Nasdaq 100 Bounces Off Tech-Driven Lows as Dip Buyers Emerge",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-        "published": "Wed, 25 Nov 2026 07:51:43 GMT"
+        "title": "Rupee Has Room to Rally Before RBI Steps In, Strategists Say",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/rupee-rally-has-91-in-sight-as-rbi-seen-holding-back-dollar-buys",
+        "published": "Thu, 26 Nov 2026 01:30:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Army Blows Up Hazardous Material With Worst Fears Unrealized",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-25/army-blows-up-hazardous-material-in-iowa-video",
-        "published": "Wed, 25 Nov 2026 18:51:04 GMT"
+        "title": "Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says",
+        "published": "Thu, 26 Nov 2026 01:11:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "CME E-Mini Options Briefly Paused During Chaotic Opening Session",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/cme-e-mini-options-briefly-paused-during-chaotic-opening-session",
-        "published": "Wed, 25 Nov 2026 18:37:00 GMT"
+        "title": "Latest Oil Market News and Analysis for Nov. 26",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
+        "published": "Wed, 25 Nov 2026 23:03:15 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Aareal Bank Offers Over 12% Premium on Riskiest Part of SRT",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/aareal-bank-nears-commercial-real-estate-srt-with-12-premium",
-        "published": "Wed, 25 Nov 2026 10:04:32 GMT"
+        "title": "Lula Sounds Out Bradesco’s Luiz Trabuco to Join His Government",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/lula-sounds-out-bradesco-s-luiz-trabuco-to-join-his-government",
+        "published": "Thu, 26 Nov 2026 01:07:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Stocks Selloff Hits Unlikely Market, Sinking Carry Trade",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade",
-        "published": "Wed, 25 Nov 2026 14:01:11 GMT"
+        "title": "Australia Capex Surges by Most Since Mining Boom on Data Centers",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/australia-capex-surges-by-most-since-mining-boom-on-data-centers",
+        "published": "Thu, 26 Nov 2026 01:01:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Ontario Teachers’ CEO Says ‘Very Long’ AI Buildout Imperils Bets",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/ontario-teachers-ceo-says-very-long-ai-buildout-imperils-bets",
-        "published": "Wed, 25 Nov 2026 18:02:51 GMT"
+        "title": "Air India Chief Seeks to Cut $650 Million in Costs This Year",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/air-india-chief-seeks-to-cut-650-million-in-costs-this-year",
+        "published": "Wed, 25 Nov 2026 15:20:13 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Treasury Yields Hit Two-Month Low as Risk-Off Move Accelerates",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
-        "published": "Wed, 25 Nov 2026 06:49:34 GMT"
+        "title": "Modi’s Criticism of India Inc. Puts Weak Investment in Focus",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/modi-s-criticism-of-india-inc-puts-weak-investment-in-focus",
+        "published": "Thu, 26 Nov 2026 01:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "JPMorgan Backs Drone Engine Maker’s Muni Sale in Wisconsin",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-backs-drone-engine-maker-s-10-million-muni-bond-sale",
-        "published": "Wed, 25 Nov 2026 15:20:02 GMT"
+        "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+        "published": "Thu, 26 Nov 2026 00:18:09 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "BC Partners Buys GSE Agency With Golfer DeChambeau on List",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/bc-partners-buys-gse-sport-agency-with-golfer-dechambeau-on-list",
-        "published": "Wed, 25 Nov 2026 14:01:00 GMT"
+        "title": "Emerging Asia’s Best Bond Rally Seen Extending in Philippines",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/emerging-asia-s-best-bond-rally-seen-extending-in-philippines",
+        "published": "Thu, 26 Nov 2026 00:05:45 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "CoreWeave’s Banks to Sell $4.5 Billion Meta-Tied Loan Next Week",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-s-banks-to-sell-4-5-billion-meta-tied-loan-next-week",
-        "published": "Wed, 25 Nov 2026 17:25:23 GMT"
+        "title": "China 2027 Growth to Top 4.5%, Ex-Official Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-25/china-2027-growth-to-top-4-5-ex-official-says-video",
+        "published": "Wed, 25 Nov 2026 23:54:41 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "One Thing In Markets To Be Thankful For",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-11-25/one-thing-in-markets-to-be-thankful-for",
-        "published": "Wed, 25 Nov 2026 17:23:00 GMT"
+        "title": "Would-Be RadioShack Revivers Settle SEC Fraud Suit Allegations",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/would-be-radioshack-revivers-settle-sec-fraud-suit-allegations",
+        "published": "Wed, 25 Nov 2026 23:44:35 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Embraer Shares Sink as US Threatens Brazil Aircraft Tariff",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/embraer-sinks-most-since-may-as-us-proposes-brazil-aircraft-levy",
-        "published": "Wed, 25 Nov 2026 14:02:53 GMT"
+        "title": "How Saks Is Reclaiming Luxury as Exemplar Luxury Group",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-25/how-saks-is-reclaiming-luxury-as-exemplar-luxury-group-video",
+        "published": "Wed, 25 Nov 2026 23:18:01 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Gold Slumps on Rate Hike Outlook, AI Stocks Selloff",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-25/gold-slumps-on-rate-hike-outlook-ai-stocks-selloff-video",
-        "published": "Wed, 25 Nov 2026 17:20:41 GMT"
+        "title": "Dan Loeb’s Third Point Hedge Fund Resumes Private Investments",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/dan-loeb-s-third-point-hedge-fund-resumes-private-investments",
+        "published": "Wed, 25 Nov 2026 23:07:09 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Michael Burry Is More Long Than Short After Dumping Nasdaq Puts",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/michael-burry-is-more-long-than-short-after-dumping-nasdaq-puts",
-        "published": "Wed, 25 Nov 2026 17:18:09 GMT"
+        "title": "Jupiter Fund’s Defensive Pivot Pays Off as AI Trade Unravels",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/asia-fund-beating-89-of-peers-trims-tech-adds-defensive-names",
+        "published": "Wed, 25 Nov 2026 23:00:00 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "US Army Detonates Explosives Cache in Middletown, Iowa",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-25/us-army-detonates-explosives-cache-in-middletown-iowa-video",
-        "published": "Wed, 25 Nov 2026 17:11:46 GMT"
+        "title": "Venus Williams on WeWard Deal and Her Investing Mindset",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-25/venus-williams-on-weward-deal-and-her-investing-mindset-video",
+        "published": "Wed, 25 Nov 2026 22:58:49 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Russian Refinery Runs Drop to Lowest in Decades, Rystad Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/russian-refinery-runs-plunge-to-lowest-in-decades-rystad-says",
-        "published": "Wed, 25 Nov 2026 16:38:16 GMT"
+        "title": "Next 20 Days Is ‘Mission Critical’ for Retailers: Yih",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-25/next-20-days-is-mission-critical-for-retailers-yih-video",
+        "published": "Wed, 25 Nov 2026 22:31:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-post-ipo-struggles-contrast-with-spacex-s-early-days",
-        "published": "Wed, 25 Nov 2026 16:45:00 GMT"
+        "title": "Targa Is Said in Talks to Buy Kinetik in Major Pipeline Tie-Up",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up",
+        "published": "Wed, 25 Nov 2026 21:00:57 GMT"
       },
       {
         "source": "Bloomberg – Markets",
-        "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Woes Mount",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
-        "published": "Wed, 25 Nov 2026 16:44:02 GMT"
+        "title": "Compass Delays $380 Million ABS After Data Center Outage",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/compass-delays-380-million-abs-after-data-center-outage",
+        "published": "Wed, 25 Nov 2026 22:27:09 GMT"
       }
     ],
     "onvista – News": [
